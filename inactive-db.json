@@ -72,9 +72,7 @@
             "ads.uniquemedia.net",
             "ads.usermedia.net",
             "ads.ux-tm.net",
-            "ads.videobash.com"
-        ],
-        "to_test": [
+            "ads.videobash.com",
             "ads.z-quest.com",
             "ads.zenotecnico.com",
             "ads1.zenoviaexchange.com",
@@ -85,7 +83,10 @@
             "ads33.vertamedia.com",
             "ads34.vertamedia.com",
             "ads4.zenotecnico.com",
-            "adserv01.com",
+            "adserv.org",
+            "adserv01.com"
+        ],
+        "to_test": [
             "adserver.dotcommedia.de",
             "adserver.nav2.net",
             "adserver.scivista.com",
