@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1518789066": [
+        "1519249958": [
             "1000ps.oewabox.at",
             "123topsearch.com",
+            "000info.com",
             "0bucksforpornmovie.com",
             "12traffic.de",
             "14.ca.enwebsearch.com",
@@ -27,7 +28,9 @@
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "ad-incisive.grapeshot.co.uk",
-            "ad-us-east-1.pxlad.io",
+            "ad-us-east-1.pxlad.io"
+        ],
+        "to_test": [
             "ad.admediaprovider.com",
             "ad.germark.net",
             "ad.hizlireklam.com",
@@ -430,7 +433,6 @@
             "z.yellupload.com",
             "zhopa.net",
             "zoek.zugo.com"
-        ],
-        "to_test": []
+        ]
     }
 }
