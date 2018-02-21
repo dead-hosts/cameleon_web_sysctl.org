@@ -99,9 +99,7 @@
             "adserv01.com",
             "adserver.artempireindustries.com",
             "adserver.dotcommedia.de",
-            "adserver.highspeedtesting.com"
-        ],
-        "to_test": [
+            "adserver.highspeedtesting.com",
             "adserver.nav2.net",
             "adserver.scivista.com",
             "adserver.startnow.com",
@@ -117,7 +115,9 @@
             "advertpanda.com",
             "adx.adosx.com",
             "adxrnet.net",
-            "adzone.stltoday.com",
+            "adzone.stltoday.com"
+        ],
+        "to_test": [
             "affiliates.umaxsearch.com",
             "agemature.com",
             "aguardsoftware.com",
