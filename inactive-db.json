@@ -339,9 +339,7 @@
             "ssl-hints.netflame.cc",
             "sslt.tellapart.com",
             "st.n.ads1-adnow.com",
-            "st.n.ads3-adnow.com"
-        ],
-        "to_test": [
+            "st.n.ads3-adnow.com",
             "starctic.org",
             "static.tellapart.com",
             "static.tellaparts.com",
@@ -352,7 +350,6 @@
             "t.tellapart.com",
             "t.trrker.com",
             "tag.beanstock.co",
-            "tag.datariver.ru",
             "tag.tlvmedia.com",
             "tagessch.ivwbox.de",
             "taobaoafp.allyes.cn",
@@ -370,7 +367,9 @@
             "tracker.issuu.com",
             "tracking.intermundomedia.com",
             "tracking.rce.veeseo.com",
-            "tu.connect.wunderloop.net",
+            "tu.connect.wunderloop.net"
+        ],
+        "to_test": [
             "update.smart-browser.com",
             "video.flashtalking.com",
             "viva.count.brat-online.ro",
