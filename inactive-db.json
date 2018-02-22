@@ -309,9 +309,7 @@
             "rc.himedia.individuad.net",
             "rc.semilo.individuad.net",
             "realitatea.count.brat-online.ro",
-            "reanimapedia.org"
-        ],
-        "to_test": [
+            "reanimapedia.org",
             "req.connect.wunderloop.net",
             "rewards.macandbumble.com",
             "rma-api.gravity.com",
@@ -341,7 +339,9 @@
             "ssl-hints.netflame.cc",
             "sslt.tellapart.com",
             "st.n.ads1-adnow.com",
-            "st.n.ads3-adnow.com",
+            "st.n.ads3-adnow.com"
+        ],
+        "to_test": [
             "starctic.org",
             "static.tellapart.com",
             "static.tellaparts.com",
