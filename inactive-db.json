@@ -93,9 +93,7 @@
             "ads.ux-tm.net",
             "ads.videobash.com",
             "ads.z-quest.com",
-            "ads.zenotecnico.com"
-        ],
-        "to_test": [
+            "ads.zenotecnico.com",
             "ads1.zenoviaexchange.com",
             "ads2.zenotecnico.com",
             "ads3.zenotecnico.com",
@@ -108,7 +106,9 @@
             "adserv01.com",
             "adserver.artempireindustries.com",
             "adserver.dotcommedia.de",
-            "adserver.highspeedtesting.com",
+            "adserver.highspeedtesting.com"
+        ],
+        "to_test": [
             "adserver.nav2.net",
             "adserver.scivista.com",
             "adserver.startnow.com",
