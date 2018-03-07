@@ -281,14 +281,14 @@
             "metrics.oprah.com",
             "metrics.premiereinteractive.com",
             "metrics.sprint.com",
-            "mfas.safesslredirect.com"
-        ],
-        "to_test": [
+            "mfas.safesslredirect.com",
             "mi9.gscontxt.net",
             "micosoft.com-web.support",
             "minisearch.startnow.com",
+            "mmaadnet.ad-control-panel.com",
             "mobile.ivwbox.de",
             "mobile.plugrush.com",
+            "monk.sitescoutadserver.com",
             "mtv.count.brat-online.ro",
             "myvideo.count.brat-online.ro",
             "nav.startnow.com",
@@ -311,7 +311,9 @@
             "park.beenetworks.net",
             "pds.directrev.com",
             "perso.estat.com",
-            "pirix.net",
+            "pirix.net"
+        ],
+        "to_test": [
             "pomeranian99.sitetracker.com",
             "porn0site.org",
             "profm.count.brat-online.ro",
