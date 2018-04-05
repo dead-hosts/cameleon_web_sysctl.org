@@ -1,20 +1,13 @@
 {
-    "arguments": [
-        "--travis",
-        "-a",
-        "-ex",
-        "--plain",
-        "--split",
-        "-t 2",
-        "--share-logs"
-    ],
-    "autosave_minutes": "10",
+    "arguments": [],
     "commit_autosave_message": "Test of cameleon",
-    "currently_under_test": "1",
-    "days_until_next_test": "5",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
     "last_test": "1522181242",
     "list_name": "cameleon.list",
     "name": "cameleon",
     "raw_link": "http://sysctl.org/cameleon/hosts",
-    "stable": "0"
+    "stable": "0",
+    "clean_original": "1",
+    "clean_list_file": "clean.list"
 }
