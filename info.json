@@ -1,13 +1,16 @@
 {
-    "arguments": [],
+    "arguments": [
+        "--commit-autosave-message \"[Autosave] Test of cameleon\"",
+        "--commit-results-message \"[Results] Test of cameleon\""
+    ],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
     "commit_autosave_message": "Test of cameleon",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1522181242",
+    "last_test": "1522965390",
     "list_name": "cameleon.list",
     "name": "cameleon",
     "raw_link": "http://sysctl.org/cameleon/hosts",
-    "stable": "0",
-    "clean_original": "1",
-    "clean_list_file": "clean.list"
+    "stable": "0"
 }
