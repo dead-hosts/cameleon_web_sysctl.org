@@ -1,11 +1,13 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1523658149": [
+        "1523831007": [
             "2546.islafenice.net",
             "2547.islafenice.net",
             "ad.creafi.com",
             "ad.naked-celebs.com",
-            "ad.thinkmedia.cn",
+            "ad.thinkmedia.cn"
+        ],
+        "to_test": [
             "adman.in.gr",
             "ads-a-darwin.hulu.com",
             "ads.deliads.com",
@@ -98,9 +100,7 @@
             "yrtas.btrll.com",
             "z.amiblood.com",
             "z.junksport.com",
-            "z.nightchan.com"
-        ],
-        "to_test": [
+            "z.nightchan.com",
             "2391.islafenice.net"
         ]
     }
