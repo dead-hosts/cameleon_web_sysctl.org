@@ -52,13 +52,17 @@
             "geo-um.btrll.com",
             "geoip.gtsads.com",
             "ghm_bulgaria.hit.gemius.pl",
-            "i.1100i.com"
-        ],
-        "to_test": [
+            "i.1100i.com",
             "images.1100i.com",
+            "images.gtsads.com",
+            "in.bubblestat.com",
             "j.pioneeringad.com",
             "js.dmtry.com",
-            "oascentral.artistdirect.com",
+            "new.gtsads.com",
+            "nimages.gtsads.com",
+            "oascentral.artistdirect.com"
+        ],
+        "to_test": [
             "ox-d.boston.servedbyopenx.com",
             "ox-d.footballmedia.com",
             "ox-d.futurenet.servedbyopenx.com",
