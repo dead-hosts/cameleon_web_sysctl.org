@@ -42,10 +42,7 @@
             "datattro.xyz",
             "em.gad-network.com",
             "engine.gtsads.com",
-            "eu.npario-inc.net"
-        ],
-        "to_test": [
-            "files.native.ad",
+            "eu.npario-inc.net",
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
@@ -53,9 +50,10 @@
             "i.1100i.com",
             "images.1100i.com",
             "images.gtsads.com",
-            "in.bubblestat.com",
             "j.pioneeringad.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "new.gtsads.com",
             "nimages.gtsads.com",
             "oascentral.artistdirect.com",
