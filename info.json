@@ -299,6 +299,8 @@
         "--commit-autosave-message \"[Autosave] Test of cameleon\"",
         "--commit-results-message \"[Results] Test of cameleon\"",
         "--commit-autosave-message \"[Autosave] Test of cameleon\"",
+        "--commit-results-message \"[Results] Test of cameleon\"",
+        "--commit-autosave-message \"[Autosave] Test of cameleon\"",
         "--commit-results-message \"[Results] Test of cameleon\""
     ],
     "clean_list_file": "clean.list",
@@ -306,7 +308,7 @@
     "commit_autosave_message": "Test of cameleon",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1525051838",
+    "last_test": "1525213693",
     "list_name": "cameleon.list",
     "name": "cameleon",
     "raw_link": "http://sysctl.org/cameleon/hosts",
