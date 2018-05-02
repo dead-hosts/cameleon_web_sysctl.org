@@ -63,9 +63,7 @@
             "geo-um.btrll.com",
             "geoip.gtsads.com",
             "ghm_bulgaria.hit.gemius.pl",
-            "hiq.fotolog.com"
-        ],
-        "to_test": [
+            "hiq.fotolog.com",
             "i.1100i.com",
             "images.1100i.com",
             "images.gtsads.com",
@@ -74,7 +72,9 @@
             "j.pioneeringad.com",
             "js.dmtry.com",
             "new.gtsads.com",
-            "nimages.gtsads.com",
+            "nimages.gtsads.com"
+        ],
+        "to_test": [
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.salemweb.net",
