@@ -88,9 +88,7 @@
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
-            "ghm_bulgaria.hit.gemius.pl"
-        ],
-        "to_test": [
+            "ghm_bulgaria.hit.gemius.pl",
             "helios.finn.no",
             "hiq.fotolog.com",
             "i.1100i.com",
@@ -98,8 +96,11 @@
             "images.gtsads.com",
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
+            "img.readme.ru",
             "js.dmtry.com",
-            "malwareremovalbot.repairandsecure.com",
+            "malwareremovalbot.repairandsecure.com"
+        ],
+        "to_test": [
             "new.gtsads.com",
             "nimages.gtsads.com",
             "o.sa.aol.com",
