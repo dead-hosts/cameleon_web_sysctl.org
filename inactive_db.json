@@ -115,9 +115,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.dmtry.com",
-            "malwareremovalbot.repairandsecure.com"
-        ],
-        "to_test": [
+            "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
             "new.gtsads.com",
             "nimages.gtsads.com",
@@ -129,6 +127,7 @@
             "ox-d.blogtalkradio.com",
             "ox-d.boston.servedbyopenx.com",
             "ox-d.curse.servedbyopenx.com",
+            "ox-d.eluniversal.com",
             "ox-d.evolvemedia.servedbyopenx.com",
             "ox-d.footballmedia.com",
             "ox-d.futurenet.servedbyopenx.com",
@@ -136,6 +135,7 @@
             "ox-d.ibt.servedbyopenx.com",
             "ox-d.imgur.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
+            "ox-d.majorgeeks.com",
             "ox-d.mediavine.servedbyopenx.com",
             "ox-d.mirror-digital.com",
             "ox-d.nydailynews.servedbyopenx.com",
@@ -154,7 +154,9 @@
             "partner.finditquick.com",
             "partners.betfredaffiliates.com",
             "philadelphia_cbslocal.us.intellitxt.com",
-            "pix.btrll.com",
+            "pix.btrll.com"
+        ],
+        "to_test": [
             "rotator.axiatraders.com",
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
