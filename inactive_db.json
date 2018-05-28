@@ -1,6 +1,18 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1527374962": [
+        "1527547563": [
+            "2546.islafenice.net",
+            "2547.islafenice.net",
+            "a.bestmanage.org",
+            "a.jumptap.com",
+            "access.gamesplayground.com",
+            "ace-webmaster.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
+            "ad.creafi.com",
+            "ad.naked-celebs.com",
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -260,20 +272,8 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "2391.islafenice.net",
-            "2546.islafenice.net",
-            "2547.islafenice.net",
-            "a.bestmanage.org",
-            "a.jumptap.com",
-            "access.gamesplayground.com",
-            "ace-webmaster.com",
-            "activeannonce.com",
-            "ad.creafi.com",
-            "ad.naked-celebs.com",
-            "adb.nikkei.co.jp"
+            "zde-affinity.edgecaching.net",
+            "2391.islafenice.net"
         ]
     }
 }
