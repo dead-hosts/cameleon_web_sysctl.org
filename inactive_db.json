@@ -141,9 +141,7 @@
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
-            "geo-um.btrll.com"
-        ],
-        "to_test": [
+            "geo-um.btrll.com",
             "geoip.gtsads.com",
             "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
@@ -155,7 +153,9 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "mainstream.topbucks.com",
             "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
