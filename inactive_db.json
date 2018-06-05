@@ -12,9 +12,7 @@
             "ad.creafi.com",
             "ad.naked-celebs.com",
             "ad.where.com",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -35,7 +33,9 @@
             "ads.isat-tech.com",
             "ads.juneauempire.com",
             "ads.linuxjournal.com",
-            "ads.lycos-europe.com",
+            "ads.lycos-europe.com"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.rte.ie",
