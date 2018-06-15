@@ -155,9 +155,7 @@
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
-            "ghm_bulgaria.hit.gemius.pl"
-        ],
-        "to_test": [
+            "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
             "helios.finn.no",
             "hiq.fotolog.com",
@@ -167,7 +165,9 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
             "new.gtsads.com",
