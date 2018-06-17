@@ -195,9 +195,7 @@
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.officer.com",
             "ox-d.philly.servedbyopenx.com",
-            "ox-d.publisherdesk.servedbyopenx.com"
-        ],
-        "to_test": [
+            "ox-d.publisherdesk.servedbyopenx.com",
             "ox-d.ranker.servedbyopenx.com",
             "ox-d.realtor.servedbyopenx.com",
             "ox-d.sinclair.servedbyopenx.com",
@@ -216,7 +214,9 @@
             "pix.btrll.com",
             "pr.realvu.net",
             "rotator.axiatraders.com",
-            "s.ad121m.com",
+            "s.ad121m.com"
+        ],
+        "to_test": [
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
             "search.xrenoder.com",
