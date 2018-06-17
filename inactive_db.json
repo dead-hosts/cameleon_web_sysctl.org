@@ -166,9 +166,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
             "new.gtsads.com",
@@ -197,7 +195,9 @@
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.officer.com",
             "ox-d.philly.servedbyopenx.com",
-            "ox-d.publisherdesk.servedbyopenx.com",
+            "ox-d.publisherdesk.servedbyopenx.com"
+        ],
+        "to_test": [
             "ox-d.ranker.servedbyopenx.com",
             "ox-d.realtor.servedbyopenx.com",
             "ox-d.sinclair.servedbyopenx.com",
