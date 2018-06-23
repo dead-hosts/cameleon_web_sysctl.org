@@ -153,9 +153,7 @@
             "download-everything.com",
             "download.malwareremovingtool.com",
             "download.ucmore.com",
-            "dvcd.info"
-        ],
-        "to_test": [
+            "dvcd.info",
             "em.gad-network.com",
             "eng.findadvertise.com",
             "engine.gtsads.com",
@@ -171,7 +169,9 @@
             "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
             "helios.finn.no",
-            "hiq.fotolog.com",
+            "hiq.fotolog.com"
+        ],
+        "to_test": [
             "images.axill.in",
             "images.gtsads.com",
             "img.ads.mocean.mobi",
