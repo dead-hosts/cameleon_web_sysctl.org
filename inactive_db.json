@@ -19,9 +19,7 @@
             "adimages.scrippsnetworks.com",
             "adloyal.pl",
             "adman.in.gr",
-            "ads-a-darwin.hulu.com"
-        ],
-        "to_test": [
+            "ads-a-darwin.hulu.com",
             "ads.adultpopunders.com",
             "ads.centerstage.net",
             "ads.collegclub.com",
@@ -48,7 +46,9 @@
             "ads.trafficleader.com",
             "ads.trafficpimps.com",
             "ads.tripican.com",
-            "ads.victoriaadvocate.com",
+            "ads.victoriaadvocate.com"
+        ],
+        "to_test": [
             "ads1.cricbuzz.com",
             "ads2.collegclub.com",
             "ads2.victoriaadvocate.com",
