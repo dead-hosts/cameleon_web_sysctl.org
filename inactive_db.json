@@ -21,12 +21,9 @@
             "ad.where.com",
             "ad1.zbads.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
-            "adloyal.pl",
             "adman.in.gr",
             "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
@@ -37,6 +34,7 @@
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
             "ads.e9china.com",
+            "ads.freebannertrade.com",
             "ads.fresh.bg",
             "ads.friendtest.com",
             "ads.gad-network.com",
@@ -50,7 +48,9 @@
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
-            "ads.popupsponsor.com",
+            "ads.popupsponsor.com"
+        ],
+        "to_test": [
             "ads.rte.ie",
             "ads.sooran.ir",
             "ads.thebulgarianpost.com",
