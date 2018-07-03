@@ -212,9 +212,7 @@
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
+            "oascentral.salemweb.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
@@ -260,7 +258,9 @@
             "php.genesismedia.com",
             "pr.realvu.net",
             "redirect.xmladfeed.com",
-            "rotator.axiatraders.com",
+            "rotator.axiatraders.com"
+        ],
+        "to_test": [
             "s.ad121m.com",
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
