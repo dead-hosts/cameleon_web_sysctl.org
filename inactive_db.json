@@ -83,9 +83,7 @@
             "api.bizographics.com",
             "apps.advertlets.com",
             "b-aws.aol.com",
-            "b-aws.huffingtonpost.com"
-        ],
-        "to_test": [
+            "b-aws.huffingtonpost.com",
             "backoffice.roitracking.info",
             "banner.listinus.de",
             "banner.vegasred.com",
@@ -103,7 +101,9 @@
             "bestscannerever.com",
             "beststabilityscans.com",
             "betaffs.com",
-            "brxserv-21.btrll.com",
+            "brxserv-21.btrll.com"
+        ],
+        "to_test": [
             "burnads.com",
             "cache.btrll.com",
             "cappa.pl",
