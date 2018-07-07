@@ -195,9 +195,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "mb.datingadzone.com",
             "metrics.mercola.com",
@@ -213,7 +211,9 @@
             "oascentral.blackenterprise.com",
             "oascentral.salemweb.net",
             "openad.tf1.fr",
-            "openadext.tf1.fr",
+            "openadext.tf1.fr"
+        ],
+        "to_test": [
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
