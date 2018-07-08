@@ -51,9 +51,7 @@
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
             "ads.rte.ie",
-            "ads.sooran.ir"
-        ],
-        "to_test": [
+            "ads.sooran.ir",
             "ads.thebulgarianpost.com",
             "ads.trafficpimps.com",
             "ads.tripican.com",
@@ -64,7 +62,9 @@
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bigwebtools.com",
-            "adserv.bulletinmarketing.com",
+            "adserv.bulletinmarketing.com"
+        ],
+        "to_test": [
             "adserv1.bigwebtools.com",
             "adserv2.bigwebtools.com",
             "adserv3.bigwebtools.com",
