@@ -91,9 +91,7 @@
             "apps.advertlets.com",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
-            "backoffice.roitracking.info"
-        ],
-        "to_test": [
+            "backoffice.roitracking.info",
             "banner.listinus.de",
             "banner.vegasred.com",
             "bannerads.mantecabulletin.com",
@@ -112,6 +110,9 @@
             "betaffs.com",
             "brxserv-21.btrll.com",
             "burnads.com",
+            "c.adroll.com"
+        ],
+        "to_test": [
             "cache.btrll.com",
             "cappa.pl",
             "cdn.adbrau.com",
