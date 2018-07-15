@@ -92,9 +92,7 @@
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "babuinworld.com",
-            "backoffice.roitracking.info"
-        ],
-        "to_test": [
+            "backoffice.roitracking.info",
             "banner.listinus.de",
             "banner.vegasred.com",
             "bannerads.mantecabulletin.com",
@@ -112,7 +110,9 @@
             "beststabilityscans.com",
             "betaffs.com",
             "brxserv-21.btrll.com",
-            "burnads.com",
+            "burnads.com"
+        ],
+        "to_test": [
             "c.adroll.com",
             "c.cfjump.com",
             "cache.btrll.com",
