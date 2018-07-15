@@ -186,9 +186,7 @@
             "download-everything.com",
             "download.malwareremovingtool.com",
             "download.ucmore.com",
-            "dvcd.info"
-        ],
-        "to_test": [
+            "dvcd.info",
             "em.gad-network.com",
             "eng.findadvertise.com",
             "enjoyspringtime.com",
@@ -199,7 +197,9 @@
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
-            "ghm_bulgaria.hit.gemius.pl",
+            "ghm_bulgaria.hit.gemius.pl"
+        ],
+        "to_test": [
             "hccd.info",
             "heise.nuggad.net",
             "helios.finn.no",
