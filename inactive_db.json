@@ -33,9 +33,7 @@
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adloyal.pl",
-            "adman.in.gr"
-        ],
-        "to_test": [
+            "adman.in.gr",
             "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
             "ads.adultpopunders.com",
@@ -59,7 +57,9 @@
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
-            "ads.popupsponsor.com",
+            "ads.popupsponsor.com"
+        ],
+        "to_test": [
             "ads.rte.ie",
             "ads.sooran.ir",
             "ads.thebulgarianpost.com",
