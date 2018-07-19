@@ -211,9 +211,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "mb.datingadzone.com",
             "metrics.mercola.com",
@@ -221,7 +219,9 @@
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
-            "next-layers.com",
+            "next-layers.com"
+        ],
+        "to_test": [
             "ntracking.optimatic.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
