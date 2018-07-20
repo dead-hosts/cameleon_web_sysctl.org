@@ -35,9 +35,7 @@
             "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
-            "adloyal.pl"
-        ],
-        "to_test": [
+            "adloyal.pl",
             "adman.in.gr",
             "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
@@ -64,7 +62,9 @@
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
-            "ads.rte.ie",
+            "ads.rte.ie"
+        ],
+        "to_test": [
             "ads.sooran.ir",
             "ads.thebulgarianpost.com",
             "ads.trafficpimps.com",
