@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1532128142": [
+        "1532300972": [
             "10bestsearch.com",
             "117.mylongtail.com",
             "11954.filter.bullhornsearch.com",
@@ -19,10 +19,13 @@
             "582.mylongtail.com",
             "60pictures.com",
             "7come11casino.com",
+            "7security.info",
             "a.jumptap.com",
             "a.thoughtleadr.com",
             "abosearch.com",
-            "ace-webmaster.com",
+            "ace-webmaster.com"
+        ],
+        "to_test": [
             "activeannonce.com",
             "ad.blackystars.com",
             "ad.creafi.com",
@@ -405,9 +408,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
