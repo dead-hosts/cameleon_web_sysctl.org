@@ -300,9 +300,7 @@
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
             "searchbar.findthewebsiteyouneed.com",
-            "secure.webresint.com"
-        ],
-        "to_test": [
+            "secure.webresint.com",
             "shim.btrll.com",
             "sky.estat.com",
             "spns.seriousads.net",
@@ -315,7 +313,9 @@
             "stats.spyware-browser.com",
             "supremeadserver.com",
             "termsandprivacy.com",
-            "themexp.ezthemes.com",
+            "themexp.ezthemes.com"
+        ],
+        "to_test": [
             "top.easy.lv",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
