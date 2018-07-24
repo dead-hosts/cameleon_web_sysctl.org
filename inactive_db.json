@@ -34,9 +34,7 @@
             "ad.where.com",
             "ad1.zbads.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -61,7 +59,9 @@
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
             "ads.monogram.sk",
-            "ads.newsgeek.co.il",
+            "ads.newsgeek.co.il"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
