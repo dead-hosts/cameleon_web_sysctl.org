@@ -49,15 +49,12 @@
             "adimages.scrippsnetworks.com",
             "adloyal.pl",
             "adman.in.gr",
-            "admin.popupsponsor.com"
-        ],
-        "to_test": [
+            "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
             "ads.adultpopunders.com",
             "ads.betternetworker.com",
             "ads.centerstage.net",
             "ads.clickad.com",
-            "ads.collegclub.com",
             "ads.deliads.com",
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
@@ -78,7 +75,9 @@
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
             "ads.rte.ie",
-            "ads.sooran.ir",
+            "ads.sooran.ir"
+        ],
+        "to_test": [
             "ads.telegraph.co.uk",
             "ads.thebulgarianpost.com",
             "ads.thehorse.com",
