@@ -265,9 +265,7 @@
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "openads.hiphopsite.com",
-            "openx.diena.lv"
-        ],
-        "to_test": [
+            "openx.diena.lv",
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
@@ -325,7 +323,9 @@
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
-            "s.ad121m.com",
+            "s.ad121m.com"
+        ],
+        "to_test": [
             "s.uadx.com",
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
