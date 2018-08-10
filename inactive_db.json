@@ -65,14 +65,11 @@
             "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gamemarshal.com",
-            "ads.iol.co.il"
-        ],
-        "to_test": [
+            "ads.iol.co.il",
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
-            "ads.monogram.sk",
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
@@ -85,7 +82,9 @@
             "ads.trafficpimps.com",
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
-            "ads1.cricbuzz.com",
+            "ads1.cricbuzz.com"
+        ],
+        "to_test": [
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
