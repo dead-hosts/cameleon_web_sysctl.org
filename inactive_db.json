@@ -261,9 +261,7 @@
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
+            "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "next-layers.com",
@@ -276,8 +274,6 @@
             "oascentral.salemweb.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
-            "openads.hiphopsite.com",
-            "openx.diena.lv",
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
@@ -317,7 +313,9 @@
             "peelads.hustler.com",
             "php.genesismedia.com",
             "pinoy-topsites.com",
-            "pix.btrll.com",
+            "pix.btrll.com"
+        ],
+        "to_test": [
             "pr.realvu.net",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
