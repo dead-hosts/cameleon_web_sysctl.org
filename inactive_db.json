@@ -270,14 +270,7 @@
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
-            "ad.blackystars.com",
-            "ad2.netshelter.net",
-            "ads.sooran.ir",
-            "download.malwareremovingtool.com",
-            "download.ucmore.com",
+            "oascentral.salemweb.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
@@ -336,7 +329,14 @@
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
+            "rq.trackingadirect.com"
+        ],
+        "to_test": [
+            "ad.blackystars.com",
+            "ad2.netshelter.net",
+            "ads.sooran.ir",
+            "download.malwareremovingtool.com",
+            "download.ucmore.com",
             "s.ad121m.com",
             "s.uadx.com",
             "safedownloadsrus157.com",
