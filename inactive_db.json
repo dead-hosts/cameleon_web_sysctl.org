@@ -75,12 +75,7 @@
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
-            "ads.rte.ie"
-        ],
-        "to_test": [
-            "ad.blackystars.com",
-            "ad2.netshelter.net",
-            "ads.sooran.ir",
+            "ads.rte.ie",
             "ads.telegraph.co.uk",
             "ads.thebulgarianpost.com",
             "ads.thehorse.com",
@@ -90,7 +85,12 @@
             "ads1.cricbuzz.com",
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
-            "ads56-us-east.stickyadstv.com",
+            "ads56-us-east.stickyadstv.com"
+        ],
+        "to_test": [
+            "ad.blackystars.com",
+            "ad2.netshelter.net",
+            "ads.sooran.ir",
             "adserv.bigwebtools.com",
             "adserv.bulletinmarketing.com",
             "adserv1.bigwebtools.com",
