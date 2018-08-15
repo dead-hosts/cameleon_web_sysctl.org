@@ -253,14 +253,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
-            "ad.blackystars.com",
-            "ad2.netshelter.net",
-            "ads.sooran.ir",
-            "download.malwareremovingtool.com",
-            "download.ucmore.com",
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "md.ournet-analytics.com",
             "mediadome.ru",
@@ -277,7 +270,14 @@
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
-            "oascentral.salemweb.net",
+            "oascentral.salemweb.net"
+        ],
+        "to_test": [
+            "ad.blackystars.com",
+            "ad2.netshelter.net",
+            "ads.sooran.ir",
+            "download.malwareremovingtool.com",
+            "download.ucmore.com",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
