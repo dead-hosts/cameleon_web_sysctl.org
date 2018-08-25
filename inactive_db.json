@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1535066883": [
+        "1535239747": [
+            "093qpeuqpmz6ebfa.com",
             "0c9d8370d.se",
             "100tosdefotos.com",
             "10bestsearch.com",
@@ -31,9 +32,10 @@
             "abosearch.com",
             "ace-webmaster.com",
             "activeannonce.com",
-            "ad.ad2-one.com",
             "ad.adxmarket.com",
-            "ad.blackystars.com",
+            "ad.blackystars.com"
+        ],
+        "to_test": [
             "ad.creafi.com",
             "ad.eurosport.com",
             "ad.naked-celebs.com",
@@ -52,6 +54,7 @@
             "adimages.scrippsnetworks.com",
             "adloyal.pl",
             "adman.in.gr",
+            "admin.popupsponsor.com",
             "adopt.precisead.com",
             "ads-a-darwin.hulu.com",
             "ads.24.com",
@@ -81,6 +84,8 @@
             "ads.popupsponsor.com",
             "ads.rte.ie",
             "ads.sooran.ir",
+            "ads.telegraph.co.uk",
+            "ads.thebulgarianpost.com",
             "ads.thehorse.com",
             "ads.trafficpimps.com",
             "ads.tripican.com",
@@ -182,6 +187,7 @@
             "clit9.sextracker.de",
             "clock.atticasports.com",
             "code.intext.billboard.cz",
+            "collector.savvyads.com",
             "cons.xrenoder.com",
             "console.popupsponsor.com",
             "cont.crawl.ws",
@@ -332,6 +338,7 @@
             "rainbow-uk.mythings.com",
             "rainbow-us.mythings.com",
             "rainbow.mythings.com",
+            "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
@@ -372,6 +379,7 @@
             "track.www.zazzle.com",
             "tradefx.advertserve.com",
             "tubvd.cn",
+            "u.optorb.com",
             "users.ucmore.com",
             "utsdpp.persgroep.net",
             "val17.com",
@@ -412,6 +420,8 @@
             "www.coolonlineoffers.com",
             "www.counter4you.net",
             "www.counting4free.com",
+            "www.dblpmp.com",
+            "www.deskwizz.com",
             "www.drugs-cheap.com",
             "www.dsply.com",
             "www.errordns.com",
@@ -441,6 +451,7 @@
             "www.registrysweeper.com",
             "www.scambiobanner.tv",
             "www.sexplorer.it",
+            "www.slotchbar.com",
             "www.t2t2.com",
             "www.tangabilder.to",
             "www.themexp.org",
@@ -459,18 +470,6 @@
             "z.junksport.com",
             "z.nightchan.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "admin.popupsponsor.com",
-            "ads.telegraph.co.uk",
-            "ads.thebulgarianpost.com",
-            "collector.savvyads.com",
-            "redirect.xmladfeed.com",
-            "u.optorb.com",
-            "www.dblpmp.com",
-            "www.deskwizz.com",
-            "www.slotchbar.com",
-            "093qpeuqpmz6ebfa.com"
         ]
     }
 }
