@@ -84,11 +84,7 @@
             "ads.thebulgarianpost.com",
             "ads.thehorse.com",
             "ads.trafficpimps.com",
-            "ads.tripican.com"
-        ],
-        "to_test": [
-            "ad.creafi.com",
-            "ads.victoriaadvocate.com",
+            "ads.tripican.com",
             "ads1.cricbuzz.com",
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
@@ -97,7 +93,11 @@
             "adserv.bulletinmarketing.com",
             "adserv1.bigwebtools.com",
             "adserv2.bigwebtools.com",
-            "adserv3.bigwebtools.com",
+            "adserv3.bigwebtools.com"
+        ],
+        "to_test": [
+            "ad.creafi.com",
+            "ads.victoriaadvocate.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
