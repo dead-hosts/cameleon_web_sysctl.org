@@ -130,13 +130,7 @@
             "banner1.inet-traffic.com",
             "banner2.inet-traffic.com",
             "banner3.inet-traffic.com",
-            "bannerads.mantecabulletin.com"
-        ],
-        "to_test": [
-            "ad.creafi.com",
-            "ads.victoriaadvocate.com",
-            "banners.animeerotico.com",
-            "banners.audioholics.com",
+            "bannerads.mantecabulletin.com",
             "banners.pollasde30cm.com",
             "banners.sextracker.de",
             "bbcdn.code.intext.billboard.cz",
@@ -148,7 +142,13 @@
             "beststabilityscans.com",
             "betaffs.com",
             "bfd69dd9.se",
-            "bnmhg.com",
+            "bnmhg.com"
+        ],
+        "to_test": [
+            "ad.creafi.com",
+            "ads.victoriaadvocate.com",
+            "banners.animeerotico.com",
+            "banners.audioholics.com",
             "brxserv-21.btrll.com",
             "burnads.com",
             "c.mydirectweb.com",
