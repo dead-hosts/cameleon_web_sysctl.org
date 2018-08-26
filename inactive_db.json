@@ -258,14 +258,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
-            "ad.creafi.com",
-            "ads.victoriaadvocate.com",
-            "banners.animeerotico.com",
-            "banners.audioholics.com",
-            "count.vivistats.com",
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "mediadome.ru",
             "metrics.hhgregg.com",
@@ -284,7 +277,14 @@
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
-            "oascentral.warcry.com",
+            "oascentral.warcry.com"
+        ],
+        "to_test": [
+            "ad.creafi.com",
+            "ads.victoriaadvocate.com",
+            "banners.animeerotico.com",
+            "banners.audioholics.com",
+            "count.vivistats.com",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
