@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1535412624": [
+        "1535585503": [
             "093qpeuqpmz6ebfa.com",
             "0c9d8370d.se",
             "100tosdefotos.com",
@@ -31,7 +31,9 @@
             "aad73c550c.se",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
             "ad.blackystars.com",
             "ad.creafi.com",
             "ad.eurosport.com",
@@ -80,6 +82,7 @@
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
             "ads.rte.ie",
+            "ads.sooran.ir",
             "ads.telegraph.co.uk",
             "ads.thebulgarianpost.com",
             "ads.thehorse.com",
@@ -218,6 +221,11 @@
             "dataplaygames.com",
             "datattro.xyz",
             "dc.kaboodle.com",
+            "delivery.inet-traffic.com",
+            "delivery.optimatic.com",
+            "demo.advertising.com",
+            "deposito.traffic-advance.net",
+            "der-wallstreet-trick.eu",
             "dialer.tranent.nl",
             "dirtub.cn",
             "dl.ezthemes.com",
@@ -322,6 +330,18 @@
             "pinoy-topsites.com",
             "pix.btrll.com",
             "pr.realvu.net",
+            "rainbow-de.mythings.com",
+            "rainbow-es.mythings.com",
+            "rainbow-fi.mythings.com",
+            "rainbow-mx.mythings.com",
+            "rainbow-nl.mythings.com",
+            "rainbow-no.mythings.com",
+            "rainbow-ru-ak.mythings.com",
+            "rainbow-ru.mythings.com",
+            "rainbow-sg.mythings.com",
+            "rainbow-uk.mythings.com",
+            "rainbow-us.mythings.com",
+            "rainbow.mythings.com",
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
@@ -360,6 +380,7 @@
             "track.netshelter.net",
             "track.popmog.com",
             "track.viralvidi.com",
+            "tradefx.advertserve.com",
             "tubvd.cn",
             "u.optorb.com",
             "users.ucmore.com",
@@ -399,6 +420,7 @@
             "www.best-top.hu",
             "www.bitsfarmclean.com",
             "www.blogtoplist.com",
+            "www.collect.mentad.com",
             "www.coolonlineoffers.com",
             "www.counter4you.net",
             "www.counting4free.com",
@@ -454,29 +476,6 @@
             "z.junksport.com",
             "z.nightchan.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ad.adxmarket.com",
-            "ads.sooran.ir",
-            "delivery.inet-traffic.com",
-            "delivery.optimatic.com",
-            "demo.advertising.com",
-            "deposito.traffic-advance.net",
-            "der-wallstreet-trick.eu",
-            "rainbow-de.mythings.com",
-            "rainbow-es.mythings.com",
-            "rainbow-fi.mythings.com",
-            "rainbow-mx.mythings.com",
-            "rainbow-nl.mythings.com",
-            "rainbow-no.mythings.com",
-            "rainbow-ru-ak.mythings.com",
-            "rainbow-ru.mythings.com",
-            "rainbow-sg.mythings.com",
-            "rainbow-uk.mythings.com",
-            "rainbow-us.mythings.com",
-            "rainbow.mythings.com",
-            "tradefx.advertserve.com",
-            "www.collect.mentad.com"
         ]
     }
 }
