@@ -80,11 +80,7 @@
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
-            "ads.rte.ie"
-        ],
-        "to_test": [
-            "ad.blackystars.com",
-            "ad2.vuiads.net",
+            "ads.rte.ie",
             "ads.sooran.ir",
             "ads.telegraph.co.uk",
             "ads.thebulgarianpost.com",
@@ -93,8 +89,14 @@
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
             "ads1.cricbuzz.com",
+            "ads171.liteweb.net",
+            "ads172.liteweb.net",
             "ads2.victoriaadvocate.com",
-            "ads3.freebannertrade.com",
+            "ads3.freebannertrade.com"
+        ],
+        "to_test": [
+            "ad.blackystars.com",
+            "ad2.vuiads.net",
             "ads56-us-east.stickyadstv.com",
             "adserv.bigwebtools.com",
             "adserv.bulletinmarketing.com",
