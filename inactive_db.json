@@ -278,13 +278,8 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "land.pckeeper.software",
-            "malwareremovalbot.repairandsecure.com"
-        ],
-        "to_test": [
-            "ad.blackystars.com",
-            "ad2.vuiads.net",
-            "cdn3.adbrau.com",
-            "cu.genesismedia.com",
+            "malwareremovalbot.repairandsecure.com",
+            "media.sweetmedia.org",
             "mediadome.ru",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
@@ -323,7 +318,13 @@
             "ox-d.leessp.servedbyopenx.com",
             "ox-d.majorgeeks.com",
             "ox-d.mediavine.servedbyopenx.com",
-            "ox-d.mirror-digital.com",
+            "ox-d.mirror-digital.com"
+        ],
+        "to_test": [
+            "ad.blackystars.com",
+            "ad2.vuiads.net",
+            "cdn3.adbrau.com",
+            "cu.genesismedia.com",
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.officer.com",
             "ox-d.philly.servedbyopenx.com",
