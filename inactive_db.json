@@ -132,10 +132,7 @@
             "b-aws.huffingtonpost.com",
             "b.adserv.cn",
             "babuinworld.com",
-            "backoffice.roitracking.info"
-        ],
-        "to_test": [
-            "ads.rte.ie",
+            "backoffice.roitracking.info",
             "banner.listinus.de",
             "banner.vegasred.com",
             "banner1.inet-traffic.com",
@@ -144,6 +141,7 @@
             "bannerads.mantecabulletin.com",
             "banners.animeerotico.com",
             "banners.audioholics.com",
+            "banners.hotlinks.net",
             "banners.pollasde30cm.com",
             "banners.sextracker.de",
             "bbcdn.code.intext.billboard.cz",
@@ -164,7 +162,10 @@
             "bfd69dd9.se",
             "bnmhg.com",
             "brxserv-21.btrll.com",
-            "burnads.com",
+            "burnads.com"
+        ],
+        "to_test": [
+            "ads.rte.ie",
             "c.mydirectweb.com",
             "c3.newwebb.com",
             "cache.btrll.com",
