@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/cameleon.list": {
-        "1535931249": [
+        "1536104138": [
             "093qpeuqpmz6ebfa.com",
             "0c9d8370d.se",
             "100tosdefotos.com",
@@ -30,7 +30,9 @@
             "aad73c550c.se",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
             "ad.blackystars.com",
             "ad.candybar.co.kr",
             "ad.creafi.com",
@@ -83,6 +85,7 @@
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
+            "ads.rte.ie",
             "ads.sooran.ir",
             "ads.telegraph.co.uk",
             "ads.thebulgarianpost.com",
@@ -205,6 +208,9 @@
             "console.popupsponsor.com",
             "cont.crawl.ws",
             "count.vivistats.com",
+            "counter1.sextracker.de",
+            "counter10.sextracker.de",
+            "counter11.sextracker.de",
             "counter12.sextracker.de",
             "counter13.sextracker.de",
             "counter14.sextracker.de",
@@ -259,6 +265,8 @@
             "download.pcsolutionshelp.com",
             "download.ucmore.com",
             "dvcd.info",
+            "em.gad-network.com",
+            "eng.findadvertise.com",
             "enjoyspringtime.com",
             "eu.npario-inc.net",
             "ezthemes.ezthemes.com",
@@ -350,6 +358,8 @@
             "pay.tranent.nl",
             "peelads.hustler.com",
             "php.genesismedia.com",
+            "pinoy-topsites.com",
+            "pix.btrll.com",
             "pixels.mentad.com",
             "pr.realvu.net",
             "rainbow-de.mythings.com",
@@ -436,6 +446,8 @@
             "www.adsentra.com",
             "www.adult-profit-files.com",
             "www.adultpopunders.com",
+            "www.affordablewebsitetraffic.com",
+            "www.allyoursearch.com",
             "www.applicationsflashbinaries.com",
             "www.armor2net.com",
             "www.axill.in",
@@ -500,18 +512,6 @@
             "z.junksport.com",
             "z.nightchan.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.rte.ie",
-            "counter1.sextracker.de",
-            "counter10.sextracker.de",
-            "counter11.sextracker.de",
-            "em.gad-network.com",
-            "eng.findadvertise.com",
-            "pinoy-topsites.com",
-            "pix.btrll.com",
-            "www.affordablewebsitetraffic.com",
-            "www.allyoursearch.com"
         ]
     }
 }
