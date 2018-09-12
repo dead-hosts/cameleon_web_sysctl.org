@@ -485,15 +485,7 @@
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
             "www.owlforce.com",
-            "www.porngalleriesz.com"
-        ],
-        "to_test": [
-            "ads.newsgeek.co.il",
-            "delivery.inet-traffic.com",
-            "delivery.optimatic.com",
-            "geo-errserv.btrll.com",
-            "redirect.xmladfeed.com",
-            "www.blogtoplist.com",
+            "www.porngalleriesz.com",
             "www.redirad.de",
             "www.registrysweeper.com",
             "www.searchgateway.net",
@@ -517,9 +509,17 @@
             "yrtas.btrll.com",
             "ystat.biz",
             "z.amiblood.com",
+            "zde-affinity.edgecaching.net",
             "z.junksport.com",
-            "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
+            "z.nightchan.com"
+        ],
+        "to_test": [
+            "ads.newsgeek.co.il",
+            "delivery.inet-traffic.com",
+            "delivery.optimatic.com",
+            "geo-errserv.btrll.com",
+            "redirect.xmladfeed.com",
+            "www.blogtoplist.com"
         ]
     }
 }
