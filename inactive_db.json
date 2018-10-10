@@ -181,11 +181,7 @@
             "banners.sextracker.de",
             "banner.vegasred.com",
             "b-aws.aol.com",
-            "b-aws.huffingtonpost.com"
-        ],
-        "to_test": [
-            "ads.clickad.com",
-            "bbcdn.code.intext.billboard.cz",
+            "b-aws.huffingtonpost.com",
             "beacon-1.newrelic.com",
             "beacon-2.newrelic.com",
             "beacon-3.newrelic.com",
@@ -196,14 +192,18 @@
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
             "beacon.tracelytics.com",
-            "best-video-2008.com",
             "bestscannerever.com",
             "beststabilityscans.com",
+            "best-video-2008.com",
             "bestwarezsites.com",
             "betaffs.com",
             "bfd69dd9.se",
             "bnmhg.com",
-            "brxserv-21.btrll.com",
+            "brxserv-21.btrll.com"
+        ],
+        "to_test": [
+            "ads.clickad.com",
+            "bbcdn.code.intext.billboard.cz",
             "burnads.com",
             "c.adroll.com",
             "c.mydirectweb.com",
