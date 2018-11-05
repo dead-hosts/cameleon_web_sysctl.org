@@ -1703,7 +1703,7 @@
         "ad4ever.com": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ad77.com": {
             "epoch": "1555632000",
@@ -1821,9 +1821,9 @@
             "state": "future"
         },
         "adbucks.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "adbuka.com": {
             "epoch": "1548892800",
