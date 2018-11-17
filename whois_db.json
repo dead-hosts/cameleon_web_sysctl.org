@@ -5908,12 +5908,12 @@
         "cash-ddt.net": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cash-explorer.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
-            "state": "past"
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "cashcount.com": {
             "epoch": "1565049600",
