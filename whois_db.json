@@ -63,7 +63,7 @@
         "0catch.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "0cj.net": {
             "epoch": "1578441600",
@@ -106,8 +106,8 @@
             "state": "future"
         },
         "1-se.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "10-million-hits.com": {
@@ -616,8 +616,8 @@
             "state": "future"
         },
         "30x.org": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "320studio.com": {
@@ -718,7 +718,7 @@
         "404errorpage.com": {
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "404search.com": {
             "epoch": "1594771200",
@@ -1578,7 +1578,7 @@
         "actressmodels.com": {
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "actualnames.com": {
             "epoch": "1545350400",
