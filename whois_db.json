@@ -5713,7 +5713,7 @@
         "browseraid.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "btbilgisayarkursu.com": {
             "epoch": "1548979200",
@@ -6236,9 +6236,9 @@
             "state": "future"
         },
         "clicktracks.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "clickunder.net": {
             "epoch": "1556409600",
