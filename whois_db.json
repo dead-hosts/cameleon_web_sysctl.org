@@ -6473,7 +6473,7 @@
         "countingstacks.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "countlog.com": {
             "epoch": "1564444800",
@@ -6531,8 +6531,8 @@
             "state": "future"
         },
         "crackway.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "crackzplanet.com": {
@@ -6611,8 +6611,8 @@
             "state": "future"
         },
         "cyber-shop.net": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "cyberbounty.com": {
@@ -6793,7 +6793,7 @@
         "dimeclicks.com": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "directcertificates.com": {
             "epoch": "1582070400",
