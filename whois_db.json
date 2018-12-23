@@ -313,7 +313,7 @@
         "1bz.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "1clickspyclean.com": {
             "epoch": "1553299200",
@@ -1581,9 +1581,9 @@
             "state": "future"
         },
         "actualnames.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "actualresearch.com": {
             "epoch": "1554681600",
