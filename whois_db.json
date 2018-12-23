@@ -5983,7 +5983,7 @@
         "center-vip.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "centertrk.com": {
             "epoch": "1602028800",
@@ -6471,9 +6471,9 @@
             "state": "future"
         },
         "countingstacks.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "countlog.com": {
             "epoch": "1564444800",
