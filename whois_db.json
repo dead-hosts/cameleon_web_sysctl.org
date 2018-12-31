@@ -81,8 +81,8 @@
             "state": "future"
         },
         "0ki.ru": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "0ml.net": {
@@ -348,7 +348,7 @@
         "1on1tours.com": {
             "epoch": "1546128000",
             "expiration_date": "30-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "1phads.com": {
             "epoch": "1549929600",
@@ -1211,9 +1211,9 @@
             "state": "future"
         },
         "a7p7.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "a7search.com": {
             "epoch": "1574812800",
