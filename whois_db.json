@@ -8928,7 +8928,7 @@
         "nutpond.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuxepras.info": {
             "epoch": "1566345600",
@@ -9066,9 +9066,9 @@
             "state": "future"
         },
         "otracking.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
-            "state": "past"
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
         },
         "ourbesthits.com": {
             "epoch": "1550188800",
