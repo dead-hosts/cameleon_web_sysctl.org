@@ -5433,7 +5433,7 @@
         "bigmoviesplus.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bigrewards.com": {
             "epoch": "1553040000",
@@ -5723,12 +5723,12 @@
         "btprmnav.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bttrack.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "buburuzka.com": {
             "epoch": "1572739200",
