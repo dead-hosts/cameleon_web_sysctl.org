@@ -4658,7 +4658,7 @@
         "antivirgear.com": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "antivirus-scanner.com": {
             "epoch": "1569715200",
@@ -4666,8 +4666,8 @@
             "state": "future"
         },
         "antivirus-security.net": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "antivirusdefense.com": {
