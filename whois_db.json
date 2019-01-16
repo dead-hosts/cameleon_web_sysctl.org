@@ -3543,7 +3543,7 @@
         "affiliatesuccess.net": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "affiliatetarget.com": {
             "epoch": "1557446400",
@@ -3831,9 +3831,9 @@
             "state": "future"
         },
         "albumgirl.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
-            "state": "past"
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
         },
         "alehop.com": {
             "epoch": "1572220800",
