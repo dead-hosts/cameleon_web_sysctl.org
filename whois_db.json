@@ -5098,7 +5098,7 @@
         "bannerco-op.com": {
             "epoch": "1549843200",
             "expiration_date": "11-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "bannercpm.com": {
             "epoch": "1564272000",
@@ -5251,9 +5251,9 @@
             "state": "future"
         },
         "bengilani.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
-            "state": "past"
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
         },
         "beseen.com": {
             "epoch": "1571184000",
@@ -5476,8 +5476,8 @@
             "state": "future"
         },
         "bilbob.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "bill-support.com": {
