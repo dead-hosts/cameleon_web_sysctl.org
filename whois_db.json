@@ -7250,6 +7250,11 @@
             "expiration_date": "26-jan-2020",
             "state": "future"
         },
+        "emaildireto.com.br": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
         "ems2bmen.com": {
             "epoch": "1580860800",
             "expiration_date": "05-feb-2020",
@@ -7548,7 +7553,7 @@
         "foundguide.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "fpctraffic2.com": {
             "epoch": "1645574400",
@@ -7856,9 +7861,9 @@
             "state": "future"
         },
         "gothamistllc.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
-            "state": "past"
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
         },
         "gotphaze.com": {
             "epoch": "1558828800",
