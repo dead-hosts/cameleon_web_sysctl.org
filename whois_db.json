@@ -6041,8 +6041,8 @@
             "state": "future"
         },
         "ceporno.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "cetrk.com": {
@@ -6478,7 +6478,7 @@
         "coreman.info": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "couldnotfind.com": {
             "epoch": "1553299200",
