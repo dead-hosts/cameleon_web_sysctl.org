@@ -6453,7 +6453,7 @@
         "coolinc.info": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "coolwebsearch.com": {
             "epoch": "1565136000",
@@ -6476,9 +6476,9 @@
             "state": "future"
         },
         "coreman.info": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582934400",
+            "expiration_date": "29-feb-2020",
+            "state": "future"
         },
         "couldnotfind.com": {
             "epoch": "1553299200",
