@@ -2568,12 +2568,12 @@
         "adserverus.info": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adservone.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
-            "state": "past"
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "adsfac.net": {
             "epoch": "1567555200",
