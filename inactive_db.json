@@ -524,9 +524,7 @@
             "z.nightchan.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "08.185.87.0.liveadvert.com",
             "08.185.87.00.liveadvert.com",
             "08.185.87.01.liveadvert.com",
@@ -1003,7 +1001,6 @@
             "a.adserv.cn",
             "a.androidandme.com",
             "a.computerbuyer.co.uk",
-            "a.faireagle.com",
             "a.giantrealm.com",
             "a.goember.com",
             "a.jumptap.com",
@@ -1024,10 +1021,8 @@
             "abosearch.com",
             "above-gw.liveadvert.com",
             "absolutelyfreeeroticstories.com",
-            "abum.axelsfun.com",
             "ac-gb.mgid.com",
             "ac-nb.marketgid.com",
-            "acc.adintelligence.net",
             "access.juicyteenporn.com",
             "ace-lb.advertising.com",
             "ace-tag.advertising.com",
@@ -1037,8 +1032,9 @@
             "activex.matcash.com",
             "ad-ace.doubleclick.net",
             "ad.123ads.nl",
-            "ad.ad2-one.com",
-            "ad.adlegend.com",
+            "ad.adlegend.com"
+        ],
+        "to_test": [
             "ad.afy11.net",
             "ad.au.doubleclick.be",
             "ad.be.doubleclick.be",
