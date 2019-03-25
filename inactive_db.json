@@ -1545,9 +1545,8 @@
             "zde-affinity.edgecaching.net",
             "ad0.ezcybersearch.com",
             "ad00.ezcybersearch.com",
-            "ad01.ezcybersearch.com"
-        ],
-        "to_test": [
+            "ad01.ezcybersearch.com",
+            "a.doginhispen.com",
             "ad03.ezcybersearch.com",
             "ad04.ezcybersearch.com",
             "ad05.ezcybersearch.com",
@@ -1589,7 +1588,9 @@
             "ad126.ezcybersearch.com",
             "ad127.ezcybersearch.com",
             "ad128.ezcybersearch.com",
-            "ad129.ezcybersearch.com",
+            "ad129.ezcybersearch.com"
+        ],
+        "to_test": [
             "ad36.ezcybersearch.com",
             "ad37.ezcybersearch.com",
             "ad38.ezcybersearch.com",
