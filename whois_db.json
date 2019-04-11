@@ -1778,7 +1778,7 @@
         "adbase.net": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "adbest.com": {
             "epoch": "1594598400",
@@ -2291,8 +2291,8 @@
             "state": "future"
         },
         "adod.info": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "adone.net": {
