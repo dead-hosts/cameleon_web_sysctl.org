@@ -3486,8 +3486,8 @@
             "state": "future"
         },
         "aens.net": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "aenta.com": {
@@ -4858,7 +4858,7 @@
         "appswebservice.com": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "aquabilling.com": {
             "epoch": "1584403200",
@@ -4888,7 +4888,7 @@
         "ariboo.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "aries-search.com": {
             "epoch": "1560816000",
