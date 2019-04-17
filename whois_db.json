@@ -6073,7 +6073,7 @@
         "chapmanmediagroup.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "chatloveonline.com": {
             "epoch": "1580774400",
@@ -6091,9 +6091,9 @@
             "state": "future"
         },
         "checkstat.net": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
-            "state": "past"
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
         },
         "cherrytube.net": {
             "epoch": "1575763200",
