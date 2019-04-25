@@ -5251,8 +5251,8 @@
             "state": "future"
         },
         "basemultimedia.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "basepayment.com": {
@@ -5528,7 +5528,7 @@
         "bigwebtools.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bikinicollection.com": {
             "epoch": "1558051200",
@@ -5581,8 +5581,8 @@
             "state": "future"
         },
         "bizrate.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1619308800",
+            "expiration_date": "25-apr-2021",
             "state": "future"
         },
         "bl4ckst4r.cn": {
@@ -5931,9 +5931,9 @@
             "state": "future"
         },
         "canadian-medshop.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
-            "state": "past"
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
         },
         "canadian-pharmacy-store.com": {
             "epoch": "1587081600",
