@@ -3158,7 +3158,7 @@
         "advancedhunt.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "advancedsearchbar.com": {
             "epoch": "1632873600",
@@ -3406,8 +3406,8 @@
             "state": "future"
         },
         "adwarereport.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "adwares.net": {
