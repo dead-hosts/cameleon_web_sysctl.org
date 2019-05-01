@@ -6106,8 +6106,8 @@
             "state": "future"
         },
         "childhe.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "chlcotrk.com": {
@@ -6158,7 +6158,7 @@
         "ckemp.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "ckstatic.com": {
             "epoch": "1556841600",
