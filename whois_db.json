@@ -3253,7 +3253,7 @@
         "advertising.dk": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "advertising.net": {
             "epoch": "1655769600",
@@ -3321,8 +3321,8 @@
             "state": "future"
         },
         "advizi.ru": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "advnt.com": {
@@ -4813,7 +4813,7 @@
         "anywhere.it": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "aolld.com": {
             "epoch": "1565049600",
