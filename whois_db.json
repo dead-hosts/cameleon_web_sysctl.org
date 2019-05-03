@@ -8093,7 +8093,7 @@
         "hyperobot.com": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hypertracker.com": {
             "epoch": "1586304000",
@@ -8451,8 +8451,8 @@
             "state": "future"
         },
         "link.ru": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "link4link.com": {
