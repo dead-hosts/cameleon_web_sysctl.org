@@ -2188,7 +2188,7 @@
         "admarket.cz": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "admax.com": {
             "epoch": "1558483200",
@@ -2373,7 +2373,7 @@
         "adreadytractions.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "adrecom.net": {
             "epoch": "1587340800",
