@@ -6718,7 +6718,7 @@
         "d9ae99824.se": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "daditraff.cn": {
             "epoch": "1558656000",
@@ -7358,7 +7358,7 @@
         "erotizer.info": {
             "epoch": "1557532800",
             "expiration_date": "11-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "errorception.com": {
             "epoch": "1564444800",
@@ -7496,9 +7496,9 @@
             "state": "future"
         },
         "fevertube.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
-            "state": "past"
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "filebin.ca": {
             "epoch": "1573257600",
