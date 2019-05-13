@@ -3558,7 +3558,7 @@
         "affiliatemg.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "affiliatenetwork.com": {
             "epoch": "1572912000",
@@ -3586,9 +3586,9 @@
             "state": "future"
         },
         "affiliatetarget.com": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
-            "state": "past"
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
+            "state": "future"
         },
         "affiliatetracking.com": {
             "epoch": "1649548800",
