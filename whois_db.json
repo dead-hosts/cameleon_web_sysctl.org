@@ -8655,9 +8655,9 @@
         "state": "future"
     },
     "mediatex.in": {
-        "epoch": "1555545600",
+        "epoch": 1555545600,
         "expiration_date": "18-apr-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediatraffic.com": {
         "epoch": "1577404800",
