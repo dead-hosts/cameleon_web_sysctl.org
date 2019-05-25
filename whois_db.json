@@ -6500,9 +6500,9 @@
         "state": "future"
     },
     "copperheadsecurity.com": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "coreclickhoo.com": {
         "epoch": "1572480000",
@@ -6725,8 +6725,8 @@
         "state": "past"
     },
     "daditraff.cn": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "dajungle.com": {
