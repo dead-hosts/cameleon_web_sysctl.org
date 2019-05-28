@@ -175,9 +175,9 @@
         "state": "future"
     },
     "11qe.com": {
-        "epoch": "1559001600",
+        "epoch": 1559001600,
         "expiration_date": "28-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "123-tracker.com": {
         "epoch": "1589414400",
@@ -550,9 +550,9 @@
         "state": "future"
     },
     "29bca6cb72a665c8.se": {
-        "epoch": "1558828800",
+        "epoch": 1558828800,
         "expiration_date": "26-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "2asian.com": {
         "epoch": "1571788800",
