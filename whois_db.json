@@ -6455,8 +6455,8 @@
         "state": "future"
     },
     "connect5364.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "connexionsafe.com": {
@@ -6755,9 +6755,9 @@
         "state": "future"
     },
     "dcstat.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "ddors.info": {
         "epoch": "1585958400",
