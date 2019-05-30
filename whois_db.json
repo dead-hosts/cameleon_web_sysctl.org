@@ -175,9 +175,9 @@
         "state": "future"
     },
     "11qe.com": {
-        "epoch": 1559001600,
-        "expiration_date": "28-may-2019",
-        "state": "past"
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
     },
     "123-tracker.com": {
         "epoch": "1589414400",
@@ -645,8 +645,8 @@
         "state": "future"
     },
     "34j.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "36site.com": {
@@ -1445,14 +1445,14 @@
         "state": "future"
     },
     "accesorapido.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "access-free.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "accessoryad.com": {
         "epoch": "1587513600",
