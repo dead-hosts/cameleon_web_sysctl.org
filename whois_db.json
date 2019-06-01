@@ -3345,9 +3345,9 @@
         "state": "future"
     },
     "adware-2009.com": {
-        "epoch": "1559347200",
+        "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adware-remover.net": {
         "epoch": "1562284800",
@@ -3905,9 +3905,9 @@
         "state": "future"
     },
     "alfreethought.org": {
-        "epoch": 1559088000,
-        "expiration_date": "29-may-2019",
-        "state": "past"
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
     },
     "alfy.com": {
         "epoch": "1583884800",
