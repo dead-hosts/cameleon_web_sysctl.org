@@ -5805,9 +5805,9 @@
         "state": "future"
     },
     "budgetmedicines.com": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bugsforum.com": {
         "epoch": "1561075200",
