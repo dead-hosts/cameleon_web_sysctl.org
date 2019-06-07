@@ -2158,5 +2158,941 @@
     "1559874804.1514049": {
         "domain": "adexchange.guru",
         "extension": "guru"
+    },
+    "1559875041.8159568": {
+        "domain": "ad.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875043.2349591": {
+        "domain": "ad.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875047.0884879": {
+        "domain": "adial.co.uk",
+        "extension": "uk"
+    },
+    "1559875048.2624888": {
+        "domain": "ad.ibest.com.br",
+        "extension": "br"
+    },
+    "1559875058.621759": {
+        "domain": "ad.iii.co.uk",
+        "extension": "uk"
+    },
+    "1559875061.267349": {
+        "domain": "adimage.guardian.co.uk",
+        "extension": "uk"
+    },
+    "1559875063.6242003": {
+        "domain": "adimages.sina.com.hk",
+        "extension": "hk"
+    },
+    "1559875181.8412495": {
+        "domain": "ad.mirror.co.uk",
+        "extension": "uk"
+    },
+    "1559875183.521424": {
+        "domain": "admotion.com.ar",
+        "extension": "ar"
+    },
+    "1559875226.8578079": {
+        "domain": "adocean-lt.lt",
+        "extension": "lt"
+    },
+    "1559875239.2511523": {
+        "domain": "ad.onmedia.bg",
+        "extension": "bg"
+    },
+    "1559875253.0731907": {
+        "domain": "ad.petel.bg",
+        "extension": "bg"
+    },
+    "1559875282.4556725": {
+        "domain": "adrequisitor-af.lp.uol.com.br",
+        "extension": "br"
+    },
+    "1559875295.8420205": {
+        "domain": "ads00.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875297.132111": {
+        "domain": "ads00.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875300.23556": {
+        "domain": "ads01.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875301.6237788": {
+        "domain": "ads01.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875303.0510252": {
+        "domain": "ads03.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875304.3639364": {
+        "domain": "ads03.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875306.8135395": {
+        "domain": "ads04.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875308.1807818": {
+        "domain": "ads04.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875311.3597965": {
+        "domain": "ads05.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875313.3011832": {
+        "domain": "ads05.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875315.6667502": {
+        "domain": "ads06.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875317.3731942": {
+        "domain": "ads06.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875321.7456238": {
+        "domain": "ads07.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875323.0465577": {
+        "domain": "ads07.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875324.008283": {
+        "domain": "ads08.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875325.3166623": {
+        "domain": "ads08.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875326.3726223": {
+        "domain": "ads09.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875327.7833908": {
+        "domain": "ads09.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875329.5759046": {
+        "domain": "ads0.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875330.967567": {
+        "domain": "ads0.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875331.7618144": {
+        "domain": "ads100.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875333.1845784": {
+        "domain": "ads100.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875334.0358233": {
+        "domain": "ads101.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875335.4553223": {
+        "domain": "ads101.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875336.243443": {
+        "domain": "ads102.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875337.6913912": {
+        "domain": "ads102.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875339.5830164": {
+        "domain": "ads103.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875340.968236": {
+        "domain": "ads103.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875341.7842667": {
+        "domain": "ads104.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875343.1587784": {
+        "domain": "ads104.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875343.9066403": {
+        "domain": "ads105.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875345.3229084": {
+        "domain": "ads105.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875346.1129622": {
+        "domain": "ads106.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875347.5034227": {
+        "domain": "ads106.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875351.2265828": {
+        "domain": "ads107.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875352.5146186": {
+        "domain": "ads107.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875354.331611": {
+        "domain": "ads108.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875355.6672926": {
+        "domain": "ads108.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875356.4785771": {
+        "domain": "ads109.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875357.8691504": {
+        "domain": "ads109.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875359.088236": {
+        "domain": "ads10.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875360.4718034": {
+        "domain": "ads10.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875361.4062095": {
+        "domain": "ads110.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875362.8771272": {
+        "domain": "ads110.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875366.919251": {
+        "domain": "ads111.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875368.306161": {
+        "domain": "ads111.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875369.8261044": {
+        "domain": "ads112.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875371.4932907": {
+        "domain": "ads112.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875373.5689256": {
+        "domain": "ads113.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875375.2875772": {
+        "domain": "ads113.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875376.3640907": {
+        "domain": "ads114.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875378.3863559": {
+        "domain": "ads114.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875382.473636": {
+        "domain": "ads115.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875383.9392471": {
+        "domain": "ads115.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875389.8241467": {
+        "domain": "ads116.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875391.2170525": {
+        "domain": "ads116.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875393.0518425": {
+        "domain": "ads117.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875394.4671485": {
+        "domain": "ads117.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875395.275277": {
+        "domain": "ads118.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875396.644": {
+        "domain": "ads118.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875397.4446774": {
+        "domain": "ads119.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875398.868499": {
+        "domain": "ads119.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875399.8382223": {
+        "domain": "ads11.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875401.125258": {
+        "domain": "ads11.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875401.9017398": {
+        "domain": "ads120.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875403.2878945": {
+        "domain": "ads120.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875405.1019368": {
+        "domain": "ads121.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875406.411549": {
+        "domain": "ads121.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875408.230604": {
+        "domain": "ads122.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875410.1809795": {
+        "domain": "ads122.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875413.889958": {
+        "domain": "ads123.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875415.2876983": {
+        "domain": "ads123.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875419.0139117": {
+        "domain": "ads124.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875420.5133522": {
+        "domain": "ads124.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875421.9873905": {
+        "domain": "ads125.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875423.603171": {
+        "domain": "ads125.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875424.4442527": {
+        "domain": "ads126.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875425.904243": {
+        "domain": "ads126.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875427.2999113": {
+        "domain": "ads127.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875428.7005358": {
+        "domain": "ads127.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875429.8393536": {
+        "domain": "ads128.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875431.24304": {
+        "domain": "ads128.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875432.0605862": {
+        "domain": "ads129.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875433.468468": {
+        "domain": "ads129.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875434.490772": {
+        "domain": "ads12.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875435.9852278": {
+        "domain": "ads12.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875436.8246565": {
+        "domain": "ads130.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875438.28199": {
+        "domain": "ads130.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875439.080787": {
+        "domain": "ads131.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875440.467302": {
+        "domain": "ads131.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875441.2740502": {
+        "domain": "ads132.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875442.711702": {
+        "domain": "ads132.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875443.5541804": {
+        "domain": "ads133.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875444.940493": {
+        "domain": "ads133.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875446.7822008": {
+        "domain": "ads134.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875448.1751163": {
+        "domain": "ads134.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875449.0351934": {
+        "domain": "ads135.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875450.4302223": {
+        "domain": "ads135.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875452.428539": {
+        "domain": "ads136.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875453.8183718": {
+        "domain": "ads136.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875454.6909788": {
+        "domain": "ads137.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875456.092412": {
+        "domain": "ads137.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875456.9178102": {
+        "domain": "ads138.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875458.3020275": {
+        "domain": "ads138.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875460.392894": {
+        "domain": "ads139.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875462.1675386": {
+        "domain": "ads13.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875463.5677128": {
+        "domain": "ads13.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875465.4388149": {
+        "domain": "ads140.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875466.8322968": {
+        "domain": "ads140.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875468.686914": {
+        "domain": "ads141.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875470.5811284": {
+        "domain": "ads141.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875472.8203065": {
+        "domain": "ads142.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875474.4880762": {
+        "domain": "ads142.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875475.65825": {
+        "domain": "ads143.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875477.4195716": {
+        "domain": "ads143.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875481.1582727": {
+        "domain": "ads144.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875482.5629869": {
+        "domain": "ads144.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875483.3997872": {
+        "domain": "ads145.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875484.7869642": {
+        "domain": "ads145.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875485.5935776": {
+        "domain": "ads146.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875486.966744": {
+        "domain": "ads146.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875487.7140563": {
+        "domain": "ads147.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875489.3334153": {
+        "domain": "ads147.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875491.205596": {
+        "domain": "ads148.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875492.5813673": {
+        "domain": "ads148.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875494.413719": {
+        "domain": "ads149.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875495.8495743": {
+        "domain": "ads149.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875496.867947": {
+        "domain": "ads14.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875498.265109": {
+        "domain": "ads14.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875499.0761328": {
+        "domain": "ads150.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875500.3876553": {
+        "domain": "ads150.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875504.4103925": {
+        "domain": "ads151.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875506.6703894": {
+        "domain": "ads151.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875507.548198": {
+        "domain": "ads152.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875508.9434366": {
+        "domain": "ads152.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875509.7516727": {
+        "domain": "ads153.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875511.1708906": {
+        "domain": "ads153.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875512.9617066": {
+        "domain": "ads154.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875514.3554974": {
+        "domain": "ads154.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875515.1770012": {
+        "domain": "ads155.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875516.5778952": {
+        "domain": "ads155.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875517.3382802": {
+        "domain": "ads156.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875518.7400517": {
+        "domain": "ads156.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875521.0865095": {
+        "domain": "ads157.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875522.4882686": {
+        "domain": "ads157.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875526.7931705": {
+        "domain": "ads158.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875528.2389734": {
+        "domain": "ads158.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875529.373818": {
+        "domain": "ads159.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875530.8324542": {
+        "domain": "ads159.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875532.8723478": {
+        "domain": "ads15.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875534.2797835": {
+        "domain": "ads15.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875535.1866133": {
+        "domain": "ads160.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875536.5727184": {
+        "domain": "ads160.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875537.366843": {
+        "domain": "ads161.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875538.7532341": {
+        "domain": "ads161.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875540.6364312": {
+        "domain": "ads162.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875542.03493": {
+        "domain": "ads162.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875544.2922904": {
+        "domain": "ads163.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875545.690562": {
+        "domain": "ads163.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875546.506115": {
+        "domain": "ads164.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875547.8996384": {
+        "domain": "ads164.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875548.7435827": {
+        "domain": "ads165.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875550.1431081": {
+        "domain": "ads165.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875551.9630723": {
+        "domain": "ads166.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875553.3528862": {
+        "domain": "ads166.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875555.1864173": {
+        "domain": "ads167.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875556.5573297": {
+        "domain": "ads167.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875557.740762": {
+        "domain": "ads168.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875559.0773513": {
+        "domain": "ads168.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875560.8601604": {
+        "domain": "ads169.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875562.1561284": {
+        "domain": "ads169.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875563.1858463": {
+        "domain": "ads16.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875564.4972374": {
+        "domain": "ads16.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875566.303503": {
+        "domain": "ads170.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875567.6151774": {
+        "domain": "ads170.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875568.4586532": {
+        "domain": "ads171.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875569.8459969": {
+        "domain": "ads171.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875571.8079937": {
+        "domain": "ads172.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875573.9524746": {
+        "domain": "ads172.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875576.9861693": {
+        "domain": "ads173.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875578.3577023": {
+        "domain": "ads173.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875580.2111244": {
+        "domain": "ads174.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875581.6064627": {
+        "domain": "ads174.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875582.851653": {
+        "domain": "ads175.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875584.2493558": {
+        "domain": "ads175.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875585.05229": {
+        "domain": "ads176.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875586.431435": {
+        "domain": "ads176.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875589.1649816": {
+        "domain": "ads177.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875590.5500307": {
+        "domain": "ads177.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875592.352513": {
+        "domain": "ads178.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875593.663153": {
+        "domain": "ads178.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875594.5153337": {
+        "domain": "ads179.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875595.8994567": {
+        "domain": "ads179.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875596.9245617": {
+        "domain": "ads17.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875598.344054": {
+        "domain": "ads17.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875599.3920712": {
+        "domain": "ads180.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875600.7712653": {
+        "domain": "ads180.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875601.570995": {
+        "domain": "ads181.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875602.946587": {
+        "domain": "ads181.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875603.9706821": {
+        "domain": "ads182.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875605.3787315": {
+        "domain": "ads182.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875606.1474333": {
+        "domain": "ads183.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875607.5690076": {
+        "domain": "ads183.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875608.3574336": {
+        "domain": "ads184.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875609.7604485": {
+        "domain": "ads184.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875610.5544004": {
+        "domain": "ads185.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875611.9561865": {
+        "domain": "ads185.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875612.766987": {
+        "domain": "ads186.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875614.1499176": {
+        "domain": "ads186.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875615.942942": {
+        "domain": "ads187.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875617.3572526": {
+        "domain": "ads187.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875618.1541634": {
+        "domain": "ads188.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875619.5391657": {
+        "domain": "ads188.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875620.3852198": {
+        "domain": "ads189.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875621.7873476": {
+        "domain": "ads189.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875623.9817405": {
+        "domain": "ads18.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875625.3637466": {
+        "domain": "ads18.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875626.2303147": {
+        "domain": "ads190.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875627.6312366": {
+        "domain": "ads190.hpg.ig.com.br",
+        "extension": "br"
+    },
+    "1559875628.3922062": {
+        "domain": "ads191.hpg.com.br",
+        "extension": "br"
+    },
+    "1559875629.9875042": {
+        "domain": "ads191.hpg.ig.com.br",
+        "extension": "br"
     }
 }
