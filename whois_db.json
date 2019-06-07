@@ -120,8 +120,8 @@
         "state": "future"
     },
     "1000stars.ru": {
-        "epoch": "1559865600",
-        "expiration_date": "07-jun-2019",
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "1001cards.com": {
@@ -985,9 +985,9 @@
         "state": "future"
     },
     "7art-screensavers.com": {
-        "epoch": 1559606400,
-        "expiration_date": "04-jun-2019",
-        "state": "past"
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "7days.ws": {
         "epoch": "1560124800",
