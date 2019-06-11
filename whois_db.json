@@ -7240,8 +7240,8 @@
         "state": "future"
     },
     "ekmas.com": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "electnext.com": {
@@ -7515,8 +7515,8 @@
         "state": "future"
     },
     "find-fm.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "find-me-now.com": {
@@ -7645,9 +7645,9 @@
         "state": "future"
     },
     "freeprod.com": {
-        "epoch": "1560124800",
+        "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "freestats.com": {
         "epoch": "1567641600",
@@ -7880,9 +7880,9 @@
         "state": "future"
     },
     "goserv.com": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "gostats.com": {
         "epoch": "1606780800",
