@@ -8430,9 +8430,9 @@
         "state": "future"
     },
     "kvors.com": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "layer-ad.org": {
         "epoch": "1645488000",
@@ -8540,8 +8540,8 @@
         "state": "future"
     },
     "luckytds.ru": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "lustler.com": {
