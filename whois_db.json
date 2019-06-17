@@ -10300,9 +10300,9 @@
         "state": "future"
     },
     "streamate.com": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "stripplayer.com": {
         "epoch": "1581465600",
@@ -10625,9 +10625,9 @@
         "state": "future"
     },
     "trackingmode.com": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
-        "state": "past"
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
     },
     "tracksitetraffic1.com": {
         "epoch": "1599350400",
