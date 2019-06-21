@@ -10675,8 +10675,8 @@
         "state": "future"
     },
     "trafficmp.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "traktum.com": {
@@ -10835,9 +10835,9 @@
         "state": "future"
     },
     "usedstone.com": {
-        "epoch": "1560988800",
+        "epoch": 1560988800,
         "expiration_date": "20-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "usseek.com": {
         "epoch": "1594598400",
