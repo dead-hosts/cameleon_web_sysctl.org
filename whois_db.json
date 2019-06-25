@@ -2640,9 +2640,9 @@
         "state": "future"
     },
     "adsmart.net": {
-        "epoch": "1561334400",
+        "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adsmart.ru": {
         "epoch": 1591228800,
