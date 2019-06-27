@@ -9370,9 +9370,9 @@
         "state": "future"
     },
     "popadscdn.net": {
-        "epoch": "1561593600",
+        "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "popcash.net": {
         "epoch": "1660348800",
@@ -9585,8 +9585,8 @@
         "state": "future"
     },
     "qikdownloads.com": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "qitrck.com": {
