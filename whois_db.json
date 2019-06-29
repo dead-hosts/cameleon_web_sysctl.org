@@ -5530,9 +5530,9 @@
         "state": "future"
     },
     "bigtopleads.cn": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bigtracker.com": {
         "epoch": "1569283200",
@@ -5555,9 +5555,9 @@
         "state": "future"
     },
     "bill-support.com": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
-        "state": "past"
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
     },
     "billhlp.com": {
         "epoch": "1587081600",
@@ -5930,8 +5930,8 @@
         "state": "future"
     },
     "canadian-drugs-shop.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "canadian-healthcare-shop.com": {
@@ -6330,8 +6330,8 @@
         "state": "future"
     },
     "clicz.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "cliter.com": {
