@@ -6375,9 +6375,9 @@
         "state": "future"
     },
     "clock-desktop.com": {
-        "epoch": "1562112000",
+        "epoch": 1562112000,
         "expiration_date": "03-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "clubfeed.org": {
         "epoch": "1579392000",
