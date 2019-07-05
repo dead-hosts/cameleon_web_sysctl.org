@@ -1160,9 +1160,9 @@
         "state": "future"
     },
     "a-search.biz": {
-        "epoch": "1562198400",
+        "epoch": 1562198400,
         "expiration_date": "04-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "a-zo.com": {
         "epoch": "1579305600",
@@ -3975,9 +3975,9 @@
         "state": "future"
     },
     "allbangedup.com": {
-        "epoch": "1562284800",
+        "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "allbanners.ru": {
         "epoch": "1569283200",
@@ -3990,8 +3990,8 @@
         "state": "future"
     },
     "allcommunity.com": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "allcontents.biz": {
