@@ -4815,8 +4815,8 @@
         "state": "future"
     },
     "anydatewilldo.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "anysearching.com": {
@@ -5095,9 +5095,9 @@
         "state": "future"
     },
     "azureteens.com": {
-        "epoch": 1562371200,
-        "expiration_date": "06-jul-2019",
-        "state": "past"
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
     },
     "b3d.com": {
         "epoch": "1568246400",
