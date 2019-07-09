@@ -7425,9 +7425,9 @@
         "state": "future"
     },
     "exitexchange.com": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "expired-targeted.com": {
         "epoch": "1566432000",
@@ -7565,9 +7565,9 @@
         "state": "future"
     },
     "flashadtools.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
-        "state": "past"
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
     },
     "flashmediaportal.com": {
         "epoch": "1572048000",
@@ -7790,9 +7790,9 @@
         "state": "future"
     },
     "geoadserver.com": {
-        "epoch": 1562371200,
-        "expiration_date": "06-jul-2019",
-        "state": "past"
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
     },
     "get-vids.com": {
         "epoch": 1593820800,
