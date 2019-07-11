@@ -6240,9 +6240,9 @@
         "state": "future"
     },
     "clickbank.net": {
-        "epoch": "1562716800",
+        "epoch": 1562716800,
         "expiration_date": "10-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickburst.com": {
         "epoch": "1563148800",
