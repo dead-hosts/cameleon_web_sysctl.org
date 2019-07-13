@@ -3530,9 +3530,9 @@
         "state": "future"
     },
     "affiliate.cx": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "affiliatecop.com": {
         "epoch": "1571356800",
@@ -4265,8 +4265,8 @@
         "state": "future"
     },
     "am-display.com": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "am15.net": {
@@ -4320,8 +4320,8 @@
         "state": "future"
     },
     "amazaon.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "amazing-bargains.com": {
@@ -4345,8 +4345,8 @@
         "state": "past"
     },
     "amazingindian.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "amctheater.com": {
