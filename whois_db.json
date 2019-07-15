@@ -885,9 +885,9 @@
         "state": "future"
     },
     "5staraffiliateprograms.com": {
-        "epoch": "1563062400",
+        "epoch": 1563062400,
         "expiration_date": "14-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "5starvideos.com": {
         "epoch": "1583280000",
@@ -1000,13 +1000,13 @@
         "state": "future"
     },
     "7meta.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "7metasearch.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "7search.com": {
