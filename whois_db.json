@@ -55,9 +55,9 @@
         "state": "future"
     },
     "0aaa.com": {
-        "epoch": "1563321600",
+        "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "0catch.com": {
         "epoch": "1575417600",
@@ -885,9 +885,9 @@
         "state": "future"
     },
     "5staraffiliateprograms.com": {
-        "epoch": 1563062400,
-        "expiration_date": "14-jul-2019",
-        "state": "past"
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
     },
     "5starvideos.com": {
         "epoch": "1583280000",
