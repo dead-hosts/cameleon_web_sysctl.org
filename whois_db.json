@@ -10320,9 +10320,9 @@
         "state": "future"
     },
     "subscriberbase.com": {
-        "epoch": "1563321600",
+        "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "sumome.com": {
         "epoch": "1575590400",
