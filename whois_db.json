@@ -5595,9 +5595,9 @@
         "state": "future"
     },
     "biopharmastore.com": {
-        "epoch": "1563580800",
+        "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "bizrate.com": {
         "epoch": "1619308800",
