@@ -540,9 +540,9 @@
         "state": "future"
     },
     "24x7live.net": {
-        "epoch": "1563753600",
+        "epoch": 1563753600,
         "expiration_date": "22-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "27x.com": {
         "epoch": "1587859200",
@@ -915,9 +915,9 @@
         "state": "future"
     },
     "6e2f1d2ae033.com": {
-        "epoch": 1563580800,
-        "expiration_date": "20-jul-2019",
-        "state": "past"
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
     },
     "6netave.com": {
         "epoch": "1565049600",
@@ -990,8 +990,8 @@
         "state": "future"
     },
     "7days.ws": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "7host.com": {
