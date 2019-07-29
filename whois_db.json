@@ -10670,9 +10670,9 @@
         "state": "future"
     },
     "trafficconverter.in": {
-        "epoch": "1564272000",
+        "epoch": 1564272000,
         "expiration_date": "28-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficfile.com": {
         "epoch": "1572480000",
@@ -10780,8 +10780,8 @@
         "state": "future"
     },
     "uadx.com": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "udmserve.net": {
