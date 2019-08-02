@@ -8820,9 +8820,9 @@
         "state": "future"
     },
     "multipops.com": {
-        "epoch": "1564617600",
+        "epoch": 1564617600,
         "expiration_date": "01-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "munky.com": {
         "epoch": "1569974400",
@@ -9120,9 +9120,9 @@
         "state": "future"
     },
     "onlyfind.net": {
-        "epoch": "1564617600",
+        "epoch": 1564617600,
         "expiration_date": "01-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "opendownloadmanager.com": {
         "epoch": "1581897600",
