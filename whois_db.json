@@ -4365,9 +4365,9 @@
         "state": "future"
     },
     "america-west.com": {
-        "epoch": "1564876800",
+        "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "americairlines.com": {
         "epoch": "1694563200",
@@ -5080,8 +5080,8 @@
         "state": "future"
     },
     "axsrv.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "azkempire.com": {
