@@ -2475,9 +2475,9 @@
         "state": "future"
     },
     "ads345.com": {
-        "epoch": "1565481600",
+        "epoch": 1565481600,
         "expiration_date": "11-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ads360.com": {
         "epoch": "1582761600",
