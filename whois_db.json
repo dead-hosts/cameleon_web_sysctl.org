@@ -6655,9 +6655,9 @@
         "state": "future"
     },
     "creditpuma.com": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "creoads.com": {
         "epoch": "1575676800",
@@ -6825,9 +6825,9 @@
         "state": "future"
     },
     "deplayer.net": {
-        "epoch": 1565395200,
-        "expiration_date": "10-aug-2019",
-        "state": "past"
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
     },
     "desire-search.com": {
         "epoch": "1587686400",
