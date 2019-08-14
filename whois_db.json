@@ -160,8 +160,8 @@
         "state": "future"
     },
     "101order.com": {
-        "epoch": "1565740800",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "103bees.com": {
@@ -205,9 +205,9 @@
         "state": "future"
     },
     "123counts.com": {
-        "epoch": "1565654400",
+        "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "123found.com": {
         "epoch": "1572998400",
@@ -295,9 +295,9 @@
         "state": "future"
     },
     "1autocity.com": {
-        "epoch": "1565654400",
+        "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "1bg.net": {
         "epoch": "1584748800",
@@ -760,9 +760,9 @@
         "state": "future"
     },
     "411debtsolutions.com": {
-        "epoch": "1565740800",
+        "epoch": 1565740800,
         "expiration_date": "14-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "411vegas.com": {
         "epoch": 1595203200,
