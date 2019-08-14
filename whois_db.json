@@ -5980,9 +5980,9 @@
         "state": "future"
     },
     "casalamedia.com": {
-        "epoch": "1565654400",
+        "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "casalemedia.com": {
         "epoch": "1697673600",
@@ -6275,8 +6275,8 @@
         "state": "future"
     },
     "clickga.com": {
-        "epoch": "1565740800",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "clickheretofind.com": {
