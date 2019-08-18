@@ -5360,9 +5360,9 @@
         "state": "future"
     },
     "bestappinstalls.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bestbloggin.com": {
         "epoch": 1596585600,
@@ -5460,8 +5460,8 @@
         "state": "future"
     },
     "bgbaner.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "bgtop100.com": {
@@ -5605,8 +5605,8 @@
         "state": "future"
     },
     "bl4ckst4r.cn": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "blank-record.com": {
