@@ -7600,8 +7600,8 @@
         "state": "future"
     },
     "followerscounter.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "foundguide.com": {
@@ -7620,9 +7620,9 @@
         "state": "future"
     },
     "freakads.com": {
-        "epoch": "1566259200",
+        "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "free-stats.com": {
         "epoch": "1583625600",
