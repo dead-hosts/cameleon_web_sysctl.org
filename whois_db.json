@@ -240,8 +240,8 @@
         "state": "future"
     },
     "123stat.com": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1724025600,
+        "expiration_date": "19-aug-2024",
         "state": "future"
     },
     "123webmarketing.com": {
@@ -280,9 +280,9 @@
         "state": "future"
     },
     "17money.com": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
-        "state": "past"
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
     },
     "18dmm.com": {
         "epoch": "1584662400",
@@ -455,9 +455,9 @@
         "state": "future"
     },
     "2007-search.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "2009-search.com": {
         "epoch": "1588377600",
