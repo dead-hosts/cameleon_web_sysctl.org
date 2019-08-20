@@ -8765,9 +8765,9 @@
         "state": "future"
     },
     "morehitserver.com": {
-        "epoch": "1566172800",
+        "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mouseflow.com": {
         "epoch": 1717632000,
@@ -8860,9 +8860,9 @@
         "state": "future"
     },
     "myfukbuddy.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "myglobalsearch.com": {
         "epoch": "1571097600",
