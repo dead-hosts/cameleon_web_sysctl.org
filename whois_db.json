@@ -8185,9 +8185,9 @@
         "state": "future"
     },
     "image-catcher.com": {
-        "epoch": "1566345600",
+        "epoch": 1566345600,
         "expiration_date": "21-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "immanalytics.com": {
         "epoch": "1569369600",
@@ -8535,8 +8535,8 @@
         "state": "future"
     },
     "litas.com": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "lo2.me": {
