@@ -10615,8 +10615,8 @@
         "state": "future"
     },
     "trackad.cz": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "trackaffpix.com": {
@@ -10875,9 +10875,9 @@
         "state": "future"
     },
     "vclicks.net": {
-        "epoch": "1566432000",
+        "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "vdhu.com": {
         "epoch": "1579737600",
