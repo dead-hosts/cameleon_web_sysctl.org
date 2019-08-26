@@ -1690,9 +1690,9 @@
         "state": "future"
     },
     "ad-w-a-r-e.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ad2000.org": {
         "epoch": "1667088000",
