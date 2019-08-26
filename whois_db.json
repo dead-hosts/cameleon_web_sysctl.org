@@ -6415,9 +6415,9 @@
         "state": "future"
     },
     "cmsmulti.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "cmtgroup.com": {
         "epoch": "1578614400",
@@ -6435,9 +6435,9 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": 1566604800,
-        "expiration_date": "24-aug-2019",
-        "state": "past"
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
     },
     "com.com": {
         "epoch": "1681430400",
