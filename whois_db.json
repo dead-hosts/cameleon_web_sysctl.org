@@ -8120,8 +8120,8 @@
         "state": "future"
     },
     "hub.com.pl": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "hyperobot.com": {
@@ -8335,9 +8335,9 @@
         "state": "future"
     },
     "jadcenter.com": {
-        "epoch": "1566864000",
+        "epoch": 1566864000,
         "expiration_date": "27-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "jizzads.com": {
         "epoch": 1590019200,
