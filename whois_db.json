@@ -7255,9 +7255,9 @@
         "state": "future"
     },
     "ekerberos.com": {
-        "epoch": "1567123200",
+        "epoch": 1567123200,
         "expiration_date": "30-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ekmas.com": {
         "epoch": 1591747200,
