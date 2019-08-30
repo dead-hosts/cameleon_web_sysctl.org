@@ -8245,9 +8245,9 @@
         "state": "future"
     },
     "installcash.com": {
-        "epoch": "1567123200",
+        "epoch": 1567123200,
         "expiration_date": "30-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "installdownload.com": {
         "epoch": "1588723200",
@@ -8335,9 +8335,9 @@
         "state": "future"
     },
     "jadcenter.com": {
-        "epoch": 1566864000,
-        "expiration_date": "27-aug-2019",
-        "state": "past"
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
     },
     "jizzads.com": {
         "epoch": 1590019200,
