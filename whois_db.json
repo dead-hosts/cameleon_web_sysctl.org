@@ -570,9 +570,9 @@
         "state": "future"
     },
     "2nd-thought.com": {
-        "epoch": "1567468800",
+        "epoch": 1567468800,
         "expiration_date": "03-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "2o7.com": {
         "epoch": "1591660800",
@@ -740,9 +740,9 @@
         "state": "future"
     },
     "411-money.com": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
-        "state": "past"
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     },
     "411-realestate.com": {
         "epoch": "1585958400",
@@ -895,9 +895,9 @@
         "state": "future"
     },
     "60pictures.com": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
-        "state": "past"
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     },
     "635-funny-video.info": {
         "epoch": "1568592000",
