@@ -10145,8 +10145,8 @@
         "state": "future"
     },
     "sitestats.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "sitetracker.com": {
@@ -10210,9 +10210,9 @@
         "state": "future"
     },
     "softwareupdaterlp.com": {
-        "epoch": "1567382400",
+        "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "spamnuker.com": {
         "epoch": "1573948800",
