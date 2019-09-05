@@ -10115,9 +10115,9 @@
         "state": "future"
     },
     "showbehind.com": {
-        "epoch": "1567555200",
+        "epoch": 1567555200,
         "expiration_date": "04-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "silveragesoftware.com": {
         "epoch": "1576886400",
@@ -10210,9 +10210,9 @@
         "state": "future"
     },
     "softwareupdaterlp.com": {
-        "epoch": 1567382400,
-        "expiration_date": "02-sep-2019",
-        "state": "past"
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
     },
     "spamnuker.com": {
         "epoch": "1573948800",
@@ -10240,8 +10240,8 @@
         "state": "future"
     },
     "springclick.com": {
-        "epoch": "1567555200",
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "spy-kill.com": {
