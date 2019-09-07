@@ -2695,9 +2695,9 @@
         "state": "future"
     },
     "adspserving.com": {
-        "epoch": "1567728000",
+        "epoch": 1567728000,
         "expiration_date": "06-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "adspyre.com": {
         "epoch": "1583193600",
