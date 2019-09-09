@@ -2250,8 +2250,8 @@
         "state": "future"
     },
     "admonitor.com": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "admotion.com.ar": {
@@ -2290,9 +2290,9 @@
         "state": "future"
     },
     "adnovations.com": {
-        "epoch": "1567900800",
+        "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "adnuker.com": {
         "epoch": "1573344000",
