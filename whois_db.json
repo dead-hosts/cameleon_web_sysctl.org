@@ -4785,9 +4785,9 @@
         "state": "future"
     },
     "antivirusxp08.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "antiworm2008.com": {
         "epoch": "1581120000",
