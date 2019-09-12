@@ -9740,9 +9740,9 @@
         "state": "future"
     },
     "referenco.com": {
-        "epoch": "1568246400",
+        "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "referer.org": {
         "epoch": "1588723200",
