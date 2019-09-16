@@ -9310,8 +9310,8 @@
         "state": "future"
     },
     "pepipo.com": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "perfectgirls.net": {
@@ -9530,9 +9530,9 @@
         "state": "future"
     },
     "protect-x.com": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "protizer.ru": {
         "epoch": 1595894400,
