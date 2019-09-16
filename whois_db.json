@@ -4485,9 +4485,9 @@
         "state": "future"
     },
     "analystic.org": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "analytics-google.info": {
         "epoch": "1577750400",
@@ -4625,8 +4625,8 @@
         "state": "future"
     },
     "antarctic.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "anti-virus-pro.com": {
