@@ -3315,9 +3315,9 @@
         "state": "future"
     },
     "advertjunction.com": {
-        "epoch": "1568678400",
+        "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "advertserve.com": {
         "epoch": "1676073600",
@@ -4485,9 +4485,9 @@
         "state": "future"
     },
     "analystic.org": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "analytics-google.info": {
         "epoch": "1577750400",
