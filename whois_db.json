@@ -3315,9 +3315,9 @@
         "state": "future"
     },
     "advertjunction.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "advertserve.com": {
         "epoch": "1676073600",
@@ -3760,9 +3760,9 @@
         "state": "future"
     },
     "air-tran.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "aircanad.com": {
         "epoch": "1606003200",
