@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "aaabill.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "aabe3b.se": {
@@ -1380,9 +1380,9 @@
         "state": "future"
     },
     "abrp.net": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "absolut-series.com": {
         "epoch": "1574121600",
