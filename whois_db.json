@@ -4635,8 +4635,8 @@
         "state": "future"
     },
     "anti-virus-removal.info": {
-        "epoch": "1569715200",
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "anti-viruses.net": {
@@ -4735,9 +4735,9 @@
         "state": "future"
     },
     "antivirus-scanner.com": {
-        "epoch": "1569715200",
+        "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "antivirus-security.net": {
         "epoch": "1579046400",
