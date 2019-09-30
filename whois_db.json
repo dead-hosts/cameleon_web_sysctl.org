@@ -3670,9 +3670,9 @@
         "state": "future"
     },
     "agosar.com": {
-        "epoch": "1569715200",
+        "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "agp-one.net": {
         "epoch": "1581120000",
@@ -3960,8 +3960,8 @@
         "state": "future"
     },
     "all-ru.net": {
-        "epoch": "1569715200",
-        "expiration_date": "29-sep-2019",
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "all4best.com": {
