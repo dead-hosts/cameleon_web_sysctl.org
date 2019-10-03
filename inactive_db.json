@@ -1968,7 +1968,6 @@
             "ad.walla.co.il": "INACTIVE",
             "ad.xtendmedia.com": "INACTIVE",
             "ads-a-darwin.hulu.com": "INACTIVE",
-            "ads.24.com": "INACTIVE",
             "ads.adhub.co.nz": "INACTIVE",
             "ads.admaxasia.com": "INACTIVE",
             "ads.adonion.com": "INACTIVE",
@@ -2067,8 +2066,6 @@
             "ads.web.cs.com": "INACTIVE",
             "ads.xxxbunker.com": "INACTIVE",
             "ads.zamunda.net": "INACTIVE",
-            "ads1.cricbuzz.com": "INACTIVE",
-            "ads1.nexdra.com": "INACTIVE",
             "ads2.victoriaadvocate.com": "INACTIVE",
             "ads2.zamunda.net": "INACTIVE",
             "ads3.freebannertrade.com": "INACTIVE",
@@ -3885,7 +3882,10 @@
             "admin.targetad.net": "INACTIVE",
             "admp-tc.iltalehti.fi": "INACTIVE",
             "admtpmp127.adsk2.co": "INACTIVE",
-            "adrevenue.findwhat.com": "INACTIVE"
+            "adrevenue.findwhat.com": "INACTIVE",
+            "ads.24.com": "INACTIVE",
+            "ads1.cricbuzz.com": "INACTIVE",
+            "ads1.nexdra.com": "INACTIVE"
         }
     }
 }
