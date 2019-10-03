@@ -1964,9 +1964,6 @@
             "a.stern.de": "INACTIVE",
             "a.thoughtleadr.com": "INACTIVE",
             "a.visualrevenue.com": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE",
-            "ad.ezcybersearch.com": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
             "ad.inmatads.info": "INACTIVE",
             "ad.it.chilinext.com": "INACTIVE",
             "ad.jumbaexchange.com": "INACTIVE",
@@ -1976,8 +1973,6 @@
             "ad.vuiads.net": "INACTIVE",
             "ad.walla.co.il": "INACTIVE",
             "ad.xtendmedia.com": "INACTIVE",
-            "adflash.affairsclub.com": "INACTIVE",
-            "adg.bzgint.com": "INACTIVE",
             "adimage.asia1.com.sg": "INACTIVE",
             "adimages.scrippsnetworks.com": "INACTIVE",
             "adindex.laweekly.com": "INACTIVE",
@@ -3606,6 +3601,9 @@
             "ad.db3nf.com": "INACTIVE",
             "ad.dumedia.ru": "INACTIVE",
             "ad.es.chilinext.com": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE",
+            "ad.ezcybersearch.com": "INACTIVE",
+            "ad.globe7.com": "INACTIVE",
             "ad0.ezcybersearch.com": "INACTIVE",
             "ad00.ezcybersearch.com": "INACTIVE",
             "ad01.ezcybersearch.com": "INACTIVE",
@@ -3885,7 +3883,9 @@
             "adb.nikkei.co.jp": "INACTIVE",
             "adcdn.33universal.com": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
-            "adds.misiamoiatdom.com": "INACTIVE"
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "adflash.affairsclub.com": "INACTIVE",
+            "adg.bzgint.com": "INACTIVE"
         }
     }
 }
