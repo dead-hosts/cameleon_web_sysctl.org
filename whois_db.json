@@ -4130,9 +4130,9 @@
         "state": "future"
     },
     "allstats4u.com": {
-        "epoch": "1570406400",
+        "epoch": 1570406400,
         "expiration_date": "07-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "allteenmodel.com": {
         "epoch": 1593129600,
@@ -4215,8 +4215,8 @@
         "state": "future"
     },
     "altajeux.com": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "altavistaa.com": {
