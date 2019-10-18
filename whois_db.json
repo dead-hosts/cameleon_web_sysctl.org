@@ -755,9 +755,9 @@
         "state": "future"
     },
     "411classifieds.com": {
-        "epoch": "1571356800",
+        "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "411debtsolutions.com": {
         "epoch": 1597363200,
@@ -1175,9 +1175,9 @@
         "state": "future"
     },
     "a14k.com": {
-        "epoch": "1571356800",
+        "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "a1finder.com": {
         "epoch": "1585180800",
@@ -1890,8 +1890,8 @@
         "state": "future"
     },
     "adclick.ru": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "adclickservice.com": {
@@ -2020,8 +2020,8 @@
         "state": "future"
     },
     "adfeat.com": {
-        "epoch": "1570752000",
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "adflight.com": {
@@ -2235,8 +2235,8 @@
         "state": "future"
     },
     "admex.com": {
-        "epoch": "1570406400",
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "admigo.ru": {
