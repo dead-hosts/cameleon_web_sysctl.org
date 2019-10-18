@@ -1927,1454 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1571348214": {
-            "005.free-counter.co.uk": "INVALID"
-        },
-        "1571348215": {
-            "006.free-counter.co.uk": "INVALID",
-            "007.free-counter.co.uk": "INVALID",
-            "008.free-counter.co.uk": "INVALID",
-            "008.free-counters.co.uk": "INVALID"
-        },
-        "1571348216": {
-            "011707160008.c.mystat-in.net": "INVALID"
-        },
-        "1571348217": {
-            "039068a.dialer-select.com": "INVALID",
-            "0532a9.r.axf8.net": "INVALID",
-            "061606084448.c.mystat-in.net": "INVALID",
-            "064bdf.r.axf8.net": "INVALID"
-        },
-        "1571348218": {
-            "070806142521.c.mystat-in.net": "INVALID",
-            "08.185.87.0.liveadvert.com": "INVALID",
-            "08.185.87.00.liveadvert.com": "INVALID",
-            "08.185.87.01.liveadvert.com": "INVALID",
-            "08.185.87.02.liveadvert.com": "INVALID",
-            "08.185.87.03.liveadvert.com": "INVALID",
-            "08.185.87.04.liveadvert.com": "INVALID",
-            "08.185.87.05.liveadvert.com": "INVALID",
-            "08.185.87.06.liveadvert.com": "INVALID",
-            "08.185.87.07.liveadvert.com": "INVALID",
-            "08.185.87.08.liveadvert.com": "INVALID",
-            "08.185.87.09.liveadvert.com": "INVALID",
-            "08.185.87.100.liveadvert.com": "INVALID"
-        },
-        "1571348219": {
-            "08.185.87.10.liveadvert.com": "INVALID",
-            "08.185.87.101.liveadvert.com": "INVALID",
-            "08.185.87.103.liveadvert.com": "INVALID",
-            "08.185.87.104.liveadvert.com": "INVALID",
-            "08.185.87.105.liveadvert.com": "INVALID",
-            "08.185.87.106.liveadvert.com": "INVALID",
-            "08.185.87.107.liveadvert.com": "INVALID",
-            "08.185.87.108.liveadvert.com": "INVALID",
-            "08.185.87.109.liveadvert.com": "INVALID",
-            "08.185.87.11.liveadvert.com": "INVALID",
-            "08.185.87.110.liveadvert.com": "INVALID",
-            "08.185.87.111.liveadvert.com": "INVALID",
-            "08.185.87.113.liveadvert.com": "INVALID",
-            "08.185.87.114.liveadvert.com": "INVALID",
-            "08.185.87.115.liveadvert.com": "INVALID",
-            "08.185.87.116.liveadvert.com": "INVALID",
-            "08.185.87.117.liveadvert.com": "INVALID",
-            "08.185.87.118.liveadvert.com": "INVALID",
-            "08.185.87.119.liveadvert.com": "INVALID"
-        },
-        "1571348220": {
-            "08.185.87.13.liveadvert.com": "INVALID",
-            "08.185.87.130.liveadvert.com": "INVALID",
-            "08.185.87.131.liveadvert.com": "INVALID",
-            "08.185.87.133.liveadvert.com": "INVALID",
-            "08.185.87.134.liveadvert.com": "INVALID",
-            "08.185.87.135.liveadvert.com": "INVALID",
-            "08.185.87.136.liveadvert.com": "INVALID",
-            "08.185.87.137.liveadvert.com": "INVALID",
-            "08.185.87.138.liveadvert.com": "INVALID",
-            "08.185.87.139.liveadvert.com": "INVALID",
-            "08.185.87.140.liveadvert.com": "INVALID",
-            "08.185.87.141.liveadvert.com": "INVALID",
-            "08.185.87.143.liveadvert.com": "INVALID",
-            "08.185.87.144.liveadvert.com": "INVALID",
-            "08.185.87.145.liveadvert.com": "INVALID",
-            "08.185.87.146.liveadvert.com": "INVALID",
-            "08.185.87.147.liveadvert.com": "INVALID",
-            "08.185.87.148.liveadvert.com": "INVALID"
-        },
-        "1571348221": {
-            "08.185.87.14.liveadvert.com": "INVALID",
-            "08.185.87.149.liveadvert.com": "INVALID",
-            "08.185.87.15.liveadvert.com": "INVALID",
-            "08.185.87.150.liveadvert.com": "INVALID",
-            "08.185.87.151.liveadvert.com": "INVALID",
-            "08.185.87.153.liveadvert.com": "INVALID",
-            "08.185.87.154.liveadvert.com": "INVALID",
-            "08.185.87.155.liveadvert.com": "INVALID",
-            "08.185.87.156.liveadvert.com": "INVALID",
-            "08.185.87.157.liveadvert.com": "INVALID",
-            "08.185.87.158.liveadvert.com": "INVALID",
-            "08.185.87.159.liveadvert.com": "INVALID",
-            "08.185.87.160.liveadvert.com": "INVALID",
-            "08.185.87.161.liveadvert.com": "INVALID",
-            "08.185.87.163.liveadvert.com": "INVALID",
-            "08.185.87.164.liveadvert.com": "INVALID",
-            "08.185.87.165.liveadvert.com": "INVALID",
-            "08.185.87.166.liveadvert.com": "INVALID"
-        },
-        "1571348222": {
-            "08.185.87.16.liveadvert.com": "INVALID",
-            "08.185.87.167.liveadvert.com": "INVALID",
-            "08.185.87.168.liveadvert.com": "INVALID",
-            "08.185.87.169.liveadvert.com": "INVALID",
-            "08.185.87.17.liveadvert.com": "INVALID",
-            "08.185.87.170.liveadvert.com": "INVALID",
-            "08.185.87.171.liveadvert.com": "INVALID",
-            "08.185.87.173.liveadvert.com": "INVALID",
-            "08.185.87.174.liveadvert.com": "INVALID",
-            "08.185.87.175.liveadvert.com": "INVALID",
-            "08.185.87.176.liveadvert.com": "INVALID",
-            "08.185.87.177.liveadvert.com": "INVALID",
-            "08.185.87.178.liveadvert.com": "INVALID",
-            "08.185.87.179.liveadvert.com": "INVALID",
-            "08.185.87.180.liveadvert.com": "INVALID",
-            "08.185.87.181.liveadvert.com": "INVALID",
-            "08.185.87.183.liveadvert.com": "INVALID",
-            "08.185.87.184.liveadvert.com": "INVALID"
-        },
-        "1571348223": {
-            "08.185.87.1.liveadvert.com": "INVALID",
-            "08.185.87.18.liveadvert.com": "INVALID",
-            "08.185.87.185.liveadvert.com": "INVALID",
-            "08.185.87.186.liveadvert.com": "INVALID",
-            "08.185.87.187.liveadvert.com": "INVALID",
-            "08.185.87.188.liveadvert.com": "INVALID",
-            "08.185.87.189.liveadvert.com": "INVALID",
-            "08.185.87.19.liveadvert.com": "INVALID",
-            "08.185.87.190.liveadvert.com": "INVALID",
-            "08.185.87.191.liveadvert.com": "INVALID",
-            "08.185.87.193.liveadvert.com": "INVALID",
-            "08.185.87.194.liveadvert.com": "INVALID",
-            "08.185.87.195.liveadvert.com": "INVALID",
-            "08.185.87.196.liveadvert.com": "INVALID",
-            "08.185.87.197.liveadvert.com": "INVALID",
-            "08.185.87.198.liveadvert.com": "INVALID",
-            "08.185.87.199.liveadvert.com": "INVALID",
-            "08.185.87.30.liveadvert.com": "INVALID",
-            "08.185.87.31.liveadvert.com": "INVALID"
-        },
-        "1571348224": {
-            "08.185.87.3.liveadvert.com": "INVALID",
-            "08.185.87.33.liveadvert.com": "INVALID",
-            "08.185.87.34.liveadvert.com": "INVALID",
-            "08.185.87.35.liveadvert.com": "INVALID",
-            "08.185.87.36.liveadvert.com": "INVALID",
-            "08.185.87.37.liveadvert.com": "INVALID",
-            "08.185.87.38.liveadvert.com": "INVALID",
-            "08.185.87.39.liveadvert.com": "INVALID",
-            "08.185.87.40.liveadvert.com": "INVALID",
-            "08.185.87.41.liveadvert.com": "INVALID",
-            "08.185.87.43.liveadvert.com": "INVALID",
-            "08.185.87.44.liveadvert.com": "INVALID",
-            "08.185.87.45.liveadvert.com": "INVALID",
-            "08.185.87.46.liveadvert.com": "INVALID",
-            "08.185.87.47.liveadvert.com": "INVALID",
-            "08.185.87.48.liveadvert.com": "INVALID"
-        },
-        "1571348225": {
-            "08.185.87.4.liveadvert.com": "INVALID",
-            "08.185.87.49.liveadvert.com": "INVALID",
-            "08.185.87.5.liveadvert.com": "INVALID",
-            "08.185.87.50.liveadvert.com": "INVALID",
-            "08.185.87.51.liveadvert.com": "INVALID",
-            "08.185.87.53.liveadvert.com": "INVALID",
-            "08.185.87.54.liveadvert.com": "INVALID",
-            "08.185.87.55.liveadvert.com": "INVALID",
-            "08.185.87.56.liveadvert.com": "INVALID",
-            "08.185.87.57.liveadvert.com": "INVALID",
-            "08.185.87.58.liveadvert.com": "INVALID",
-            "08.185.87.59.liveadvert.com": "INVALID",
-            "08.185.87.60.liveadvert.com": "INVALID",
-            "08.185.87.61.liveadvert.com": "INVALID",
-            "08.185.87.63.liveadvert.com": "INVALID",
-            "08.185.87.64.liveadvert.com": "INVALID",
-            "08.185.87.65.liveadvert.com": "INVALID",
-            "08.185.87.66.liveadvert.com": "INVALID",
-            "08.185.87.67.liveadvert.com": "INVALID"
-        },
-        "1571348226": {
-            "08.185.87.6.liveadvert.com": "INVALID",
-            "08.185.87.68.liveadvert.com": "INVALID",
-            "08.185.87.69.liveadvert.com": "INVALID",
-            "08.185.87.7.liveadvert.com": "INVALID",
-            "08.185.87.70.liveadvert.com": "INVALID",
-            "08.185.87.71.liveadvert.com": "INVALID",
-            "08.185.87.73.liveadvert.com": "INVALID",
-            "08.185.87.74.liveadvert.com": "INVALID",
-            "08.185.87.75.liveadvert.com": "INVALID",
-            "08.185.87.76.liveadvert.com": "INVALID",
-            "08.185.87.77.liveadvert.com": "INVALID",
-            "08.185.87.78.liveadvert.com": "INVALID",
-            "08.185.87.79.liveadvert.com": "INVALID",
-            "08.185.87.80.liveadvert.com": "INVALID",
-            "08.185.87.81.liveadvert.com": "INVALID",
-            "08.185.87.83.liveadvert.com": "INVALID",
-            "08.185.87.84.liveadvert.com": "INVALID",
-            "08.185.87.85.liveadvert.com": "INVALID"
-        },
-        "1571348227": {
-            "08.185.87.8.liveadvert.com": "INVALID",
-            "08.185.87.86.liveadvert.com": "INVALID",
-            "08.185.87.87.liveadvert.com": "INVALID",
-            "08.185.87.88.liveadvert.com": "INVALID",
-            "08.185.87.89.liveadvert.com": "INVALID",
-            "08.185.87.9.liveadvert.com": "INVALID",
-            "08.185.87.90.liveadvert.com": "INVALID",
-            "08.185.87.91.liveadvert.com": "INVALID",
-            "08.185.87.93.liveadvert.com": "INVALID",
-            "08.185.87.94.liveadvert.com": "INVALID",
-            "08.185.87.95.liveadvert.com": "INVALID",
-            "08.185.87.96.liveadvert.com": "INVALID",
-            "08.185.87.97.liveadvert.com": "INVALID",
-            "08.185.87.98.liveadvert.com": "INVALID",
-            "08.185.87.99.liveadvert.com": "INVALID"
-        },
-        "1571348228": {
-            "090906042103.c.mystat-in.net": "INVALID",
-            "092706152958.c.mystat-in.net": "INVALID",
-            "093qpeuqpmz6ebfa.com": "INVALID"
-        },
-        "1571348229": {
-            "0aaa.com": "INVALID",
-            "0c9d8370d.se": "INVALID"
-        },
-        "1571348230": {
-            "0.r.msn.com": "INVALID",
-            "0cj.net": "INVALID",
-            "0d7292.r.axf8.net": "INVALID",
-            "0f36f3.r.axf8.net": "INVALID"
-        },
-        "1571348231": {
-            "0.start.bz": "INVALID",
-            "0xsearch.com": "INVALID",
-            "10006.hittail.com": "INVALID",
-            "100065.hittail.com": "INVALID",
-            "10016.searchmiracle.com": "INVALID"
-        },
-        "1571348232": {
-            "100tosdefotos.com": "INVALID",
-            "10168.hittail.com": "INVALID",
-            "1018d7.r.axf8.net": "INVALID"
-        },
-        "1571348233": {
-            "102.112.207.net": "INVALID",
-            "102.112.2o7.net": "INVALID",
-            "102.122.2o7.net": "INVALID",
-            "102106151057.c.mystat-in.net": "INVALID",
-            "103532.hittail.com": "INVALID",
-            "10394-127.ampxchange.com": "INVALID",
-            "10394-2468.ampxchange.com": "INVALID",
-            "10394-4254.ampxchange.com": "INVALID"
-        },
-        "1571348234": {
-            "10.6.87.194.dynamic.dol.ru": "INVALID",
-            "106242.hittail.com": "INVALID",
-            "108411.hittail.com": "INVALID",
-            "10best.us.intellitxt.com": "INVALID",
-            "10bestsearch.com": "INVALID",
-            "10xhellometro.112.2o7.net": "INVALID"
-        },
-        "1571348235": {
-            "1105governmentinformationgroup.122.2o7.net": "INVALID",
-            "112006133326.c.mystat-in.net": "INVALID"
-        },
-        "1571348236": {
-            "117.mylongtail.com": "INVALID",
-            "11954.filter.bullhornsearch.com": "INVALID"
-        },
-        "1571348244": {
-            "11qe.com": "INVALID",
-            "121807150325.c.mystat-in.net": "INVALID",
-            "122.2o7.net": "INVALID"
-        },
-        "1571348245": {
-            "122907224924.c.mystat-in.net": "INVALID",
-            "123appz.com": "INVALID",
-            "123counter.mycomputer.com": "INVALID",
-            "123counter.superstats.com": "INVALID"
-        },
-        "1571348246": {
-            "123mania.com": "INVALID",
-            "123p29404.sbvr.com": "INVALID",
-            "124365.com": "INVALID",
-            "1262.hittail.com": "INVALID",
-            "1274.mediatraffic.com": "INVALID",
-            "1278725189.pub.ezanga.com": "INVALID",
-            "12877.hittail.com": "INVALID"
-        },
-        "1571348247": {
-            "131922.131.links4trade.com": "INVALID",
-            "13223.hittail.com": "INVALID",
-            "14228.hittail.com": "INVALID",
-            "1435575.fls.doubleclick.net": "INVALID"
-        },
-        "1571348255": {
-            "143fuck.com": "INVALID",
-            "145-ct.c3tag.com": "INVALID",
-            "148.xg4ken.com": "INVALID"
-        },
-        "1571348256": {
-            "15141.hittail.com": "INVALID",
-            "1559.stats.misstrends.com": "INVALID",
-            "15628.hittail.com": "INVALID",
-            "15694.hittail.com": "INVALID",
-            "15minadlt.hit.gemius.pl": "INVALID"
-        },
-        "1571348257": {
-            "162.6.87.194.dynamic.dol.ru": "INVALID",
-            "16565.hittail.com": "INVALID"
-        },
-        "1571348258": {
-            "1800.stats.misstrends.com": "INVALID"
-        },
-        "1571348259": {
-            "1867.stats.misstrends.com": "INVALID",
-            "1901.nordstrom.com": "INVALID",
-            "19097.hittail.com": "INVALID",
-            "192.168.122.2o7.net": "INVALID",
-            "19500.hittail.com": "INVALID",
-            "19533.hittail.com": "INVALID",
-            "1au.cqcounter.com": "INVALID"
-        },
-        "1571348260": {
-            "1bb261.r.axf8.net": "INVALID",
-            "1bluemountain.com": "INVALID",
-            "1bm.cqcounter.com": "INVALID",
-            "1ca.cqcounter.com": "INVALID"
-        },
-        "1571348261": {
-            "1.cataloc.msk.ru": "INVALID",
-            "1ce18.cash-ddt.net": "INVALID",
-            "1de.cqcounter.com": "INVALID",
-            "1es.cqcounter.com": "INVALID"
-        },
-        "1571348262": {
-            "1.googlenews.xorg.pl": "INVALID",
-            "1.hao929.cn": "INVALID",
-            "1fr.cqcounter.com": "INVALID",
-            "1hentaiporntube.com": "INVALID"
-        },
-        "1571348263": {
-            "1.im.cz": "INVALID",
-            "1.sharkadnetwork.com": "INVALID",
-            "1in.cqcounter.com": "INVALID",
-            "1it.cqcounter.com": "INVALID",
-            "1jo.cqcounter.com": "INVALID",
-            "1nl.cqcounter.com": "INVALID"
-        },
-        "1571348264": {
-            "1src.us.intellitxt.com": "INVALID",
-            "1up.us.intellitxt.com": "INVALID",
-            "1xxx.cqcounter.com": "INVALID",
-            "1zabslwvn538n4i5tcjl.com": "INVALID"
-        },
-        "1571348265": {
-            "2000.2.links4trade.com": "INVALID",
-            "202.6.87.194.dynamic.dol.ru": "INVALID",
-            "208.185.87.100.liveadvert.com": "INVALID",
-            "208.185.87.101.liveadvert.com": "INVALID",
-            "208.185.87.102.liveadvert.com": "INVALID",
-            "208.185.87.103.liveadvert.com": "INVALID",
-            "208.185.87.104.liveadvert.com": "INVALID",
-            "208.185.87.105.liveadvert.com": "INVALID",
-            "208.185.87.106.liveadvert.com": "INVALID",
-            "208.185.87.107.liveadvert.com": "INVALID",
-            "208.185.87.108.liveadvert.com": "INVALID"
-        },
-        "1571348266": {
-            "208.185.87.10.liveadvert.com": "INVALID",
-            "208.185.87.109.liveadvert.com": "INVALID",
-            "208.185.87.11.liveadvert.com": "INVALID",
-            "208.185.87.110.liveadvert.com": "INVALID",
-            "208.185.87.111.liveadvert.com": "INVALID",
-            "208.185.87.112.liveadvert.com": "INVALID",
-            "208.185.87.113.liveadvert.com": "INVALID",
-            "208.185.87.114.liveadvert.com": "INVALID",
-            "208.185.87.115.liveadvert.com": "INVALID",
-            "208.185.87.116.liveadvert.com": "INVALID",
-            "208.185.87.117.liveadvert.com": "INVALID",
-            "208.185.87.118.liveadvert.com": "INVALID",
-            "208.185.87.119.liveadvert.com": "INVALID",
-            "208.185.87.120.liveadvert.com": "INVALID",
-            "208.185.87.121.liveadvert.com": "INVALID"
-        },
-        "1571348267": {
-            "208.185.87.12.liveadvert.com": "INVALID",
-            "208.185.87.122.liveadvert.com": "INVALID",
-            "208.185.87.123.liveadvert.com": "INVALID",
-            "208.185.87.124.liveadvert.com": "INVALID",
-            "208.185.87.125.liveadvert.com": "INVALID",
-            "208.185.87.126.liveadvert.com": "INVALID",
-            "208.185.87.127.liveadvert.com": "INVALID",
-            "208.185.87.128.liveadvert.com": "INVALID",
-            "208.185.87.129.liveadvert.com": "INVALID",
-            "208.185.87.130.liveadvert.com": "INVALID",
-            "208.185.87.131.liveadvert.com": "INVALID",
-            "208.185.87.132.liveadvert.com": "INVALID",
-            "208.185.87.133.liveadvert.com": "INVALID",
-            "208.185.87.134.liveadvert.com": "INVALID",
-            "208.185.87.135.liveadvert.com": "INVALID",
-            "208.185.87.136.liveadvert.com": "INVALID",
-            "208.185.87.137.liveadvert.com": "INVALID"
-        },
-        "1571348268": {
-            "208.185.87.13.liveadvert.com": "INVALID",
-            "208.185.87.138.liveadvert.com": "INVALID",
-            "208.185.87.139.liveadvert.com": "INVALID",
-            "208.185.87.14.liveadvert.com": "INVALID",
-            "208.185.87.140.liveadvert.com": "INVALID",
-            "208.185.87.141.liveadvert.com": "INVALID",
-            "208.185.87.142.liveadvert.com": "INVALID",
-            "208.185.87.143.liveadvert.com": "INVALID",
-            "208.185.87.144.liveadvert.com": "INVALID",
-            "208.185.87.145.liveadvert.com": "INVALID",
-            "208.185.87.146.liveadvert.com": "INVALID",
-            "208.185.87.147.liveadvert.com": "INVALID",
-            "208.185.87.148.liveadvert.com": "INVALID",
-            "208.185.87.149.liveadvert.com": "INVALID",
-            "208.185.87.150.liveadvert.com": "INVALID",
-            "208.185.87.151.liveadvert.com": "INVALID",
-            "208.185.87.152.liveadvert.com": "INVALID"
-        },
-        "1571348269": {
-            "208.185.87.15.liveadvert.com": "INVALID",
-            "208.185.87.153.liveadvert.com": "INVALID",
-            "208.185.87.154.liveadvert.com": "INVALID",
-            "208.185.87.155.liveadvert.com": "INVALID",
-            "208.185.87.156.liveadvert.com": "INVALID",
-            "208.185.87.157.liveadvert.com": "INVALID",
-            "208.185.87.158.liveadvert.com": "INVALID",
-            "208.185.87.159.liveadvert.com": "INVALID",
-            "208.185.87.160.liveadvert.com": "INVALID",
-            "208.185.87.161.liveadvert.com": "INVALID",
-            "208.185.87.162.liveadvert.com": "INVALID",
-            "208.185.87.163.liveadvert.com": "INVALID",
-            "208.185.87.164.liveadvert.com": "INVALID",
-            "208.185.87.165.liveadvert.com": "INVALID",
-            "208.185.87.166.liveadvert.com": "INVALID",
-            "208.185.87.167.liveadvert.com": "INVALID"
-        },
-        "1571348270": {
-            "208.185.87.16.liveadvert.com": "INVALID",
-            "208.185.87.168.liveadvert.com": "INVALID",
-            "208.185.87.169.liveadvert.com": "INVALID",
-            "208.185.87.17.liveadvert.com": "INVALID",
-            "208.185.87.170.liveadvert.com": "INVALID",
-            "208.185.87.171.liveadvert.com": "INVALID",
-            "208.185.87.172.liveadvert.com": "INVALID",
-            "208.185.87.173.liveadvert.com": "INVALID",
-            "208.185.87.174.liveadvert.com": "INVALID",
-            "208.185.87.175.liveadvert.com": "INVALID",
-            "208.185.87.176.liveadvert.com": "INVALID",
-            "208.185.87.177.liveadvert.com": "INVALID",
-            "208.185.87.178.liveadvert.com": "INVALID",
-            "208.185.87.179.liveadvert.com": "INVALID",
-            "208.185.87.180.liveadvert.com": "INVALID",
-            "208.185.87.181.liveadvert.com": "INVALID",
-            "208.185.87.182.liveadvert.com": "INVALID"
-        },
-        "1571348271": {
-            "208.185.87.18.liveadvert.com": "INVALID",
-            "208.185.87.183.liveadvert.com": "INVALID",
-            "208.185.87.184.liveadvert.com": "INVALID",
-            "208.185.87.185.liveadvert.com": "INVALID",
-            "208.185.87.186.liveadvert.com": "INVALID",
-            "208.185.87.187.liveadvert.com": "INVALID",
-            "208.185.87.188.liveadvert.com": "INVALID",
-            "208.185.87.189.liveadvert.com": "INVALID",
-            "208.185.87.190.liveadvert.com": "INVALID",
-            "208.185.87.191.liveadvert.com": "INVALID",
-            "208.185.87.192.liveadvert.com": "INVALID",
-            "208.185.87.193.liveadvert.com": "INVALID",
-            "208.185.87.194.liveadvert.com": "INVALID",
-            "208.185.87.195.liveadvert.com": "INVALID",
-            "208.185.87.196.liveadvert.com": "INVALID",
-            "208.185.87.197.liveadvert.com": "INVALID"
-        },
-        "1571348272": {
-            "208.185.87.1.liveadvert.com": "INVALID",
-            "208.185.87.19.liveadvert.com": "INVALID",
-            "208.185.87.198.liveadvert.com": "INVALID",
-            "208.185.87.199.liveadvert.com": "INVALID",
-            "208.185.87.20.liveadvert.com": "INVALID",
-            "208.185.87.200.liveadvert.com": "INVALID",
-            "208.185.87.201.liveadvert.com": "INVALID",
-            "208.185.87.202.liveadvert.com": "INVALID",
-            "208.185.87.203.liveadvert.com": "INVALID",
-            "208.185.87.204.liveadvert.com": "INVALID",
-            "208.185.87.205.liveadvert.com": "INVALID",
-            "208.185.87.206.liveadvert.com": "INVALID",
-            "208.185.87.207.liveadvert.com": "INVALID",
-            "208.185.87.208.liveadvert.com": "INVALID",
-            "208.185.87.209.liveadvert.com": "INVALID",
-            "208.185.87.210.liveadvert.com": "INVALID"
-        },
-        "1571348273": {
-            "208.185.87.21.liveadvert.com": "INVALID",
-            "208.185.87.211.liveadvert.com": "INVALID",
-            "208.185.87.212.liveadvert.com": "INVALID",
-            "208.185.87.213.liveadvert.com": "INVALID",
-            "208.185.87.214.liveadvert.com": "INVALID",
-            "208.185.87.215.liveadvert.com": "INVALID",
-            "208.185.87.216.liveadvert.com": "INVALID",
-            "208.185.87.217.liveadvert.com": "INVALID",
-            "208.185.87.218.liveadvert.com": "INVALID",
-            "208.185.87.219.liveadvert.com": "INVALID",
-            "208.185.87.220.liveadvert.com": "INVALID",
-            "208.185.87.221.liveadvert.com": "INVALID",
-            "208.185.87.222.liveadvert.com": "INVALID",
-            "208.185.87.223.liveadvert.com": "INVALID",
-            "208.185.87.224.liveadvert.com": "INVALID",
-            "208.185.87.225.liveadvert.com": "INVALID",
-            "208.185.87.226.liveadvert.com": "INVALID"
-        },
-        "1571348274": {
-            "208.185.87.22.liveadvert.com": "INVALID",
-            "208.185.87.227.liveadvert.com": "INVALID",
-            "208.185.87.228.liveadvert.com": "INVALID",
-            "208.185.87.229.liveadvert.com": "INVALID",
-            "208.185.87.23.liveadvert.com": "INVALID",
-            "208.185.87.230.liveadvert.com": "INVALID",
-            "208.185.87.231.liveadvert.com": "INVALID",
-            "208.185.87.232.liveadvert.com": "INVALID",
-            "208.185.87.233.liveadvert.com": "INVALID",
-            "208.185.87.234.liveadvert.com": "INVALID",
-            "208.185.87.235.liveadvert.com": "INVALID",
-            "208.185.87.236.liveadvert.com": "INVALID",
-            "208.185.87.237.liveadvert.com": "INVALID",
-            "208.185.87.238.liveadvert.com": "INVALID",
-            "208.185.87.239.liveadvert.com": "INVALID"
-        },
-        "1571348275": {
-            "208.185.87.24.liveadvert.com": "INVALID",
-            "208.185.87.240.liveadvert.com": "INVALID",
-            "208.185.87.241.liveadvert.com": "INVALID",
-            "208.185.87.242.liveadvert.com": "INVALID",
-            "208.185.87.243.liveadvert.com": "INVALID",
-            "208.185.87.244.liveadvert.com": "INVALID",
-            "208.185.87.245.liveadvert.com": "INVALID",
-            "208.185.87.246.liveadvert.com": "INVALID",
-            "208.185.87.247.liveadvert.com": "INVALID",
-            "208.185.87.248.liveadvert.com": "INVALID",
-            "208.185.87.249.liveadvert.com": "INVALID",
-            "208.185.87.250.liveadvert.com": "INVALID",
-            "208.185.87.251.liveadvert.com": "INVALID",
-            "208.185.87.252.liveadvert.com": "INVALID",
-            "208.185.87.253.liveadvert.com": "INVALID"
-        },
-        "1571348276": {
-            "208.185.87.2.liveadvert.com": "INVALID",
-            "208.185.87.25.liveadvert.com": "INVALID",
-            "208.185.87.254.liveadvert.com": "INVALID",
-            "208.185.87.26.liveadvert.com": "INVALID",
-            "208.185.87.27.liveadvert.com": "INVALID",
-            "208.185.87.28.liveadvert.com": "INVALID",
-            "208.185.87.29.liveadvert.com": "INVALID",
-            "208.185.87.3.liveadvert.com": "INVALID",
-            "208.185.87.30.liveadvert.com": "INVALID",
-            "208.185.87.31.liveadvert.com": "INVALID",
-            "208.185.87.32.liveadvert.com": "INVALID",
-            "208.185.87.33.liveadvert.com": "INVALID",
-            "208.185.87.34.liveadvert.com": "INVALID",
-            "208.185.87.35.liveadvert.com": "INVALID",
-            "208.185.87.36.liveadvert.com": "INVALID",
-            "208.185.87.37.liveadvert.com": "INVALID",
-            "208.185.87.38.liveadvert.com": "INVALID",
-            "208.185.87.39.liveadvert.com": "INVALID"
-        },
-        "1571348277": {
-            "208.185.87.4.liveadvert.com": "INVALID",
-            "208.185.87.40.liveadvert.com": "INVALID",
-            "208.185.87.41.liveadvert.com": "INVALID",
-            "208.185.87.42.liveadvert.com": "INVALID",
-            "208.185.87.43.liveadvert.com": "INVALID",
-            "208.185.87.44.liveadvert.com": "INVALID",
-            "208.185.87.45.liveadvert.com": "INVALID",
-            "208.185.87.46.liveadvert.com": "INVALID",
-            "208.185.87.47.liveadvert.com": "INVALID",
-            "208.185.87.48.liveadvert.com": "INVALID",
-            "208.185.87.49.liveadvert.com": "INVALID",
-            "208.185.87.50.liveadvert.com": "INVALID",
-            "208.185.87.51.liveadvert.com": "INVALID",
-            "208.185.87.52.liveadvert.com": "INVALID",
-            "208.185.87.53.liveadvert.com": "INVALID",
-            "208.185.87.54.liveadvert.com": "INVALID",
-            "208.185.87.55.liveadvert.com": "INVALID"
-        },
-        "1571348278": {
-            "208.185.87.5.liveadvert.com": "INVALID",
-            "208.185.87.56.liveadvert.com": "INVALID",
-            "208.185.87.57.liveadvert.com": "INVALID",
-            "208.185.87.58.liveadvert.com": "INVALID",
-            "208.185.87.59.liveadvert.com": "INVALID",
-            "208.185.87.6.liveadvert.com": "INVALID",
-            "208.185.87.60.liveadvert.com": "INVALID",
-            "208.185.87.61.liveadvert.com": "INVALID",
-            "208.185.87.62.liveadvert.com": "INVALID",
-            "208.185.87.63.liveadvert.com": "INVALID",
-            "208.185.87.64.liveadvert.com": "INVALID",
-            "208.185.87.65.liveadvert.com": "INVALID",
-            "208.185.87.66.liveadvert.com": "INVALID",
-            "208.185.87.67.liveadvert.com": "INVALID",
-            "208.185.87.68.liveadvert.com": "INVALID",
-            "208.185.87.69.liveadvert.com": "INVALID",
-            "208.185.87.70.liveadvert.com": "INVALID",
-            "208.185.87.71.liveadvert.com": "INVALID"
-        },
-        "1571348279": {
-            "208.185.87.7.liveadvert.com": "INVALID",
-            "208.185.87.72.liveadvert.com": "INVALID",
-            "208.185.87.73.liveadvert.com": "INVALID",
-            "208.185.87.74.liveadvert.com": "INVALID",
-            "208.185.87.75.liveadvert.com": "INVALID",
-            "208.185.87.76.liveadvert.com": "INVALID",
-            "208.185.87.77.liveadvert.com": "INVALID",
-            "208.185.87.78.liveadvert.com": "INVALID",
-            "208.185.87.79.liveadvert.com": "INVALID",
-            "208.185.87.80.liveadvert.com": "INVALID",
-            "208.185.87.81.liveadvert.com": "INVALID",
-            "208.185.87.82.liveadvert.com": "INVALID"
-        },
-        "1571348280": {
-            "208.185.87.8.liveadvert.com": "INVALID",
-            "208.185.87.83.liveadvert.com": "INVALID",
-            "208.185.87.84.liveadvert.com": "INVALID",
-            "208.185.87.85.liveadvert.com": "INVALID",
-            "208.185.87.86.liveadvert.com": "INVALID",
-            "208.185.87.87.liveadvert.com": "INVALID",
-            "208.185.87.88.liveadvert.com": "INVALID",
-            "208.185.87.89.liveadvert.com": "INVALID",
-            "208.185.87.90.liveadvert.com": "INVALID",
-            "208.185.87.91.liveadvert.com": "INVALID",
-            "208.185.87.92.liveadvert.com": "INVALID",
-            "208.185.87.93.liveadvert.com": "INVALID",
-            "208.185.87.94.liveadvert.com": "INVALID",
-            "208.185.87.95.liveadvert.com": "INVALID",
-            "208.185.87.96.liveadvert.com": "INVALID",
-            "208.185.87.97.liveadvert.com": "INVALID"
-        },
-        "1571348281": {
-            "208.185.87.9.liveadvert.com": "INVALID",
-            "208.185.87.98.liveadvert.com": "INVALID",
-            "208.185.87.99.liveadvert.com": "INVALID",
-            "20d625b48e.se": "INVALID",
-            "2278.stats.misstrends.com": "INVALID"
-        },
-        "1571348282": {
-            "234x120.adv.vz.ru": "INVALID",
-            "2366.pinoycentral.com": "INVALID",
-            "2391.islafenice.net": "INVALID",
-            "247wallstreet.us.intellitxt.com": "INVALID"
-        },
-        "1571348290": {
-            "24web.nl": "INVALID",
-            "24wrestling.us.intellitxt.com": "INVALID",
-            "2542116.fls.doubleclick.net": "INVALID",
-            "2546.islafenice.net": "INVALID",
-            "2547.islafenice.net": "INVALID"
-        },
-        "1571348291": {
-            "2912a.v.fwmrm.net": "INVALID",
-            "2915d.v.fwmrm.net": "INVALID",
-            "2915dc.v.fwmrm.net": "INVALID"
-        },
-        "1571348292": {
-            "2.googlenews.xorg.pl": "INVALID",
-            "2snaps.us.intellitxt.com": "INVALID",
-            "2spyware.us.intellitxt.com": "INVALID",
-            "317.mylongtail.com": "INVALID"
-        },
-        "1571348300": {
-            "321webmaster.cash4toolbar.com": "INVALID",
-            "327.mylongtail.com": "INVALID",
-            "32d1d3b9c.se": "INVALID",
-            "3642305.fls.doubleclick.net": "INVALID"
-        },
-        "1571348301": {
-            "3.cennter.com": "INVALID",
-            "373.mylongtail.com": "INVALID",
-            "3765329.fls.doubleclick.net": "INVALID",
-            "3wregie.ezakus.net": "INVALID",
-            "404.cjb.net": "INVALID",
-            "404.fuckyoucash.com": "INVALID",
-            "404.funpic.de": "INVALID"
-        },
-        "1571348309": {
-            "404.ragecash.com": "INVALID",
-            "4053494.fls.doubleclick.net": "INVALID",
-            "411commerce.com": "INVALID"
-        },
-        "1571348310": {
-            "4.afs.googleadservices.com": "INVALID",
-            "411mania.us.intellitxt.com": "INVALID",
-            "4184.stats.misstrends.com": "INVALID",
-            "4236808.fls.doubleclick.net": "INVALID",
-            "4360661.fls.doubleclick.net": "INVALID",
-            "4488352.fls.doubleclick.net": "INVALID",
-            "4514783.fls.doubleclick.net": "INVALID",
-            "4684100.fls.doubleclick.net": "INVALID",
-            "4923503.fls.doubleclick.net": "INVALID",
-            "4thegame.uk.intellitxt.com": "INVALID",
-            "4w-wrestling.us.intellitxt.com": "INVALID"
-        },
-        "1571348311": {
-            "4x4review.us.intellitxt.com": "INVALID",
-            "50.6.87.194.dynamic.dol.ru": "INVALID",
-            "505.mylongtail.com": "INVALID",
-            "5131.5.links4trade.com": "INVALID",
-            "5362399.fls.doubleclick.net": "INVALID"
-        },
-        "1571348312": {
-            "540.filost.com": "INVALID",
-            "5582200.fls.doubleclick.net": "INVALID",
-            "582.mylongtail.com": "INVALID",
-            "599.stats.misstrends.com": "INVALID"
-        },
-        "1571348313": {
-            "5d0dd.v.fwmrm.net": "INVALID",
-            "5d427.v.fwmrm.net": "INVALID",
-            "5starsupport.us.intellitxt.com": "INVALID",
-            "602.stats.misstrends.com": "INVALID",
-            "604.stats.misstrends.com": "INVALID",
-            "606.stats.misstrends.com": "INVALID"
-        },
-        "1571348314": {
-            "654.stats.misstrends.com": "INVALID",
-            "66.6.87.194.dynamic.dol.ru": "INVALID",
-            "671.stats.misstrends.com": "INVALID",
-            "680.stats.misstrends.com": "INVALID"
-        },
-        "1571348315": {
-            "699.stats.misstrends.com": "INVALID",
-            "7209235.collect.igodigital.com": "INVALID",
-            "726.stats.misstrends.com": "INVALID",
-            "750.stats.misstrends.com": "INVALID",
-            "79423.analytics.edgekey.net": "INVALID",
-            "79423.analytics.edgesuite.net": "INVALID",
-            "7come11casino.com": "INVALID",
-            "7oo.meibu.com": "INVALID",
-            "7security.info": "INVALID"
-        },
-        "1571348316": {
-            "803.stats.misstrends.com": "INVALID",
-            "879.stats.misstrends.com": "INVALID",
-            "8d6274.t.axf8.net": "INVALID",
-            "90plan.ovh.net": "INVALID",
-            "986.stats.misstrends.com": "INVALID",
-            "9down.us.intellitxt.com": "INVALID",
-            "a01.korrelate.net": "INVALID",
-            "a02.korrelate.net": "INVALID"
-        },
-        "1571348317": {
-            "a.1nimo.com": "INVALID",
-            "a1.g.a.yimg.com": "INVALID",
-            "a12.x-traceur.com": "INVALID",
-            "a15739.tdmy.com": "INVALID",
-            "a1894.tdmy.com": "INVALID",
-            "a20.x-traceur.com": "INVALID",
-            "a207.p.f.qz3.net": "INVALID",
-            "a29628.tdmy.com": "INVALID"
-        },
-        "1571348318": {
-            "a297.g.a.yimg.com": "INVALID",
-            "a32.g.a.yimg.com": "INVALID"
-        },
-        "1571348319": {
-            "a3.g.a.yimg.com": "INVALID",
-            "a37.g.a.yimg.com": "INVALID",
-            "a372.g.a.yimg.com": "INVALID"
-        },
-        "1571348320": {
-            "a.adnium.com": "INVALID",
-            "a45.g.a.yimg.com": "INVALID",
-            "a76.p.f.qz3.net": "INVALID",
-            "aa.connextra.com": "INVALID",
-            "aad73c550c.se": "INVALID"
-        },
-        "1571348321": {
-            "a.adorika.net": "INVALID",
-            "a.adready.com": "INVALID",
-            "a.ads1.msads.net": "INVALID",
-            "a.ads1.msn.com": "INVALID",
-            "a.ads2.msads.net": "INVALID",
-            "a.adserv.cn": "INVALID",
-            "a.adtpix.com": "INVALID",
-            "a.adultentertainmentexpo.com": "INVALID",
-            "a.androidandme.com": "INVALID",
-            "aa-gb.marketgid.com": "INVALID",
-            "aa-gb.mgid.com": "INVALID"
-        },
-        "1571348322": {
-            "a.bf-ad.net": "INVALID",
-            "aa.online-metrix.net": "INVALID",
-            "ab-gb.mgid.com": "INVALID",
-            "ab-nb.marketgid.com": "INVALID",
-            "ab.adpro.com.ua": "INVALID",
-            "abifaq.20m.com": "INVALID",
-            "able2know.us.intellitxt.com": "INVALID",
-            "abnett.hypermart.net": "INVALID",
-            "about.netster.com": "INVALID"
-        },
-        "1571348323": {
-            "ab.vendemore.com": "INVALID",
-            "above-gw.liveadvert.com": "INVALID",
-            "absolutelyfreeeroticstories.com": "INVALID",
-            "abum.axelsfun.com": "INVALID",
-            "ac.adpro.com.ua": "INVALID",
-            "ac.ajur.info": "INVALID",
-            "accuweather.us.intellitxt.com": "INVALID",
-            "ace-lb.advertising.com": "INVALID"
-        },
-        "1571348324": {
-            "ac-gb.mgid.com": "INVALID",
-            "ac-nb.marketgid.com": "INVALID",
-            "ac.eu.angsrvr.com": "INVALID",
-            "ace-tag.advertising.com": "INVALID",
-            "aceshowbiz.us.intellitxt.com": "INVALID",
-            "ackjeeves.com": "INVALID",
-            "aclasscelebs.us.intellitxt.com": "INVALID",
-            "action.media6degrees.com": "INVALID",
-            "actionscript.us.intellitxt.com": "INVALID"
-        },
-        "1571348325": {
-            "activeannonce.com": "INVALID",
-            "activeby.hit.gemius.pl": "INVALID"
-        },
-        "1571348326": {
-            "active.hit.stat24.com": "INVALID",
-            "active.macromedia.com": "INVALID",
-            "activewin.us.intellitxt.com": "INVALID",
-            "activex.matcash.com": "INVALID"
-        },
-        "1571348327": {
-            "a.current.tv": "INVALID",
-            "activity.serving-sys.com": "INVALID",
-            "actualite-de-stars.fr.intellitxt.com": "INVALID"
-        },
-        "1571348328": {
-            "ac.ybinst0.ec.yimg.com": "INVALID",
-            "ac.ybinst1.ec.yimg.com": "INVALID",
-            "ac.ybinst2.ec.yimg.com": "INVALID"
-        },
-        "1571348329": {
-            "ac.ybinst3.ec.yimg.com": "INVALID",
-            "ac.ybinst4.ec.yimg.com": "INVALID",
-            "ac.ybinst5.ec.yimg.com": "INVALID"
-        },
-        "1571348330": {
-            "ac.ybinst6.ec.yimg.com": "INVALID",
-            "ac.ybinst7.ec.yimg.com": "INVALID",
-            "ac.ybinst8.ec.yimg.com": "INVALID",
-            "ac.ybinst9.ec.yimg.com": "INVALID"
-        },
-        "1571348331": {
-            "ad00.ezcybersearch.com": "INVALID",
-            "ad00.hpg.com.br": "INVALID",
-            "ad00.hpg.ig.com.br": "INVALID",
-            "ad00.paycount.com": "INVALID",
-            "ad01.advertise.com": "INVALID"
-        },
-        "1571348332": {
-            "ad01.ezcybersearch.com": "INVALID",
-            "ad01.hpg.com.br": "INVALID",
-            "ad01.hpg.ig.com.br": "INVALID",
-            "ad01.paycount.com": "INVALID"
-        },
-        "1571348333": {
-            "ad03.ezcybersearch.com": "INVALID",
-            "ad03.hpg.com.br": "INVALID",
-            "ad03.hpg.ig.com.br": "INVALID",
-            "ad03.paycount.com": "INVALID"
-        },
-        "1571348334": {
-            "ad04.ezcybersearch.com": "INVALID",
-            "ad04.hpg.com.br": "INVALID",
-            "ad04.hpg.ig.com.br": "INVALID",
-            "ad04.paycount.com": "INVALID",
-            "ad05.ezcybersearch.com": "INVALID"
-        },
-        "1571348335": {
-            "ad05.hpg.com.br": "INVALID",
-            "ad05.hpg.ig.com.br": "INVALID",
-            "ad05.paycount.com": "INVALID",
-            "ad06.ezcybersearch.com": "INVALID",
-            "ad06.hpg.com.br": "INVALID"
-        },
-        "1571348336": {
-            "ad06.hpg.ig.com.br": "INVALID",
-            "ad06.paycount.com": "INVALID",
-            "ad07.ezcybersearch.com": "INVALID",
-            "ad07.hpg.com.br": "INVALID",
-            "ad07.hpg.ig.com.br": "INVALID",
-            "ad07.paycount.com": "INVALID"
-        },
-        "1571348337": {
-            "ad08.ezcybersearch.com": "INVALID",
-            "ad08.hpg.com.br": "INVALID",
-            "ad08.hpg.ig.com.br": "INVALID",
-            "ad08.paycount.com": "INVALID",
-            "ad09.ezcybersearch.com": "INVALID"
-        },
-        "1571348338": {
-            "ad0.bigmir.net": "INVALID",
-            "ad0.ezcybersearch.com": "INVALID",
-            "ad09.hpg.com.br": "INVALID",
-            "ad09.hpg.ig.com.br": "INVALID",
-            "ad09.paycount.com": "INVALID"
-        },
-        "1571348339": {
-            "ad0.hpg.com.br": "INVALID",
-            "ad0.hpg.ig.com.br": "INVALID",
-            "ad0.paycount.com": "INVALID",
-            "ad100.ezcybersearch.com": "INVALID",
-            "ad100.hpg.com.br": "INVALID"
-        },
-        "1571348340": {
-            "ad100.hpg.ig.com.br": "INVALID",
-            "ad100.paycount.com": "INVALID",
-            "ad101.ezcybersearch.com": "INVALID",
-            "ad101.hpg.com.br": "INVALID",
-            "ad101.hpg.ig.com.br": "INVALID",
-            "ad101.paycount.com": "INVALID"
-        },
-        "1571348341": {
-            "ad102.ezcybersearch.com": "INVALID",
-            "ad102.hpg.com.br": "INVALID",
-            "ad102.hpg.ig.com.br": "INVALID",
-            "ad102.paycount.com": "INVALID",
-            "ad103.ezcybersearch.com": "INVALID",
-            "ad103.hpg.com.br": "INVALID"
-        },
-        "1571348342": {
-            "ad103.hpg.ig.com.br": "INVALID",
-            "ad103.paycount.com": "INVALID",
-            "ad104.ezcybersearch.com": "INVALID",
-            "ad104.hpg.com.br": "INVALID",
-            "ad104.hpg.ig.com.br": "INVALID",
-            "ad104.paycount.com": "INVALID"
-        },
-        "1571348343": {
-            "ad105.ezcybersearch.com": "INVALID",
-            "ad105.hpg.com.br": "INVALID",
-            "ad105.hpg.ig.com.br": "INVALID",
-            "ad105.paycount.com": "INVALID",
-            "ad106.ezcybersearch.com": "INVALID"
-        },
-        "1571348344": {
-            "ad106.hpg.com.br": "INVALID",
-            "ad106.hpg.ig.com.br": "INVALID",
-            "ad106.paycount.com": "INVALID",
-            "ad107.ezcybersearch.com": "INVALID",
-            "ad107.hpg.com.br": "INVALID",
-            "ad107.hpg.ig.com.br": "INVALID",
-            "ad107.paycount.com": "INVALID"
-        },
-        "1571348345": {
-            "ad108.ezcybersearch.com": "INVALID",
-            "ad108.hpg.com.br": "INVALID",
-            "ad108.hpg.ig.com.br": "INVALID",
-            "ad108.paycount.com": "INVALID",
-            "ad109.ezcybersearch.com": "INVALID"
-        },
-        "1571348346": {
-            "ad10.bannerbank.ru": "INVALID",
-            "ad109.hpg.com.br": "INVALID",
-            "ad109.hpg.ig.com.br": "INVALID",
-            "ad109.paycount.com": "INVALID"
-        },
-        "1571348347": {
-            "ad10.doubleclick.be": "INVALID",
-            "ad10.ezcybersearch.com": "INVALID",
-            "ad10.hpg.com.br": "INVALID",
-            "ad10.hpg.ig.com.br": "INVALID",
-            "ad10.paycount.com": "INVALID"
-        },
-        "1571348348": {
-            "ad10.play3.de": "INVALID",
-            "ad10.speedbit.com": "INVALID",
-            "ad110.ezcybersearch.com": "INVALID",
-            "ad110.hpg.com.br": "INVALID",
-            "ad110.hpg.ig.com.br": "INVALID",
-            "ad110.paycount.com": "INVALID"
-        },
-        "1571348349": {
-            "ad111.ezcybersearch.com": "INVALID",
-            "ad111.hpg.com.br": "INVALID",
-            "ad111.hpg.ig.com.br": "INVALID",
-            "ad111.paycount.com": "INVALID",
-            "ad112.ezcybersearch.com": "INVALID"
-        },
-        "1571348350": {
-            "ad112.hpg.com.br": "INVALID",
-            "ad112.hpg.ig.com.br": "INVALID",
-            "ad112.paycount.com": "INVALID",
-            "ad113.ezcybersearch.com": "INVALID",
-            "ad113.hpg.com.br": "INVALID",
-            "ad113.paycount.com": "INVALID"
-        },
-        "1571348351": {
-            "ad114.ezcybersearch.com": "INVALID",
-            "ad114.hpg.com.br": "INVALID",
-            "ad114.hpg.ig.com.br": "INVALID",
-            "ad114.paycount.com": "INVALID"
-        },
-        "1571348352": {
-            "ad115.ezcybersearch.com": "INVALID",
-            "ad115.hpg.com.br": "INVALID",
-            "ad115.hpg.ig.com.br": "INVALID",
-            "ad115.paycount.com": "INVALID",
-            "ad116.ezcybersearch.com": "INVALID",
-            "ad116.hpg.com.br": "INVALID"
-        },
-        "1571348353": {
-            "ad116.hpg.ig.com.br": "INVALID",
-            "ad116.paycount.com": "INVALID",
-            "ad117.ezcybersearch.com": "INVALID",
-            "ad117.hpg.com.br": "INVALID",
-            "ad117.hpg.ig.com.br": "INVALID",
-            "ad117.paycount.com": "INVALID"
-        },
-        "1571348354": {
-            "ad118.ezcybersearch.com": "INVALID",
-            "ad118.hpg.com.br": "INVALID",
-            "ad118.hpg.ig.com.br": "INVALID",
-            "ad118.paycount.com": "INVALID",
-            "ad119.ezcybersearch.com": "INVALID"
-        },
-        "1571348355": {
-            "ad11.adfarm1.adition.com": "INVALID",
-            "ad11.bannerbank.ru": "INVALID",
-            "ad11.doubleclick.be": "INVALID",
-            "ad11.ezcybersearch.com": "INVALID",
-            "ad119.hpg.com.br": "INVALID",
-            "ad119.hpg.ig.com.br": "INVALID",
-            "ad119.paycount.com": "INVALID"
-        },
-        "1571348356": {
-            "ad11.hpg.com.br": "INVALID",
-            "ad11.hpg.ig.com.br": "INVALID",
-            "ad11.paycount.com": "INVALID",
-            "ad120.ezcybersearch.com": "INVALID"
-        },
-        "1571348357": {
-            "ad120.hpg.com.br": "INVALID",
-            "ad120.hpg.ig.com.br": "INVALID",
-            "ad120.paycount.com": "INVALID"
-        },
-        "1571348358": {
-            "ad121.ezcybersearch.com": "INVALID",
-            "ad121.hpg.com.br": "INVALID",
-            "ad121.hpg.ig.com.br": "INVALID",
-            "ad121.paycount.com": "INVALID",
-            "ad122.ezcybersearch.com": "INVALID"
-        },
-        "1571348359": {
-            "ad.123ads.nl": "INVALID",
-            "ad122.hpg.com.br": "INVALID",
-            "ad122.hpg.ig.com.br": "INVALID",
-            "ad122.paycount.com": "INVALID",
-            "ad123.ezcybersearch.com": "INVALID",
-            "ad123.hpg.com.br": "INVALID",
-            "ad123.hpg.ig.com.br": "INVALID"
-        },
-        "1571348360": {
-            "ad123.paycount.com": "INVALID",
-            "ad124.ezcybersearch.com": "INVALID",
-            "ad124.hpg.com.br": "INVALID",
-            "ad124.hpg.ig.com.br": "INVALID",
-            "ad124.paycount.com": "INVALID"
-        },
-        "1571348361": {
-            "ad125.ezcybersearch.com": "INVALID",
-            "ad125.hpg.com.br": "INVALID",
-            "ad125.hpg.ig.com.br": "INVALID",
-            "ad125.paycount.com": "INVALID",
-            "ad126.ezcybersearch.com": "INVALID",
-            "ad126.hpg.com.br": "INVALID"
-        },
-        "1571348362": {
-            "ad126.hpg.ig.com.br": "INVALID",
-            "ad126.paycount.com": "INVALID",
-            "ad127.ezcybersearch.com": "INVALID",
-            "ad127.hpg.com.br": "INVALID",
-            "ad127.hpg.ig.com.br": "INVALID",
-            "ad127.paycount.com": "INVALID"
-        },
-        "1571348363": {
-            "ad128.ezcybersearch.com": "INVALID",
-            "ad128.hpg.com.br": "INVALID",
-            "ad128.hpg.ig.com.br": "INVALID",
-            "ad128.paycount.com": "INVALID",
-            "ad129.ezcybersearch.com": "INVALID"
-        },
-        "1571348364": {
-            "ad12.bannerbank.ru": "INVALID",
-            "ad12.doubleclick.be": "INVALID",
-            "ad129.hpg.com.br": "INVALID",
-            "ad129.hpg.ig.com.br": "INVALID",
-            "ad129.paycount.com": "INVALID"
-        },
-        "1571348365": {
-            "ad12.ezcybersearch.com": "INVALID",
-            "ad12.hpg.com.br": "INVALID",
-            "ad12.hpg.ig.com.br": "INVALID",
-            "ad12.paycount.com": "INVALID"
-        },
-        "1571348366": {
-            "ad130.ezcybersearch.com": "INVALID",
-            "ad130.hpg.com.br": "INVALID",
-            "ad130.hpg.ig.com.br": "INVALID",
-            "ad130.paycount.com": "INVALID",
-            "ad131.ezcybersearch.com": "INVALID"
-        },
-        "1571348367": {
-            "ad131.hpg.com.br": "INVALID",
-            "ad131.hpg.ig.com.br": "INVALID",
-            "ad131.paycount.com": "INVALID",
-            "ad131m.adk2.co": "INVALID",
-            "ad132.ezcybersearch.com": "INVALID",
-            "ad132.hpg.com.br": "INVALID",
-            "ad132.hpg.ig.com.br": "INVALID"
-        },
-        "1571348368": {
-            "ad132.paycount.com": "INVALID",
-            "ad132m.adk2.co": "INVALID",
-            "ad133.ezcybersearch.com": "INVALID",
-            "ad133.hpg.com.br": "INVALID",
-            "ad133.hpg.ig.com.br": "INVALID",
-            "ad133.paycount.com": "INVALID"
-        },
-        "1571348369": {
-            "ad134.ezcybersearch.com": "INVALID",
-            "ad134.hpg.com.br": "INVALID",
-            "ad134.hpg.ig.com.br": "INVALID",
-            "ad134.paycount.com": "INVALID",
-            "ad135.ezcybersearch.com": "INVALID",
-            "ad135.hpg.com.br": "INVALID",
-            "ad135.hpg.ig.com.br": "INVALID",
-            "ad135.paycount.com": "INVALID"
-        },
-        "1571348370": {
-            "ad136.ezcybersearch.com": "INVALID",
-            "ad136.hpg.com.br": "INVALID",
-            "ad136.hpg.ig.com.br": "INVALID",
-            "ad136.paycount.com": "INVALID",
-            "ad137.ezcybersearch.com": "INVALID"
-        },
-        "1571348371": {
-            "ad137.hpg.com.br": "INVALID",
-            "ad137.hpg.ig.com.br": "INVALID",
-            "ad137.paycount.com": "INVALID",
-            "ad138.ezcybersearch.com": "INVALID",
-            "ad138.hpg.com.br": "INVALID",
-            "ad138.hpg.ig.com.br": "INVALID"
-        },
-        "1571348372": {
-            "ad13.bannerbank.ru": "INVALID",
-            "ad138.paycount.com": "INVALID",
-            "ad139.ezcybersearch.com": "INVALID",
-            "ad139.hpg.com.br": "INVALID",
-            "ad139.hpg.ig.com.br": "INVALID",
-            "ad139.paycount.com": "INVALID"
-        },
-        "1571348373": {
-            "ad13.doubleclick.be": "INVALID",
-            "ad13.ezcybersearch.com": "INVALID",
-            "ad13.hpg.com.br": "INVALID",
-            "ad13.hpg.ig.com.br": "INVALID",
-            "ad13.paycount.com": "INVALID"
-        },
-        "1571348374": {
-            "ad140.ezcybersearch.com": "INVALID",
-            "ad140.hpg.com.br": "INVALID",
-            "ad140.hpg.ig.com.br": "INVALID",
-            "ad140.paycount.com": "INVALID",
-            "ad141.ezcybersearch.com": "INVALID"
-        },
-        "1571348375": {
-            "ad141.hpg.com.br": "INVALID",
-            "ad141.hpg.ig.com.br": "INVALID",
-            "ad141.paycount.com": "INVALID",
-            "ad142.ezcybersearch.com": "INVALID",
-            "ad142.hpg.com.br": "INVALID",
-            "ad142.hpg.ig.com.br": "INVALID"
-        },
-        "1571348376": {
-            "ad142.paycount.com": "INVALID",
-            "ad143.ezcybersearch.com": "INVALID",
-            "ad143.hpg.com.br": "INVALID",
-            "ad143.hpg.ig.com.br": "INVALID",
-            "ad143.paycount.com": "INVALID"
-        },
-        "1571348377": {
-            "ad144.ezcybersearch.com": "INVALID",
-            "ad144.hpg.com.br": "INVALID",
-            "ad144.hpg.ig.com.br": "INVALID",
-            "ad144.paycount.com": "INVALID",
-            "ad145.ezcybersearch.com": "INVALID"
-        },
-        "1571348378": {
-            "ad145.hpg.com.br": "INVALID",
-            "ad145.hpg.ig.com.br": "INVALID",
-            "ad145.paycount.com": "INVALID",
-            "ad146.ezcybersearch.com": "INVALID",
-            "ad146.hpg.com.br": "INVALID",
-            "ad146.hpg.ig.com.br": "INVALID",
-            "ad146.paycount.com": "INVALID"
-        },
-        "1571348379": {
-            "ad147.ezcybersearch.com": "INVALID",
-            "ad147.hpg.com.br": "INVALID",
-            "ad147.hpg.ig.com.br": "INVALID",
-            "ad147.paycount.com": "INVALID",
-            "ad148.ezcybersearch.com": "INVALID"
-        },
-        "1571348380": {
-            "ad148.hpg.com.br": "INVALID",
-            "ad148.hpg.ig.com.br": "INVALID",
-            "ad148.paycount.com": "INVALID",
-            "ad149.ezcybersearch.com": "INVALID",
-            "ad149.hpg.com.br": "INVALID",
-            "ad149.hpg.ig.com.br": "INVALID",
-            "ad149.paycount.com": "INVALID"
-        },
-        "1571348381": {
-            "ad14.bannerbank.ru": "INVALID",
-            "ad14.doubleclick.be": "INVALID",
-            "ad14.ezcybersearch.com": "INVALID",
-            "ad14.hpg.com.br": "INVALID",
-            "ad14.hpg.ig.com.br": "INVALID"
-        },
-        "1571348382": {
-            "ad14.paycount.com": "INVALID",
-            "ad150.ezcybersearch.com": "INVALID",
-            "ad150.hpg.com.br": "INVALID",
-            "ad150.hpg.ig.com.br": "INVALID",
-            "ad150.paycount.com": "INVALID"
-        },
-        "1571348383": {
-            "ad151.ezcybersearch.com": "INVALID",
-            "ad151.hpg.com.br": "INVALID",
-            "ad151.hpg.ig.com.br": "INVALID",
-            "ad151.paycount.com": "INVALID",
-            "ad152.ezcybersearch.com": "INVALID"
-        },
-        "1571348384": {
-            "ad152.hpg.com.br": "INVALID",
-            "ad152.hpg.ig.com.br": "INVALID",
-            "ad152.paycount.com": "INVALID",
-            "ad153.ezcybersearch.com": "INVALID",
-            "ad153.hpg.com.br": "INVALID",
-            "ad153.hpg.ig.com.br": "INVALID",
-            "ad153.paycount.com": "INVALID"
-        },
-        "1571348385": {
-            "ad154.ezcybersearch.com": "INVALID",
-            "ad154.hpg.com.br": "INVALID",
-            "ad154.hpg.ig.com.br": "INVALID",
-            "ad154.paycount.com": "INVALID",
-            "ad155.ezcybersearch.com": "INVALID"
-        },
-        "1571348386": {
-            "ad155.hpg.com.br": "INVALID",
-            "ad155.hpg.ig.com.br": "INVALID",
-            "ad155.paycount.com": "INVALID",
-            "ad156.ezcybersearch.com": "INVALID",
-            "ad156.hpg.com.br": "INVALID",
-            "ad156.hpg.ig.com.br": "INVALID"
-        },
-        "1571348387": {
-            "ad156.paycount.com": "INVALID",
-            "ad157.ezcybersearch.com": "INVALID",
-            "ad157.hpg.com.br": "INVALID",
-            "ad157.hpg.ig.com.br": "INVALID",
-            "ad157.paycount.com": "INVALID"
-        },
-        "1571348388": {
-            "ad158.ezcybersearch.com": "INVALID",
-            "ad158.hpg.com.br": "INVALID",
-            "ad158.hpg.ig.com.br": "INVALID",
-            "ad158.paycount.com": "INVALID",
-            "ad159.ezcybersearch.com": "INVALID",
-            "ad159.hpg.com.br": "INVALID"
-        },
-        "1571348389": {
-            "ad15.bannerbank.ru": "INVALID",
-            "ad15.doubleclick.be": "INVALID",
-            "ad15.ezcybersearch.com": "INVALID",
-            "ad15.hpg.com.br": "INVALID",
-            "ad159.hpg.ig.com.br": "INVALID",
-            "ad159.paycount.com": "INVALID"
-        },
-        "1571348390": {
-            "ad160.ezcybersearch.com": "INVALID",
-            "ad160.hpg.com.br": "INVALID",
-            "ad161.ezcybersearch.com": "INVALID"
-        },
-        "1571348391": {
-            "ad161.hpg.com.br": "INVALID",
-            "ad162.ezcybersearch.com": "INVALID",
-            "ad162.hpg.com.br": "INVALID",
-            "ad163.ezcybersearch.com": "INVALID"
-        },
-        "1571348392": {
-            "ad163.hpg.com.br": "INVALID",
-            "ad164.ezcybersearch.com": "INVALID",
-            "ad164.hpg.com.br": "INVALID",
-            "ad165.ezcybersearch.com": "INVALID"
-        },
-        "1571348393": {
-            "ad165.hpg.com.br": "INVALID",
-            "ad166.ezcybersearch.com": "INVALID",
-            "ad166.hpg.com.br": "INVALID"
-        },
-        "1571348394": {
-            "ad167.ezcybersearch.com": "INVALID",
-            "ad167.hpg.com.br": "INVALID",
-            "ad167.hpg.ig.com.br": "INVALID",
-            "ad168.ezcybersearch.com": "INVALID",
-            "ad168.hpg.com.br": "INVALID"
-        },
-        "1571348395": {
-            "ad16.bannerbank.ru": "INVALID",
-            "ad16.bb.ru": "INVALID",
-            "ad169.ezcybersearch.com": "INVALID",
-            "ad169.hpg.com.br": "INVALID"
-        },
-        "1571348396": {
-            "ad16.ezcybersearch.com": "INVALID",
-            "ad16.hpg.com.br": "INVALID",
-            "ad170.ezcybersearch.com": "INVALID",
-            "ad170.hpg.com.br": "INVALID"
-        },
-        "1571348397": {
-            "ad171.ezcybersearch.com": "INVALID",
-            "ad171.hpg.com.br": "INVALID",
-            "ad172.ezcybersearch.com": "INVALID",
-            "ad172.hpg.com.br": "INVALID"
-        },
-        "1571348398": {
-            "ad173.ezcybersearch.com": "INVALID",
-            "ad173.hpg.com.br": "INVALID",
-            "ad174.ezcybersearch.com": "INVALID",
-            "ad174.hpg.com.br": "INVALID"
-        },
-        "1571348399": {
-            "ad175.ezcybersearch.com": "INVALID",
-            "ad175.hpg.com.br": "INVALID",
-            "ad176.ezcybersearch.com": "INVALID",
-            "ad176.hpg.com.br": "INVALID"
-        },
-        "1571348400": {
-            "ad177.ezcybersearch.com": "INVALID",
-            "ad177.hpg.com.br": "INVALID",
-            "ad178.ezcybersearch.com": "INVALID"
-        },
-        "1571348401": {
-            "ad17.bannerbank.ru": "INVALID",
-            "ad178.hpg.com.br": "INVALID",
-            "ad179.ezcybersearch.com": "INVALID",
-            "ad179.hpg.com.br": "INVALID"
-        },
-        "1571348402": {
-            "ad17.ezcybersearch.com": "INVALID",
-            "ad17.hpg.com.br": "INVALID",
-            "ad180.ezcybersearch.com": "INVALID",
-            "ad180.hpg.com.br": "INVALID"
-        },
-        "1571348403": {
-            "ad181.ezcybersearch.com": "INVALID",
-            "ad181.hpg.com.br": "INVALID",
-            "ad182.ezcybersearch.com": "INVALID",
-            "ad182.hpg.com.br": "INVALID"
-        },
-        "1571348404": {
-            "ad183.ezcybersearch.com": "INVALID",
-            "ad183.hpg.com.br": "INVALID",
-            "ad184.ezcybersearch.com": "INVALID",
-            "ad184.hpg.com.br": "INVALID"
-        },
-        "1571348405": {
-            "ad185.ezcybersearch.com": "INVALID",
-            "ad185.hpg.com.br": "INVALID",
-            "ad186.ezcybersearch.com": "INVALID",
-            "ad186.hpg.com.br": "INVALID"
-        },
-        "1571348406": {
-            "ad187.ezcybersearch.com": "INVALID",
-            "ad187.hpg.com.br": "INVALID",
-            "ad188.ezcybersearch.com": "INVALID",
-            "ad188.hpg.com.br": "INVALID"
-        },
-        "1571348407": {
-            "ad18.bannerbank.ru": "INVALID",
-            "ad18.ezcybersearch.com": "INVALID",
-            "ad189.ezcybersearch.com": "INVALID",
-            "ad189.hpg.com.br": "INVALID"
-        },
-        "1571348408": {
-            "ad18.hpg.com.br": "INVALID",
-            "ad190.ezcybersearch.com": "INVALID",
-            "ad190.hpg.com.br": "INVALID",
-            "ad191.ezcybersearch.com": "INVALID"
-        },
-        "1571348409": {
-            "ad191.hpg.com.br": "INVALID",
-            "ad192.ezcybersearch.com": "INVALID",
-            "ad192.hpg.com.br": "INVALID",
-            "ad193.ezcybersearch.com": "INVALID"
-        },
-        "1571348410": {
-            "ad193.hpg.com.br": "INVALID",
-            "ad194.ezcybersearch.com": "INVALID",
-            "ad194.hpg.com.br": "INVALID",
-            "ad195.ezcybersearch.com": "INVALID"
-        },
-        "1571348411": {
-            "ad195.hpg.com.br": "INVALID",
-            "ad196.ezcybersearch.com": "INVALID",
-            "ad196.hpg.com.br": "INVALID"
-        },
-        "1571348412": {
-            "ad197.ezcybersearch.com": "INVALID",
-            "ad197.hpg.com.br": "INVALID",
-            "ad198.ezcybersearch.com": "INVALID",
-            "ad198.hpg.com.br": "INVALID"
-        },
-        "1571348413": {
-            "ad1.adfarm1.adition.com": "INVALID",
-            "ad19.ezcybersearch.com": "INVALID",
-            "ad19.hpg.com.br": "INVALID",
-            "ad19.hpg.ig.com.br": "INVALID",
-            "ad199.ezcybersearch.com": "INVALID",
-            "ad199.hpg.com.br": "INVALID"
-        },
-        "1571348414": {
-            "ad1.adtitan.net": "INVALID",
-            "ad1.bannerbank.ru": "INVALID",
-            "ad1.bb.ru": "INVALID",
-            "ad1.dmcmedia.co.kr": "INVALID"
-        },
-        "1571348415": {
-            "ad1.emediate.dk": "INVALID",
-            "ad1.emediate.se": "INVALID",
-            "ad1.ezcybersearch.com": "INVALID",
-            "ad1.hpg.com.br": "INVALID",
-            "ad1.netshelter.net": "INVALID",
-            "ad1.nownews.com": "INVALID",
-            "ad1.virtualave.com": "INVALID"
-        },
         "1571348416": {
-            "ad1.yourmedia.com": "INVALID",
             "ad1.zbads.com": "INVALID",
             "ad200.ezcybersearch.com": "INVALID",
             "ad200.hpg.com.br": "INVALID"
@@ -16141,6 +14694,1610 @@
         },
         "1571434858": {
             "bgw.qsrch.com": "INACTIVE"
+        },
+        "1571437345": {
+            "061606084448.c.mystat-in.net": "INACTIVE"
+        },
+        "1571437347": {
+            "08.185.87.00.liveadvert.com": "INACTIVE",
+            "08.185.87.01.liveadvert.com": "INACTIVE",
+            "08.185.87.02.liveadvert.com": "INACTIVE",
+            "08.185.87.03.liveadvert.com": "INACTIVE"
+        },
+        "1571437348": {
+            "08.185.87.04.liveadvert.com": "INACTIVE",
+            "08.185.87.05.liveadvert.com": "INACTIVE",
+            "08.185.87.06.liveadvert.com": "INACTIVE",
+            "08.185.87.07.liveadvert.com": "INACTIVE",
+            "08.185.87.08.liveadvert.com": "INACTIVE"
+        },
+        "1571437349": {
+            "08.185.87.0.liveadvert.com": "INACTIVE",
+            "08.185.87.09.liveadvert.com": "INACTIVE",
+            "08.185.87.100.liveadvert.com": "INACTIVE",
+            "08.185.87.101.liveadvert.com": "INACTIVE",
+            "08.185.87.103.liveadvert.com": "INACTIVE",
+            "08.185.87.104.liveadvert.com": "INACTIVE"
+        },
+        "1571437350": {
+            "08.185.87.105.liveadvert.com": "INACTIVE",
+            "08.185.87.106.liveadvert.com": "INACTIVE",
+            "08.185.87.107.liveadvert.com": "INACTIVE",
+            "08.185.87.108.liveadvert.com": "INACTIVE",
+            "08.185.87.109.liveadvert.com": "INACTIVE"
+        },
+        "1571437351": {
+            "08.185.87.10.liveadvert.com": "INACTIVE",
+            "08.185.87.110.liveadvert.com": "INACTIVE",
+            "08.185.87.111.liveadvert.com": "INACTIVE",
+            "08.185.87.113.liveadvert.com": "INACTIVE",
+            "08.185.87.114.liveadvert.com": "INACTIVE"
+        },
+        "1571437352": {
+            "08.185.87.115.liveadvert.com": "INACTIVE",
+            "08.185.87.116.liveadvert.com": "INACTIVE",
+            "08.185.87.117.liveadvert.com": "INACTIVE",
+            "08.185.87.118.liveadvert.com": "INACTIVE",
+            "08.185.87.119.liveadvert.com": "INACTIVE"
+        },
+        "1571437353": {
+            "08.185.87.11.liveadvert.com": "INACTIVE",
+            "08.185.87.130.liveadvert.com": "INACTIVE",
+            "08.185.87.131.liveadvert.com": "INACTIVE",
+            "08.185.87.133.liveadvert.com": "INACTIVE",
+            "08.185.87.134.liveadvert.com": "INACTIVE",
+            "08.185.87.135.liveadvert.com": "INACTIVE"
+        },
+        "1571437354": {
+            "08.185.87.13.liveadvert.com": "INACTIVE",
+            "08.185.87.136.liveadvert.com": "INACTIVE",
+            "08.185.87.137.liveadvert.com": "INACTIVE",
+            "08.185.87.138.liveadvert.com": "INACTIVE",
+            "08.185.87.139.liveadvert.com": "INACTIVE"
+        },
+        "1571437355": {
+            "08.185.87.140.liveadvert.com": "INACTIVE",
+            "08.185.87.141.liveadvert.com": "INACTIVE",
+            "08.185.87.143.liveadvert.com": "INACTIVE",
+            "08.185.87.144.liveadvert.com": "INACTIVE",
+            "08.185.87.145.liveadvert.com": "INACTIVE"
+        },
+        "1571437356": {
+            "08.185.87.14.liveadvert.com": "INACTIVE",
+            "08.185.87.146.liveadvert.com": "INACTIVE",
+            "08.185.87.147.liveadvert.com": "INACTIVE",
+            "08.185.87.148.liveadvert.com": "INACTIVE",
+            "08.185.87.149.liveadvert.com": "INACTIVE",
+            "08.185.87.150.liveadvert.com": "INACTIVE"
+        },
+        "1571437357": {
+            "08.185.87.151.liveadvert.com": "INACTIVE",
+            "08.185.87.153.liveadvert.com": "INACTIVE",
+            "08.185.87.154.liveadvert.com": "INACTIVE",
+            "08.185.87.155.liveadvert.com": "INACTIVE",
+            "08.185.87.156.liveadvert.com": "INACTIVE"
+        },
+        "1571437358": {
+            "08.185.87.15.liveadvert.com": "INACTIVE",
+            "08.185.87.157.liveadvert.com": "INACTIVE",
+            "08.185.87.158.liveadvert.com": "INACTIVE",
+            "08.185.87.159.liveadvert.com": "INACTIVE",
+            "08.185.87.160.liveadvert.com": "INACTIVE"
+        },
+        "1571437359": {
+            "08.185.87.161.liveadvert.com": "INACTIVE",
+            "08.185.87.163.liveadvert.com": "INACTIVE",
+            "08.185.87.164.liveadvert.com": "INACTIVE",
+            "08.185.87.165.liveadvert.com": "INACTIVE",
+            "08.185.87.166.liveadvert.com": "INACTIVE",
+            "08.185.87.167.liveadvert.com": "INACTIVE"
+        },
+        "1571437360": {
+            "08.185.87.16.liveadvert.com": "INACTIVE",
+            "08.185.87.168.liveadvert.com": "INACTIVE",
+            "08.185.87.169.liveadvert.com": "INACTIVE",
+            "08.185.87.170.liveadvert.com": "INACTIVE",
+            "08.185.87.171.liveadvert.com": "INACTIVE"
+        },
+        "1571437361": {
+            "08.185.87.173.liveadvert.com": "INACTIVE",
+            "08.185.87.174.liveadvert.com": "INACTIVE",
+            "08.185.87.175.liveadvert.com": "INACTIVE",
+            "08.185.87.176.liveadvert.com": "INACTIVE",
+            "08.185.87.177.liveadvert.com": "INACTIVE"
+        },
+        "1571437362": {
+            "08.185.87.17.liveadvert.com": "INACTIVE",
+            "08.185.87.178.liveadvert.com": "INACTIVE",
+            "08.185.87.179.liveadvert.com": "INACTIVE",
+            "08.185.87.180.liveadvert.com": "INACTIVE",
+            "08.185.87.181.liveadvert.com": "INACTIVE"
+        },
+        "1571437363": {
+            "08.185.87.183.liveadvert.com": "INACTIVE",
+            "08.185.87.184.liveadvert.com": "INACTIVE",
+            "08.185.87.185.liveadvert.com": "INACTIVE",
+            "08.185.87.186.liveadvert.com": "INACTIVE",
+            "08.185.87.187.liveadvert.com": "INACTIVE",
+            "08.185.87.188.liveadvert.com": "INACTIVE"
+        },
+        "1571437364": {
+            "08.185.87.18.liveadvert.com": "INACTIVE",
+            "08.185.87.189.liveadvert.com": "INACTIVE",
+            "08.185.87.190.liveadvert.com": "INACTIVE",
+            "08.185.87.191.liveadvert.com": "INACTIVE",
+            "08.185.87.193.liveadvert.com": "INACTIVE"
+        },
+        "1571437365": {
+            "08.185.87.194.liveadvert.com": "INACTIVE",
+            "08.185.87.195.liveadvert.com": "INACTIVE",
+            "08.185.87.196.liveadvert.com": "INACTIVE",
+            "08.185.87.197.liveadvert.com": "INACTIVE",
+            "08.185.87.198.liveadvert.com": "INACTIVE"
+        },
+        "1571437366": {
+            "08.185.87.1.liveadvert.com": "INACTIVE",
+            "08.185.87.19.liveadvert.com": "INACTIVE",
+            "08.185.87.199.liveadvert.com": "INACTIVE",
+            "08.185.87.30.liveadvert.com": "INACTIVE",
+            "08.185.87.31.liveadvert.com": "INACTIVE",
+            "08.185.87.33.liveadvert.com": "INACTIVE"
+        },
+        "1571437367": {
+            "08.185.87.34.liveadvert.com": "INACTIVE",
+            "08.185.87.35.liveadvert.com": "INACTIVE",
+            "08.185.87.36.liveadvert.com": "INACTIVE",
+            "08.185.87.37.liveadvert.com": "INACTIVE",
+            "08.185.87.38.liveadvert.com": "INACTIVE"
+        },
+        "1571437368": {
+            "08.185.87.3.liveadvert.com": "INACTIVE",
+            "08.185.87.39.liveadvert.com": "INACTIVE",
+            "08.185.87.40.liveadvert.com": "INACTIVE",
+            "08.185.87.41.liveadvert.com": "INACTIVE",
+            "08.185.87.43.liveadvert.com": "INACTIVE",
+            "08.185.87.44.liveadvert.com": "INACTIVE"
+        },
+        "1571437369": {
+            "08.185.87.45.liveadvert.com": "INACTIVE",
+            "08.185.87.46.liveadvert.com": "INACTIVE",
+            "08.185.87.47.liveadvert.com": "INACTIVE",
+            "08.185.87.48.liveadvert.com": "INACTIVE",
+            "08.185.87.49.liveadvert.com": "INACTIVE"
+        },
+        "1571437370": {
+            "08.185.87.4.liveadvert.com": "INACTIVE",
+            "08.185.87.50.liveadvert.com": "INACTIVE",
+            "08.185.87.51.liveadvert.com": "INACTIVE",
+            "08.185.87.53.liveadvert.com": "INACTIVE",
+            "08.185.87.54.liveadvert.com": "INACTIVE",
+            "08.185.87.55.liveadvert.com": "INACTIVE"
+        },
+        "1571437371": {
+            "08.185.87.5.liveadvert.com": "INACTIVE",
+            "08.185.87.56.liveadvert.com": "INACTIVE",
+            "08.185.87.57.liveadvert.com": "INACTIVE",
+            "08.185.87.58.liveadvert.com": "INACTIVE",
+            "08.185.87.59.liveadvert.com": "INACTIVE"
+        },
+        "1571437372": {
+            "08.185.87.60.liveadvert.com": "INACTIVE",
+            "08.185.87.61.liveadvert.com": "INACTIVE",
+            "08.185.87.63.liveadvert.com": "INACTIVE",
+            "08.185.87.64.liveadvert.com": "INACTIVE",
+            "08.185.87.65.liveadvert.com": "INACTIVE",
+            "08.185.87.66.liveadvert.com": "INACTIVE"
+        },
+        "1571437373": {
+            "08.185.87.6.liveadvert.com": "INACTIVE",
+            "08.185.87.67.liveadvert.com": "INACTIVE",
+            "08.185.87.68.liveadvert.com": "INACTIVE",
+            "08.185.87.69.liveadvert.com": "INACTIVE",
+            "08.185.87.70.liveadvert.com": "INACTIVE"
+        },
+        "1571437374": {
+            "08.185.87.71.liveadvert.com": "INACTIVE",
+            "08.185.87.73.liveadvert.com": "INACTIVE",
+            "08.185.87.74.liveadvert.com": "INACTIVE",
+            "08.185.87.75.liveadvert.com": "INACTIVE",
+            "08.185.87.76.liveadvert.com": "INACTIVE"
+        },
+        "1571437375": {
+            "08.185.87.7.liveadvert.com": "INACTIVE",
+            "08.185.87.77.liveadvert.com": "INACTIVE",
+            "08.185.87.78.liveadvert.com": "INACTIVE",
+            "08.185.87.79.liveadvert.com": "INACTIVE",
+            "08.185.87.80.liveadvert.com": "INACTIVE"
+        },
+        "1571437376": {
+            "08.185.87.81.liveadvert.com": "INACTIVE",
+            "08.185.87.83.liveadvert.com": "INACTIVE",
+            "08.185.87.84.liveadvert.com": "INACTIVE",
+            "08.185.87.85.liveadvert.com": "INACTIVE",
+            "08.185.87.86.liveadvert.com": "INACTIVE",
+            "08.185.87.87.liveadvert.com": "INACTIVE"
+        },
+        "1571437377": {
+            "08.185.87.8.liveadvert.com": "INACTIVE",
+            "08.185.87.88.liveadvert.com": "INACTIVE",
+            "08.185.87.89.liveadvert.com": "INACTIVE",
+            "08.185.87.90.liveadvert.com": "INACTIVE",
+            "08.185.87.91.liveadvert.com": "INACTIVE"
+        },
+        "1571437378": {
+            "08.185.87.93.liveadvert.com": "INACTIVE",
+            "08.185.87.94.liveadvert.com": "INACTIVE",
+            "08.185.87.95.liveadvert.com": "INACTIVE",
+            "08.185.87.96.liveadvert.com": "INACTIVE",
+            "08.185.87.97.liveadvert.com": "INACTIVE"
+        },
+        "1571437379": {
+            "08.185.87.9.liveadvert.com": "INACTIVE",
+            "08.185.87.98.liveadvert.com": "INACTIVE",
+            "08.185.87.99.liveadvert.com": "INACTIVE"
+        },
+        "1571437385": {
+            "093qpeuqpmz6ebfa.com": "INACTIVE"
+        },
+        "1571437386": {
+            "0c9d8370d.se": "INACTIVE"
+        },
+        "1571437393": {
+            "0.r.msn.com": "INACTIVE"
+        },
+        "1571437394": {
+            "100tosdefotos.com": "INACTIVE"
+        },
+        "1571437406": {
+            "10.6.87.194.dynamic.dol.ru": "INACTIVE"
+        },
+        "1571437407": {
+            "10best.us.intellitxt.com": "INACTIVE",
+            "10bestsearch.com": "INACTIVE"
+        },
+        "1571437411": {
+            "117.mylongtail.com": "INACTIVE"
+        },
+        "1571437412": {
+            "11954.filter.bullhornsearch.com": "INACTIVE"
+        },
+        "1571437423": {
+            "123p29404.sbvr.com": "INACTIVE"
+        },
+        "1571437425": {
+            "131922.131.links4trade.com": "INACTIVE"
+        },
+        "1571437426": {
+            "1435575.fls.doubleclick.net": "INACTIVE"
+        },
+        "1571437427": {
+            "1559.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437435": {
+            "162.6.87.194.dynamic.dol.ru": "INACTIVE"
+        },
+        "1571437436": {
+            "1800.stats.misstrends.com": "INACTIVE",
+            "1867.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437443": {
+            "1901.nordstrom.com": "INACTIVE"
+        },
+        "1571437448": {
+            "1.hao929.cn": "INACTIVE",
+            "1hentaiporntube.com": "INACTIVE"
+        },
+        "1571437450": {
+            "1.sharkadnetwork.com": "INACTIVE",
+            "1src.us.intellitxt.com": "INACTIVE",
+            "1up.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437451": {
+            "1zabslwvn538n4i5tcjl.com": "INACTIVE"
+        },
+        "1571437452": {
+            "2000.2.links4trade.com": "INACTIVE"
+        },
+        "1571437458": {
+            "202.6.87.194.dynamic.dol.ru": "INACTIVE"
+        },
+        "1571437459": {
+            "208.185.87.100.liveadvert.com": "INACTIVE",
+            "208.185.87.101.liveadvert.com": "INACTIVE",
+            "208.185.87.102.liveadvert.com": "INACTIVE",
+            "208.185.87.103.liveadvert.com": "INACTIVE"
+        },
+        "1571437460": {
+            "208.185.87.104.liveadvert.com": "INACTIVE",
+            "208.185.87.105.liveadvert.com": "INACTIVE",
+            "208.185.87.106.liveadvert.com": "INACTIVE",
+            "208.185.87.107.liveadvert.com": "INACTIVE",
+            "208.185.87.108.liveadvert.com": "INACTIVE",
+            "208.185.87.109.liveadvert.com": "INACTIVE"
+        },
+        "1571437461": {
+            "208.185.87.10.liveadvert.com": "INACTIVE",
+            "208.185.87.110.liveadvert.com": "INACTIVE",
+            "208.185.87.111.liveadvert.com": "INACTIVE",
+            "208.185.87.112.liveadvert.com": "INACTIVE",
+            "208.185.87.113.liveadvert.com": "INACTIVE"
+        },
+        "1571437462": {
+            "208.185.87.114.liveadvert.com": "INACTIVE",
+            "208.185.87.115.liveadvert.com": "INACTIVE",
+            "208.185.87.116.liveadvert.com": "INACTIVE",
+            "208.185.87.117.liveadvert.com": "INACTIVE",
+            "208.185.87.118.liveadvert.com": "INACTIVE",
+            "208.185.87.119.liveadvert.com": "INACTIVE"
+        },
+        "1571437463": {
+            "208.185.87.11.liveadvert.com": "INACTIVE",
+            "208.185.87.120.liveadvert.com": "INACTIVE",
+            "208.185.87.121.liveadvert.com": "INACTIVE",
+            "208.185.87.122.liveadvert.com": "INACTIVE",
+            "208.185.87.123.liveadvert.com": "INACTIVE"
+        },
+        "1571437464": {
+            "208.185.87.124.liveadvert.com": "INACTIVE",
+            "208.185.87.125.liveadvert.com": "INACTIVE",
+            "208.185.87.126.liveadvert.com": "INACTIVE",
+            "208.185.87.127.liveadvert.com": "INACTIVE",
+            "208.185.87.128.liveadvert.com": "INACTIVE"
+        },
+        "1571437465": {
+            "208.185.87.12.liveadvert.com": "INACTIVE",
+            "208.185.87.129.liveadvert.com": "INACTIVE",
+            "208.185.87.130.liveadvert.com": "INACTIVE",
+            "208.185.87.131.liveadvert.com": "INACTIVE",
+            "208.185.87.132.liveadvert.com": "INACTIVE",
+            "208.185.87.133.liveadvert.com": "INACTIVE"
+        },
+        "1571437466": {
+            "208.185.87.134.liveadvert.com": "INACTIVE",
+            "208.185.87.135.liveadvert.com": "INACTIVE",
+            "208.185.87.136.liveadvert.com": "INACTIVE",
+            "208.185.87.137.liveadvert.com": "INACTIVE",
+            "208.185.87.138.liveadvert.com": "INACTIVE"
+        },
+        "1571437467": {
+            "208.185.87.13.liveadvert.com": "INACTIVE",
+            "208.185.87.139.liveadvert.com": "INACTIVE",
+            "208.185.87.140.liveadvert.com": "INACTIVE",
+            "208.185.87.141.liveadvert.com": "INACTIVE",
+            "208.185.87.142.liveadvert.com": "INACTIVE",
+            "208.185.87.143.liveadvert.com": "INACTIVE"
+        },
+        "1571437468": {
+            "208.185.87.144.liveadvert.com": "INACTIVE",
+            "208.185.87.145.liveadvert.com": "INACTIVE",
+            "208.185.87.146.liveadvert.com": "INACTIVE",
+            "208.185.87.147.liveadvert.com": "INACTIVE",
+            "208.185.87.148.liveadvert.com": "INACTIVE"
+        },
+        "1571437469": {
+            "208.185.87.14.liveadvert.com": "INACTIVE",
+            "208.185.87.149.liveadvert.com": "INACTIVE",
+            "208.185.87.150.liveadvert.com": "INACTIVE",
+            "208.185.87.151.liveadvert.com": "INACTIVE",
+            "208.185.87.152.liveadvert.com": "INACTIVE"
+        },
+        "1571437470": {
+            "208.185.87.153.liveadvert.com": "INACTIVE",
+            "208.185.87.154.liveadvert.com": "INACTIVE",
+            "208.185.87.155.liveadvert.com": "INACTIVE",
+            "208.185.87.156.liveadvert.com": "INACTIVE",
+            "208.185.87.157.liveadvert.com": "INACTIVE"
+        },
+        "1571437471": {
+            "208.185.87.15.liveadvert.com": "INACTIVE",
+            "208.185.87.158.liveadvert.com": "INACTIVE",
+            "208.185.87.159.liveadvert.com": "INACTIVE",
+            "208.185.87.160.liveadvert.com": "INACTIVE",
+            "208.185.87.161.liveadvert.com": "INACTIVE"
+        },
+        "1571437472": {
+            "208.185.87.162.liveadvert.com": "INACTIVE",
+            "208.185.87.163.liveadvert.com": "INACTIVE",
+            "208.185.87.164.liveadvert.com": "INACTIVE",
+            "208.185.87.165.liveadvert.com": "INACTIVE",
+            "208.185.87.166.liveadvert.com": "INACTIVE"
+        },
+        "1571437473": {
+            "208.185.87.16.liveadvert.com": "INACTIVE",
+            "208.185.87.167.liveadvert.com": "INACTIVE",
+            "208.185.87.168.liveadvert.com": "INACTIVE",
+            "208.185.87.169.liveadvert.com": "INACTIVE",
+            "208.185.87.170.liveadvert.com": "INACTIVE",
+            "208.185.87.171.liveadvert.com": "INACTIVE"
+        },
+        "1571437474": {
+            "208.185.87.172.liveadvert.com": "INACTIVE",
+            "208.185.87.173.liveadvert.com": "INACTIVE",
+            "208.185.87.174.liveadvert.com": "INACTIVE",
+            "208.185.87.175.liveadvert.com": "INACTIVE",
+            "208.185.87.176.liveadvert.com": "INACTIVE"
+        },
+        "1571437475": {
+            "208.185.87.17.liveadvert.com": "INACTIVE",
+            "208.185.87.177.liveadvert.com": "INACTIVE",
+            "208.185.87.178.liveadvert.com": "INACTIVE",
+            "208.185.87.179.liveadvert.com": "INACTIVE"
+        },
+        "1571437476": {
+            "208.185.87.180.liveadvert.com": "INACTIVE",
+            "208.185.87.181.liveadvert.com": "INACTIVE",
+            "208.185.87.182.liveadvert.com": "INACTIVE",
+            "208.185.87.183.liveadvert.com": "INACTIVE",
+            "208.185.87.184.liveadvert.com": "INACTIVE",
+            "208.185.87.185.liveadvert.com": "INACTIVE"
+        },
+        "1571437477": {
+            "208.185.87.18.liveadvert.com": "INACTIVE",
+            "208.185.87.186.liveadvert.com": "INACTIVE",
+            "208.185.87.187.liveadvert.com": "INACTIVE",
+            "208.185.87.188.liveadvert.com": "INACTIVE",
+            "208.185.87.189.liveadvert.com": "INACTIVE"
+        },
+        "1571437478": {
+            "208.185.87.190.liveadvert.com": "INACTIVE",
+            "208.185.87.191.liveadvert.com": "INACTIVE",
+            "208.185.87.192.liveadvert.com": "INACTIVE",
+            "208.185.87.193.liveadvert.com": "INACTIVE",
+            "208.185.87.194.liveadvert.com": "INACTIVE"
+        },
+        "1571437479": {
+            "208.185.87.195.liveadvert.com": "INACTIVE",
+            "208.185.87.196.liveadvert.com": "INACTIVE",
+            "208.185.87.197.liveadvert.com": "INACTIVE",
+            "208.185.87.198.liveadvert.com": "INACTIVE",
+            "208.185.87.199.liveadvert.com": "INACTIVE"
+        },
+        "1571437480": {
+            "208.185.87.1.liveadvert.com": "INACTIVE",
+            "208.185.87.19.liveadvert.com": "INACTIVE",
+            "208.185.87.200.liveadvert.com": "INACTIVE",
+            "208.185.87.201.liveadvert.com": "INACTIVE",
+            "208.185.87.202.liveadvert.com": "INACTIVE"
+        },
+        "1571437481": {
+            "208.185.87.203.liveadvert.com": "INACTIVE",
+            "208.185.87.204.liveadvert.com": "INACTIVE",
+            "208.185.87.205.liveadvert.com": "INACTIVE",
+            "208.185.87.206.liveadvert.com": "INACTIVE",
+            "208.185.87.207.liveadvert.com": "INACTIVE",
+            "208.185.87.208.liveadvert.com": "INACTIVE"
+        },
+        "1571437482": {
+            "208.185.87.20.liveadvert.com": "INACTIVE",
+            "208.185.87.209.liveadvert.com": "INACTIVE",
+            "208.185.87.210.liveadvert.com": "INACTIVE",
+            "208.185.87.211.liveadvert.com": "INACTIVE",
+            "208.185.87.212.liveadvert.com": "INACTIVE"
+        },
+        "1571437483": {
+            "208.185.87.213.liveadvert.com": "INACTIVE",
+            "208.185.87.214.liveadvert.com": "INACTIVE",
+            "208.185.87.215.liveadvert.com": "INACTIVE",
+            "208.185.87.216.liveadvert.com": "INACTIVE",
+            "208.185.87.217.liveadvert.com": "INACTIVE"
+        },
+        "1571437484": {
+            "208.185.87.21.liveadvert.com": "INACTIVE",
+            "208.185.87.218.liveadvert.com": "INACTIVE",
+            "208.185.87.219.liveadvert.com": "INACTIVE",
+            "208.185.87.220.liveadvert.com": "INACTIVE",
+            "208.185.87.221.liveadvert.com": "INACTIVE"
+        },
+        "1571437485": {
+            "208.185.87.222.liveadvert.com": "INACTIVE",
+            "208.185.87.223.liveadvert.com": "INACTIVE",
+            "208.185.87.224.liveadvert.com": "INACTIVE",
+            "208.185.87.225.liveadvert.com": "INACTIVE",
+            "208.185.87.226.liveadvert.com": "INACTIVE"
+        },
+        "1571437486": {
+            "208.185.87.22.liveadvert.com": "INACTIVE",
+            "208.185.87.227.liveadvert.com": "INACTIVE",
+            "208.185.87.228.liveadvert.com": "INACTIVE",
+            "208.185.87.229.liveadvert.com": "INACTIVE",
+            "208.185.87.230.liveadvert.com": "INACTIVE"
+        },
+        "1571437487": {
+            "208.185.87.231.liveadvert.com": "INACTIVE",
+            "208.185.87.232.liveadvert.com": "INACTIVE",
+            "208.185.87.233.liveadvert.com": "INACTIVE",
+            "208.185.87.234.liveadvert.com": "INACTIVE",
+            "208.185.87.235.liveadvert.com": "INACTIVE"
+        },
+        "1571437488": {
+            "208.185.87.23.liveadvert.com": "INACTIVE",
+            "208.185.87.236.liveadvert.com": "INACTIVE",
+            "208.185.87.237.liveadvert.com": "INACTIVE",
+            "208.185.87.238.liveadvert.com": "INACTIVE",
+            "208.185.87.239.liveadvert.com": "INACTIVE",
+            "208.185.87.240.liveadvert.com": "INACTIVE"
+        },
+        "1571437489": {
+            "208.185.87.241.liveadvert.com": "INACTIVE",
+            "208.185.87.242.liveadvert.com": "INACTIVE",
+            "208.185.87.243.liveadvert.com": "INACTIVE",
+            "208.185.87.244.liveadvert.com": "INACTIVE",
+            "208.185.87.245.liveadvert.com": "INACTIVE"
+        },
+        "1571437490": {
+            "208.185.87.24.liveadvert.com": "INACTIVE",
+            "208.185.87.246.liveadvert.com": "INACTIVE",
+            "208.185.87.247.liveadvert.com": "INACTIVE",
+            "208.185.87.248.liveadvert.com": "INACTIVE",
+            "208.185.87.249.liveadvert.com": "INACTIVE"
+        },
+        "1571437491": {
+            "208.185.87.25.liveadvert.com": "INACTIVE",
+            "208.185.87.250.liveadvert.com": "INACTIVE",
+            "208.185.87.251.liveadvert.com": "INACTIVE",
+            "208.185.87.252.liveadvert.com": "INACTIVE",
+            "208.185.87.253.liveadvert.com": "INACTIVE",
+            "208.185.87.254.liveadvert.com": "INACTIVE"
+        },
+        "1571437492": {
+            "208.185.87.2.liveadvert.com": "INACTIVE",
+            "208.185.87.26.liveadvert.com": "INACTIVE",
+            "208.185.87.27.liveadvert.com": "INACTIVE",
+            "208.185.87.28.liveadvert.com": "INACTIVE",
+            "208.185.87.29.liveadvert.com": "INACTIVE"
+        },
+        "1571437493": {
+            "208.185.87.30.liveadvert.com": "INACTIVE",
+            "208.185.87.31.liveadvert.com": "INACTIVE",
+            "208.185.87.32.liveadvert.com": "INACTIVE",
+            "208.185.87.33.liveadvert.com": "INACTIVE",
+            "208.185.87.34.liveadvert.com": "INACTIVE",
+            "208.185.87.35.liveadvert.com": "INACTIVE"
+        },
+        "1571437494": {
+            "208.185.87.3.liveadvert.com": "INACTIVE",
+            "208.185.87.36.liveadvert.com": "INACTIVE",
+            "208.185.87.37.liveadvert.com": "INACTIVE",
+            "208.185.87.38.liveadvert.com": "INACTIVE",
+            "208.185.87.39.liveadvert.com": "INACTIVE"
+        },
+        "1571437495": {
+            "208.185.87.40.liveadvert.com": "INACTIVE",
+            "208.185.87.41.liveadvert.com": "INACTIVE",
+            "208.185.87.42.liveadvert.com": "INACTIVE",
+            "208.185.87.43.liveadvert.com": "INACTIVE",
+            "208.185.87.44.liveadvert.com": "INACTIVE"
+        },
+        "1571437496": {
+            "208.185.87.4.liveadvert.com": "INACTIVE",
+            "208.185.87.45.liveadvert.com": "INACTIVE",
+            "208.185.87.46.liveadvert.com": "INACTIVE",
+            "208.185.87.47.liveadvert.com": "INACTIVE",
+            "208.185.87.48.liveadvert.com": "INACTIVE",
+            "208.185.87.49.liveadvert.com": "INACTIVE"
+        },
+        "1571437497": {
+            "208.185.87.50.liveadvert.com": "INACTIVE",
+            "208.185.87.51.liveadvert.com": "INACTIVE",
+            "208.185.87.52.liveadvert.com": "INACTIVE",
+            "208.185.87.53.liveadvert.com": "INACTIVE",
+            "208.185.87.54.liveadvert.com": "INACTIVE"
+        },
+        "1571437498": {
+            "208.185.87.55.liveadvert.com": "INACTIVE",
+            "208.185.87.56.liveadvert.com": "INACTIVE",
+            "208.185.87.57.liveadvert.com": "INACTIVE",
+            "208.185.87.58.liveadvert.com": "INACTIVE",
+            "208.185.87.59.liveadvert.com": "INACTIVE"
+        },
+        "1571437499": {
+            "208.185.87.5.liveadvert.com": "INACTIVE",
+            "208.185.87.60.liveadvert.com": "INACTIVE",
+            "208.185.87.61.liveadvert.com": "INACTIVE",
+            "208.185.87.62.liveadvert.com": "INACTIVE",
+            "208.185.87.63.liveadvert.com": "INACTIVE"
+        },
+        "1571437500": {
+            "208.185.87.64.liveadvert.com": "INACTIVE",
+            "208.185.87.65.liveadvert.com": "INACTIVE",
+            "208.185.87.66.liveadvert.com": "INACTIVE",
+            "208.185.87.67.liveadvert.com": "INACTIVE",
+            "208.185.87.68.liveadvert.com": "INACTIVE",
+            "208.185.87.69.liveadvert.com": "INACTIVE"
+        },
+        "1571437501": {
+            "208.185.87.6.liveadvert.com": "INACTIVE",
+            "208.185.87.70.liveadvert.com": "INACTIVE",
+            "208.185.87.71.liveadvert.com": "INACTIVE",
+            "208.185.87.72.liveadvert.com": "INACTIVE",
+            "208.185.87.73.liveadvert.com": "INACTIVE"
+        },
+        "1571437502": {
+            "208.185.87.74.liveadvert.com": "INACTIVE",
+            "208.185.87.75.liveadvert.com": "INACTIVE",
+            "208.185.87.76.liveadvert.com": "INACTIVE",
+            "208.185.87.77.liveadvert.com": "INACTIVE",
+            "208.185.87.78.liveadvert.com": "INACTIVE"
+        },
+        "1571437503": {
+            "208.185.87.7.liveadvert.com": "INACTIVE",
+            "208.185.87.79.liveadvert.com": "INACTIVE",
+            "208.185.87.80.liveadvert.com": "INACTIVE",
+            "208.185.87.81.liveadvert.com": "INACTIVE",
+            "208.185.87.82.liveadvert.com": "INACTIVE",
+            "208.185.87.83.liveadvert.com": "INACTIVE"
+        },
+        "1571437504": {
+            "208.185.87.84.liveadvert.com": "INACTIVE",
+            "208.185.87.85.liveadvert.com": "INACTIVE",
+            "208.185.87.86.liveadvert.com": "INACTIVE",
+            "208.185.87.87.liveadvert.com": "INACTIVE",
+            "208.185.87.88.liveadvert.com": "INACTIVE"
+        },
+        "1571437505": {
+            "208.185.87.8.liveadvert.com": "INACTIVE",
+            "208.185.87.89.liveadvert.com": "INACTIVE",
+            "208.185.87.90.liveadvert.com": "INACTIVE",
+            "208.185.87.91.liveadvert.com": "INACTIVE",
+            "208.185.87.92.liveadvert.com": "INACTIVE"
+        },
+        "1571437506": {
+            "208.185.87.93.liveadvert.com": "INACTIVE",
+            "208.185.87.94.liveadvert.com": "INACTIVE",
+            "208.185.87.95.liveadvert.com": "INACTIVE",
+            "208.185.87.96.liveadvert.com": "INACTIVE",
+            "208.185.87.97.liveadvert.com": "INACTIVE",
+            "208.185.87.98.liveadvert.com": "INACTIVE"
+        },
+        "1571437507": {
+            "208.185.87.9.liveadvert.com": "INACTIVE",
+            "208.185.87.99.liveadvert.com": "INACTIVE",
+            "20d625b48e.se": "INACTIVE"
+        },
+        "1571437508": {
+            "2278.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437509": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "2366.pinoycentral.com": "INACTIVE"
+        },
+        "1571437510": {
+            "2391.islafenice.net": "INACTIVE",
+            "247wallstreet.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437527": {
+            "24web.nl": "INACTIVE",
+            "24wrestling.us.intellitxt.com": "INACTIVE",
+            "2542116.fls.doubleclick.net": "INACTIVE",
+            "2546.islafenice.net": "INACTIVE"
+        },
+        "1571437528": {
+            "2547.islafenice.net": "INACTIVE",
+            "2912a.v.fwmrm.net": "INACTIVE"
+        },
+        "1571437529": {
+            "2915dc.v.fwmrm.net": "INACTIVE"
+        },
+        "1571437530": {
+            "2915d.v.fwmrm.net": "INACTIVE"
+        },
+        "1571437531": {
+            "2snaps.us.intellitxt.com": "INACTIVE",
+            "2spyware.us.intellitxt.com": "INACTIVE",
+            "317.mylongtail.com": "INACTIVE"
+        },
+        "1571437532": {
+            "327.mylongtail.com": "INACTIVE"
+        },
+        "1571437533": {
+            "32d1d3b9c.se": "INACTIVE",
+            "3642305.fls.doubleclick.net": "INACTIVE",
+            "373.mylongtail.com": "INACTIVE",
+            "3765329.fls.doubleclick.net": "INACTIVE"
+        },
+        "1571437534": {
+            "3.cennter.com": "INACTIVE",
+            "3wregie.ezakus.net": "INACTIVE",
+            "404.cjb.net": "INACTIVE"
+        },
+        "1571437541": {
+            "404.funpic.de": "INACTIVE"
+        },
+        "1571437557": {
+            "404.ragecash.com": "INACTIVE",
+            "4053494.fls.doubleclick.net": "INACTIVE",
+            "411commerce.com": "INACTIVE"
+        },
+        "1571437558": {
+            "411mania.us.intellitxt.com": "INACTIVE",
+            "4184.stats.misstrends.com": "INACTIVE",
+            "4236808.fls.doubleclick.net": "INACTIVE",
+            "4360661.fls.doubleclick.net": "INACTIVE",
+            "4488352.fls.doubleclick.net": "INACTIVE"
+        },
+        "1571437559": {
+            "4.afs.googleadservices.com": "INACTIVE",
+            "4514783.fls.doubleclick.net": "INACTIVE",
+            "4684100.fls.doubleclick.net": "INACTIVE",
+            "4923503.fls.doubleclick.net": "INACTIVE",
+            "4thegame.uk.intellitxt.com": "INACTIVE",
+            "4w-wrestling.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437560": {
+            "4x4review.us.intellitxt.com": "INACTIVE",
+            "505.mylongtail.com": "INACTIVE"
+        },
+        "1571437567": {
+            "50.6.87.194.dynamic.dol.ru": "INACTIVE",
+            "5131.5.links4trade.com": "INACTIVE"
+        },
+        "1571437568": {
+            "5362399.fls.doubleclick.net": "INACTIVE",
+            "540.filost.com": "INACTIVE"
+        },
+        "1571437569": {
+            "5582200.fls.doubleclick.net": "INACTIVE",
+            "582.mylongtail.com": "INACTIVE",
+            "599.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437570": {
+            "5d0dd.v.fwmrm.net": "INACTIVE"
+        },
+        "1571437571": {
+            "5d427.v.fwmrm.net": "INACTIVE",
+            "5starsupport.us.intellitxt.com": "INACTIVE",
+            "602.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437572": {
+            "604.stats.misstrends.com": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE",
+            "654.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437579": {
+            "66.6.87.194.dynamic.dol.ru": "INACTIVE"
+        },
+        "1571437580": {
+            "671.stats.misstrends.com": "INACTIVE",
+            "680.stats.misstrends.com": "INACTIVE",
+            "699.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437581": {
+            "7209235.collect.igodigital.com": "INACTIVE",
+            "726.stats.misstrends.com": "INACTIVE",
+            "750.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437582": {
+            "79423.analytics.edgekey.net": "INACTIVE",
+            "79423.analytics.edgesuite.net": "INACTIVE",
+            "7come11casino.com": "INACTIVE"
+        },
+        "1571437589": {
+            "7oo.meibu.com": "INACTIVE",
+            "7security.info": "INACTIVE"
+        },
+        "1571437590": {
+            "803.stats.misstrends.com": "INACTIVE",
+            "879.stats.misstrends.com": "INACTIVE",
+            "8d6274.t.axf8.net": "INACTIVE"
+        },
+        "1571437591": {
+            "90plan.ovh.net": "INACTIVE",
+            "986.stats.misstrends.com": "INACTIVE"
+        },
+        "1571437592": {
+            "9down.us.intellitxt.com": "INACTIVE",
+            "a01.korrelate.net": "INACTIVE",
+            "a02.korrelate.net": "INACTIVE"
+        },
+        "1571437593": {
+            "a15739.tdmy.com": "INACTIVE",
+            "a1894.tdmy.com": "INACTIVE"
+        },
+        "1571437595": {
+            "a1.g.a.yimg.com": "INACTIVE",
+            "a207.p.f.qz3.net": "INACTIVE"
+        },
+        "1571437596": {
+            "a29628.tdmy.com": "INACTIVE"
+        },
+        "1571437597": {
+            "a297.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437599": {
+            "a32.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437600": {
+            "a372.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437601": {
+            "a37.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437603": {
+            "a3.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437604": {
+            "a45.g.a.yimg.com": "INACTIVE"
+        },
+        "1571437605": {
+            "a76.p.f.qz3.net": "INACTIVE",
+            "aa.connextra.com": "INACTIVE"
+        },
+        "1571437606": {
+            "a.adnium.com": "INACTIVE",
+            "aad73c550c.se": "INACTIVE"
+        },
+        "1571437607": {
+            "a.adready.com": "INACTIVE",
+            "a.ads1.msads.net": "INACTIVE",
+            "a.ads1.msn.com": "INACTIVE",
+            "a.ads2.msads.net": "INACTIVE"
+        },
+        "1571437608": {
+            "a.adserv.cn": "INACTIVE",
+            "a.adtpix.com": "INACTIVE",
+            "a.adultentertainmentexpo.com": "INACTIVE"
+        },
+        "1571437609": {
+            "a.androidandme.com": "INACTIVE",
+            "aa-gb.marketgid.com": "INACTIVE",
+            "aa-gb.mgid.com": "INACTIVE",
+            "aa.online-metrix.net": "INACTIVE"
+        },
+        "1571437616": {
+            "a.bf-ad.net": "INACTIVE",
+            "ab-gb.mgid.com": "INACTIVE",
+            "ab.adpro.com.ua": "INACTIVE"
+        },
+        "1571437617": {
+            "ab-nb.marketgid.com": "INACTIVE",
+            "abifaq.20m.com": "INACTIVE",
+            "able2know.us.intellitxt.com": "INACTIVE",
+            "abnett.hypermart.net": "INACTIVE"
+        },
+        "1571437618": {
+            "above-gw.liveadvert.com": "INACTIVE",
+            "absolutelyfreeeroticstories.com": "INACTIVE",
+            "abum.axelsfun.com": "INACTIVE"
+        },
+        "1571437619": {
+            "ab.vendemore.com": "INACTIVE"
+        },
+        "1571437625": {
+            "ac.adpro.com.ua": "INACTIVE"
+        },
+        "1571437626": {
+            "ac.ajur.info": "INACTIVE",
+            "accuweather.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437627": {
+            "ace-lb.advertising.com": "INACTIVE",
+            "ace-tag.advertising.com": "INACTIVE",
+            "aceshowbiz.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437628": {
+            "ac-gb.mgid.com": "INACTIVE",
+            "ac.eu.angsrvr.com": "INACTIVE",
+            "ackjeeves.com": "INACTIVE",
+            "aclasscelebs.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437629": {
+            "ac-nb.marketgid.com": "INACTIVE",
+            "action.media6degrees.com": "INACTIVE",
+            "actionscript.us.intellitxt.com": "INACTIVE",
+            "activeannonce.com": "INACTIVE"
+        },
+        "1571437631": {
+            "active.macromedia.com": "INACTIVE",
+            "activewin.us.intellitxt.com": "INACTIVE"
+        },
+        "1571437632": {
+            "activex.matcash.com": "INACTIVE",
+            "actualite-de-stars.fr.intellitxt.com": "INACTIVE"
+        },
+        "1571437633": {
+            "a.current.tv": "INACTIVE",
+            "ac.ybinst0.ec.yimg.com": "INACTIVE"
+        },
+        "1571437634": {
+            "ac.ybinst1.ec.yimg.com": "INACTIVE"
+        },
+        "1571437635": {
+            "ac.ybinst2.ec.yimg.com": "INACTIVE"
+        },
+        "1571437636": {
+            "ac.ybinst3.ec.yimg.com": "INACTIVE",
+            "ac.ybinst4.ec.yimg.com": "INACTIVE"
+        },
+        "1571437637": {
+            "ac.ybinst5.ec.yimg.com": "INACTIVE"
+        },
+        "1571437638": {
+            "ac.ybinst6.ec.yimg.com": "INACTIVE",
+            "ac.ybinst7.ec.yimg.com": "INACTIVE"
+        },
+        "1571437639": {
+            "ac.ybinst8.ec.yimg.com": "INACTIVE",
+            "ac.ybinst9.ec.yimg.com": "INACTIVE"
+        },
+        "1571437640": {
+            "ad00.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437641": {
+            "ad00.hpg.com.br": "INACTIVE"
+        },
+        "1571437642": {
+            "ad01.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437643": {
+            "ad01.hpg.com.br": "INACTIVE",
+            "ad03.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437644": {
+            "ad03.hpg.com.br": "INACTIVE"
+        },
+        "1571437645": {
+            "ad04.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437646": {
+            "ad04.hpg.com.br": "INACTIVE"
+        },
+        "1571437647": {
+            "ad05.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437648": {
+            "ad05.hpg.com.br": "INACTIVE"
+        },
+        "1571437649": {
+            "ad06.ezcybersearch.com": "INACTIVE",
+            "ad06.hpg.com.br": "INACTIVE"
+        },
+        "1571437650": {
+            "ad07.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437651": {
+            "ad07.hpg.com.br": "INACTIVE"
+        },
+        "1571437652": {
+            "ad08.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437653": {
+            "ad08.hpg.com.br": "INACTIVE"
+        },
+        "1571437654": {
+            "ad09.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437655": {
+            "ad09.hpg.com.br": "INACTIVE"
+        },
+        "1571437656": {
+            "ad0.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437657": {
+            "ad0.hpg.com.br": "INACTIVE"
+        },
+        "1571437658": {
+            "ad100.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437659": {
+            "ad100.hpg.com.br": "INACTIVE"
+        },
+        "1571437660": {
+            "ad101.ezcybersearch.com": "INACTIVE",
+            "ad101.hpg.com.br": "INACTIVE"
+        },
+        "1571437661": {
+            "ad102.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437662": {
+            "ad102.hpg.com.br": "INACTIVE"
+        },
+        "1571437663": {
+            "ad103.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437664": {
+            "ad103.hpg.com.br": "INACTIVE"
+        },
+        "1571437665": {
+            "ad104.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437666": {
+            "ad104.hpg.com.br": "INACTIVE"
+        },
+        "1571437667": {
+            "ad105.ezcybersearch.com": "INACTIVE",
+            "ad105.hpg.com.br": "INACTIVE"
+        },
+        "1571437668": {
+            "ad106.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437669": {
+            "ad106.hpg.com.br": "INACTIVE"
+        },
+        "1571437670": {
+            "ad107.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437671": {
+            "ad107.hpg.com.br": "INACTIVE"
+        },
+        "1571437672": {
+            "ad108.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437673": {
+            "ad108.hpg.com.br": "INACTIVE"
+        },
+        "1571437674": {
+            "ad109.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437675": {
+            "ad109.hpg.com.br": "INACTIVE"
+        },
+        "1571437682": {
+            "ad10.bannerbank.ru": "INACTIVE"
+        },
+        "1571437683": {
+            "ad10.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437684": {
+            "ad10.hpg.com.br": "INACTIVE"
+        },
+        "1571437686": {
+            "ad110.ezcybersearch.com": "INACTIVE",
+            "ad110.hpg.com.br": "INACTIVE"
+        },
+        "1571437687": {
+            "ad111.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437688": {
+            "ad111.hpg.com.br": "INACTIVE"
+        },
+        "1571437689": {
+            "ad112.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437690": {
+            "ad112.hpg.com.br": "INACTIVE"
+        },
+        "1571437691": {
+            "ad113.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437692": {
+            "ad113.hpg.com.br": "INACTIVE"
+        },
+        "1571437693": {
+            "ad114.ezcybersearch.com": "INACTIVE",
+            "ad114.hpg.com.br": "INACTIVE"
+        },
+        "1571437695": {
+            "ad115.ezcybersearch.com": "INACTIVE",
+            "ad115.hpg.com.br": "INACTIVE"
+        },
+        "1571437696": {
+            "ad116.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437697": {
+            "ad116.hpg.com.br": "INACTIVE"
+        },
+        "1571437698": {
+            "ad117.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437699": {
+            "ad117.hpg.com.br": "INACTIVE"
+        },
+        "1571437700": {
+            "ad118.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437701": {
+            "ad118.hpg.com.br": "INACTIVE"
+        },
+        "1571437702": {
+            "ad119.ezcybersearch.com": "INACTIVE",
+            "ad119.hpg.com.br": "INACTIVE"
+        },
+        "1571437703": {
+            "ad11.adfarm1.adition.com": "INACTIVE"
+        },
+        "1571437710": {
+            "ad11.bannerbank.ru": "INACTIVE"
+        },
+        "1571437711": {
+            "ad11.ezcybersearch.com": "INACTIVE",
+            "ad11.hpg.com.br": "INACTIVE"
+        },
+        "1571437712": {
+            "ad120.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437713": {
+            "ad120.hpg.com.br": "INACTIVE"
+        },
+        "1571437714": {
+            "ad121.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437715": {
+            "ad121.hpg.com.br": "INACTIVE"
+        },
+        "1571437716": {
+            "ad122.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437717": {
+            "ad122.hpg.com.br": "INACTIVE"
+        },
+        "1571437718": {
+            "ad123.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437719": {
+            "ad123.hpg.com.br": "INACTIVE"
+        },
+        "1571437720": {
+            "ad124.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437721": {
+            "ad124.hpg.com.br": "INACTIVE"
+        },
+        "1571437722": {
+            "ad125.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437723": {
+            "ad125.hpg.com.br": "INACTIVE"
+        },
+        "1571437724": {
+            "ad126.ezcybersearch.com": "INACTIVE",
+            "ad126.hpg.com.br": "INACTIVE"
+        },
+        "1571437725": {
+            "ad127.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437726": {
+            "ad127.hpg.com.br": "INACTIVE"
+        },
+        "1571437727": {
+            "ad128.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437728": {
+            "ad128.hpg.com.br": "INACTIVE"
+        },
+        "1571437729": {
+            "ad129.ezcybersearch.com": "INACTIVE",
+            "ad129.hpg.com.br": "INACTIVE"
+        },
+        "1571437736": {
+            "ad12.bannerbank.ru": "INACTIVE"
+        },
+        "1571437738": {
+            "ad12.ezcybersearch.com": "INACTIVE",
+            "ad12.hpg.com.br": "INACTIVE"
+        },
+        "1571437740": {
+            "ad130.ezcybersearch.com": "INACTIVE",
+            "ad130.hpg.com.br": "INACTIVE"
+        },
+        "1571437741": {
+            "ad131.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437742": {
+            "ad131.hpg.com.br": "INACTIVE"
+        },
+        "1571437743": {
+            "ad132.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437744": {
+            "ad132.hpg.com.br": "INACTIVE"
+        },
+        "1571437745": {
+            "ad133.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437746": {
+            "ad133.hpg.com.br": "INACTIVE"
+        },
+        "1571437747": {
+            "ad134.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437748": {
+            "ad134.hpg.com.br": "INACTIVE"
+        },
+        "1571437749": {
+            "ad135.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437750": {
+            "ad135.hpg.com.br": "INACTIVE"
+        },
+        "1571437751": {
+            "ad136.ezcybersearch.com": "INACTIVE",
+            "ad136.hpg.com.br": "INACTIVE"
+        },
+        "1571437752": {
+            "ad137.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437753": {
+            "ad137.hpg.com.br": "INACTIVE"
+        },
+        "1571437754": {
+            "ad138.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437755": {
+            "ad138.hpg.com.br": "INACTIVE"
+        },
+        "1571437756": {
+            "ad139.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437757": {
+            "ad139.hpg.com.br": "INACTIVE"
+        },
+        "1571437764": {
+            "ad13.bannerbank.ru": "INACTIVE"
+        },
+        "1571437765": {
+            "ad13.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437766": {
+            "ad13.hpg.com.br": "INACTIVE"
+        },
+        "1571437767": {
+            "ad140.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437768": {
+            "ad140.hpg.com.br": "INACTIVE"
+        },
+        "1571437769": {
+            "ad141.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437770": {
+            "ad141.hpg.com.br": "INACTIVE"
+        },
+        "1571437771": {
+            "ad142.ezcybersearch.com": "INACTIVE",
+            "ad142.hpg.com.br": "INACTIVE"
+        },
+        "1571437772": {
+            "ad143.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437773": {
+            "ad143.hpg.com.br": "INACTIVE"
+        },
+        "1571437774": {
+            "ad144.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437775": {
+            "ad144.hpg.com.br": "INACTIVE"
+        },
+        "1571437776": {
+            "ad145.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437777": {
+            "ad145.hpg.com.br": "INACTIVE"
+        },
+        "1571437778": {
+            "ad146.ezcybersearch.com": "INACTIVE",
+            "ad146.hpg.com.br": "INACTIVE"
+        },
+        "1571437779": {
+            "ad147.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437780": {
+            "ad147.hpg.com.br": "INACTIVE"
+        },
+        "1571437781": {
+            "ad148.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437782": {
+            "ad148.hpg.com.br": "INACTIVE"
+        },
+        "1571437783": {
+            "ad149.ezcybersearch.com": "INACTIVE",
+            "ad149.hpg.com.br": "INACTIVE"
+        },
+        "1571437790": {
+            "ad14.bannerbank.ru": "INACTIVE"
+        },
+        "1571437791": {
+            "ad14.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437792": {
+            "ad14.hpg.com.br": "INACTIVE"
+        },
+        "1571437793": {
+            "ad150.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437794": {
+            "ad150.hpg.com.br": "INACTIVE"
+        },
+        "1571437795": {
+            "ad151.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437796": {
+            "ad151.hpg.com.br": "INACTIVE"
+        },
+        "1571437797": {
+            "ad152.ezcybersearch.com": "INACTIVE",
+            "ad152.hpg.com.br": "INACTIVE"
+        },
+        "1571437798": {
+            "ad153.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437799": {
+            "ad153.hpg.com.br": "INACTIVE"
+        },
+        "1571437800": {
+            "ad154.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437801": {
+            "ad154.hpg.com.br": "INACTIVE"
+        },
+        "1571437802": {
+            "ad155.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437803": {
+            "ad155.hpg.com.br": "INACTIVE"
+        },
+        "1571437804": {
+            "ad156.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437805": {
+            "ad156.hpg.com.br": "INACTIVE"
+        },
+        "1571437806": {
+            "ad157.ezcybersearch.com": "INACTIVE",
+            "ad157.hpg.com.br": "INACTIVE"
+        },
+        "1571437808": {
+            "ad158.ezcybersearch.com": "INACTIVE",
+            "ad158.hpg.com.br": "INACTIVE"
+        },
+        "1571437809": {
+            "ad159.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437810": {
+            "ad159.hpg.com.br": "INACTIVE"
+        },
+        "1571437817": {
+            "ad15.bannerbank.ru": "INACTIVE"
+        },
+        "1571437818": {
+            "ad15.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437819": {
+            "ad15.hpg.com.br": "INACTIVE"
+        },
+        "1571437820": {
+            "ad160.ezcybersearch.com": "INACTIVE",
+            "ad160.hpg.com.br": "INACTIVE"
+        },
+        "1571437821": {
+            "ad161.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437822": {
+            "ad161.hpg.com.br": "INACTIVE",
+            "ad162.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437823": {
+            "ad162.hpg.com.br": "INACTIVE",
+            "ad163.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437824": {
+            "ad163.hpg.com.br": "INACTIVE"
+        },
+        "1571437825": {
+            "ad164.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437826": {
+            "ad164.hpg.com.br": "INACTIVE",
+            "ad165.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437827": {
+            "ad165.hpg.com.br": "INACTIVE",
+            "ad166.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437828": {
+            "ad166.hpg.com.br": "INACTIVE"
+        },
+        "1571437829": {
+            "ad167.ezcybersearch.com": "INACTIVE",
+            "ad167.hpg.com.br": "INACTIVE"
+        },
+        "1571437830": {
+            "ad168.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437831": {
+            "ad168.hpg.com.br": "INACTIVE",
+            "ad169.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437832": {
+            "ad169.hpg.com.br": "INACTIVE"
+        },
+        "1571437838": {
+            "ad16.bannerbank.ru": "INACTIVE"
+        },
+        "1571437845": {
+            "ad16.bb.ru": "INACTIVE",
+            "ad16.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437846": {
+            "ad16.hpg.com.br": "INACTIVE"
+        },
+        "1571437847": {
+            "ad170.ezcybersearch.com": "INACTIVE",
+            "ad170.hpg.com.br": "INACTIVE"
+        },
+        "1571437848": {
+            "ad171.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437849": {
+            "ad171.hpg.com.br": "INACTIVE",
+            "ad172.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437850": {
+            "ad172.hpg.com.br": "INACTIVE",
+            "ad173.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437851": {
+            "ad173.hpg.com.br": "INACTIVE"
+        },
+        "1571437852": {
+            "ad174.ezcybersearch.com": "INACTIVE",
+            "ad174.hpg.com.br": "INACTIVE"
+        },
+        "1571437853": {
+            "ad175.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437854": {
+            "ad175.hpg.com.br": "INACTIVE",
+            "ad176.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437855": {
+            "ad176.hpg.com.br": "INACTIVE",
+            "ad177.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437856": {
+            "ad177.hpg.com.br": "INACTIVE"
+        },
+        "1571437857": {
+            "ad178.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437858": {
+            "ad178.hpg.com.br": "INACTIVE",
+            "ad179.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437859": {
+            "ad179.hpg.com.br": "INACTIVE"
+        },
+        "1571437865": {
+            "ad17.bannerbank.ru": "INACTIVE"
+        },
+        "1571437866": {
+            "ad17.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437867": {
+            "ad17.hpg.com.br": "INACTIVE",
+            "ad180.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437868": {
+            "ad180.hpg.com.br": "INACTIVE",
+            "ad181.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437869": {
+            "ad181.hpg.com.br": "INACTIVE"
+        },
+        "1571437870": {
+            "ad182.ezcybersearch.com": "INACTIVE",
+            "ad182.hpg.com.br": "INACTIVE"
+        },
+        "1571437871": {
+            "ad183.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437872": {
+            "ad183.hpg.com.br": "INACTIVE",
+            "ad184.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437873": {
+            "ad184.hpg.com.br": "INACTIVE"
+        },
+        "1571437874": {
+            "ad185.ezcybersearch.com": "INACTIVE",
+            "ad185.hpg.com.br": "INACTIVE"
+        },
+        "1571437875": {
+            "ad186.ezcybersearch.com": "INACTIVE",
+            "ad186.hpg.com.br": "INACTIVE"
+        },
+        "1571437876": {
+            "ad187.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437877": {
+            "ad187.hpg.com.br": "INACTIVE",
+            "ad188.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437878": {
+            "ad188.hpg.com.br": "INACTIVE"
+        },
+        "1571437879": {
+            "ad189.ezcybersearch.com": "INACTIVE",
+            "ad189.hpg.com.br": "INACTIVE"
+        },
+        "1571437886": {
+            "ad18.bannerbank.ru": "INACTIVE"
+        },
+        "1571437887": {
+            "ad18.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437888": {
+            "ad18.hpg.com.br": "INACTIVE",
+            "ad190.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437889": {
+            "ad190.hpg.com.br": "INACTIVE",
+            "ad191.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437890": {
+            "ad191.hpg.com.br": "INACTIVE"
+        },
+        "1571437891": {
+            "ad192.ezcybersearch.com": "INACTIVE",
+            "ad192.hpg.com.br": "INACTIVE"
+        },
+        "1571437892": {
+            "ad193.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437893": {
+            "ad193.hpg.com.br": "INACTIVE",
+            "ad194.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437894": {
+            "ad194.hpg.com.br": "INACTIVE"
+        },
+        "1571437895": {
+            "ad195.ezcybersearch.com": "INACTIVE",
+            "ad195.hpg.com.br": "INACTIVE"
+        },
+        "1571437896": {
+            "ad196.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437897": {
+            "ad196.hpg.com.br": "INACTIVE",
+            "ad197.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437898": {
+            "ad197.hpg.com.br": "INACTIVE",
+            "ad198.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437899": {
+            "ad198.hpg.com.br": "INACTIVE"
+        },
+        "1571437900": {
+            "ad199.ezcybersearch.com": "INACTIVE",
+            "ad199.hpg.com.br": "INACTIVE"
+        },
+        "1571437901": {
+            "ad19.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437902": {
+            "ad1.adfarm1.adition.com": "INACTIVE",
+            "ad1.adtitan.net": "INACTIVE",
+            "ad19.hpg.com.br": "INACTIVE"
+        },
+        "1571437909": {
+            "ad1.bannerbank.ru": "INACTIVE"
+        },
+        "1571437915": {
+            "ad1.bb.ru": "INACTIVE"
+        },
+        "1571437916": {
+            "ad1.dmcmedia.co.kr": "INACTIVE"
+        },
+        "1571437922": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1571437928": {
+            "ad1.emediate.se": "INACTIVE"
+        },
+        "1571437929": {
+            "ad1.ezcybersearch.com": "INACTIVE"
+        },
+        "1571437930": {
+            "ad1.hpg.com.br": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "ad1.nownews.com": "INACTIVE",
+            "ad1.virtualave.com": "INACTIVE"
+        },
+        "1571437936": {
+            "ad1.yourmedia.com": "INACTIVE"
         }
     }
 }
