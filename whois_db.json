@@ -1780,9 +1780,9 @@
         "state": "future"
     },
     "adbanner.cz": {
-        "epoch": "1571616000",
+        "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adbars.com": {
         "epoch": 1602288000,
@@ -2245,8 +2245,8 @@
         "state": "future"
     },
     "adminder.com": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "admonitor.com": {
