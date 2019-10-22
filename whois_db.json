@@ -3435,9 +3435,9 @@
         "state": "future"
     },
     "adwaresafe.com": {
-        "epoch": "1571616000",
+        "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adwaresafety.com": {
         "epoch": "1573689600",
@@ -4050,9 +4050,9 @@
         "state": "future"
     },
     "allniches.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
-        "state": "past"
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
     },
     "allosponsor.com": {
         "epoch": "1578960000",
@@ -4095,9 +4095,9 @@
         "state": "future"
     },
     "allprivatelinks.com": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "allpromed.com": {
         "epoch": 1592265600,
