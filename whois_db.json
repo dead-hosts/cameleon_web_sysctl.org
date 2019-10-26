@@ -7585,9 +7585,9 @@
         "state": "future"
     },
     "flashmediaportal.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "flavinha.com": {
         "epoch": "1584576000",
@@ -8025,9 +8025,9 @@
         "state": "future"
     },
     "hitq.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitslap.com": {
         "epoch": "1576368000",
