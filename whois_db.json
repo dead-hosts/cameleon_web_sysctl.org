@@ -6230,9 +6230,9 @@
         "state": "future"
     },
     "clickability.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickability.net": {
         "epoch": "1576627200",
@@ -6245,8 +6245,8 @@
         "state": "future"
     },
     "clickadu.com": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "clickagents.com": {
@@ -6405,8 +6405,8 @@
         "state": "future"
     },
     "clubmillionswow.cn": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "clubxtacy.com": {
