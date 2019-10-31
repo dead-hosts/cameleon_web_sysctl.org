@@ -1927,550 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1572407447": {
-            "ad4.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407448": {
-            "ad4.hpg.com.br": "INACTIVE"
-        },
-        "1572407449": {
-            "ad4.netshelter.net": "INACTIVE"
-        },
-        "1572407453": {
-            "ad50.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407454": {
-            "ad50.hpg.com.br": "INACTIVE"
-        },
-        "1572407455": {
-            "ad51.ezcybersearch.com": "INACTIVE",
-            "ad51.hpg.com.br": "INACTIVE"
-        },
-        "1572407459": {
-            "ad52.ezcybersearch.com": "INACTIVE",
-            "ad52.hpg.com.br": "INACTIVE"
-        },
-        "1572407460": {
-            "ad53.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407461": {
-            "ad53.hpg.com.br": "INACTIVE"
-        },
-        "1572407466": {
-            "ad54.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407467": {
-            "ad54.hpg.com.br": "INACTIVE"
-        },
-        "1572407468": {
-            "ad55.ezcybersearch.com": "INACTIVE",
-            "ad55.hpg.com.br": "INACTIVE"
-        },
-        "1572407473": {
-            "ad56.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407474": {
-            "ad56.hpg.com.br": "INACTIVE"
-        },
-        "1572407477": {
-            "ad57.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407478": {
-            "ad57.hpg.com.br": "INACTIVE"
-        },
-        "1572407481": {
-            "ad58.ezcybersearch.com": "INACTIVE",
-            "ad58.hpg.com.br": "INACTIVE"
-        },
-        "1572407483": {
-            "ad59.ezcybersearch.com": "INACTIVE",
-            "ad59.hpg.com.br": "INACTIVE"
-        },
-        "1572407490": {
-            "ad5.bannerbank.ru": "INACTIVE"
-        },
-        "1572407496": {
-            "ad5.bb.ru": "INACTIVE"
-        },
-        "1572407498": {
-            "ad5.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407499": {
-            "ad5.hpg.com.br": "INACTIVE",
-            "ad5.netshelter.net": "INACTIVE"
-        },
-        "1572407501": {
-            "ad60.ezcybersearch.com": "INACTIVE",
-            "ad60.hpg.com.br": "INACTIVE"
-        },
-        "1572407506": {
-            "ad61.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407507": {
-            "ad61.hpg.com.br": "INACTIVE"
-        },
-        "1572407508": {
-            "ad62.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407509": {
-            "ad62.hpg.com.br": "INACTIVE"
-        },
-        "1572407510": {
-            "ad63.ezcybersearch.com": "INACTIVE",
-            "ad63.hpg.com.br": "INACTIVE"
-        },
-        "1572407513": {
-            "ad64.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407514": {
-            "ad64.hpg.com.br": "INACTIVE"
-        },
-        "1572407515": {
-            "ad65.ezcybersearch.com": "INACTIVE",
-            "ad65.hpg.com.br": "INACTIVE"
-        },
-        "1572407521": {
-            "ad66.ezcybersearch.com": "INACTIVE",
-            "ad66.hpg.com.br": "INACTIVE"
-        },
-        "1572407523": {
-            "ad67.ezcybersearch.com": "INACTIVE",
-            "ad67.hpg.com.br": "INACTIVE"
-        },
-        "1572407524": {
-            "ad68.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407525": {
-            "ad68.hpg.com.br": "INACTIVE"
-        },
-        "1572407528": {
-            "ad69.ezcybersearch.com": "INACTIVE",
-            "ad69.hpg.com.br": "INACTIVE"
-        },
-        "1572407535": {
-            "ad6.bannerbank.ru": "INACTIVE"
-        },
-        "1572407542": {
-            "ad6.bb.ru": "INACTIVE"
-        },
-        "1572407548": {
-            "ad6.ezcybersearch.com": "INACTIVE",
-            "ad6.hpg.com.br": "INACTIVE"
-        },
-        "1572407554": {
-            "ad70.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407555": {
-            "ad70.hpg.com.br": "INACTIVE"
-        },
-        "1572407556": {
-            "ad71.ezcybersearch.com": "INACTIVE",
-            "ad71.hpg.com.br": "INACTIVE"
-        },
-        "1572407560": {
-            "ad72.ezcybersearch.com": "INACTIVE",
-            "ad72.hpg.com.br": "INACTIVE"
-        },
-        "1572407562": {
-            "ad73.ezcybersearch.com": "INACTIVE",
-            "ad73.hpg.com.br": "INACTIVE"
-        },
-        "1572407563": {
-            "ad74.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407564": {
-            "ad74.hpg.com.br": "INACTIVE"
-        },
-        "1572407565": {
-            "ad75.ezcybersearch.com": "INACTIVE",
-            "ad75.hpg.com.br": "INACTIVE"
-        },
-        "1572407566": {
-            "ad76.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407567": {
-            "ad76.hpg.com.br": "INACTIVE"
-        },
-        "1572407569": {
-            "ad77.ezcybersearch.com": "INACTIVE",
-            "ad77.hpg.com.br": "INACTIVE"
-        },
-        "1572407570": {
-            "ad78.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407571": {
-            "ad78.hpg.com.br": "INACTIVE"
-        },
-        "1572407572": {
-            "ad79.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407573": {
-            "ad79.hpg.com.br": "INACTIVE"
-        },
-        "1572407580": {
-            "ad7.bannerbank.ru": "INACTIVE"
-        },
-        "1572407586": {
-            "ad7.bb.ru": "INACTIVE"
-        },
-        "1572407592": {
-            "ad7.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407593": {
-            "ad7.hpg.com.br": "INACTIVE"
-        },
-        "1572407594": {
-            "ad80.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407595": {
-            "ad80.hpg.com.br": "INACTIVE"
-        },
-        "1572407596": {
-            "ad81.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407597": {
-            "ad81.hpg.com.br": "INACTIVE"
-        },
-        "1572407602": {
-            "ad82.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407603": {
-            "ad82.hpg.com.br": "INACTIVE"
-        },
-        "1572407604": {
-            "ad83.ezcybersearch.com": "INACTIVE",
-            "ad83.hpg.com.br": "INACTIVE"
-        },
-        "1572407607": {
-            "ad84.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407608": {
-            "ad84.hpg.com.br": "INACTIVE"
-        },
-        "1572407609": {
-            "ad85.ezcybersearch.com": "INACTIVE",
-            "ad85.hpg.com.br": "INACTIVE"
-        },
-        "1572407613": {
-            "ad86.ezcybersearch.com": "INACTIVE",
-            "ad86.hpg.com.br": "INACTIVE"
-        },
-        "1572407616": {
-            "ad87.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407617": {
-            "ad87.hpg.com.br": "INACTIVE"
-        },
-        "1572407620": {
-            "ad88.ezcybersearch.com": "INACTIVE",
-            "ad88.hpg.com.br": "INACTIVE"
-        },
-        "1572407626": {
-            "ad89.ezcybersearch.com": "INACTIVE",
-            "ad89.hpg.com.br": "INACTIVE"
-        },
-        "1572407634": {
-            "ad8.bannerbank.ru": "INACTIVE"
-        },
-        "1572407640": {
-            "ad8.bb.ru": "INACTIVE"
-        },
-        "1572407643": {
-            "ad8.ezcybersearch.com": "INACTIVE",
-            "ad8.hpg.com.br": "INACTIVE"
-        },
-        "1572407647": {
-            "ad90.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407648": {
-            "ad90.hpg.com.br": "INACTIVE"
-        },
-        "1572407651": {
-            "ad91.ezcybersearch.com": "INACTIVE",
-            "ad91.hpg.com.br": "INACTIVE"
-        },
-        "1572407654": {
-            "ad92.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407655": {
-            "ad92.hpg.com.br": "INACTIVE"
-        },
-        "1572407656": {
-            "ad93.ezcybersearch.com": "INACTIVE",
-            "ad93.hpg.com.br": "INACTIVE"
-        },
-        "1572407658": {
-            "ad94.ezcybersearch.com": "INACTIVE",
-            "ad94.hpg.com.br": "INACTIVE"
-        },
-        "1572407659": {
-            "ad95.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407660": {
-            "ad95.hpg.com.br": "INACTIVE"
-        },
-        "1572407665": {
-            "ad96.ezcybersearch.com": "INACTIVE",
-            "ad96.hpg.com.br": "INACTIVE"
-        },
-        "1572407669": {
-            "ad97.ezcybersearch.com": "INACTIVE",
-            "ad97.hpg.com.br": "INACTIVE"
-        },
-        "1572407670": {
-            "ad98.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407671": {
-            "ad98.hpg.com.br": "INACTIVE"
-        },
-        "1572407672": {
-            "ad99.ezcybersearch.com": "INACTIVE",
-            "ad99.hpg.com.br": "INACTIVE"
-        },
-        "1572407679": {
-            "ad9.bannerbank.ru": "INACTIVE"
-        },
-        "1572407686": {
-            "ad9.bb.ru": "INACTIVE"
-        },
-        "1572407689": {
-            "ad9.ezcybersearch.com": "INACTIVE"
-        },
-        "1572407690": {
-            "ad9.hpg.com.br": "INACTIVE"
-        },
-        "1572407691": {
-            "ad.a8.net": "INACTIVE"
-        },
-        "1572407692": {
-            "ad-ace.doubleclick.net": "INACTIVE"
-        },
-        "1572407695": {
-            "ad.ad-arata.com": "INACTIVE"
-        },
-        "1572407696": {
-            "ad.adip.ly": "INACTIVE",
-            "ad.adlegend.com": "INACTIVE"
-        },
-        "1572407699": {
-            "ad.adnetinteractive.com": "INACTIVE"
-        },
-        "1572407702": {
-            "ad.adserverplus.com": "INACTIVE"
-        },
-        "1572407712": {
-            "ad.adver.com.tw": "INACTIVE"
-        },
-        "1572407717": {
-            "ad.afy11.net": "INACTIVE"
-        },
-        "1572407724": {
-            "ad.allstar.cz": "INACTIVE"
-        },
-        "1572407725": {
-            "adamsmarkhotels.com": "INACTIVE"
-        },
-        "1572407726": {
-            "adan.xtendmedia.com": "INACTIVE"
-        },
-        "1572407732": {
-            "ad.aquamediadirect.com": "INACTIVE"
-        },
-        "1572407733": {
-            "ad.atdmt.com": "INACTIVE"
-        },
-        "1572407734": {
-            "ad.auditude.com": "INACTIVE"
-        },
-        "1572407742": {
-            "ad.bannerbank.ru": "INACTIVE"
-        },
-        "1572407751": {
-            "adbanner.sweepsclub.com": "INACTIVE"
-        },
-        "1572407759": {
-            "ad.bb.ru": "INACTIVE"
-        },
-        "1572407775": {
-            "adb.fling.com": "INACTIVE"
-        },
-        "1572407785": {
-            "ad.blackystars.com": "INACTIVE"
-        },
-        "1572407790": {
-            "ad.bnmla.com": "INACTIVE",
-            "adb.nikkei.co.jp": "INACTIVE"
-        },
-        "1572407799": {
-            "ad.broadstreetads.com": "INACTIVE"
-        },
-        "1572407810": {
-            "ad.caos.it": "INACTIVE"
-        },
-        "1572407811": {
-            "ad.caradisiac.com": "INACTIVE"
-        },
-        "1572407812": {
-            "adcast.deviantart.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE"
-        },
-        "1572407816": {
-            "adclick.g.doubleclick.net": "INACTIVE"
-        },
-        "1572407822": {
-            "ad.clickhere.ru": "INACTIVE"
-        },
-        "1572407838": {
-            "ad.cornerpost.com": "INACTIVE",
-            "adcounter.theglobeandmail.com": "INACTIVE"
-        },
-        "1572407839": {
-            "ad.creafi.com": "INACTIVE"
-        },
-        "1572407844": {
-            "ad.db3nf.com": "INACTIVE"
-        },
-        "1572407847": {
-            "ad.deviantart.com": "INACTIVE"
-        },
-        "1572407848": {
-            "ad.digitimes.com.tw": "INACTIVE"
-        },
-        "1572407850": {
-            "ad.domainfactory.de": "INACTIVE"
-        },
-        "1572407851": {
-            "ad.doubleclick.de": "INACTIVE"
-        },
-        "1572407857": {
-            "ad.download.cnet.com": "INACTIVE"
-        },
-        "1572407859": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "addserver1.gohip.com": "INACTIVE"
-        },
-        "1572407860": {
-            "ad.dumedia.ru": "INACTIVE"
-        },
-        "1572407861": {
-            "add.yahoo.com": "INACTIVE"
-        },
-        "1572407862": {
-            "ad.econet.hu": "INACTIVE"
-        },
-        "1572407890": {
-            "ad.es.chilinext.com": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE"
-        },
-        "1572407900": {
-            "ad.ezcybersearch.com": "INACTIVE",
-            "adfarm1.adition.com": "INACTIVE"
-        },
-        "1572407902": {
-            "adflash.affairsclub.com": "INACTIVE"
-        },
-        "1572407911": {
-            "ad.foxnetworks.com": "INACTIVE"
-        },
-        "1572408028": {
-            "adg.bzgint.com": "INACTIVE"
-        },
-        "1572408030": {
-            "ad.globe7.com": "INACTIVE"
-        },
-        "1572408033": {
-            "ad.hankooki.com": "INACTIVE"
-        },
-        "1572408041": {
-            "adhese.gva.be": "INACTIVE"
-        },
-        "1572408047": {
-            "adhese.hbvl.be": "INACTIVE"
-        },
-        "1572408053": {
-            "adhese.standaard.be": "INACTIVE"
-        },
-        "1572408056": {
-            "ad-hoc-news.de.intellitxt.com": "INACTIVE"
-        },
-        "1572408059": {
-            "ad.hpg.com.br": "INACTIVE"
-        },
-        "1572408070": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
-        "1572408076": {
-            "ad.iii.co.uk": "INACTIVE",
-            "adidm.idmnet.pl": "INACTIVE"
-        },
-        "1572408078": {
-            "adimage.asia1.com.sg": "INACTIVE"
-        },
-        "1572408085": {
-            "adimages.sanomawsoy.fi": "INACTIVE",
-            "adimages.scrippsnetworks.com": "INACTIVE"
-        },
-        "1572408086": {
-            "adimages.tmpw.net": "INACTIVE"
-        },
-        "1572408088": {
-            "adimg1.chosun.com": "INACTIVE"
-        },
-        "1572408090": {
-            "adimg1.chosun.net": "INACTIVE"
-        },
-        "1572408091": {
-            "adimg.alice.it": "INACTIVE",
-            "adimg1.chosun.org": "INACTIVE"
-        },
-        "1572408095": {
-            "adimg.virgilio.it": "INACTIVE"
-        },
-        "1572408096": {
-            "adindex.laweekly.com": "INACTIVE"
-        },
-        "1572408097": {
-            "ad.inmatads.info": "INACTIVE"
-        },
-        "1572408117": {
-            "ad.it.chilinext.com": "INACTIVE"
-        },
-        "1572408118": {
-            "ad.ittoolbox.com": "INACTIVE"
-        },
-        "1572408128": {
-            "ad-js.chip.de": "INACTIVE"
-        },
-        "1572408129": {
-            "ad.jumbaexchange.com": "INACTIVE"
-        },
-        "1572408132": {
-            "adjunct.budulay.com": "INACTIVE"
-        },
-        "1572408144": {
-            "adlink.deh.nl": "INACTIVE"
-        },
-        "1572408155": {
-            "ad.looktraffic.com": "INACTIVE",
-            "adl.sound.net": "INACTIVE"
-        },
-        "1572408158": {
-            "ad.m-adx.com": "INACTIVE"
-        },
-        "1572408167": {
-            "adman.in.gr": "INACTIVE"
-        },
-        "1572408170": {
-            "admaven.adk2x.com": "INACTIVE"
-        },
-        "1572408171": {
-            "admax.nexage.com": "INACTIVE",
-            "admaximize.nu": "INACTIVE"
-        },
-        "1572408178": {
-            "ad.mbn.bb.ru": "INACTIVE",
-            "admedia.expedia.com": "INACTIVE"
-        },
         "1572408180": {
             "ad.mediaprostor.cz": "INACTIVE"
         },
@@ -14853,6 +14309,575 @@
         },
         "1572521753": {
             "ad4.bb.ru": "INACTIVE"
+        },
+        "1572524639": {
+            "ad4.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524641": {
+            "ad4.hpg.com.br": "INACTIVE"
+        },
+        "1572524642": {
+            "ad4.netshelter.net": "INACTIVE"
+        },
+        "1572524648": {
+            "ad50.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524649": {
+            "ad50.hpg.com.br": "INACTIVE"
+        },
+        "1572524650": {
+            "ad51.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524651": {
+            "ad51.hpg.com.br": "INACTIVE"
+        },
+        "1572524652": {
+            "ad52.ezcybersearch.com": "INACTIVE",
+            "ad52.hpg.com.br": "INACTIVE"
+        },
+        "1572524654": {
+            "ad53.ezcybersearch.com": "INACTIVE",
+            "ad53.hpg.com.br": "INACTIVE"
+        },
+        "1572524655": {
+            "ad54.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524656": {
+            "ad54.hpg.com.br": "INACTIVE"
+        },
+        "1572524657": {
+            "ad55.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524658": {
+            "ad55.hpg.com.br": "INACTIVE"
+        },
+        "1572524659": {
+            "ad56.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524660": {
+            "ad56.hpg.com.br": "INACTIVE"
+        },
+        "1572524661": {
+            "ad57.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524662": {
+            "ad57.hpg.com.br": "INACTIVE"
+        },
+        "1572524663": {
+            "ad58.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524664": {
+            "ad58.hpg.com.br": "INACTIVE"
+        },
+        "1572524665": {
+            "ad59.ezcybersearch.com": "INACTIVE",
+            "ad59.hpg.com.br": "INACTIVE"
+        },
+        "1572524672": {
+            "ad5.bannerbank.ru": "INACTIVE"
+        },
+        "1572524679": {
+            "ad5.bb.ru": "INACTIVE"
+        },
+        "1572524681": {
+            "ad5.ezcybersearch.com": "INACTIVE",
+            "ad5.hpg.com.br": "INACTIVE"
+        },
+        "1572524682": {
+            "ad5.netshelter.net": "INACTIVE"
+        },
+        "1572524683": {
+            "ad60.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524684": {
+            "ad60.hpg.com.br": "INACTIVE"
+        },
+        "1572524685": {
+            "ad61.ezcybersearch.com": "INACTIVE",
+            "ad61.hpg.com.br": "INACTIVE"
+        },
+        "1572524686": {
+            "ad62.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524687": {
+            "ad62.hpg.com.br": "INACTIVE"
+        },
+        "1572524688": {
+            "ad63.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524689": {
+            "ad63.hpg.com.br": "INACTIVE"
+        },
+        "1572524690": {
+            "ad64.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524691": {
+            "ad64.hpg.com.br": "INACTIVE"
+        },
+        "1572524692": {
+            "ad65.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524693": {
+            "ad65.hpg.com.br": "INACTIVE"
+        },
+        "1572524694": {
+            "ad66.ezcybersearch.com": "INACTIVE",
+            "ad66.hpg.com.br": "INACTIVE"
+        },
+        "1572524695": {
+            "ad67.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524696": {
+            "ad67.hpg.com.br": "INACTIVE"
+        },
+        "1572524697": {
+            "ad68.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524698": {
+            "ad68.hpg.com.br": "INACTIVE"
+        },
+        "1572524699": {
+            "ad69.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524700": {
+            "ad69.hpg.com.br": "INACTIVE"
+        },
+        "1572524707": {
+            "ad6.bannerbank.ru": "INACTIVE"
+        },
+        "1572524713": {
+            "ad6.bb.ru": "INACTIVE"
+        },
+        "1572524715": {
+            "ad6.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524716": {
+            "ad6.hpg.com.br": "INACTIVE"
+        },
+        "1572524718": {
+            "ad70.ezcybersearch.com": "INACTIVE",
+            "ad70.hpg.com.br": "INACTIVE"
+        },
+        "1572524719": {
+            "ad71.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524720": {
+            "ad71.hpg.com.br": "INACTIVE"
+        },
+        "1572524722": {
+            "ad72.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524723": {
+            "ad72.hpg.com.br": "INACTIVE",
+            "ad73.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524724": {
+            "ad73.hpg.com.br": "INACTIVE"
+        },
+        "1572524725": {
+            "ad74.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524726": {
+            "ad74.hpg.com.br": "INACTIVE"
+        },
+        "1572524727": {
+            "ad75.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524728": {
+            "ad75.hpg.com.br": "INACTIVE"
+        },
+        "1572524729": {
+            "ad76.ezcybersearch.com": "INACTIVE",
+            "ad76.hpg.com.br": "INACTIVE"
+        },
+        "1572524731": {
+            "ad77.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524732": {
+            "ad77.hpg.com.br": "INACTIVE"
+        },
+        "1572524733": {
+            "ad78.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524734": {
+            "ad78.hpg.com.br": "INACTIVE"
+        },
+        "1572524735": {
+            "ad79.ezcybersearch.com": "INACTIVE",
+            "ad79.hpg.com.br": "INACTIVE"
+        },
+        "1572524743": {
+            "ad7.bannerbank.ru": "INACTIVE"
+        },
+        "1572524749": {
+            "ad7.bb.ru": "INACTIVE"
+        },
+        "1572524751": {
+            "ad7.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524753": {
+            "ad7.hpg.com.br": "INACTIVE"
+        },
+        "1572524754": {
+            "ad80.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524755": {
+            "ad80.hpg.com.br": "INACTIVE"
+        },
+        "1572524756": {
+            "ad81.ezcybersearch.com": "INACTIVE",
+            "ad81.hpg.com.br": "INACTIVE"
+        },
+        "1572524757": {
+            "ad82.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524758": {
+            "ad82.hpg.com.br": "INACTIVE"
+        },
+        "1572524759": {
+            "ad83.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524760": {
+            "ad83.hpg.com.br": "INACTIVE"
+        },
+        "1572524761": {
+            "ad84.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524762": {
+            "ad84.hpg.com.br": "INACTIVE"
+        },
+        "1572524763": {
+            "ad85.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524764": {
+            "ad85.hpg.com.br": "INACTIVE"
+        },
+        "1572524765": {
+            "ad86.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524766": {
+            "ad86.hpg.com.br": "INACTIVE"
+        },
+        "1572524767": {
+            "ad87.ezcybersearch.com": "INACTIVE",
+            "ad87.hpg.com.br": "INACTIVE"
+        },
+        "1572524768": {
+            "ad88.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524769": {
+            "ad88.hpg.com.br": "INACTIVE"
+        },
+        "1572524770": {
+            "ad89.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524771": {
+            "ad89.hpg.com.br": "INACTIVE"
+        },
+        "1572524779": {
+            "ad8.bannerbank.ru": "INACTIVE"
+        },
+        "1572524785": {
+            "ad8.bb.ru": "INACTIVE"
+        },
+        "1572524786": {
+            "ad8.ezcybersearch.com": "INACTIVE",
+            "ad8.hpg.com.br": "INACTIVE"
+        },
+        "1572524788": {
+            "ad90.ezcybersearch.com": "INACTIVE",
+            "ad90.hpg.com.br": "INACTIVE"
+        },
+        "1572524789": {
+            "ad91.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524790": {
+            "ad91.hpg.com.br": "INACTIVE"
+        },
+        "1572524791": {
+            "ad92.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524792": {
+            "ad92.hpg.com.br": "INACTIVE"
+        },
+        "1572524793": {
+            "ad93.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524794": {
+            "ad93.hpg.com.br": "INACTIVE"
+        },
+        "1572524795": {
+            "ad94.ezcybersearch.com": "INACTIVE",
+            "ad94.hpg.com.br": "INACTIVE"
+        },
+        "1572524796": {
+            "ad95.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524797": {
+            "ad95.hpg.com.br": "INACTIVE"
+        },
+        "1572524798": {
+            "ad96.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524799": {
+            "ad96.hpg.com.br": "INACTIVE"
+        },
+        "1572524800": {
+            "ad97.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524801": {
+            "ad97.hpg.com.br": "INACTIVE"
+        },
+        "1572524802": {
+            "ad98.ezcybersearch.com": "INACTIVE",
+            "ad98.hpg.com.br": "INACTIVE"
+        },
+        "1572524803": {
+            "ad99.ezcybersearch.com": "INACTIVE"
+        },
+        "1572524804": {
+            "ad99.hpg.com.br": "INACTIVE"
+        },
+        "1572524811": {
+            "ad9.bannerbank.ru": "INACTIVE"
+        },
+        "1572524817": {
+            "ad9.bb.ru": "INACTIVE"
+        },
+        "1572524819": {
+            "ad9.ezcybersearch.com": "INACTIVE",
+            "ad9.hpg.com.br": "INACTIVE"
+        },
+        "1572524821": {
+            "ad.a8.net": "INACTIVE"
+        },
+        "1572524822": {
+            "ad-ace.doubleclick.net": "INACTIVE"
+        },
+        "1572524824": {
+            "ad.ad-arata.com": "INACTIVE"
+        },
+        "1572524826": {
+            "ad.adip.ly": "INACTIVE",
+            "ad.adlegend.com": "INACTIVE"
+        },
+        "1572524831": {
+            "ad.adnetinteractive.com": "INACTIVE"
+        },
+        "1572524835": {
+            "ad.adserverplus.com": "INACTIVE"
+        },
+        "1572524844": {
+            "ad.adver.com.tw": "INACTIVE"
+        },
+        "1572524850": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1572524857": {
+            "ad.allstar.cz": "INACTIVE"
+        },
+        "1572524858": {
+            "adamsmarkhotels.com": "INACTIVE"
+        },
+        "1572524859": {
+            "adan.xtendmedia.com": "INACTIVE"
+        },
+        "1572524866": {
+            "ad.aquamediadirect.com": "INACTIVE",
+            "ad.atdmt.com": "INACTIVE"
+        },
+        "1572524867": {
+            "ad.auditude.com": "INACTIVE"
+        },
+        "1572524875": {
+            "ad.bannerbank.ru": "INACTIVE"
+        },
+        "1572524885": {
+            "adbanner.sweepsclub.com": "INACTIVE"
+        },
+        "1572524895": {
+            "ad.bb.ru": "INACTIVE"
+        },
+        "1572524915": {
+            "adb.fling.com": "INACTIVE"
+        },
+        "1572524922": {
+            "ad.bnmla.com": "INACTIVE",
+            "adb.nikkei.co.jp": "INACTIVE"
+        },
+        "1572524931": {
+            "ad.broadstreetads.com": "INACTIVE"
+        },
+        "1572524946": {
+            "ad.caos.it": "INACTIVE"
+        },
+        "1572524947": {
+            "ad.caradisiac.com": "INACTIVE"
+        },
+        "1572524948": {
+            "adcast.deviantart.com": "INACTIVE",
+            "adcdn.33universal.com": "INACTIVE"
+        },
+        "1572524955": {
+            "adclick.g.doubleclick.net": "INACTIVE"
+        },
+        "1572524961": {
+            "ad.clickhere.ru": "INACTIVE"
+        },
+        "1572524981": {
+            "ad.cornerpost.com": "INACTIVE",
+            "adcounter.theglobeandmail.com": "INACTIVE"
+        },
+        "1572524983": {
+            "ad.creafi.com": "INACTIVE"
+        },
+        "1572524988": {
+            "ad.db3nf.com": "INACTIVE"
+        },
+        "1572524992": {
+            "ad.deviantart.com": "INACTIVE"
+        },
+        "1572524993": {
+            "ad.digitimes.com.tw": "INACTIVE"
+        },
+        "1572524995": {
+            "ad.domainfactory.de": "INACTIVE"
+        },
+        "1572524996": {
+            "ad.doubleclick.de": "INACTIVE"
+        },
+        "1572525002": {
+            "ad.download.cnet.com": "INACTIVE"
+        },
+        "1572525005": {
+            "ad.dumedia.ru": "INACTIVE",
+            "adds.misiamoiatdom.com": "INACTIVE"
+        },
+        "1572525006": {
+            "add.yahoo.com": "INACTIVE"
+        },
+        "1572525009": {
+            "ad.econet.hu": "INACTIVE"
+        },
+        "1572525031": {
+            "ad.es.chilinext.com": "INACTIVE"
+        },
+        "1572525033": {
+            "ad.eurosport.com": "INACTIVE"
+        },
+        "1572525038": {
+            "ad.ezcybersearch.com": "INACTIVE"
+        },
+        "1572525039": {
+            "adfarm1.adition.com": "INACTIVE"
+        },
+        "1572525041": {
+            "adflash.affairsclub.com": "INACTIVE"
+        },
+        "1572525050": {
+            "ad.foxnetworks.com": "INACTIVE"
+        },
+        "1572525059": {
+            "adg.bzgint.com": "INACTIVE"
+        },
+        "1572525062": {
+            "ad.globe7.com": "INACTIVE"
+        },
+        "1572525065": {
+            "ad.hankooki.com": "INACTIVE"
+        },
+        "1572525072": {
+            "adhese.gva.be": "INACTIVE"
+        },
+        "1572525078": {
+            "adhese.hbvl.be": "INACTIVE"
+        },
+        "1572525085": {
+            "adhese.standaard.be": "INACTIVE"
+        },
+        "1572525087": {
+            "ad-hoc-news.de.intellitxt.com": "INACTIVE"
+        },
+        "1572525106": {
+            "ad.hpg.com.br": "INACTIVE"
+        },
+        "1572525117": {
+            "adidm07.idmnet.pl": "INACTIVE"
+        },
+        "1572525123": {
+            "ad.iii.co.uk": "INACTIVE",
+            "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1572525125": {
+            "adimage.asia1.com.sg": "INACTIVE"
+        },
+        "1572525132": {
+            "adimages.sanomawsoy.fi": "INACTIVE",
+            "adimages.scrippsnetworks.com": "INACTIVE"
+        },
+        "1572525133": {
+            "adimages.tmpw.net": "INACTIVE"
+        },
+        "1572525134": {
+            "adimg1.chosun.com": "INACTIVE"
+        },
+        "1572525135": {
+            "adimg1.chosun.net": "INACTIVE"
+        },
+        "1572525136": {
+            "adimg1.chosun.org": "INACTIVE"
+        },
+        "1572525137": {
+            "adimg.alice.it": "INACTIVE"
+        },
+        "1572525141": {
+            "adimg.virgilio.it": "INACTIVE",
+            "adindex.laweekly.com": "INACTIVE"
+        },
+        "1572525143": {
+            "ad.inmatads.info": "INACTIVE"
+        },
+        "1572525157": {
+            "ad.it.chilinext.com": "INACTIVE"
+        },
+        "1572525160": {
+            "ad.ittoolbox.com": "INACTIVE"
+        },
+        "1572525168": {
+            "ad.janalta.com": "INACTIVE"
+        },
+        "1572525170": {
+            "ad-js.chip.de": "INACTIVE"
+        },
+        "1572525171": {
+            "ad.jumbaexchange.com": "INACTIVE"
+        },
+        "1572525179": {
+            "adjunct.budulay.com": "INACTIVE"
+        },
+        "1572525191": {
+            "adlink.deh.nl": "INACTIVE"
+        },
+        "1572525202": {
+            "ad.looktraffic.com": "INACTIVE",
+            "adl.sound.net": "INACTIVE"
+        },
+        "1572525205": {
+            "ad.m-adx.com": "INACTIVE"
+        },
+        "1572525209": {
+            "adman.in.gr": "INACTIVE"
+        },
+        "1572525212": {
+            "admaven.adk2x.com": "INACTIVE"
+        },
+        "1572525214": {
+            "admax.nexage.com": "INACTIVE",
+            "admaximize.nu": "INACTIVE"
+        },
+        "1572525221": {
+            "ad.mbn.bb.ru": "INACTIVE",
+            "admedia.expedia.com": "INACTIVE"
         }
     }
 }
