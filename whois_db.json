@@ -11145,9 +11145,9 @@
         "state": "future"
     },
     "xblasterads1.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xed.pl": {
         "epoch": "1580428800",
@@ -11280,8 +11280,8 @@
         "state": "future"
     },
     "youronlinesoft.com": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "yoursoftwareplace.com": {
