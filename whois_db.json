@@ -9155,9 +9155,9 @@
         "state": "future"
     },
     "opensharecount.com": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "opensoftwareupdate.com": {
         "epoch": "1582243200",
@@ -9210,9 +9210,9 @@
         "state": "future"
     },
     "ourfreestuff.net": {
-        "epoch": "1572739200",
+        "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "outboundlink.net": {
         "epoch": 1599436800,
