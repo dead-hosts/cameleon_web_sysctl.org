@@ -1480,9 +1480,9 @@
         "state": "future"
     },
     "acegates.com": {
-        "epoch": "1572739200",
+        "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "acegroup.net": {
         "epoch": 1601769600,
@@ -1505,9 +1505,9 @@
         "state": "future"
     },
     "acezip.net": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "achapeloflove.com": {
         "epoch": 1601424000,
@@ -1520,9 +1520,9 @@
         "state": "future"
     },
     "achtungachtung.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "acim.com": {
         "epoch": 1596585600,
