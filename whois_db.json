@@ -3955,8 +3955,8 @@
         "state": "future"
     },
     "all-index.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "all-rise.com": {
@@ -4787,6 +4787,11 @@
     "antivirussecuritypro.com": {
         "epoch": "1588464000",
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "antivirusup.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "antivirusxp08.com": {
