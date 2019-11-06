@@ -210,9 +210,9 @@
         "state": "future"
     },
     "123found.com": {
-        "epoch": "1572998400",
+        "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "123go.net": {
         "epoch": 1592697600,
@@ -1505,9 +1505,9 @@
         "state": "future"
     },
     "acezip.net": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "achapeloflove.com": {
         "epoch": 1601424000,
