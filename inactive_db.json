@@ -1927,81 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1574490179": {
-            "be.sitestat.com": "INACTIVE",
-            "beacon-1.newrelic.com": "INACTIVE",
-            "beacon-2.newrelic.com": "INACTIVE",
-            "beacon-3.newrelic.com": "INACTIVE",
-            "beacon-4.newrelic.com": "INACTIVE",
-            "beacon-5.newrelic.com": "INACTIVE",
-            "beacon-6.newrelic.com": "INACTIVE",
-            "beacon.afy11.net": "INACTIVE",
-            "beacon.guim.co.uk": "INACTIVE"
-        },
-        "1574490180": {
-            "beacon.jump-time.net": "INACTIVE",
-            "beacon.jumptime.com": "INACTIVE",
-            "beacon.mhtr.be": "INACTIVE",
-            "becounted.baja.com": "INACTIVE",
-            "best-video-2008.com": "INACTIVE"
-        },
-        "1574490181": {
-            "bestprizedraw.com": "INACTIVE",
-            "bestscannerever.com": "INACTIVE",
-            "beststabilityscans.com": "INACTIVE",
-            "bestwarezsites.com": "INACTIVE",
-            "beta.adyea.com": "INACTIVE",
-            "beta.galleries.paperstreetcash.com": "INACTIVE"
-        },
-        "1574490182": {
-            "beta.newopenx.detik.com": "INACTIVE",
-            "betaffs.com": "INACTIVE",
-            "bfd69dd9.se": "INACTIVE",
-            "biba05.ru": "INACTIVE",
-            "bid.openx.net": "INACTIVE"
-        },
-        "1574490183": {
-            "bilbo.counted.com": "INACTIVE",
-            "bins.lop.com": "INACTIVE"
-        },
-        "1574490184": {
-            "block.sw1block.com": "INACTIVE"
-        },
-        "1574490185": {
-            "bluray-hq-tube.cn": "INACTIVE",
-            "bms.xenium.bg": "INACTIVE",
-            "bnmhg.com": "INACTIVE"
-        },
-        "1574490896": {
-            "bonuspromooffer.com": "INACTIVE"
-        },
-        "1574490897": {
-            "box.anchorfree.net": "INACTIVE",
-            "br.fling.com": "INACTIVE",
-            "br.meetlocals.com": "INACTIVE",
-            "br.naked.com": "INACTIVE",
-            "br.realitykings.com": "INACTIVE",
-            "br.rk.com": "INACTIVE",
-            "bridge1.admarketplace.net": "INACTIVE"
-        },
-        "1574490898": {
-            "brxserv-21.btrll.com": "INACTIVE"
-        },
-        "1574490899": {
-            "business.realtracker.com": "INACTIVE"
-        },
-        "1574490900": {
-            "c.enhance.com": "INACTIVE",
-            "c.goclick.com": "INACTIVE",
-            "c.mydirectweb.com": "INACTIVE",
-            "c.newsinc.com": "INACTIVE"
-        },
-        "1574490901": {
-            "c12.valary.com": "INACTIVE",
-            "c20.valary.com": "INACTIVE",
-            "c26.valary.com": "INACTIVE",
-            "c3.newwebb.com": "INACTIVE"
-        },
         "1574490902": {
             "ca1.bluestreak.com": "INACTIVE",
             "cache.ad-serverparc.nl": "INACTIVE",
@@ -4404,6 +4329,60 @@
         "1574658886": {
             "bd0dc.v.fwmrm.net": "INACTIVE",
             "be.nedstat.net": "INACTIVE"
+        },
+        "1574659590": {
+            "be.sitestat.com": "INACTIVE",
+            "beacon-1.newrelic.com": "INACTIVE",
+            "beacon-2.newrelic.com": "INACTIVE",
+            "beacon-3.newrelic.com": "INACTIVE",
+            "beacon-4.newrelic.com": "INACTIVE",
+            "beacon-5.newrelic.com": "INACTIVE",
+            "beacon-6.newrelic.com": "INACTIVE",
+            "beacon.afy11.net": "INACTIVE",
+            "beacon.guim.co.uk": "INACTIVE",
+            "beacon.jump-time.net": "INACTIVE",
+            "beacon.jumptime.com": "INACTIVE",
+            "beacon.mhtr.be": "INACTIVE",
+            "becounted.baja.com": "INACTIVE"
+        },
+        "1574659591": {
+            "best-video-2008.com": "INACTIVE",
+            "bestprizedraw.com": "INACTIVE",
+            "bestscannerever.com": "INACTIVE",
+            "beststabilityscans.com": "INACTIVE",
+            "bestwarezsites.com": "INACTIVE",
+            "beta.adyea.com": "INACTIVE",
+            "betaffs.com": "INACTIVE",
+            "bfd69dd9.se": "INACTIVE"
+        },
+        "1574659592": {
+            "biba05.ru": "INACTIVE",
+            "bilbo.counted.com": "INACTIVE"
+        },
+        "1574659593": {
+            "bluray-hq-tube.cn": "INACTIVE"
+        },
+        "1574659594": {
+            "bnmhg.com": "INACTIVE"
+        },
+        "1574659602": {
+            "bonuspromooffer.com": "INACTIVE"
+        },
+        "1574659603": {
+            "brxserv-21.btrll.com": "INACTIVE",
+            "business.realtracker.com": "INACTIVE"
+        },
+        "1574659604": {
+            "c.enhance.com": "INACTIVE",
+            "c.goclick.com": "INACTIVE",
+            "c.mydirectweb.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE"
+        },
+        "1574659605": {
+            "c12.valary.com": "INACTIVE",
+            "c20.valary.com": "INACTIVE",
+            "c26.valary.com": "INACTIVE",
+            "c3.newwebb.com": "INACTIVE"
         }
     }
 }
