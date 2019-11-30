@@ -2765,8 +2765,8 @@
         "state": "future"
     },
     "adtarget.ro": {
-        "epoch": "1570924800",
-        "expiration_date": "13-oct-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "adtastic.com": {
@@ -2985,9 +2985,9 @@
         "state": "future"
     },
     "adultfriendfinder.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "adultfriendfindernow.com": {
         "epoch": 1587686400.0,
@@ -3145,8 +3145,8 @@
         "state": "future"
     },
     "adultvidstore.info": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "adultwebmastersonline.com": {
