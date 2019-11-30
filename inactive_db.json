@@ -1927,86 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1574999362": {
-            "404.cjb.net": "INACTIVE",
-            "404.ragecash.com": "INACTIVE"
-        },
-        "1574999363": {
-            "411commerce.com": "INACTIVE",
-            "4184.stats.misstrends.com": "INACTIVE",
-            "505.mylongtail.com": "INACTIVE",
-            "5131.5.links4trade.com": "INACTIVE",
-            "540.filost.com": "INACTIVE",
-            "582.mylongtail.com": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE",
-            "5d0dd.v.fwmrm.net": "INACTIVE",
-            "5d427.v.fwmrm.net": "INACTIVE"
-        },
-        "1574999364": {
-            "602.stats.misstrends.com": "INACTIVE",
-            "604.stats.misstrends.com": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE",
-            "654.stats.misstrends.com": "INACTIVE",
-            "671.stats.misstrends.com": "INACTIVE",
-            "680.stats.misstrends.com": "INACTIVE",
-            "699.stats.misstrends.com": "INACTIVE",
-            "7209235.collect.igodigital.com": "INACTIVE",
-            "726.stats.misstrends.com": "INACTIVE",
-            "750.stats.misstrends.com": "INACTIVE",
-            "7come11casino.com": "INACTIVE",
-            "7security.info": "INACTIVE"
-        },
-        "1574999365": {
-            "803.stats.misstrends.com": "INACTIVE",
-            "879.stats.misstrends.com": "INACTIVE",
-            "986.stats.misstrends.com": "INACTIVE",
-            "a.adserv.cn": "INACTIVE",
-            "a.androidandme.com": "INACTIVE",
-            "a.current.tv": "INACTIVE",
-            "a.jumptap.com": "INACTIVE",
-            "a.komoona.com": "INACTIVE"
-        },
-        "1574999366": {
-            "a.medialytics.com": "INACTIVE"
-        },
-        "1575000064": {
-            "a.stern.de": "INACTIVE",
-            "a.thoughtleadr.com": "INACTIVE",
-            "a.visualrevenue.com": "INACTIVE",
-            "a1.g.a.yimg.com": "INACTIVE",
-            "a297.g.a.yimg.com": "INACTIVE",
-            "a3.g.a.yimg.com": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "a37.g.a.yimg.com": "INACTIVE",
-            "a372.g.a.yimg.com": "INACTIVE",
-            "a45.g.a.yimg.com": "INACTIVE",
-            "a7search.com": "INACTIVE"
-        },
-        "1575000065": {
-            "aa-gb.marketgid.com": "INACTIVE",
-            "aa-gb.mgid.com": "INACTIVE",
-            "ab-gb.mgid.com": "INACTIVE",
-            "ab-nb.marketgid.com": "INACTIVE"
-        },
-        "1575000066": {
-            "absolutelyfreeeroticstories.com": "INACTIVE",
-            "abum.axelsfun.com": "INACTIVE",
-            "ac-gb.mgid.com": "INACTIVE",
-            "ac-nb.marketgid.com": "INACTIVE",
-            "ac.eu.angsrvr.com": "INACTIVE",
-            "ace-lb.advertising.com": "INACTIVE",
-            "ace-tag.advertising.com": "INACTIVE",
-            "ackjeeves.com": "INACTIVE"
-        },
-        "1575000067": {
-            "active.macromedia.com": "INACTIVE",
-            "activeannonce.com": "INACTIVE",
-            "activex.matcash.com": "INACTIVE",
-            "ad.adlegend.com": "INACTIVE"
-        },
         "1575000068": {
-            "ad.adserverplus.com": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.creafi.com": "INACTIVE",
             "ad.db3nf.com": "INACTIVE",
             "ad.dumedia.ru": "INACTIVE",
@@ -3955,6 +3876,82 @@
         "1575112451": {
             "327.mylongtail.com": "INACTIVE",
             "373.mylongtail.com": "INACTIVE"
+        },
+        "1575118727": {
+            "404.cjb.net": "INACTIVE",
+            "404.ragecash.com": "INACTIVE"
+        },
+        "1575118728": {
+            "411commerce.com": "INACTIVE",
+            "4184.stats.misstrends.com": "INACTIVE",
+            "505.mylongtail.com": "INACTIVE",
+            "5131.5.links4trade.com": "INACTIVE",
+            "540.filost.com": "INACTIVE",
+            "582.mylongtail.com": "INACTIVE",
+            "599.stats.misstrends.com": "INACTIVE",
+            "5d0dd.v.fwmrm.net": "INACTIVE",
+            "5d427.v.fwmrm.net": "INACTIVE",
+            "602.stats.misstrends.com": "INACTIVE"
+        },
+        "1575118729": {
+            "604.stats.misstrends.com": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE",
+            "654.stats.misstrends.com": "INACTIVE",
+            "671.stats.misstrends.com": "INACTIVE",
+            "680.stats.misstrends.com": "INACTIVE",
+            "699.stats.misstrends.com": "INACTIVE",
+            "7209235.collect.igodigital.com": "INACTIVE",
+            "726.stats.misstrends.com": "INACTIVE",
+            "750.stats.misstrends.com": "INACTIVE",
+            "7come11casino.com": "INACTIVE",
+            "7security.info": "INACTIVE"
+        },
+        "1575118730": {
+            "803.stats.misstrends.com": "INACTIVE",
+            "879.stats.misstrends.com": "INACTIVE",
+            "986.stats.misstrends.com": "INACTIVE",
+            "a.adserv.cn": "INACTIVE",
+            "a.androidandme.com": "INACTIVE",
+            "a.current.tv": "INACTIVE",
+            "a.jumptap.com": "INACTIVE",
+            "a.komoona.com": "INACTIVE"
+        },
+        "1575118731": {
+            "a.stern.de": "INACTIVE",
+            "a.thoughtleadr.com": "INACTIVE",
+            "a.visualrevenue.com": "INACTIVE",
+            "a1.g.a.yimg.com": "INACTIVE",
+            "a297.g.a.yimg.com": "INACTIVE",
+            "a3.g.a.yimg.com": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "a37.g.a.yimg.com": "INACTIVE",
+            "a372.g.a.yimg.com": "INACTIVE",
+            "a45.g.a.yimg.com": "INACTIVE",
+            "a7search.com": "INACTIVE",
+            "aa-gb.marketgid.com": "INACTIVE",
+            "aa-gb.mgid.com": "INACTIVE"
+        },
+        "1575118732": {
+            "ab-gb.mgid.com": "INACTIVE",
+            "ab-nb.marketgid.com": "INACTIVE",
+            "absolutelyfreeeroticstories.com": "INACTIVE",
+            "abum.axelsfun.com": "INACTIVE",
+            "ac-gb.mgid.com": "INACTIVE",
+            "ac-nb.marketgid.com": "INACTIVE",
+            "ac.eu.angsrvr.com": "INACTIVE"
+        },
+        "1575118733": {
+            "ace-lb.advertising.com": "INACTIVE",
+            "ace-tag.advertising.com": "INACTIVE",
+            "ackjeeves.com": "INACTIVE",
+            "active.macromedia.com": "INACTIVE",
+            "activeannonce.com": "INACTIVE",
+            "activex.matcash.com": "INACTIVE"
+        },
+        "1575118734": {
+            "ad.adlegend.com": "INACTIVE",
+            "ad.adserverplus.com": "INACTIVE",
+            "ad.afy11.net": "INACTIVE"
         }
     }
 }
