@@ -1927,44 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575000068": {
-            "ad.creafi.com": "INACTIVE",
-            "ad.db3nf.com": "INACTIVE",
-            "ad.dumedia.ru": "INACTIVE",
-            "ad.es.chilinext.com": "INACTIVE",
-            "ad.ezcybersearch.com": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.inmatads.info": "INACTIVE",
-            "ad.it.chilinext.com": "INACTIVE",
-            "ad.jumbaexchange.com": "INACTIVE",
-            "ad.m-adx.com": "INACTIVE",
-            "ad.mediaprostor.cz": "INACTIVE",
-            "ad.naked-celebs.com": "INACTIVE",
-            "ad.nobreak.com": "INACTIVE",
-            "ad.pyce.info": "INACTIVE"
-        },
-        "1575000069": {
-            "ad.thoughtsondance.info": "INACTIVE",
-            "ad.vuiads.net": "INACTIVE",
-            "ad.walla.co.il": "INACTIVE",
-            "ad.xtendmedia.com": "INACTIVE",
-            "ad0.ezcybersearch.com": "INACTIVE",
-            "ad00.ezcybersearch.com": "INACTIVE",
-            "ad01.ezcybersearch.com": "INACTIVE",
-            "ad03.ezcybersearch.com": "INACTIVE",
-            "ad04.ezcybersearch.com": "INACTIVE",
-            "ad05.ezcybersearch.com": "INACTIVE",
-            "ad06.ezcybersearch.com": "INACTIVE",
-            "ad07.ezcybersearch.com": "INACTIVE",
-            "ad08.ezcybersearch.com": "INACTIVE",
-            "ad09.ezcybersearch.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.ezcybersearch.com": "INACTIVE",
-            "ad1.netshelter.net": "INACTIVE",
-            "ad1.nownews.com": "INACTIVE",
-            "ad1.zbads.com": "INACTIVE",
-            "ad10.ezcybersearch.com": "INACTIVE"
-        },
         "1575000070": {
             "ad100.ezcybersearch.com": "INACTIVE",
             "ad101.ezcybersearch.com": "INACTIVE",
@@ -3952,6 +3914,45 @@
             "ad.adlegend.com": "INACTIVE",
             "ad.adserverplus.com": "INACTIVE",
             "ad.afy11.net": "INACTIVE"
+        },
+        "1575122244": {
+            "ad.creafi.com": "INACTIVE",
+            "ad.db3nf.com": "INACTIVE",
+            "ad.dumedia.ru": "INACTIVE",
+            "ad.es.chilinext.com": "INACTIVE",
+            "ad.ezcybersearch.com": "INACTIVE",
+            "ad.globe7.com": "INACTIVE"
+        },
+        "1575122245": {
+            "ad.inmatads.info": "INACTIVE",
+            "ad.it.chilinext.com": "INACTIVE",
+            "ad.jumbaexchange.com": "INACTIVE",
+            "ad.m-adx.com": "INACTIVE",
+            "ad.mediaprostor.cz": "INACTIVE",
+            "ad.naked-celebs.com": "INACTIVE",
+            "ad.nobreak.com": "INACTIVE",
+            "ad.pyce.info": "INACTIVE",
+            "ad.vuiads.net": "INACTIVE",
+            "ad.walla.co.il": "INACTIVE",
+            "ad.xtendmedia.com": "INACTIVE",
+            "ad0.ezcybersearch.com": "INACTIVE",
+            "ad00.ezcybersearch.com": "INACTIVE",
+            "ad01.ezcybersearch.com": "INACTIVE",
+            "ad03.ezcybersearch.com": "INACTIVE",
+            "ad04.ezcybersearch.com": "INACTIVE",
+            "ad05.ezcybersearch.com": "INACTIVE",
+            "ad06.ezcybersearch.com": "INACTIVE",
+            "ad07.ezcybersearch.com": "INACTIVE"
+        },
+        "1575122246": {
+            "ad08.ezcybersearch.com": "INACTIVE",
+            "ad09.ezcybersearch.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.ezcybersearch.com": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "ad1.nownews.com": "INACTIVE",
+            "ad1.zbads.com": "INACTIVE",
+            "ad10.ezcybersearch.com": "INACTIVE"
         }
     }
 }
