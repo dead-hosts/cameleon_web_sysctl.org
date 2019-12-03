@@ -1927,76 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575186999": {
-            "collector.newsx.cc": "INACTIVE",
-            "command.adservs.com": "INACTIVE",
-            "connect.matcash.com": "INACTIVE"
-        },
-        "1575187000": {
-            "cons.xrenoder.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "content.jdial.biz": "INACTIVE",
-            "context.adontext.com": "INACTIVE",
-            "context2.adontext.com": "INACTIVE",
-            "contexualsearch.com": "INACTIVE",
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1575187001": {
-            "count.dba.dk": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count.vivistats.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "counter.htmlvalidator.com": "INACTIVE",
-            "counter.joins.com": "INACTIVE"
-        },
-        "1575187002": {
-            "counter.sexsuche.tv": "INACTIVE",
-            "counter1.sextracker.de": "INACTIVE",
-            "counter10.sextracker.de": "INACTIVE",
-            "counter11.sextracker.de": "INACTIVE",
-            "counter12.sextracker.de": "INACTIVE",
-            "counter13.sextracker.de": "INACTIVE",
-            "counter14.sextracker.de": "INACTIVE",
-            "counter15.sextracker.de": "INACTIVE",
-            "counter16.sextracker.de": "INACTIVE",
-            "counter2.sextracker.de": "INACTIVE"
-        },
-        "1575187003": {
-            "counter3.sextracker.de": "INACTIVE",
-            "counter4.sextracker.de": "INACTIVE",
-            "counter5.sextracker.de": "INACTIVE",
-            "counter6.sextracker.de": "INACTIVE",
-            "counter7.sextracker.de": "INACTIVE",
-            "counter8.sextracker.de": "INACTIVE",
-            "counter9.sextracker.de": "INACTIVE"
-        },
-        "1575187004": {
-            "cpm.tz4.com": "INACTIVE",
-            "crashtest.cjb.net": "INACTIVE",
-            "crazyshit.axelsfun.com": "INACTIVE",
-            "creative.ad121m.com": "INACTIVE",
-            "creative.ad131m.com": "INACTIVE",
-            "creative.ad132m.com": "INACTIVE"
-        },
-        "1575188798": {
-            "creative.clicksor.com": "INACTIVE",
-            "creative.wwwpromoter.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1575188799": {
-            "crsky2004.yeah.net": "INACTIVE",
-            "cs1.adxpansion.com": "INACTIVE",
-            "csc.beap.ad.yieldmanager.net": "INACTIVE",
-            "csc.beap.bc.yahoo.com": "INACTIVE",
-            "csx.adservs.com": "INACTIVE",
-            "ctix8.cheaptickets.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE"
-        },
-        "1575188800": {
-            "d.ads.readwriteweb.com": "INACTIVE",
-            "d.lumatag.co.uk": "INACTIVE"
-        },
         "1575188801": {
             "daserste.ivwbox.de": "INACTIVE",
             "data.abce-srbija.com": "INACTIVE",
@@ -3940,6 +3870,72 @@
             "code.intext.billboard.cz": "INACTIVE",
             "code.theads.me": "INACTIVE",
             "coder3862004.cjb.net": "INACTIVE"
+        },
+        "1575355463": {
+            "collector.newsx.cc": "INACTIVE"
+        },
+        "1575355464": {
+            "command.adservs.com": "INACTIVE",
+            "connect.matcash.com": "INACTIVE",
+            "cons.xrenoder.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "content.jdial.biz": "INACTIVE",
+            "context.adontext.com": "INACTIVE",
+            "context2.adontext.com": "INACTIVE",
+            "contexualsearch.com": "INACTIVE"
+        },
+        "1575355465": {
+            "core.bluefly.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.vivistats.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "counter.htmlvalidator.com": "INACTIVE"
+        },
+        "1575355466": {
+            "counter.joins.com": "INACTIVE",
+            "counter.sexsuche.tv": "INACTIVE",
+            "counter1.sextracker.de": "INACTIVE",
+            "counter10.sextracker.de": "INACTIVE",
+            "counter11.sextracker.de": "INACTIVE",
+            "counter12.sextracker.de": "INACTIVE",
+            "counter13.sextracker.de": "INACTIVE",
+            "counter14.sextracker.de": "INACTIVE",
+            "counter15.sextracker.de": "INACTIVE",
+            "counter16.sextracker.de": "INACTIVE",
+            "counter2.sextracker.de": "INACTIVE",
+            "counter3.sextracker.de": "INACTIVE",
+            "counter4.sextracker.de": "INACTIVE"
+        },
+        "1575355467": {
+            "counter5.sextracker.de": "INACTIVE",
+            "counter6.sextracker.de": "INACTIVE",
+            "counter7.sextracker.de": "INACTIVE",
+            "counter8.sextracker.de": "INACTIVE",
+            "counter9.sextracker.de": "INACTIVE",
+            "cpm.tz4.com": "INACTIVE",
+            "crashtest.cjb.net": "INACTIVE"
+        },
+        "1575355468": {
+            "crazyshit.axelsfun.com": "INACTIVE",
+            "creative.ad121m.com": "INACTIVE",
+            "creative.ad131m.com": "INACTIVE",
+            "creative.ad132m.com": "INACTIVE",
+            "creative.clicksor.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "crsky2004.yeah.net": "INACTIVE",
+            "cs1.adxpansion.com": "INACTIVE",
+            "csc.beap.ad.yieldmanager.net": "INACTIVE",
+            "csc.beap.bc.yahoo.com": "INACTIVE",
+            "csx.adservs.com": "INACTIVE",
+            "ctix8.cheaptickets.com": "INACTIVE"
+        },
+        "1575355469": {
+            "cv.bsvideos.com": "INACTIVE",
+            "d.ads.readwriteweb.com": "INACTIVE",
+            "d.lumatag.co.uk": "INACTIVE"
         }
     }
 }
