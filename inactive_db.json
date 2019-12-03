@@ -1927,49 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575200908": {
-            "record.commissionking.com": "INACTIVE"
-        },
-        "1575200909": {
-            "redir.adsonar.com": "INACTIVE",
-            "redirect.ad-feeds.net": "INACTIVE",
-            "redirect.loadmarketing.com": "INACTIVE",
-            "redirect.todayreward.net": "INACTIVE",
-            "redirect.tracking202.com": "INACTIVE",
-            "referral.topbucks.com": "INACTIVE",
-            "referral.vod.topbucks.com": "INACTIVE"
-        },
-        "1575200910": {
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "rewards.yoursitebar.com": "INACTIVE"
-        },
-        "1575200911": {
-            "rh.adscale.de": "INACTIVE"
-        },
-        "1575202670": {
-            "rmd.atdmt.com": "INACTIVE"
-        },
-        "1575202671": {
-            "rq.trackingadirect.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE"
-        },
-        "1575202672": {
-            "s.ad121m.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE",
-            "s.ad132m.com": "INACTIVE"
-        },
-        "1575202675": {
-            "safedownloadsrus157.com": "INACTIVE",
-            "sana.newsinc.com": "INACTIVE"
-        },
-        "1575202676": {
-            "scripts.conversionattribution.com": "INACTIVE",
-            "scripts.xrenoder.com": "INACTIVE",
-            "se.sitestat.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE"
-        },
         "1575202677": {
             "search.xrenoder.com": "INACTIVE",
             "searchbar.findthewebsiteyouneed.com": "INACTIVE"
@@ -3928,6 +3885,46 @@
             "rainbow.mythings.com": "INACTIVE",
             "ranker.springboardplatform.com": "INACTIVE",
             "rb.insightexpressai.com": "INACTIVE"
+        },
+        "1575361117": {
+            "redir.adsonar.com": "INACTIVE"
+        },
+        "1575361118": {
+            "redirect.ad-feeds.net": "INACTIVE",
+            "redirect.loadmarketing.com": "INACTIVE",
+            "redirect.todayreward.net": "INACTIVE",
+            "redirect.tracking202.com": "INACTIVE"
+        },
+        "1575361119": {
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "rewards.yoursitebar.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE"
+        },
+        "1575361120": {
+            "rmd.atdmt.com": "INACTIVE"
+        },
+        "1575361121": {
+            "rq.trackingadirect.com": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE"
+        },
+        "1575361122": {
+            "rusads.toysrus.com": "INACTIVE",
+            "s.ad121m.com": "INACTIVE",
+            "s.ad131m.com": "INACTIVE",
+            "s.ad132m.com": "INACTIVE"
+        },
+        "1575361125": {
+            "safedownloadsrus157.com": "INACTIVE",
+            "sana.newsinc.com": "INACTIVE"
+        },
+        "1575361126": {
+            "scripts.conversionattribution.com": "INACTIVE",
+            "scripts.xrenoder.com": "INACTIVE",
+            "se.sitestat.com": "INACTIVE"
+        },
+        "1575361127": {
+            "search.clicksor.com": "INACTIVE"
         }
     }
 }
