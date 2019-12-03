@@ -1927,45 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575140790": {
-            "adserver.veruta.com": "INACTIVE",
-            "adserver.virtuous.co.uk": "INACTIVE",
-            "adserver1.harvestadsdepot.com": "INACTIVE",
-            "adserver1.realtracker.com": "INACTIVE",
-            "adserver2.realtracker.com": "INACTIVE",
-            "adserver3.realtracker.com": "INACTIVE",
-            "adservicedomain.info": "INACTIVE"
-        },
-        "1575140791": {
-            "adsremote.scrippsnetworks.com": "INACTIVE",
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "adss.hookupbucks.com": "INACTIVE",
-            "adstrac.adk2x.com": "INACTIVE",
-            "adstract.adk2x.com": "INACTIVE",
-            "adsys.adk2x.com": "INACTIVE",
-            "adtag.asiaone.com": "INACTIVE"
-        },
-        "1575140792": {
-            "adult-dating.net": "INACTIVE",
-            "adult-friend-finder.net": "INACTIVE",
-            "adult.scgirls.info": "INACTIVE",
-            "adultasperger.com": "INACTIVE"
-        },
-        "1575140793": {
-            "adultfriendfinders.us": "INACTIVE"
-        },
-        "1575140794": {
-            "adunit.chango.ca": "INACTIVE",
-            "adv.0tub.com": "INACTIVE",
-            "adv.bannercity.ru": "INACTIVE",
-            "adv.easyurl.org": "INACTIVE",
-            "adv.ecape.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "adv.punto-informatico.it": "INACTIVE"
-        },
-        "1575142995": {
-            "adv2.absoluteagency.com": "INACTIVE"
-        },
         "1575142997": {
             "adverta.us": "INACTIVE"
         },
@@ -2165,9 +2126,6 @@
         "1575149455": {
             "bluray-hq-tube.cn": "INACTIVE",
             "bnmhg.com": "INACTIVE"
-        },
-        "1575175069": {
-            "adserving.favorit-network.com": "INACTIVE"
         },
         "1575179061": {
             "banner.finzoom.ro": "INACTIVE"
@@ -3965,6 +3923,43 @@
             "adserver.netcollex.co.uk": "INACTIVE",
             "adserver.omroepflevoland.nl": "INACTIVE",
             "adserver.online-tech.com": "INACTIVE"
+        },
+        "1575351268": {
+            "adserver.veruta.com": "INACTIVE",
+            "adserver.virtuous.co.uk": "INACTIVE",
+            "adserver1.harvestadsdepot.com": "INACTIVE",
+            "adserver1.realtracker.com": "INACTIVE",
+            "adserver2.realtracker.com": "INACTIVE",
+            "adserver3.realtracker.com": "INACTIVE"
+        },
+        "1575351269": {
+            "adservicedomain.info": "INACTIVE",
+            "adsremote.scrippsnetworks.com": "INACTIVE",
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "adss.hookupbucks.com": "INACTIVE",
+            "adstrac.adk2x.com": "INACTIVE",
+            "adstract.adk2x.com": "INACTIVE"
+        },
+        "1575351270": {
+            "adsys.adk2x.com": "INACTIVE",
+            "adtag.asiaone.com": "INACTIVE",
+            "adult-dating.net": "INACTIVE",
+            "adult-friend-finder.net": "INACTIVE",
+            "adult.scgirls.info": "INACTIVE"
+        },
+        "1575351271": {
+            "adultasperger.com": "INACTIVE",
+            "adultfriendfinders.us": "INACTIVE"
+        },
+        "1575351272": {
+            "adunit.chango.ca": "INACTIVE",
+            "adv.0tub.com": "INACTIVE",
+            "adv.bannercity.ru": "INACTIVE",
+            "adv.easyurl.org": "INACTIVE",
+            "adv.ecape.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "adv.punto-informatico.it": "INACTIVE",
+            "adv2.absoluteagency.com": "INACTIVE"
         }
     }
 }
