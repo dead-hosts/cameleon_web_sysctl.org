@@ -1927,61 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575522072": {
-            "adcdn.33universal.com": "INACTIVE",
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "adflash.affairsclub.com": "INACTIVE"
-        },
-        "1575522073": {
-            "adg.bzgint.com": "INACTIVE",
-            "adimage.asia1.com.sg": "INACTIVE"
-        },
-        "1575523278": {
-            "adimages.scrippsnetworks.com": "INACTIVE",
-            "adimg.simmani.com": "INACTIVE",
-            "adindex.laweekly.com": "INACTIVE",
-            "adjunct.budulay.com": "INACTIVE",
-            "adl.sound.net": "INACTIVE"
-        },
-        "1575523279": {
-            "adman.in.gr": "INACTIVE",
-            "admaven.adk2x.com": "INACTIVE",
-            "admaximize.nu": "INACTIVE",
-            "admedia.expedia.com": "INACTIVE",
-            "admedia.xmlsearch.findwhat.com": "INACTIVE",
-            "admin.bestoffersnetworks.com": "INACTIVE",
-            "admin.matcash.com": "INACTIVE",
-            "admin.targetad.net": "INACTIVE"
-        },
-        "1575523280": {
-            "adplexmedia.adk2x.com": "INACTIVE",
-            "adrevenue.findwhat.com": "INACTIVE",
-            "ads-a-darwin.hulu.com": "INACTIVE"
-        },
-        "1575523281": {
-            "ads.24.com": "INACTIVE",
-            "ads.adhub.co.nz": "INACTIVE",
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.adonion.com": "INACTIVE",
-            "ads.adsonar.com": "INACTIVE",
-            "ads.adultpopunders.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.angop.ao": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.banner-link.com.br": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "ads.betternetworker.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE"
-        },
         "1575523282": {
-            "ads.carltononline.com": "INACTIVE",
-            "ads.centerstage.net": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.chango.ca": "INACTIVE",
-            "ads.click2paid.com": "INACTIVE",
-            "ads.clickad.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE",
             "ads.date.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
             "ads.deliads.com": "INACTIVE",
@@ -3914,6 +3860,62 @@
             "adamsmarkhotels.com": "INACTIVE",
             "adan.xtendmedia.com": "INACTIVE",
             "adb.nikkei.co.jp": "INACTIVE"
+        },
+        "1575645962": {
+            "adcdn.33universal.com": "INACTIVE"
+        },
+        "1575645963": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "adflash.affairsclub.com": "INACTIVE"
+        },
+        "1575645964": {
+            "adg.bzgint.com": "INACTIVE",
+            "adimage.asia1.com.sg": "INACTIVE",
+            "adimages.scrippsnetworks.com": "INACTIVE",
+            "adimg.simmani.com": "INACTIVE",
+            "adindex.laweekly.com": "INACTIVE",
+            "adjunct.budulay.com": "INACTIVE",
+            "adl.sound.net": "INACTIVE",
+            "adman.in.gr": "INACTIVE"
+        },
+        "1575645965": {
+            "admaven.adk2x.com": "INACTIVE",
+            "admaximize.nu": "INACTIVE",
+            "admedia.expedia.com": "INACTIVE",
+            "admedia.xmlsearch.findwhat.com": "INACTIVE",
+            "admin.bestoffersnetworks.com": "INACTIVE",
+            "admin.matcash.com": "INACTIVE",
+            "admin.targetad.net": "INACTIVE"
+        },
+        "1575645966": {
+            "adplexmedia.adk2x.com": "INACTIVE",
+            "adrevenue.findwhat.com": "INACTIVE",
+            "ads-a-darwin.hulu.com": "INACTIVE"
+        },
+        "1575645967": {
+            "ads.24.com": "INACTIVE",
+            "ads.adhub.co.nz": "INACTIVE",
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.adsonar.com": "INACTIVE",
+            "ads.adultpopunders.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.angop.ao": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.banner-link.com.br": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "ads.betternetworker.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.carltononline.com": "INACTIVE"
+        },
+        "1575645968": {
+            "ads.centerstage.net": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE",
+            "ads.chango.ca": "INACTIVE",
+            "ads.click2paid.com": "INACTIVE",
+            "ads.clickad.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE"
         }
     }
 }
