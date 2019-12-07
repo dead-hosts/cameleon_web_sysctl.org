@@ -1927,83 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575592644": {
-            "track.rtb-media.ru": "INACTIVE",
-            "track.todayreward.net": "INACTIVE",
-            "track.viralvidi.com": "INACTIVE",
-            "track.www.zazzle.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE"
-        },
-        "1575592645": {
-            "tracker.vinsight.de": "INACTIVE",
-            "tracking.absolstats.com": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE",
-            "tracking.kurier.at": "INACTIVE",
-            "tracking.optimatic.com": "INACTIVE"
-        },
-        "1575592646": {
-            "tracking1.euroads.no": "INACTIVE",
-            "tradefx.advertserve.com": "INACTIVE",
-            "trafficedge.adk2x.com": "INACTIVE",
-            "traktr.news.com.au": "INACTIVE"
-        },
-        "1575592647": {
-            "trckclck.com": "INACTIVE"
-        },
-        "1575594106": {
-            "tubvd.cn": "INACTIVE",
-            "twc.demdex.net": "INACTIVE"
-        },
-        "1575594107": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1575594108": {
-            "uk.nedstat.net": "INACTIVE",
-            "uk.nedstatpro.net": "INACTIVE",
-            "uk.sitestat.com": "INACTIVE"
-        },
-        "1575594109": {
-            "us.sitestat.com": "INACTIVE",
-            "us.yesup.com": "INACTIVE",
-            "us01.xmlsearch.findwhat.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "users.ucmore.com": "INACTIVE",
-            "utraffic.engine.adglare.net": "INACTIVE",
-            "utsdpp.persgroep.net": "INACTIVE"
-        },
-        "1575594110": {
-            "vad.mainentrypoint.com": "INACTIVE",
-            "vast.bp3854536.btrll.com": "INACTIVE",
-            "vast.bp3855098.btrll.com": "INACTIVE",
-            "vast.bp3855099.btrll.com": "INACTIVE",
-            "vast.bp3855984.btrll.com": "INACTIVE",
-            "vast.bp3855987.btrll.com": "INACTIVE",
-            "vast.bp3855989.btrll.com": "INACTIVE",
-            "vast.bp3855991.btrll.com": "INACTIVE",
-            "vast.bp3855992.btrll.com": "INACTIVE",
-            "vast.optimatic.com": "INACTIVE"
-        },
-        "1575594111": {
-            "vid.atdmt.com": "INACTIVE"
-        },
-        "1575594112": {
-            "view1.xstats.com": "INACTIVE",
-            "viewstat.hotstat.nl": "INACTIVE",
-            "vm3.parabol.object.bg": "INACTIVE"
-        },
-        "1575594113": {
-            "vra.outbrain.com": "INACTIVE",
-            "vrp.outbrain.com": "INACTIVE",
-            "vw.btrll.com": "INACTIVE",
-            "vzarabotke.ru": "INACTIVE",
-            "w.hqwmdjejtudlk-dfjkeid.com": "INACTIVE",
-            "wa.snsbank.nl": "INACTIVE",
-            "watch.teroti.com": "INACTIVE"
-        },
         "1575594114": {
-            "web.softonic-analytics.net": "INACTIVE",
-            "web1.realtracker.com": "INACTIVE",
-            "web2.realtracker.com": "INACTIVE",
             "webmail.kanoodle.com": "INACTIVE"
         },
         "1575594115": {
@@ -3911,6 +3835,84 @@
             "track.clicksor.com": "INACTIVE",
             "track.ft.com": "INACTIVE",
             "track.make-a-site.net": "INACTIVE"
+        },
+        "1575713518": {
+            "track.rtb-media.ru": "INACTIVE",
+            "track.todayreward.net": "INACTIVE",
+            "track.viralvidi.com": "INACTIVE",
+            "track.www.zazzle.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE"
+        },
+        "1575713519": {
+            "tracker.vinsight.de": "INACTIVE",
+            "tracking.absolstats.com": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE",
+            "tracking.kurier.at": "INACTIVE"
+        },
+        "1575713520": {
+            "tracking.optimatic.com": "INACTIVE",
+            "tracking1.euroads.no": "INACTIVE",
+            "tradefx.advertserve.com": "INACTIVE"
+        },
+        "1575713521": {
+            "trafficedge.adk2x.com": "INACTIVE",
+            "traktr.news.com.au": "INACTIVE",
+            "trckclck.com": "INACTIVE"
+        },
+        "1575713522": {
+            "tubvd.cn": "INACTIVE",
+            "twc.demdex.net": "INACTIVE"
+        },
+        "1575713523": {
+            "ua.cnt.gemius.pl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE"
+        },
+        "1575713524": {
+            "uk.nedstatpro.net": "INACTIVE",
+            "uk.sitestat.com": "INACTIVE",
+            "us.sitestat.com": "INACTIVE"
+        },
+        "1575713525": {
+            "us.yesup.com": "INACTIVE",
+            "us01.xmlsearch.findwhat.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "users.ucmore.com": "INACTIVE",
+            "utraffic.engine.adglare.net": "INACTIVE",
+            "utsdpp.persgroep.net": "INACTIVE",
+            "vad.mainentrypoint.com": "INACTIVE"
+        },
+        "1575713526": {
+            "vast.bp3854536.btrll.com": "INACTIVE",
+            "vast.bp3855098.btrll.com": "INACTIVE",
+            "vast.bp3855099.btrll.com": "INACTIVE",
+            "vast.bp3855984.btrll.com": "INACTIVE",
+            "vast.bp3855987.btrll.com": "INACTIVE",
+            "vast.bp3855989.btrll.com": "INACTIVE",
+            "vast.bp3855991.btrll.com": "INACTIVE",
+            "vast.bp3855992.btrll.com": "INACTIVE",
+            "vast.optimatic.com": "INACTIVE"
+        },
+        "1575713527": {
+            "vid.atdmt.com": "INACTIVE",
+            "view1.xstats.com": "INACTIVE",
+            "viewstat.hotstat.nl": "INACTIVE"
+        },
+        "1575713528": {
+            "vm3.parabol.object.bg": "INACTIVE",
+            "vra.outbrain.com": "INACTIVE",
+            "vrp.outbrain.com": "INACTIVE",
+            "vw.btrll.com": "INACTIVE"
+        },
+        "1575713529": {
+            "vzarabotke.ru": "INACTIVE",
+            "w.hqwmdjejtudlk-dfjkeid.com": "INACTIVE",
+            "wa.snsbank.nl": "INACTIVE",
+            "watch.teroti.com": "INACTIVE"
+        },
+        "1575713530": {
+            "web.softonic-analytics.net": "INACTIVE",
+            "web1.realtracker.com": "INACTIVE",
+            "web2.realtracker.com": "INACTIVE"
         }
     }
 }
