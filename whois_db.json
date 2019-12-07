@@ -9922,7 +9922,7 @@
     "samvaulter.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sascentral.com": {
         "epoch": 1576627200.0,
@@ -9975,9 +9975,9 @@
         "state": "future"
     },
     "searchclickads.net": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "searchclickbuy.com": {
         "epoch": 1582243200.0,
