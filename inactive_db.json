@@ -1927,10 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575653143": {
-            "ads2.victoriaadvocate.com": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE"
-        },
         "1575653145": {
             "ads3.freebannertrade.com": "INACTIVE",
             "ads3497.hotwords.com.br": "INACTIVE",
@@ -3878,6 +3874,10 @@
             "ads.zamunda.net": "INACTIVE",
             "ads1.cricbuzz.com": "INACTIVE",
             "ads1.nexdra.com": "INACTIVE"
+        },
+        "1575778645": {
+            "ads2.victoriaadvocate.com": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE"
         }
     }
 }
