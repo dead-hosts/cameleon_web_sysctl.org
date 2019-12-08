@@ -1927,16 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575662447": {
-            "biba05.ru": "INACTIVE"
-        },
-        "1575662448": {
-            "bilbo.counted.com": "INACTIVE"
-        },
-        "1575662449": {
-            "bluray-hq-tube.cn": "INACTIVE",
-            "bnmhg.com": "INACTIVE"
-        },
         "1575666723": {
             "bonuspromooffer.com": "INACTIVE",
             "brxserv-21.btrll.com": "INACTIVE"
@@ -3884,6 +3874,14 @@
             "beta.adyea.com": "INACTIVE",
             "betaffs.com": "INACTIVE",
             "bfd69dd9.se": "INACTIVE"
+        },
+        "1575788785": {
+            "biba05.ru": "INACTIVE",
+            "bilbo.counted.com": "INACTIVE"
+        },
+        "1575788786": {
+            "bluray-hq-tube.cn": "INACTIVE",
+            "bnmhg.com": "INACTIVE"
         }
     }
 }
