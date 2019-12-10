@@ -1927,30 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575780647": {
-            "ads3.freebannertrade.com": "INACTIVE"
-        },
-        "1575780648": {
-            "ads3497.hotwords.com.br": "INACTIVE",
-            "ads3806.hotwords.com.br": "INACTIVE",
-            "ads56-us-east.stickyadstv.com": "INACTIVE"
-        },
-        "1575780649": {
-            "adsense.clicking.com.tw": "INACTIVE",
-            "adserv.basedvd.com": "INACTIVE"
-        },
-        "1575782728": {
-            "adserv.brandaffinity.net": "INACTIVE",
-            "adserv.it-analysis.com": "INACTIVE",
-            "adserv.lowyat.net": "INACTIVE",
-            "adserv.roundrockmedia.com": "INACTIVE",
-            "adserv.search-exe.com": "INACTIVE",
-            "adserv.searchenhancement.com": "INACTIVE",
-            "adserve-east.technologygeeks.com": "INACTIVE"
-        },
         "1575782729": {
-            "adserve.adster.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
             "adserver.affiliatemg.com": "INACTIVE",
             "adserver.amna.gr": "INACTIVE",
             "adserver.comparatel.fr": "INACTIVE",
@@ -3921,6 +3898,29 @@
         "1575955056": {
             "ads2.victoriaadvocate.com": "INACTIVE",
             "ads2.zamunda.net": "INACTIVE"
+        },
+        "1575955755": {
+            "ads3.freebannertrade.com": "INACTIVE",
+            "ads3497.hotwords.com.br": "INACTIVE",
+            "ads3806.hotwords.com.br": "INACTIVE"
+        },
+        "1575955756": {
+            "ads56-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1575955757": {
+            "adsense.clicking.com.tw": "INACTIVE",
+            "adserv.basedvd.com": "INACTIVE",
+            "adserv.brandaffinity.net": "INACTIVE",
+            "adserv.it-analysis.com": "INACTIVE",
+            "adserv.lowyat.net": "INACTIVE",
+            "adserv.roundrockmedia.com": "INACTIVE",
+            "adserv.search-exe.com": "INACTIVE",
+            "adserv.searchenhancement.com": "INACTIVE"
+        },
+        "1575955758": {
+            "adserve-east.technologygeeks.com": "INACTIVE",
+            "adserve.adster.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE"
         }
     }
 }
