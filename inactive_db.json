@@ -1927,77 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575961421": {
-            "data.ritzcarlton.com": "INACTIVE",
-            "data2.activshopper.com": "INACTIVE",
-            "dataplaygames.com": "INACTIVE",
-            "datattro.xyz": "INACTIVE"
-        },
-        "1575961422": {
-            "dbs.advertising.com": "INACTIVE",
-            "dc.kaboodle.com": "INACTIVE",
-            "de.nedstat.net": "INACTIVE",
-            "de.sitestat.com": "INACTIVE",
-            "de.sitestat.nedstat.net": "INACTIVE",
-            "defendyourpc.com": "INACTIVE"
-        },
-        "1575961423": {
-            "delivery.ad.newsnow.net": "INACTIVE",
-            "delivery.ads-creativesyndicator.com": "INACTIVE",
-            "delivery.adyea.com": "INACTIVE",
-            "delivery.inet-traffic.com": "INACTIVE",
-            "delivery.optimatic.com": "INACTIVE",
-            "delivery1.topad.mobi": "INACTIVE",
-            "deluxe.spy-kill.com": "INACTIVE",
-            "demo.advertising.com": "INACTIVE",
-            "demorgen.tnsinternet.be": "INACTIVE",
-            "deposito.traffic-advance.net": "INACTIVE",
-            "der-wallstreet-trick.eu": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE"
-        },
-        "1575961424": {
-            "dft.cl.dynad.net": "INACTIVE",
-            "dialer.cjb.net": "INACTIVE",
-            "dialer.tranent.nl": "INACTIVE",
-            "dirtub.cn": "INACTIVE"
-        },
-        "1575961425": {
-            "disco.flashbannernow.com": "INACTIVE",
-            "dlx.getupdate.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
-            "dofollinz.net": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE",
-            "doollli.erotic-place.org": "INACTIVE"
-        },
-        "1575961426": {
-            "download-123.cn": "INACTIVE",
-            "download-everything.com": "INACTIVE",
-            "download.007guard.com": "INACTIVE",
-            "download.malwareremovingtool.com": "INACTIVE",
-            "download.pcsolutionshelp.com": "INACTIVE",
-            "download.privacy-kit.com": "INACTIVE",
-            "download.sttcounter.cn": "INACTIVE",
-            "download.ucmore.com": "INACTIVE",
-            "download.virusremover2008.com": "INACTIVE"
-        },
-        "1575961427": {
-            "drunkporn.us": "INACTIVE",
-            "dvcd.info": "INACTIVE",
-            "dws.reporting.dnitv.com": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "dyn.ak1.cc": "INACTIVE",
-            "dynamic.cannedbanners.com": "INACTIVE",
-            "dynamix.trafficrevmaster.com": "INACTIVE",
-            "dynmedia.matcash.com": "INACTIVE"
-        },
-        "1575961428": {
-            "earth.goclick.com": "INACTIVE"
-        },
-        "1575962186": {
-            "edge.aperture.displaymarketplace.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE",
-            "egypt-shop.cn": "INACTIVE"
-        },
         "1575962187": {
             "em.pc-on-internet.com": "INACTIVE",
             "email.advertising.com": "INACTIVE",
@@ -3925,6 +3854,79 @@
             "daserste.ivwbox.de": "INACTIVE",
             "data.abce-srbija.com": "INACTIVE",
             "data.apn.co.nz": "INACTIVE"
+        },
+        "1576084060": {
+            "data.ritzcarlton.com": "INACTIVE"
+        },
+        "1576084061": {
+            "data2.activshopper.com": "INACTIVE",
+            "dataplaygames.com": "INACTIVE",
+            "datattro.xyz": "INACTIVE",
+            "dbs.advertising.com": "INACTIVE",
+            "dc.kaboodle.com": "INACTIVE",
+            "de.nedstat.net": "INACTIVE",
+            "de.sitestat.com": "INACTIVE",
+            "de.sitestat.nedstat.net": "INACTIVE"
+        },
+        "1576084062": {
+            "defendyourpc.com": "INACTIVE",
+            "delivery.ad.newsnow.net": "INACTIVE",
+            "delivery.ads-creativesyndicator.com": "INACTIVE",
+            "delivery.adyea.com": "INACTIVE",
+            "delivery.inet-traffic.com": "INACTIVE",
+            "delivery.optimatic.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "deluxe.spy-kill.com": "INACTIVE",
+            "demo.advertising.com": "INACTIVE"
+        },
+        "1576084063": {
+            "demorgen.tnsinternet.be": "INACTIVE",
+            "deposito.traffic-advance.net": "INACTIVE",
+            "der-wallstreet-trick.eu": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "dialer.cjb.net": "INACTIVE",
+            "dialer.tranent.nl": "INACTIVE"
+        },
+        "1576084064": {
+            "dirtub.cn": "INACTIVE",
+            "disco.flashbannernow.com": "INACTIVE",
+            "dlx.getupdate.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE"
+        },
+        "1576084065": {
+            "dofollinz.net": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE",
+            "doollli.erotic-place.org": "INACTIVE",
+            "download-123.cn": "INACTIVE",
+            "download-everything.com": "INACTIVE",
+            "download.007guard.com": "INACTIVE"
+        },
+        "1576084066": {
+            "download.malwareremovingtool.com": "INACTIVE",
+            "download.pcsolutionshelp.com": "INACTIVE",
+            "download.privacy-kit.com": "INACTIVE",
+            "download.sttcounter.cn": "INACTIVE",
+            "download.ucmore.com": "INACTIVE",
+            "download.virusremover2008.com": "INACTIVE",
+            "drunkporn.us": "INACTIVE"
+        },
+        "1576084067": {
+            "dvcd.info": "INACTIVE",
+            "dws.reporting.dnitv.com": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "dyn.ak1.cc": "INACTIVE",
+            "dynamic.cannedbanners.com": "INACTIVE",
+            "dynamix.trafficrevmaster.com": "INACTIVE",
+            "dynmedia.matcash.com": "INACTIVE"
+        },
+        "1576084068": {
+            "earth.goclick.com": "INACTIVE"
+        },
+        "1576084069": {
+            "edge.aperture.displaymarketplace.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE",
+            "egypt-shop.cn": "INACTIVE"
         }
     }
 }
