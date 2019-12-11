@@ -1927,35 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575959278": {
-            "bonuspromooffer.com": "INACTIVE"
-        },
-        "1575959279": {
-            "brxserv-21.btrll.com": "INACTIVE",
-            "business.realtracker.com": "INACTIVE"
-        },
-        "1575959280": {
-            "c.enhance.com": "INACTIVE",
-            "c.goclick.com": "INACTIVE",
-            "c.mydirectweb.com": "INACTIVE",
-            "c.newsinc.com": "INACTIVE"
-        },
-        "1575959281": {
-            "c12.valary.com": "INACTIVE",
-            "c20.valary.com": "INACTIVE",
-            "c26.valary.com": "INACTIVE",
-            "c3.newwebb.com": "INACTIVE"
-        },
-        "1575959282": {
-            "cache.btrll.com": "INACTIVE"
-        },
-        "1575959980": {
-            "casper.sp1.convertro.com": "INACTIVE",
-            "cdn.accelerator.arsdev.net": "INACTIVE"
-        },
         "1575959981": {
-            "cdn.adstatic.com": "INACTIVE",
-            "cdn.adtradr.com": "INACTIVE",
             "cdn.behavioralengine.com": "INACTIVE",
             "cdn.complexmedianetwork.com": "INACTIVE",
             "cdn.dabhit.com": "INACTIVE",
@@ -3920,6 +3892,36 @@
         "1576078540": {
             "bluray-hq-tube.cn": "INACTIVE",
             "bnmhg.com": "INACTIVE"
+        },
+        "1576079996": {
+            "bonuspromooffer.com": "INACTIVE"
+        },
+        "1576079997": {
+            "brxserv-21.btrll.com": "INACTIVE",
+            "business.realtracker.com": "INACTIVE"
+        },
+        "1576079998": {
+            "c.enhance.com": "INACTIVE",
+            "c.goclick.com": "INACTIVE",
+            "c.mydirectweb.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE"
+        },
+        "1576079999": {
+            "c12.valary.com": "INACTIVE",
+            "c20.valary.com": "INACTIVE",
+            "c26.valary.com": "INACTIVE",
+            "c3.newwebb.com": "INACTIVE"
+        },
+        "1576080000": {
+            "cache.btrll.com": "INACTIVE"
+        },
+        "1576080001": {
+            "casper.sp1.convertro.com": "INACTIVE",
+            "cdn.accelerator.arsdev.net": "INACTIVE"
+        },
+        "1576080002": {
+            "cdn.adstatic.com": "INACTIVE",
+            "cdn.adtradr.com": "INACTIVE"
         }
     }
 }
