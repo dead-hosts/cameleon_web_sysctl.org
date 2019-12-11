@@ -1927,75 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1575957860": {
-            "anything4health.com": "INACTIVE"
-        },
-        "1575957861": {
-            "aperture.displaymarketplace.com": "INACTIVE",
-            "api.behavioralengine.com": "INACTIVE",
-            "api.bizographics.com": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "app.ezula.com": "INACTIVE",
-            "app.ubertags.com": "INACTIVE",
-            "apps.advertlets.com": "INACTIVE",
-            "ar1.atwola.com": "INACTIVE",
-            "ar2.atwola.com": "INACTIVE",
-            "ar3.atwola.com": "INACTIVE",
-            "ar4.atwola.com": "INACTIVE",
-            "ar5.atwola.com": "INACTIVE",
-            "ar6.atwola.com": "INACTIVE",
-            "ar7.atwola.com": "INACTIVE",
-            "ar8.atwola.com": "INACTIVE",
-            "ar9.atwola.com": "INACTIVE"
-        },
-        "1575957862": {
-            "as.amxdt.com": "INACTIVE",
-            "as.ebz.io": "INACTIVE",
-            "as.eu.angsrvr.com": "INACTIVE",
-            "assets.adtaily.com": "INACTIVE",
-            "astatic.weborama.fr": "INACTIVE",
-            "at.marketwire.com": "INACTIVE",
-            "atl.mv.bidsystem.com": "INACTIVE"
-        },
-        "1575957863": {
-            "attribution.webmarketing123.com": "INACTIVE",
-            "av-cash.com": "INACTIVE",
-            "awesometube.net": "INACTIVE"
-        },
-        "1575957864": {
-            "b-aws.huffingtonpost.com": "INACTIVE",
-            "b.adserv.cn": "INACTIVE",
-            "b.salon.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
-            "bafn.trafficrevmaster.com": "INACTIVE",
-            "balanced.gtsadsdistributed.com": "INACTIVE"
-        },
-        "1575958562": {
-            "banner.celebrity-fakes.net": "INACTIVE",
-            "banner.date.com": "INACTIVE",
-            "banner.e2ads.com": "INACTIVE",
-            "banner.euroads.no": "INACTIVE",
-            "banner.freeservers.net": "INACTIVE",
-            "banner.listinus.de": "INACTIVE",
-            "banner.magicboxcasino.com": "INACTIVE"
-        },
-        "1575958563": {
-            "banner.vegasred.com": "INACTIVE",
-            "banner1.axelsfun.com": "INACTIVE",
-            "banner1.inet-traffic.com": "INACTIVE",
-            "banner2.axelsfun.com": "INACTIVE",
-            "banner2.inet-traffic.com": "INACTIVE",
-            "banner3.axelsfun.com": "INACTIVE",
-            "banner3.inet-traffic.com": "INACTIVE",
-            "bannerads.mantecabulletin.com": "INACTIVE",
-            "bannerexchange.cjb.net": "INACTIVE",
-            "bannerfarm.ace.advertising.com": "INACTIVE",
-            "banners.777-xxx.com": "INACTIVE"
-        },
         "1575958564": {
-            "banners.animeerotico.com": "INACTIVE",
-            "banners.audioholics.com": "INACTIVE",
-            "banners.bebadasousadas.com": "INACTIVE",
             "banners.clickthrucash.com": "INACTIVE",
             "banners.colegialasdesvirgadas.com": "INACTIVE",
             "banners.directnic.com": "INACTIVE",
@@ -3922,6 +3854,74 @@
         "1576075894": {
             "antevenio.flux.ads-click.com": "INACTIVE",
             "antivirus-database.com": "INACTIVE"
+        },
+        "1576077089": {
+            "anything4health.com": "INACTIVE",
+            "aperture.displaymarketplace.com": "INACTIVE",
+            "api.behavioralengine.com": "INACTIVE",
+            "api.bizographics.com": "INACTIVE"
+        },
+        "1576077090": {
+            "apibeta.zeti.com": "INACTIVE",
+            "app.ezula.com": "INACTIVE",
+            "app.ubertags.com": "INACTIVE",
+            "apps.advertlets.com": "INACTIVE",
+            "ar1.atwola.com": "INACTIVE",
+            "ar2.atwola.com": "INACTIVE",
+            "ar3.atwola.com": "INACTIVE",
+            "ar4.atwola.com": "INACTIVE",
+            "ar5.atwola.com": "INACTIVE",
+            "ar6.atwola.com": "INACTIVE",
+            "ar7.atwola.com": "INACTIVE",
+            "ar8.atwola.com": "INACTIVE",
+            "ar9.atwola.com": "INACTIVE"
+        },
+        "1576077091": {
+            "as.amxdt.com": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "as.eu.angsrvr.com": "INACTIVE",
+            "assets.adtaily.com": "INACTIVE",
+            "astatic.weborama.fr": "INACTIVE",
+            "at.marketwire.com": "INACTIVE",
+            "atl.mv.bidsystem.com": "INACTIVE",
+            "attribution.webmarketing123.com": "INACTIVE"
+        },
+        "1576077092": {
+            "av-cash.com": "INACTIVE",
+            "awesometube.net": "INACTIVE"
+        },
+        "1576077093": {
+            "b-aws.huffingtonpost.com": "INACTIVE",
+            "b.adserv.cn": "INACTIVE",
+            "b.salon.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "bafn.trafficrevmaster.com": "INACTIVE",
+            "balanced.gtsadsdistributed.com": "INACTIVE"
+        },
+        "1576077094": {
+            "banner.celebrity-fakes.net": "INACTIVE",
+            "banner.date.com": "INACTIVE",
+            "banner.e2ads.com": "INACTIVE",
+            "banner.euroads.no": "INACTIVE",
+            "banner.freeservers.net": "INACTIVE",
+            "banner.listinus.de": "INACTIVE",
+            "banner.magicboxcasino.com": "INACTIVE",
+            "banner.vegasred.com": "INACTIVE",
+            "banner1.axelsfun.com": "INACTIVE",
+            "banner1.inet-traffic.com": "INACTIVE",
+            "banner2.axelsfun.com": "INACTIVE",
+            "banner2.inet-traffic.com": "INACTIVE",
+            "banner3.axelsfun.com": "INACTIVE",
+            "banner3.inet-traffic.com": "INACTIVE",
+            "bannerads.mantecabulletin.com": "INACTIVE"
+        },
+        "1576077095": {
+            "bannerexchange.cjb.net": "INACTIVE",
+            "bannerfarm.ace.advertising.com": "INACTIVE",
+            "banners.777-xxx.com": "INACTIVE",
+            "banners.animeerotico.com": "INACTIVE",
+            "banners.audioholics.com": "INACTIVE",
+            "banners.bebadasousadas.com": "INACTIVE"
         }
     }
 }
