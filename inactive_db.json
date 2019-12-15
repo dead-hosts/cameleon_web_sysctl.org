@@ -1927,70 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576204950": {
-            "static.adtaily.com": "INACTIVE"
-        },
-        "1576204951": {
-            "static.meteorsolutions.com": "INACTIVE",
-            "static.springmetrics.com": "INACTIVE",
-            "static.unister-adservices.com": "INACTIVE",
-            "stats.ars4real.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "stats.complex.com": "INACTIVE"
-        },
-        "1576204952": {
-            "stats.inist.fr": "INACTIVE",
-            "stats.instdaddy.com": "INACTIVE",
-            "stats.magnify.net": "INACTIVE",
-            "stats.manticoretechnology.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.spyware-browser.com": "INACTIVE",
-            "stats.style.com": "INACTIVE",
-            "stats.yoursitebar.com": "INACTIVE"
-        },
-        "1576204953": {
-            "stream1.marketwatch.fyre.co": "INACTIVE",
-            "sueddeut.ivwbox.de": "INACTIVE"
-        },
-        "1576204954": {
-            "swr.ivwbox.de": "INACTIVE",
-            "sy.eu.angsrvr.com": "INACTIVE",
-            "system.adquick.nl": "INACTIVE",
-            "t.acxiom-online.com": "INACTIVE"
-        },
-        "1576204955": {
-            "t1.stormiq.com": "INACTIVE",
-            "t2.stormiq.com": "INACTIVE"
-        },
-        "1576204956": {
-            "talkcity.realtracker.com": "INACTIVE",
-            "tc-s.convertro.com": "INACTIVE",
-            "tearads.com": "INACTIVE",
-            "technologyreview.qwobl.net": "INACTIVE"
-        },
-        "1576206361": {
-            "termsandprivacy.com": "INACTIVE",
-            "test.yesadvertising.com": "INACTIVE"
-        },
-        "1576206363": {
-            "thumbs.mochiads.com": "INACTIVE",
-            "tiads.essence.com": "INACTIVE"
-        },
-        "1576206364": {
-            "timeseg.modules.jumptime.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "top.c-stat.eu": "INACTIVE",
-            "top.easy.lv": "INACTIVE"
-        },
-        "1576206365": {
-            "top.gde.ru": "INACTIVE"
-        },
         "1576206366": {
-            "tpl1.realtracker.com": "INACTIVE",
-            "tpl2.realtracker.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "tracer.perezhilton.com": "INACTIVE",
-            "track.ad4mmo.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "track.ft.com": "INACTIVE"
         },
@@ -3929,6 +3866,74 @@
             "stat-tracker.net": "INACTIVE",
             "stat.ganbox.com": "INACTIVE",
             "static-cf.fmpub.net": "INACTIVE"
+        },
+        "1576398256": {
+            "static.adtaily.com": "INACTIVE"
+        },
+        "1576398257": {
+            "static.meteorsolutions.com": "INACTIVE",
+            "static.springmetrics.com": "INACTIVE",
+            "static.unister-adservices.com": "INACTIVE",
+            "stats.ars4real.com": "INACTIVE",
+            "stats.break.com": "INACTIVE"
+        },
+        "1576398258": {
+            "stats.complex.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "stats.instdaddy.com": "INACTIVE",
+            "stats.magnify.net": "INACTIVE",
+            "stats.manticoretechnology.com": "INACTIVE"
+        },
+        "1576398259": {
+            "stats.snacktools.net": "INACTIVE",
+            "stats.spyware-browser.com": "INACTIVE",
+            "stats.style.com": "INACTIVE",
+            "stats.yoursitebar.com": "INACTIVE"
+        },
+        "1576398260": {
+            "stream1.marketwatch.fyre.co": "INACTIVE",
+            "sueddeut.ivwbox.de": "INACTIVE"
+        },
+        "1576398261": {
+            "swr.ivwbox.de": "INACTIVE",
+            "sy.eu.angsrvr.com": "INACTIVE"
+        },
+        "1576398262": {
+            "system.adquick.nl": "INACTIVE",
+            "t.acxiom-online.com": "INACTIVE",
+            "t1.stormiq.com": "INACTIVE",
+            "t2.stormiq.com": "INACTIVE"
+        },
+        "1576398263": {
+            "talkcity.realtracker.com": "INACTIVE"
+        },
+        "1576398264": {
+            "tc-s.convertro.com": "INACTIVE",
+            "tearads.com": "INACTIVE",
+            "technologyreview.qwobl.net": "INACTIVE"
+        },
+        "1576398265": {
+            "termsandprivacy.com": "INACTIVE",
+            "test.yesadvertising.com": "INACTIVE"
+        },
+        "1576398267": {
+            "tiads.essence.com": "INACTIVE",
+            "timeseg.modules.jumptime.com": "INACTIVE"
+        },
+        "1576398268": {
+            "titan.advertserve.com": "INACTIVE",
+            "top.c-stat.eu": "INACTIVE",
+            "top.easy.lv": "INACTIVE",
+            "top.gde.ru": "INACTIVE"
+        },
+        "1576398269": {
+            "tpl1.realtracker.com": "INACTIVE",
+            "tpl2.realtracker.com": "INACTIVE"
+        },
+        "1576398270": {
+            "tr.mobiadserv.com": "INACTIVE",
+            "tracer.perezhilton.com": "INACTIVE",
+            "track.ad4mmo.com": "INACTIVE"
         }
     }
 }
