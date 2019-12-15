@@ -2775,7 +2775,7 @@
         "state": "future"
     },
     "adtech.us": {
-        "epoch": "1598745600",
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
@@ -3000,7 +3000,7 @@
         "state": "future"
     },
     "adultfriendfinders.us": {
-        "epoch": 1591228800,
+        "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
