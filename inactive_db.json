@@ -1927,54 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576695089": {
-            "static-cf.fmpub.net": "INACTIVE",
-            "static.adtaily.com": "INACTIVE"
-        },
-        "1576695090": {
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1576695775": {
-            "static.springmetrics.com": "INACTIVE",
-            "static.unister-adservices.com": "INACTIVE",
-            "stats.ars4real.com": "INACTIVE",
-            "stats.break.com": "INACTIVE"
-        },
-        "1576695776": {
-            "stats.complex.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "stats.instdaddy.com": "INACTIVE",
-            "stats.magnify.net": "INACTIVE",
-            "stats.manticoretechnology.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.spyware-browser.com": "INACTIVE",
-            "stats.style.com": "INACTIVE"
-        },
-        "1576695777": {
-            "stats.yoursitebar.com": "INACTIVE",
-            "stream1.marketwatch.fyre.co": "INACTIVE"
-        },
-        "1576695778": {
-            "sueddeut.ivwbox.de": "INACTIVE",
-            "swr.ivwbox.de": "INACTIVE",
-            "sy.eu.angsrvr.com": "INACTIVE"
-        },
-        "1576695779": {
-            "system.adquick.nl": "INACTIVE",
-            "t.acxiom-online.com": "INACTIVE",
-            "t1.stormiq.com": "INACTIVE",
-            "t2.stormiq.com": "INACTIVE"
-        },
-        "1576695780": {
-            "talkcity.realtracker.com": "INACTIVE",
-            "tc-s.convertro.com": "INACTIVE"
-        },
-        "1576695781": {
-            "tearads.com": "INACTIVE",
-            "technologyreview.qwobl.net": "INACTIVE",
-            "termsandprivacy.com": "INACTIVE",
-            "test.yesadvertising.com": "INACTIVE"
-        },
         "1576695783": {
             "tiads.essence.com": "INACTIVE",
             "timeseg.modules.jumptime.com": "INACTIVE",
@@ -3846,6 +3798,55 @@
             "st1.freeonlineusers.com": "INACTIVE",
             "stat-tracker.net": "INACTIVE",
             "stat.ganbox.com": "INACTIVE"
+        },
+        "1576912993": {
+            "static-cf.fmpub.net": "INACTIVE",
+            "static.adtaily.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1576912994": {
+            "static.springmetrics.com": "INACTIVE",
+            "static.unister-adservices.com": "INACTIVE",
+            "stats.ars4real.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "stats.complex.com": "INACTIVE"
+        },
+        "1576912995": {
+            "stats.inist.fr": "INACTIVE",
+            "stats.instdaddy.com": "INACTIVE",
+            "stats.magnify.net": "INACTIVE",
+            "stats.manticoretechnology.com": "INACTIVE",
+            "stats.rewardingprize.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "stats.spyware-browser.com": "INACTIVE",
+            "stats.style.com": "INACTIVE",
+            "stats.yoursitebar.com": "INACTIVE"
+        },
+        "1576912996": {
+            "stream1.marketwatch.fyre.co": "INACTIVE",
+            "sueddeut.ivwbox.de": "INACTIVE",
+            "superpages.122.2o7.net": "INACTIVE"
+        },
+        "1576912997": {
+            "swr.ivwbox.de": "INACTIVE",
+            "sy.eu.angsrvr.com": "INACTIVE",
+            "system.adquick.nl": "INACTIVE",
+            "t.acxiom-online.com": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE"
+        },
+        "1576912998": {
+            "t1.stormiq.com": "INACTIVE",
+            "t2.stormiq.com": "INACTIVE"
+        },
+        "1576912999": {
+            "talkcity.realtracker.com": "INACTIVE",
+            "tc-s.convertro.com": "INACTIVE",
+            "tearads.com": "INACTIVE",
+            "technologyreview.qwobl.net": "INACTIVE"
+        },
+        "1576913000": {
+            "termsandprivacy.com": "INACTIVE",
+            "test.yesadvertising.com": "INACTIVE"
         }
     }
 }
