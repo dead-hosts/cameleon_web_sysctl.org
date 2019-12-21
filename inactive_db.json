@@ -1927,73 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576691872": {
-            "openx.nagrzyby.pl": "INACTIVE",
-            "opt.cdxnopt.com": "INACTIVE"
-        },
-        "1576691873": {
-            "optimized-by-adv.rubiconproject.com": "INACTIVE",
-            "origin2.adsdk.com": "INACTIVE"
-        },
-        "1576693058": {
-            "ox-d.ask.servedbyopenx.com": "INACTIVE"
-        },
-        "1576693059": {
-            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
-            "ox-d.boston.servedbyopenx.com": "INACTIVE",
-            "ox-d.buddytv.com": "INACTIVE",
-            "ox-d.curse.servedbyopenx.com": "INACTIVE",
-            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
-            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
-            "ox-d.gamer-network.net": "INACTIVE",
-            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
-            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
-            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
-            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
-            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
-            "ox-d.philly.servedbyopenx.com": "INACTIVE",
-            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
-            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
-            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
-            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
-            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
-            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
-            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
-            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "p.ace.advertising.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE"
-        },
-        "1576693060": {
-            "p.securedownload01.com": "INACTIVE",
-            "pageurl-brx.btrll.com": "INACTIVE",
-            "pageurl.btrll.com": "INACTIVE",
-            "panther1.cpxinteractive.com": "INACTIVE"
-        },
-        "1576693061": {
-            "pay.tranent.nl": "INACTIVE",
-            "peelads.hustler.com": "INACTIVE"
-        },
-        "1576693062": {
-            "piwik.redtube.com": "INACTIVE",
-            "pix.btrll.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE",
-            "pixel.captora.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1576693063": {
-            "pixels.mentad.com": "INACTIVE",
-            "pool.euroads.no": "INACTIVE"
-        },
-        "1576693064": {
-            "pr.atwola.com": "INACTIVE"
-        },
         "1576693065": {
-            "prm.europacash.com": "INACTIVE",
-            "pro.weborama.fr": "INACTIVE",
-            "project2.realtracker.com": "INACTIVE",
-            "promo.hdvbucks.com": "INACTIVE",
             "proxy.softonicads.com": "INACTIVE"
         },
         "1576693996": {
@@ -3853,6 +3787,73 @@
             "op.standartnews.com": "INACTIVE",
             "openads.hiphopsite.com": "INACTIVE",
             "openadstream-eu1.247realmedia.com": "INACTIVE"
+        },
+        "1576909046": {
+            "openx.nagrzyby.pl": "INACTIVE",
+            "opt.cdxnopt.com": "INACTIVE",
+            "optimized-by-adv.rubiconproject.com": "INACTIVE",
+            "origin2.adsdk.com": "INACTIVE"
+        },
+        "1576909047": {
+            "ox-d.ask.servedbyopenx.com": "INACTIVE",
+            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
+            "ox-d.boston.servedbyopenx.com": "INACTIVE",
+            "ox-d.buddytv.com": "INACTIVE",
+            "ox-d.curse.servedbyopenx.com": "INACTIVE",
+            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
+            "ox-d.gamer-network.net": "INACTIVE",
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
+            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE",
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
+            "ox-d.thechive.servedbyopenx.com": "INACTIVE"
+        },
+        "1576909048": {
+            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "p.ace.advertising.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE",
+            "p.securedownload01.com": "INACTIVE",
+            "pageurl-brx.btrll.com": "INACTIVE",
+            "pageurl.btrll.com": "INACTIVE"
+        },
+        "1576909049": {
+            "panther1.cpxinteractive.com": "INACTIVE",
+            "pay.tranent.nl": "INACTIVE"
+        },
+        "1576909050": {
+            "peelads.hustler.com": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "pix.btrll.com": "INACTIVE"
+        },
+        "1576909051": {
+            "pix.pulsemgr.com": "INACTIVE",
+            "pixel.captora.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "pixels.mentad.com": "INACTIVE"
+        },
+        "1576909052": {
+            "playon.play3w.com": "INACTIVE",
+            "pool.euroads.no": "INACTIVE"
+        },
+        "1576909053": {
+            "pr.atwola.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "pro.weborama.fr": "INACTIVE"
+        },
+        "1576909054": {
+            "project2.realtracker.com": "INACTIVE",
+            "promo.hdvbucks.com": "INACTIVE"
         }
     }
 }
