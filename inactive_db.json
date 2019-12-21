@@ -1927,32 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576683442": {
-            "bonuspromooffer.com": "INACTIVE",
-            "brxserv-21.btrll.com": "INACTIVE"
-        },
-        "1576683443": {
-            "business.realtracker.com": "INACTIVE",
-            "c.enhance.com": "INACTIVE",
-            "c.goclick.com": "INACTIVE",
-            "c.mydirectweb.com": "INACTIVE",
-            "c.newsinc.com": "INACTIVE"
-        },
-        "1576683444": {
-            "c12.valary.com": "INACTIVE",
-            "c20.valary.com": "INACTIVE",
-            "c26.valary.com": "INACTIVE",
-            "c3.newwebb.com": "INACTIVE",
-            "cache.btrll.com": "INACTIVE"
-        },
-        "1576683445": {
-            "casper.sp1.convertro.com": "INACTIVE"
-        },
         "1576683446": {
-            "cdn.accelerator.arsdev.net": "INACTIVE",
-            "cdn.adpdx.com": "INACTIVE",
-            "cdn.adstatic.com": "INACTIVE",
-            "cdn.adtradr.com": "INACTIVE",
             "cdn.behavioralengine.com": "INACTIVE"
         },
         "1576684824": {
@@ -3870,6 +3845,33 @@
         "1576901379": {
             "bluray-hq-tube.cn": "INACTIVE",
             "bnmhg.com": "INACTIVE"
+        },
+        "1576902330": {
+            "bonuspromooffer.com": "INACTIVE"
+        },
+        "1576902331": {
+            "brxserv-21.btrll.com": "INACTIVE",
+            "business.realtracker.com": "INACTIVE",
+            "c.enhance.com": "INACTIVE",
+            "c.goclick.com": "INACTIVE"
+        },
+        "1576902332": {
+            "c.mydirectweb.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE",
+            "c12.valary.com": "INACTIVE",
+            "c20.valary.com": "INACTIVE",
+            "c26.valary.com": "INACTIVE",
+            "c3.newwebb.com": "INACTIVE"
+        },
+        "1576902333": {
+            "cache.btrll.com": "INACTIVE"
+        },
+        "1576902334": {
+            "casper.sp1.convertro.com": "INACTIVE",
+            "cdn.accelerator.arsdev.net": "INACTIVE",
+            "cdn.adpdx.com": "INACTIVE",
+            "cdn.adstatic.com": "INACTIVE",
+            "cdn.adtradr.com": "INACTIVE"
         }
     }
 }
