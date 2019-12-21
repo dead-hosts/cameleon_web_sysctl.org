@@ -1927,65 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576674287": {
-            "adrevenue.findwhat.com": "INACTIVE",
-            "ads-a-darwin.hulu.com": "INACTIVE",
-            "ads.24.com": "INACTIVE"
-        },
-        "1576674288": {
-            "ads.adhub.co.nz": "INACTIVE",
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.adonion.com": "INACTIVE",
-            "ads.adsonar.com": "INACTIVE",
-            "ads.adultpopunders.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.angop.ao": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.banner-link.com.br": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "ads.betternetworker.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE"
-        },
-        "1576675863": {
-            "ads.carltononline.com": "INACTIVE",
-            "ads.centerstage.net": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.chango.ca": "INACTIVE",
-            "ads.click2paid.com": "INACTIVE",
-            "ads.clickad.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.date.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "ads.deliads.com": "INACTIVE",
-            "ads.digitalwow.ro": "INACTIVE"
-        },
-        "1576675864": {
-            "ads.e9china.com": "INACTIVE",
-            "ads.expedia.com": "INACTIVE",
-            "ads.ezcybersearch.com": "INACTIVE",
-            "ads.fatvine.com": "INACTIVE",
-            "ads.fidelity-media.com": "INACTIVE",
-            "ads.filez.com": "INACTIVE",
-            "ads.fora.tv": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.fortunecity.co.uk": "INACTIVE",
-            "ads.foxnews.com": "INACTIVE",
-            "ads.freebannertrade.com": "INACTIVE",
-            "ads.gad-network.com": "INACTIVE",
-            "ads.gorillavid.in": "INACTIVE",
-            "ads.groupcommerce.com": "INACTIVE",
-            "ads.iac-online.de": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.imagine-inc.net": "INACTIVE",
-            "ads.imdb.nl": "INACTIVE",
-            "ads.inet-traffic.com": "INACTIVE",
-            "ads.inspirestudio.net": "INACTIVE",
-            "ads.iol.co.il": "INACTIVE",
-            "ads.itmcash.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE"
-        },
         "1576675865": {
             "ads.juneauempire.com": "INACTIVE",
             "ads.justrelevant.com": "INACTIVE",
@@ -3884,6 +3825,66 @@
         },
         "1576891878": {
             "adplexmedia.adk2x.com": "INACTIVE"
+        },
+        "1576893956": {
+            "adrevenue.findwhat.com": "INACTIVE",
+            "ads-a-darwin.hulu.com": "INACTIVE"
+        },
+        "1576893957": {
+            "ads.24.com": "INACTIVE",
+            "ads.adhub.co.nz": "INACTIVE",
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.adsonar.com": "INACTIVE",
+            "ads.adultpopunders.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.angop.ao": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.banner-link.com.br": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "ads.best-ads.com": "INACTIVE",
+            "ads.betternetworker.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.carltononline.com": "INACTIVE",
+            "ads.centerstage.net": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE",
+            "ads.chango.ca": "INACTIVE"
+        },
+        "1576893958": {
+            "ads.click2paid.com": "INACTIVE",
+            "ads.clickad.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.date.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "ads.deliads.com": "INACTIVE",
+            "ads.digitalwow.ro": "INACTIVE",
+            "ads.e9china.com": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezcybersearch.com": "INACTIVE",
+            "ads.fatvine.com": "INACTIVE",
+            "ads.fidelity-media.com": "INACTIVE",
+            "ads.filez.com": "INACTIVE",
+            "ads.fora.tv": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.fortunecity.co.uk": "INACTIVE",
+            "ads.foxnews.com": "INACTIVE",
+            "ads.freebannertrade.com": "INACTIVE",
+            "ads.gad-network.com": "INACTIVE"
+        },
+        "1576893959": {
+            "ads.gorillavid.in": "INACTIVE",
+            "ads.groupcommerce.com": "INACTIVE",
+            "ads.iac-online.de": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.imagine-inc.net": "INACTIVE",
+            "ads.imdb.nl": "INACTIVE",
+            "ads.inet-traffic.com": "INACTIVE",
+            "ads.inspirestudio.net": "INACTIVE",
+            "ads.iol.co.il": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE"
         }
     }
 }
