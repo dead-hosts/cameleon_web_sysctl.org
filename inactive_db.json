@@ -1927,18 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1576897077": {
-            "ads2.victoriaadvocate.com": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE"
-        },
-        "1576897078": {
-            "ads3.freebannertrade.com": "INACTIVE",
-            "ads3497.hotwords.com.br": "INACTIVE"
-        },
-        "1576897079": {
-            "ads3806.hotwords.com.br": "INACTIVE",
-            "ads56-us-east.stickyadstv.com": "INACTIVE"
-        },
         "1576898086": {
             "adsense.clicking.com.tw": "INACTIVE",
             "adserv.basedvd.com": "INACTIVE",
@@ -3831,6 +3819,16 @@
             "ads.zamunda.net": "INACTIVE",
             "ads1.cricbuzz.com": "INACTIVE",
             "ads1.nexdra.com": "INACTIVE"
+        },
+        "1577078359": {
+            "ads2.victoriaadvocate.com": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "ads3.freebannertrade.com": "INACTIVE"
+        },
+        "1577078360": {
+            "ads3497.hotwords.com.br": "INACTIVE",
+            "ads3806.hotwords.com.br": "INACTIVE",
+            "ads56-us-east.stickyadstv.com": "INACTIVE"
         }
     }
 }
