@@ -162,7 +162,7 @@
     "101malls.com": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "101order.com": {
         "epoch": 1597363200.0,
@@ -1145,8 +1145,8 @@
         "state": "future"
     },
     "9fingers.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "a-a-access.com": {
