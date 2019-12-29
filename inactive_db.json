@@ -1927,62 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577433387": {
-            "r.searchoodle.com": "INACTIVE",
-            "r1.ace.advertising.com": "INACTIVE"
-        },
-        "1577433388": {
-            "rainbow-de.mythings.com": "INACTIVE",
-            "rainbow-es.mythings.com": "INACTIVE",
-            "rainbow-fi.mythings.com": "INACTIVE",
-            "rainbow-mx.mythings.com": "INACTIVE",
-            "rainbow-nl.mythings.com": "INACTIVE",
-            "rainbow-no.mythings.com": "INACTIVE",
-            "rainbow-ru-ak.mythings.com": "INACTIVE",
-            "rainbow-ru.mythings.com": "INACTIVE",
-            "rainbow-sg.mythings.com": "INACTIVE",
-            "rainbow-uk.mythings.com": "INACTIVE",
-            "rainbow-us.mythings.com": "INACTIVE",
-            "rainbow.mythings.com": "INACTIVE",
-            "ranker.springboardplatform.com": "INACTIVE",
-            "rb.insightexpressai.com": "INACTIVE",
-            "realtime.deximedia.com": "INACTIVE"
-        },
-        "1577433389": {
-            "redir.adsonar.com": "INACTIVE",
-            "redirect.ad-feeds.net": "INACTIVE",
-            "redirect.loadmarketing.com": "INACTIVE",
-            "redirect.todayreward.net": "INACTIVE",
-            "redirect.tracking202.com": "INACTIVE"
-        },
-        "1577434075": {
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "rewards.yoursitebar.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE"
-        },
-        "1577434076": {
-            "rmd.atdmt.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE"
-        },
-        "1577434077": {
-            "rusads.toysrus.com": "INACTIVE",
-            "s.ad121m.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE",
-            "s.ad132m.com": "INACTIVE",
-            "s.cxt.ms": "INACTIVE"
-        },
-        "1577434079": {
-            "safedownloadsrus157.com": "INACTIVE",
-            "sana.newsinc.com": "INACTIVE"
-        },
-        "1577434080": {
-            "script.tailsweep.com": "INACTIVE",
-            "scripts.conversionattribution.com": "INACTIVE",
-            "scripts.xrenoder.com": "INACTIVE"
-        },
         "1577434081": {
-            "se.sitestat.com": "INACTIVE",
             "search.clicksor.com": "INACTIVE",
             "search.xrenoder.com": "INACTIVE",
             "searchbar.findthewebsiteyouneed.com": "INACTIVE"
@@ -3861,6 +3806,60 @@
             "qds.tnsinternet.be": "INACTIVE",
             "qs.ivwbox.de": "INACTIVE",
             "quickstatistic.com": "INACTIVE"
+        },
+        "1577606905": {
+            "r.searchoodle.com": "INACTIVE",
+            "r1.ace.advertising.com": "INACTIVE",
+            "rainbow-de.mythings.com": "INACTIVE",
+            "rainbow-es.mythings.com": "INACTIVE",
+            "rainbow-fi.mythings.com": "INACTIVE",
+            "rainbow-mx.mythings.com": "INACTIVE",
+            "rainbow-nl.mythings.com": "INACTIVE",
+            "rainbow-no.mythings.com": "INACTIVE",
+            "rainbow-ru-ak.mythings.com": "INACTIVE",
+            "rainbow-ru.mythings.com": "INACTIVE",
+            "rainbow-sg.mythings.com": "INACTIVE",
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rainbow-us.mythings.com": "INACTIVE"
+        },
+        "1577606906": {
+            "rainbow.mythings.com": "INACTIVE",
+            "ranker.springboardplatform.com": "INACTIVE",
+            "rb.insightexpressai.com": "INACTIVE",
+            "realtime.deximedia.com": "INACTIVE",
+            "redir.adsonar.com": "INACTIVE",
+            "redirect.ad-feeds.net": "INACTIVE"
+        },
+        "1577606907": {
+            "redirect.loadmarketing.com": "INACTIVE",
+            "redirect.todayreward.net": "INACTIVE",
+            "redirect.tracking202.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE"
+        },
+        "1577606908": {
+            "rewards.yoursitebar.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE"
+        },
+        "1577606909": {
+            "rtb.metrigo.com": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE"
+        },
+        "1577606910": {
+            "s.ad121m.com": "INACTIVE",
+            "s.ad131m.com": "INACTIVE",
+            "s.ad132m.com": "INACTIVE",
+            "s.cxt.ms": "INACTIVE"
+        },
+        "1577606912": {
+            "safedownloadsrus157.com": "INACTIVE",
+            "sana.newsinc.com": "INACTIVE",
+            "scripts.conversionattribution.com": "INACTIVE"
+        },
+        "1577606913": {
+            "scripts.xrenoder.com": "INACTIVE",
+            "se.sitestat.com": "INACTIVE"
         }
     }
 }
