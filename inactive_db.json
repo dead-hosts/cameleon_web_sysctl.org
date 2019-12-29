@@ -1927,78 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577432696": {
-            "origin2.adsdk.com": "INACTIVE",
-            "ox-d.ask.servedbyopenx.com": "INACTIVE",
-            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
-            "ox-d.boston.servedbyopenx.com": "INACTIVE"
-        },
-        "1577432697": {
-            "ox-d.buddytv.com": "INACTIVE"
-        },
-        "1577433379": {
-            "ox-d.curse.servedbyopenx.com": "INACTIVE",
-            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
-            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
-            "ox-d.gamer-network.net": "INACTIVE",
-            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
-            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
-            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
-            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
-            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
-            "ox-d.philly.servedbyopenx.com": "INACTIVE",
-            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
-            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
-            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
-            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
-            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
-            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
-            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
-            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "p.ace.advertising.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE"
-        },
-        "1577433380": {
-            "p.securedownload01.com": "INACTIVE",
-            "pageurl-brx.btrll.com": "INACTIVE",
-            "pageurl.btrll.com": "INACTIVE",
-            "panther1.cpxinteractive.com": "INACTIVE"
-        },
-        "1577433381": {
-            "pay.tranent.nl": "INACTIVE",
-            "peelads.hustler.com": "INACTIVE"
-        },
-        "1577433382": {
-            "piwik.redtube.com": "INACTIVE",
-            "pix.btrll.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE",
-            "pixel.captora.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1577433383": {
-            "pixels.mentad.com": "INACTIVE",
-            "pool.euroads.no": "INACTIVE"
-        },
-        "1577433384": {
-            "pr.atwola.com": "INACTIVE"
-        },
-        "1577433385": {
-            "prm.europacash.com": "INACTIVE",
-            "pro.weborama.fr": "INACTIVE",
-            "project2.realtracker.com": "INACTIVE",
-            "promo.hdvbucks.com": "INACTIVE"
-        },
-        "1577433386": {
-            "proxy.softonicads.com": "INACTIVE",
-            "pustoaice.erotic-place.org": "INACTIVE"
-        },
         "1577433387": {
-            "pxl.pmsrvr.com": "INACTIVE",
-            "qds.tnsinternet.be": "INACTIVE",
-            "qs.ivwbox.de": "INACTIVE",
-            "quickstatistic.com": "INACTIVE",
             "r.searchoodle.com": "INACTIVE",
             "r1.ace.advertising.com": "INACTIVE"
         },
@@ -3859,6 +3788,79 @@
             "openx.nagrzyby.pl": "INACTIVE",
             "opt.cdxnopt.com": "INACTIVE",
             "optimized-by-adv.rubiconproject.com": "INACTIVE"
+        },
+        "1577606216": {
+            "origin2.adsdk.com": "INACTIVE"
+        },
+        "1577606217": {
+            "ox-d.ask.servedbyopenx.com": "INACTIVE",
+            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
+            "ox-d.boston.servedbyopenx.com": "INACTIVE",
+            "ox-d.buddytv.com": "INACTIVE",
+            "ox-d.curse.servedbyopenx.com": "INACTIVE",
+            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
+            "ox-d.gamer-network.net": "INACTIVE",
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
+            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE",
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
+            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
+            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE"
+        },
+        "1577606218": {
+            "p.ace.advertising.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE",
+            "p.securedownload01.com": "INACTIVE",
+            "pageurl-brx.btrll.com": "INACTIVE",
+            "pageurl.btrll.com": "INACTIVE",
+            "panther1.cpxinteractive.com": "INACTIVE"
+        },
+        "1577606219": {
+            "pay.tranent.nl": "INACTIVE",
+            "pcworldcommunication.d2.sc.omtrdc.net": "INACTIVE",
+            "peelads.hustler.com": "INACTIVE"
+        },
+        "1577606220": {
+            "piwik.redtube.com": "INACTIVE",
+            "pix.btrll.com": "INACTIVE",
+            "pix.pulsemgr.com": "INACTIVE",
+            "pixel.captora.com": "INACTIVE"
+        },
+        "1577606221": {
+            "pixel.redditmedia.com": "INACTIVE",
+            "pixels.mentad.com": "INACTIVE",
+            "pl.search.etargetnet.com": "INACTIVE"
+        },
+        "1577606222": {
+            "pool.euroads.no": "INACTIVE",
+            "pr.atwola.com": "INACTIVE"
+        },
+        "1577606223": {
+            "prm.europacash.com": "INACTIVE",
+            "pro.weborama.fr": "INACTIVE",
+            "project2.realtracker.com": "INACTIVE",
+            "promo.hdvbucks.com": "INACTIVE"
+        },
+        "1577606224": {
+            "proxy.softonicads.com": "INACTIVE"
+        },
+        "1577606225": {
+            "pustoaice.erotic-place.org": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "qds.tnsinternet.be": "INACTIVE",
+            "qs.ivwbox.de": "INACTIVE",
+            "quickstatistic.com": "INACTIVE"
         }
     }
 }
