@@ -1927,77 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577608297": {
-            "stats.break.com": "INACTIVE",
-            "stats.complex.com": "INACTIVE"
-        },
-        "1577608298": {
-            "stats.inist.fr": "INACTIVE",
-            "stats.instdaddy.com": "INACTIVE",
-            "stats.magnify.net": "INACTIVE",
-            "stats.manticoretechnology.com": "INACTIVE",
-            "stats.rewardingprize.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.spyware-browser.com": "INACTIVE",
-            "stats.style.com": "INACTIVE",
-            "stats.yoursitebar.com": "INACTIVE"
-        },
-        "1577608299": {
-            "stream1.marketwatch.fyre.co": "INACTIVE",
-            "sueddeut.ivwbox.de": "INACTIVE"
-        },
-        "1577608300": {
-            "swr.ivwbox.de": "INACTIVE",
-            "sy.eu.angsrvr.com": "INACTIVE",
-            "system.adquick.nl": "INACTIVE",
-            "t.acxiom-online.com": "INACTIVE"
-        },
-        "1577608301": {
-            "t.cqq5id8n.com": "INACTIVE",
-            "t1.stormiq.com": "INACTIVE",
-            "t2.stormiq.com": "INACTIVE"
-        },
-        "1577608302": {
-            "talkcity.realtracker.com": "INACTIVE",
-            "target.net.finam.ru": "INACTIVE",
-            "tc-s.convertro.com": "INACTIVE"
-        },
-        "1577608303": {
-            "tearads.com": "INACTIVE",
-            "technologyreview.qwobl.net": "INACTIVE",
-            "termsandprivacy.com": "INACTIVE",
-            "test.yesadvertising.com": "INACTIVE"
-        },
-        "1577608305": {
-            "tiads.essence.com": "INACTIVE",
-            "timeseg.modules.jumptime.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "top.c-stat.eu": "INACTIVE",
-            "top.easy.lv": "INACTIVE",
-            "top.gde.ru": "INACTIVE"
-        },
-        "1577608306": {
-            "tpl1.realtracker.com": "INACTIVE",
-            "tpl2.realtracker.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "tracer.perezhilton.com": "INACTIVE"
-        },
-        "1577608307": {
-            "track.ad4mmo.com": "INACTIVE",
-            "track.clicksor.com": "INACTIVE",
-            "track.ft.com": "INACTIVE"
-        },
-        "1577608989": {
-            "track.make-a-site.net": "INACTIVE",
-            "track.rtb-media.ru": "INACTIVE",
-            "track.todayreward.net": "INACTIVE",
-            "track.viralvidi.com": "INACTIVE",
-            "track.www.zazzle.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE"
-        },
         "1577608990": {
-            "tracker.vinsight.de": "INACTIVE",
-            "tracking.absolstats.com": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE",
             "tracking.kurier.at": "INACTIVE",
             "tracking.optimatic.com": "INACTIVE",
@@ -3862,6 +3792,77 @@
         },
         "1577721354": {
             "stats.ars4real.com": "INACTIVE"
+        },
+        "1577722046": {
+            "stats.break.com": "INACTIVE",
+            "stats.complex.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "stats.instdaddy.com": "INACTIVE",
+            "stats.magnify.net": "INACTIVE",
+            "stats.manticoretechnology.com": "INACTIVE",
+            "stats.rewardingprize.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE"
+        },
+        "1577722047": {
+            "stats.spyware-browser.com": "INACTIVE",
+            "stats.style.com": "INACTIVE",
+            "stats.yoursitebar.com": "INACTIVE",
+            "stream1.marketwatch.fyre.co": "INACTIVE"
+        },
+        "1577722048": {
+            "sueddeut.ivwbox.de": "INACTIVE",
+            "swr.ivwbox.de": "INACTIVE",
+            "sy.eu.angsrvr.com": "INACTIVE"
+        },
+        "1577722049": {
+            "system.adquick.nl": "INACTIVE",
+            "t.acxiom-online.com": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE",
+            "t1.stormiq.com": "INACTIVE",
+            "t2.stormiq.com": "INACTIVE"
+        },
+        "1577722050": {
+            "talkcity.realtracker.com": "INACTIVE"
+        },
+        "1577722051": {
+            "tc-s.convertro.com": "INACTIVE",
+            "tearads.com": "INACTIVE",
+            "technologyreview.qwobl.net": "INACTIVE",
+            "termsandprivacy.com": "INACTIVE"
+        },
+        "1577722052": {
+            "test.yesadvertising.com": "INACTIVE"
+        },
+        "1577722053": {
+            "tiads.essence.com": "INACTIVE",
+            "timeseg.modules.jumptime.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE"
+        },
+        "1577722054": {
+            "toolbar.wishbone.com": "INACTIVE",
+            "tools.ad-net.co.uk": "INACTIVE",
+            "top.c-stat.eu": "INACTIVE",
+            "top.easy.lv": "INACTIVE",
+            "top.gde.ru": "INACTIVE"
+        },
+        "1577722055": {
+            "tpl1.realtracker.com": "INACTIVE",
+            "tpl2.realtracker.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "tracer.perezhilton.com": "INACTIVE",
+            "track.ad4mmo.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "track.ft.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE",
+            "track.rtb-media.ru": "INACTIVE"
+        },
+        "1577722056": {
+            "track.todayreward.net": "INACTIVE",
+            "track.viralvidi.com": "INACTIVE",
+            "track.www.zazzle.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE",
+            "tracker.vinsight.de": "INACTIVE",
+            "tracking.absolstats.com": "INACTIVE"
         }
     }
 }
