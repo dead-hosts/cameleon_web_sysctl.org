@@ -1927,18 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577612162": {
-            "ystat.biz": "INACTIVE",
-            "yuppitraffic.info": "INACTIVE",
-            "z.amiblood.com": "INACTIVE",
-            "z.junksport.com": "INACTIVE",
-            "z.nightchan.com": "INACTIVE"
-        },
-        "1577612163": {
-            "zde-affinity.edgecaching.net": "INACTIVE",
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
         "1577701098": {
             "093qpeuqpmz6ebfa.com": "INACTIVE"
         },
@@ -3861,6 +3849,18 @@
         },
         "1577726126": {
             "yrtas.btrll.com": "INACTIVE"
+        },
+        "1577726329": {
+            "ystat.biz": "INACTIVE",
+            "yuppitraffic.info": "INACTIVE",
+            "z.amiblood.com": "INACTIVE",
+            "z.junksport.com": "INACTIVE",
+            "z.nightchan.com": "INACTIVE"
+        },
+        "1577726330": {
+            "zde-affinity.edgecaching.net": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
         }
     }
 }
