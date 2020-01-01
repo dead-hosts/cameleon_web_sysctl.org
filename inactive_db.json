@@ -1927,106 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577718573": {
-            "metrics.mercola.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "metrics.pcmag.com": "INACTIVE",
-            "metrics.radioshack.com": "INACTIVE",
-            "metrics.recroom.com": "INACTIVE"
-        },
-        "1577718574": {
-            "mf.sitescout.com": "INACTIVE"
-        },
-        "1577718575": {
-            "mm.chitika.net": "INACTIVE",
-            "mmb.bingstart.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE",
-            "mobilede-dp.nuggad.net": "INACTIVE",
-            "mobilede.nuggad.net": "INACTIVE",
-            "monitoring.profi-webhosting.cz": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE"
-        },
-        "1577718576": {
-            "morgpost.ivwbox.de": "INACTIVE",
-            "mottnow.adk2x.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE"
-        },
-        "1577718577": {
-            "mtr.tfponline.com": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1577718578": {
-            "n.targetbtracker.com": "INACTIVE",
-            "nedstat.nl": "INACTIVE"
-        },
-        "1577718579": {
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "netster.xmlsearch.findwhat.com": "INACTIVE",
-            "netzeitu.ivwbox.de": "INACTIVE",
-            "newsclic.ivwbox.de": "INACTIVE",
-            "newsletter.adsonar.com": "INACTIVE",
-            "newsvr.info": "INACTIVE",
-            "next-layers.com": "INACTIVE",
-            "nfl.sp1.convertro.com": "INACTIVE"
-        },
-        "1577718580": {
-            "nl.nedstatpro.net": "INACTIVE",
-            "nl.sitestat.com": "INACTIVE",
-            "ntracking.optimatic.com": "INACTIVE",
-            "nub9r.maisonx.com": "INACTIVE"
-        },
-        "1577718581": {
-            "o.sa.aol.com": "INACTIVE",
-            "oas.ad-vice.biz": "INACTIVE",
-            "oas.autotrader.co.uk": "INACTIVE",
-            "oas.mainetoday.com": "INACTIVE",
-            "oas.romandie-online.ch": "INACTIVE",
-            "oas.skyregie.com": "INACTIVE"
-        },
-        "1577718582": {
-            "oascentral.artistdirect.com": "INACTIVE",
-            "oascentral.blackenterprise.com": "INACTIVE",
-            "oascentral.escapistmagazine.com": "INACTIVE",
-            "oascentral.hitfix.com": "INACTIVE",
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE",
-            "oascentral.recroom.com": "INACTIVE",
-            "oascentral.salemweb.net": "INACTIVE"
-        },
-        "1577719405": {
-            "oascentral.warcry.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE",
-            "omni.focus.de": "INACTIVE"
-        },
-        "1577719406": {
-            "op.standartnews.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE",
-            "openadstream-eu1.247realmedia.com": "INACTIVE"
-        },
-        "1577719407": {
-            "openx.nagrzyby.pl": "INACTIVE",
-            "opt.cdxnopt.com": "INACTIVE",
-            "optimized-by-adv.rubiconproject.com": "INACTIVE",
-            "origin2.adsdk.com": "INACTIVE",
-            "ox-d.ask.servedbyopenx.com": "INACTIVE"
-        },
         "1577719408": {
-            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
-            "ox-d.boston.servedbyopenx.com": "INACTIVE",
-            "ox-d.buddytv.com": "INACTIVE",
-            "ox-d.curse.servedbyopenx.com": "INACTIVE",
-            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
-            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
-            "ox-d.gamer-network.net": "INACTIVE",
-            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
-            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
-            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
-            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
-            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
-            "ox-d.philly.servedbyopenx.com": "INACTIVE",
             "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
             "ox-d.ranker.servedbyopenx.com": "INACTIVE",
             "ox-d.realtor.servedbyopenx.com": "INACTIVE",
@@ -4299,6 +4200,109 @@
             "metrics.dentonrc.com": "INACTIVE",
             "metrics.hhgregg.com": "INACTIVE",
             "metrics.howstuffworks.com": "INACTIVE"
+        },
+        "1577863947": {
+            "metrics.mercola.com": "INACTIVE"
+        },
+        "1577863948": {
+            "metrics.nola.com": "INACTIVE",
+            "metrics.pcmag.com": "INACTIVE",
+            "metrics.radioshack.com": "INACTIVE",
+            "metrics.recroom.com": "INACTIVE",
+            "mf.sitescout.com": "INACTIVE"
+        },
+        "1577863949": {
+            "mm.chitika.net": "INACTIVE",
+            "mmb.bingstart.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE"
+        },
+        "1577863950": {
+            "mobilede-dp.nuggad.net": "INACTIVE",
+            "mobilede.nuggad.net": "INACTIVE",
+            "monitoring.profi-webhosting.cz": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "morgpost.ivwbox.de": "INACTIVE",
+            "mottnow.adk2x.com": "INACTIVE",
+            "mp.pianomedia.eu": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE"
+        },
+        "1577863951": {
+            "mtr.tfponline.com": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE"
+        },
+        "1577863952": {
+            "mycounter.tinycounter.com": "INACTIVE",
+            "n.targetbtracker.com": "INACTIVE"
+        },
+        "1577863953": {
+            "nedstat.nl": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "netster.xmlsearch.findwhat.com": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE"
+        },
+        "1577863954": {
+            "newsclic.ivwbox.de": "INACTIVE",
+            "newsletter.adsonar.com": "INACTIVE",
+            "newsvr.info": "INACTIVE",
+            "next-layers.com": "INACTIVE",
+            "nfl.sp1.convertro.com": "INACTIVE",
+            "nl.nedstatpro.net": "INACTIVE",
+            "nl.sitestat.com": "INACTIVE"
+        },
+        "1577863955": {
+            "ntracking.optimatic.com": "INACTIVE",
+            "nub9r.maisonx.com": "INACTIVE"
+        },
+        "1577863956": {
+            "o.sa.aol.com": "INACTIVE",
+            "oas.ad-vice.biz": "INACTIVE",
+            "oas.autotrader.co.uk": "INACTIVE",
+            "oas.mainetoday.com": "INACTIVE",
+            "oas.romandie-online.ch": "INACTIVE",
+            "oas.skyregie.com": "INACTIVE",
+            "oascentral.artistdirect.com": "INACTIVE",
+            "oascentral.blackenterprise.com": "INACTIVE"
+        },
+        "1577863957": {
+            "oascentral.escapistmagazine.com": "INACTIVE",
+            "oascentral.hitfix.com": "INACTIVE",
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE",
+            "oascentral.salemweb.net": "INACTIVE"
+        },
+        "1577863958": {
+            "oascentral.warcry.com": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE",
+            "omni.focus.de": "INACTIVE"
+        },
+        "1577863959": {
+            "op.standartnews.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE",
+            "openadstream-eu1.247realmedia.com": "INACTIVE",
+            "openx.nagrzyby.pl": "INACTIVE"
+        },
+        "1577863960": {
+            "opt.cdxnopt.com": "INACTIVE",
+            "optimized-by-adv.rubiconproject.com": "INACTIVE",
+            "origin2.adsdk.com": "INACTIVE",
+            "ox-d.ask.servedbyopenx.com": "INACTIVE",
+            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE"
+        },
+        "1577863961": {
+            "ox-d.boston.servedbyopenx.com": "INACTIVE",
+            "ox-d.buddytv.com": "INACTIVE",
+            "ox-d.curse.servedbyopenx.com": "INACTIVE",
+            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
+            "ox-d.gamer-network.net": "INACTIVE",
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
+            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE"
         }
     }
 }
