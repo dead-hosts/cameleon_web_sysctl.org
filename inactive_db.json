@@ -1927,87 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577859762": {
-            "central.paypopup.com": "INACTIVE",
-            "central2.paypopup.com": "INACTIVE"
-        },
-        "1577859763": {
-            "cg-global.maxymiser.com": "INACTIVE",
-            "cgi.hotstat.nl": "INACTIVE",
-            "chat.ezula.com": "INACTIVE",
-            "cheappillz.ru": "INACTIVE",
-            "chip.ivwbox.de": "INACTIVE",
-            "choice-rx.com": "INACTIVE",
-            "ciao.ivwbox.de": "INACTIVE",
-            "cj.xrenoder.com": "INACTIVE"
-        },
-        "1577859764": {
-            "cldcon.ewizard.cc": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
-            "click.cheaperforyou.com": "INACTIVE",
-            "click.findthewebsiteyouneed.com": "INACTIVE",
-            "click.linksummary.com": "INACTIVE",
-            "click.readme.ru": "INACTIVE",
-            "clicklinkz.com": "INACTIVE"
-        },
-        "1577859765": {
-            "clickii.imagine-inc.net": "INACTIVE",
-            "clicks.babylon-x.com": "INACTIVE",
-            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
-            "clicks.firstname.com": "INACTIVE",
-            "clicksimpact.cashtrk.com": "INACTIVE",
-            "clients.advertising.com": "INACTIVE",
-            "clit1.sextracker.de": "INACTIVE",
-            "clit10.sextracker.de": "INACTIVE",
-            "clit11.sextracker.de": "INACTIVE",
-            "clit12.sextracker.de": "INACTIVE",
-            "clit14.sextracker.de": "INACTIVE",
-            "clit15.sextracker.de": "INACTIVE",
-            "clit16.sextracker.de": "INACTIVE",
-            "clit2.sextracker.de": "INACTIVE",
-            "clit3.sextracker.de": "INACTIVE",
-            "clit4.sextracker.de": "INACTIVE",
-            "clit5.sextracker.de": "INACTIVE",
-            "clit6.sextracker.de": "INACTIVE"
-        },
-        "1577859766": {
-            "clit7.sextracker.de": "INACTIVE",
-            "clit8.sextracker.de": "INACTIVE",
-            "clit9.sextracker.de": "INACTIVE",
-            "clock.atticasports.com": "INACTIVE"
-        },
-        "1577860456": {
-            "cms.c1exchange.com": "INACTIVE"
-        },
-        "1577860457": {
-            "code.intext.billboard.cz": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "coder3862004.cjb.net": "INACTIVE",
-            "collector.newsx.cc": "INACTIVE",
-            "command.adservs.com": "INACTIVE"
-        },
-        "1577860458": {
-            "connect.matcash.com": "INACTIVE",
-            "cons.xrenoder.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "content.jdial.biz": "INACTIVE",
-            "context.adontext.com": "INACTIVE",
-            "context2.adontext.com": "INACTIVE",
-            "contexualsearch.com": "INACTIVE"
-        },
-        "1577860459": {
-            "core.bluefly.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "count.vivistats.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "counter.htmlvalidator.com": "INACTIVE",
-            "counter.sexsuche.tv": "INACTIVE"
-        },
         "1577860460": {
-            "counter1.sextracker.de": "INACTIVE",
-            "counter10.sextracker.de": "INACTIVE",
             "counter11.sextracker.de": "INACTIVE",
             "counter12.sextracker.de": "INACTIVE",
             "counter13.sextracker.de": "INACTIVE",
@@ -2979,9 +2899,6 @@
             "zde-affinity.edgecaching.net": "INACTIVE",
             "zdf.ivwbox.de": "INACTIVE",
             "zeitonl.ivwbox.de": "INACTIVE"
-        },
-        "1577885510": {
-            "counter.joins.com": "INACTIVE"
         },
         "1577886641": {
             "dash.qsrch.com": "INACTIVE"
@@ -4330,6 +4247,84 @@
         },
         "1577980226": {
             "ceffincfin.com": "INACTIVE"
+        },
+        "1577981600": {
+            "central.paypopup.com": "INACTIVE",
+            "central2.paypopup.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "cgi.hotstat.nl": "INACTIVE",
+            "chat.ezula.com": "INACTIVE",
+            "cheappillz.ru": "INACTIVE",
+            "chip.ivwbox.de": "INACTIVE",
+            "choice-rx.com": "INACTIVE",
+            "ciao.ivwbox.de": "INACTIVE"
+        },
+        "1577981601": {
+            "cj.xrenoder.com": "INACTIVE",
+            "cldcon.ewizard.cc": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "click.cheaperforyou.com": "INACTIVE",
+            "click.findthewebsiteyouneed.com": "INACTIVE",
+            "click.linksummary.com": "INACTIVE",
+            "click.readme.ru": "INACTIVE"
+        },
+        "1577981602": {
+            "clickii.imagine-inc.net": "INACTIVE",
+            "clicklinkz.com": "INACTIVE",
+            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
+            "clicks.firstname.com": "INACTIVE",
+            "clicksimpact.cashtrk.com": "INACTIVE",
+            "clients.advertising.com": "INACTIVE",
+            "clit1.sextracker.de": "INACTIVE",
+            "clit10.sextracker.de": "INACTIVE",
+            "clit11.sextracker.de": "INACTIVE",
+            "clit12.sextracker.de": "INACTIVE",
+            "clit14.sextracker.de": "INACTIVE",
+            "clit15.sextracker.de": "INACTIVE",
+            "clit16.sextracker.de": "INACTIVE",
+            "clit2.sextracker.de": "INACTIVE"
+        },
+        "1577981603": {
+            "clit3.sextracker.de": "INACTIVE",
+            "clit4.sextracker.de": "INACTIVE",
+            "clit5.sextracker.de": "INACTIVE",
+            "clit6.sextracker.de": "INACTIVE",
+            "clit7.sextracker.de": "INACTIVE",
+            "clit8.sextracker.de": "INACTIVE",
+            "clit9.sextracker.de": "INACTIVE",
+            "clock.atticasports.com": "INACTIVE",
+            "cms.c1exchange.com": "INACTIVE"
+        },
+        "1577981604": {
+            "code.intext.billboard.cz": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "coder3862004.cjb.net": "INACTIVE",
+            "collector.newsx.cc": "INACTIVE",
+            "command.adservs.com": "INACTIVE"
+        },
+        "1577981605": {
+            "connect.matcash.com": "INACTIVE",
+            "cons.xrenoder.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "content.jdial.biz": "INACTIVE",
+            "context.adontext.com": "INACTIVE",
+            "context2.adontext.com": "INACTIVE",
+            "contexualsearch.com": "INACTIVE",
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1577981606": {
+            "count.dba.dk": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "count.vivistats.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "counter.htmlvalidator.com": "INACTIVE",
+            "counter.joins.com": "INACTIVE",
+            "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1577981607": {
+            "counter1.sextracker.de": "INACTIVE",
+            "counter10.sextracker.de": "INACTIVE"
         }
     }
 }
