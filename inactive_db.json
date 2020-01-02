@@ -1927,72 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1577862531": {
-            "imageceu1.247realmedia.com": "INACTIVE",
-            "images.1100i.com": "INACTIVE",
-            "images.adster.com": "INACTIVE",
-            "images.axill.in": "INACTIVE",
-            "images.skenzo.com": "INACTIVE"
-        },
-        "1577862532": {
-            "img-dc2.adtech.de": "INACTIVE",
-            "img.ads-click.com": "INACTIVE",
-            "img.ads.mocean.mobi": "INACTIVE",
-            "img.freexxxpages.net": "INACTIVE",
-            "img.pulsemgr.com": "INACTIVE",
-            "img.readme.ru": "INACTIVE",
-            "imp.euroads.no": "INACTIVE",
-            "impixel.premiumonlinemedia.com": "INACTIVE"
-        },
-        "1577862533": {
-            "in.mainentrypoint.com": "INACTIVE",
-            "int.sitestat.com": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "intelinet-global.net": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE"
-        },
-        "1577862534": {
-            "intuit.sp1.convertro.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "iwantporn.info": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE"
-        },
-        "1577862535": {
-            "jque.net": "INACTIVE",
-            "js.adsonar.com": "INACTIVE",
-            "js.clickequations.net": "INACTIVE",
-            "js.cybermonitor.com": "INACTIVE",
-            "js.dmtry.com": "INACTIVE",
-            "js.en.redtram.com": "INACTIVE"
-        },
-        "1577863245": {
-            "js.stormiq.com": "INACTIVE"
-        },
-        "1577863246": {
-            "keisu02.eproof.com": "INACTIVE"
-        },
-        "1577863247": {
-            "land.pckeeper.software": "INACTIVE",
-            "layout1.realtracker.com": "INACTIVE",
-            "ld2.criteo.com": "INACTIVE",
-            "leadback.advertising.com": "INACTIVE",
-            "li.pxl.ace.advertising.com": "INACTIVE"
-        },
-        "1577863248": {
-            "livenation.sp1.convertro.com": "INACTIVE",
-            "livingsocial.sp1.convertro.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE"
-        },
         "1577863249": {
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
             "logc7.xiti.com": "INACTIVE",
             "login.adoptim.com": "INACTIVE"
         },
@@ -2693,12 +2628,6 @@
             "zde-affinity.edgecaching.net": "INACTIVE",
             "zdf.ivwbox.de": "INACTIVE",
             "zeitonl.ivwbox.de": "INACTIVE"
-        },
-        "1577888633": {
-            "images.webads.it": "INACTIVE"
-        },
-        "1577888635": {
-            "install.sidesearch.lycos.com": "INACTIVE"
         },
         "1577893332": {
             "uk4.hit.stat24.com": "INACTIVE"
@@ -4323,6 +4252,71 @@
         "1577985145": {
             "iau.adsiduous.com": "INACTIVE",
             "im.afy11.net": "INACTIVE"
+        },
+        "1577985970": {
+            "imageceu1.247realmedia.com": "INACTIVE",
+            "images.1100i.com": "INACTIVE",
+            "images.adster.com": "INACTIVE",
+            "images.axill.in": "INACTIVE"
+        },
+        "1577985971": {
+            "images.skenzo.com": "INACTIVE",
+            "img-dc2.adtech.de": "INACTIVE",
+            "img.ads-click.com": "INACTIVE",
+            "img.ads.mocean.mobi": "INACTIVE",
+            "img.freexxxpages.net": "INACTIVE",
+            "img.pulsemgr.com": "INACTIVE",
+            "img.readme.ru": "INACTIVE",
+            "imp.euroads.no": "INACTIVE"
+        },
+        "1577985972": {
+            "impixel.premiumonlinemedia.com": "INACTIVE",
+            "in.mainentrypoint.com": "INACTIVE",
+            "int.sitestat.com": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
+            "intelinet-global.net": "INACTIVE"
+        },
+        "1577985973": {
+            "internet.marsmediachannels.com": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "intuit.sp1.convertro.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "iwantporn.info": "INACTIVE"
+        },
+        "1577985974": {
+            "j.theadsnet.com": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "js.clickequations.net": "INACTIVE",
+            "js.cybermonitor.com": "INACTIVE",
+            "js.dmtry.com": "INACTIVE",
+            "js.en.redtram.com": "INACTIVE"
+        },
+        "1577985975": {
+            "js.stormiq.com": "INACTIVE",
+            "keisu02.eproof.com": "INACTIVE"
+        },
+        "1577985976": {
+            "land.pckeeper.software": "INACTIVE",
+            "layout1.realtracker.com": "INACTIVE",
+            "ld2.criteo.com": "INACTIVE"
+        },
+        "1577985977": {
+            "leadback.advertising.com": "INACTIVE",
+            "li.pxl.ace.advertising.com": "INACTIVE",
+            "livenation.sp1.convertro.com": "INACTIVE"
+        },
+        "1577985978": {
+            "livingsocial.sp1.convertro.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE"
         }
     }
 }
