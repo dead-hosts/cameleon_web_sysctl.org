@@ -3247,7 +3247,7 @@
     "advertfast.com": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adverticum.net": {
         "epoch": 1601596800.0,
@@ -3275,8 +3275,8 @@
         "state": "future"
     },
     "advertising.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
         "state": "future"
     },
     "advertising.dk": {
@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "affiliateshop.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "affiliatestorm.com": {
