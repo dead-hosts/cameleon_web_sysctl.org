@@ -1927,21 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578323297": {
-            "betaffs.com": "INACTIVE",
-            "bfd69dd9.se": "INACTIVE"
-        },
-        "1578323298": {
-            "biba05.ru": "INACTIVE",
-            "bilbo.counted.com": "INACTIVE"
-        },
-        "1578323299": {
-            "bluray-hq-tube.cn": "INACTIVE",
-            "bnmhg.com": "INACTIVE"
-        },
-        "1578324304": {
-            "bonuspromooffer.com": "INACTIVE"
-        },
         "1578324305": {
             "brxserv-21.btrll.com": "INACTIVE"
         },
@@ -4312,6 +4297,20 @@
             "beststabilityscans.com": "INACTIVE",
             "bestwarezsites.com": "INACTIVE",
             "beta.adyea.com": "INACTIVE"
+        },
+        "1578464210": {
+            "betaffs.com": "INACTIVE",
+            "bfd69dd9.se": "INACTIVE",
+            "biba05.ru": "INACTIVE",
+            "bilbo.counted.com": "INACTIVE"
+        },
+        "1578464211": {
+            "bluray-hq-tube.cn": "INACTIVE",
+            "bnmhg.com": "INACTIVE"
+        },
+        "1578464218": {
+            "bonuspromooffer.com": "INACTIVE",
+            "box.anchorfree.net": "INACTIVE"
         }
     }
 }
