@@ -6122,7 +6122,7 @@
     "cetrk.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "chapmanmediagroup.com": {
         "epoch": 1618531200.0,
@@ -6220,9 +6220,9 @@
         "state": "future"
     },
     "clear-search.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
-        "state": "past"
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
     },
     "clearbluemedia.org": {
         "epoch": 1585180800.0,
