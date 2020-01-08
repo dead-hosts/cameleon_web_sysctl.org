@@ -1927,90 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578312464": {
-            "ad74.ezcybersearch.com": "INACTIVE",
-            "ad75.ezcybersearch.com": "INACTIVE",
-            "ad76.ezcybersearch.com": "INACTIVE",
-            "ad77.ezcybersearch.com": "INACTIVE",
-            "ad78.ezcybersearch.com": "INACTIVE",
-            "ad79.ezcybersearch.com": "INACTIVE",
-            "ad8.ezcybersearch.com": "INACTIVE",
-            "ad80.ezcybersearch.com": "INACTIVE",
-            "ad81.ezcybersearch.com": "INACTIVE",
-            "ad82.ezcybersearch.com": "INACTIVE",
-            "ad83.ezcybersearch.com": "INACTIVE",
-            "ad84.ezcybersearch.com": "INACTIVE",
-            "ad85.ezcybersearch.com": "INACTIVE",
-            "ad86.ezcybersearch.com": "INACTIVE",
-            "ad87.ezcybersearch.com": "INACTIVE",
-            "ad88.ezcybersearch.com": "INACTIVE",
-            "ad89.ezcybersearch.com": "INACTIVE",
-            "ad9.ezcybersearch.com": "INACTIVE",
-            "ad90.ezcybersearch.com": "INACTIVE",
-            "ad91.ezcybersearch.com": "INACTIVE",
-            "ad92.ezcybersearch.com": "INACTIVE",
-            "ad93.ezcybersearch.com": "INACTIVE",
-            "ad94.ezcybersearch.com": "INACTIVE",
-            "ad95.ezcybersearch.com": "INACTIVE",
-            "ad96.ezcybersearch.com": "INACTIVE",
-            "ad97.ezcybersearch.com": "INACTIVE",
-            "ad98.ezcybersearch.com": "INACTIVE"
-        },
-        "1578312465": {
-            "ad99.ezcybersearch.com": "INACTIVE",
-            "adamsmarkhotels.com": "INACTIVE",
-            "adan.xtendmedia.com": "INACTIVE",
-            "adb.nikkei.co.jp": "INACTIVE",
-            "adbanner.cz": "INACTIVE"
-        },
-        "1578314491": {
-            "adcdn.33universal.com": "INACTIVE",
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "adflash.affairsclub.com": "INACTIVE"
-        },
-        "1578314492": {
-            "adg.bzgint.com": "INACTIVE",
-            "adimage.asia1.com.sg": "INACTIVE",
-            "adimages.scrippsnetworks.com": "INACTIVE",
-            "adimg.simmani.com": "INACTIVE",
-            "adindex.laweekly.com": "INACTIVE",
-            "adjunct.budulay.com": "INACTIVE",
-            "adl.sound.net": "INACTIVE",
-            "adman.in.gr": "INACTIVE",
-            "admanager.tvysoftware.com": "INACTIVE"
-        },
-        "1578314493": {
-            "admaven.adk2x.com": "INACTIVE",
-            "admaximize.nu": "INACTIVE",
-            "admedia.expedia.com": "INACTIVE",
-            "admedia.xmlsearch.findwhat.com": "INACTIVE",
-            "admin.matcash.com": "INACTIVE",
-            "admin.targetad.net": "INACTIVE",
-            "adplexmedia.adk2x.com": "INACTIVE"
-        },
-        "1578314494": {
-            "adprovider.de": "INACTIVE",
-            "adrevenue.findwhat.com": "INACTIVE",
-            "ads-a-darwin.hulu.com": "INACTIVE",
-            "ads.24.com": "INACTIVE",
-            "ads.359group.com": "INACTIVE",
-            "ads.3bay.bg": "INACTIVE",
-            "ads.adhub.co.nz": "INACTIVE",
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.adonion.com": "INACTIVE",
-            "ads.adsonar.com": "INACTIVE",
-            "ads.adultpopunders.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE"
-        },
         "1578314495": {
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.angop.ao": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.banner-link.com.br": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "ads.best-ads.com": "INACTIVE",
-            "ads.betternetworker.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
             "ads.canalblog.com": "INACTIVE",
             "ads.carltononline.com": "INACTIVE",
             "ads.centerstage.net": "INACTIVE",
@@ -4334,6 +4251,87 @@
             "ad71.ezcybersearch.com": "INACTIVE",
             "ad72.ezcybersearch.com": "INACTIVE",
             "ad73.ezcybersearch.com": "INACTIVE"
+        },
+        "1578459315": {
+            "ad74.ezcybersearch.com": "INACTIVE",
+            "ad75.ezcybersearch.com": "INACTIVE",
+            "ad76.ezcybersearch.com": "INACTIVE",
+            "ad77.ezcybersearch.com": "INACTIVE",
+            "ad78.ezcybersearch.com": "INACTIVE"
+        },
+        "1578459316": {
+            "ad79.ezcybersearch.com": "INACTIVE",
+            "ad8.ezcybersearch.com": "INACTIVE",
+            "ad80.ezcybersearch.com": "INACTIVE",
+            "ad81.ezcybersearch.com": "INACTIVE",
+            "ad82.ezcybersearch.com": "INACTIVE",
+            "ad83.ezcybersearch.com": "INACTIVE",
+            "ad84.ezcybersearch.com": "INACTIVE",
+            "ad85.ezcybersearch.com": "INACTIVE",
+            "ad86.ezcybersearch.com": "INACTIVE",
+            "ad87.ezcybersearch.com": "INACTIVE",
+            "ad88.ezcybersearch.com": "INACTIVE",
+            "ad89.ezcybersearch.com": "INACTIVE",
+            "ad9.ezcybersearch.com": "INACTIVE",
+            "ad90.ezcybersearch.com": "INACTIVE",
+            "ad91.ezcybersearch.com": "INACTIVE",
+            "ad92.ezcybersearch.com": "INACTIVE",
+            "ad93.ezcybersearch.com": "INACTIVE",
+            "ad94.ezcybersearch.com": "INACTIVE",
+            "ad95.ezcybersearch.com": "INACTIVE",
+            "ad96.ezcybersearch.com": "INACTIVE",
+            "ad97.ezcybersearch.com": "INACTIVE",
+            "ad98.ezcybersearch.com": "INACTIVE",
+            "ad99.ezcybersearch.com": "INACTIVE",
+            "adamsmarkhotels.com": "INACTIVE",
+            "adan.xtendmedia.com": "INACTIVE",
+            "adb.nikkei.co.jp": "INACTIVE",
+            "adbanner.cz": "INACTIVE"
+        },
+        "1578459317": {
+            "adcdn.33universal.com": "INACTIVE",
+            "adds.misiamoiatdom.com": "INACTIVE"
+        },
+        "1578459318": {
+            "adflash.affairsclub.com": "INACTIVE",
+            "adg.bzgint.com": "INACTIVE",
+            "adimage.asia1.com.sg": "INACTIVE",
+            "adimages.scrippsnetworks.com": "INACTIVE",
+            "adimg.simmani.com": "INACTIVE",
+            "adindex.laweekly.com": "INACTIVE",
+            "adjunct.budulay.com": "INACTIVE",
+            "adl.sound.net": "INACTIVE"
+        },
+        "1578459319": {
+            "adman.in.gr": "INACTIVE",
+            "admanager.tvysoftware.com": "INACTIVE",
+            "admaven.adk2x.com": "INACTIVE",
+            "admaximize.nu": "INACTIVE",
+            "admedia.expedia.com": "INACTIVE",
+            "admedia.xmlsearch.findwhat.com": "INACTIVE",
+            "admin.targetad.net": "INACTIVE",
+            "adplexmedia.adk2x.com": "INACTIVE"
+        },
+        "1578459320": {
+            "adrevenue.findwhat.com": "INACTIVE",
+            "ads-a-darwin.hulu.com": "INACTIVE",
+            "ads.24.com": "INACTIVE",
+            "ads.adhub.co.nz": "INACTIVE",
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.adsonar.com": "INACTIVE",
+            "ads.adultpopunders.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.angop.ao": "INACTIVE"
+        },
+        "1578459321": {
+            "ads.asredas.com": "INACTIVE",
+            "ads.banner-link.com.br": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "ads.best-ads.com": "INACTIVE",
+            "ads.betternetworker.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE"
         }
     }
 }
