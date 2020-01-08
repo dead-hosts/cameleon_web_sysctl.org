@@ -1927,68 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578306543": {
-            "a.adserv.cn": "INACTIVE",
-            "a.androidandme.com": "INACTIVE",
-            "a.company-target.com": "INACTIVE",
-            "a.current.tv": "INACTIVE",
-            "a.jumptap.com": "INACTIVE",
-            "a.komoona.com": "INACTIVE",
-            "a.pokerplayermagazine.co.uk": "INACTIVE",
-            "a.stern.de": "INACTIVE"
-        },
-        "1578308406": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "a.visualrevenue.com": "INACTIVE",
-            "a1.g.a.yimg.com": "INACTIVE",
-            "a297.g.a.yimg.com": "INACTIVE"
-        },
-        "1578308407": {
-            "a3.g.a.yimg.com": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "a37.g.a.yimg.com": "INACTIVE",
-            "a372.g.a.yimg.com": "INACTIVE",
-            "a45.g.a.yimg.com": "INACTIVE",
-            "a7search.com": "INACTIVE",
-            "aa-gb.marketgid.com": "INACTIVE",
-            "aa-gb.mgid.com": "INACTIVE",
-            "ab-gb.mgid.com": "INACTIVE",
-            "ab-nb.marketgid.com": "INACTIVE",
-            "ab.vendemore.com": "INACTIVE",
-            "above-gw.liveadvert.com": "INACTIVE"
-        },
-        "1578308408": {
-            "absolutelyfreeeroticstories.com": "INACTIVE",
-            "abum.axelsfun.com": "INACTIVE",
-            "ac-gb.mgid.com": "INACTIVE",
-            "ac-nb.marketgid.com": "INACTIVE",
-            "ac.eu.angsrvr.com": "INACTIVE",
-            "ace-lb.advertising.com": "INACTIVE",
-            "ace-tag.advertising.com": "INACTIVE",
-            "ackjeeves.com": "INACTIVE",
-            "active.macromedia.com": "INACTIVE",
-            "activeannonce.com": "INACTIVE",
-            "activex.matcash.com": "INACTIVE"
-        },
-        "1578308409": {
-            "ad.adlegend.com": "INACTIVE",
-            "ad.adserverplus.com": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.creafi.com": "INACTIVE",
-            "ad.db3nf.com": "INACTIVE",
-            "ad.dumedia.ru": "INACTIVE",
-            "ad.econet.hu": "INACTIVE",
-            "ad.es.chilinext.com": "INACTIVE",
-            "ad.ezcybersearch.com": "INACTIVE",
-            "ad.globe7.com": "INACTIVE"
-        },
         "1578308410": {
-            "ad.inmatads.info": "INACTIVE",
-            "ad.it.chilinext.com": "INACTIVE",
-            "ad.jumbaexchange.com": "INACTIVE",
-            "ad.m-adx.com": "INACTIVE",
-            "ad.naked-celebs.com": "INACTIVE",
-            "ad.pyce.info": "INACTIVE",
             "ad.u.nuggad.net": "INACTIVE",
             "ad.vuiads.net": "INACTIVE",
             "ad.walla.co.il": "INACTIVE",
@@ -4337,6 +4276,64 @@
             "7209235.collect.igodigital.com": "INACTIVE",
             "7come11casino.com": "INACTIVE",
             "7security.info": "INACTIVE"
+        },
+        "1578457212": {
+            "a.adserv.cn": "INACTIVE",
+            "a.androidandme.com": "INACTIVE",
+            "a.company-target.com": "INACTIVE",
+            "a.current.tv": "INACTIVE",
+            "a.jumptap.com": "INACTIVE",
+            "a.komoona.com": "INACTIVE",
+            "a.pokerplayermagazine.co.uk": "INACTIVE",
+            "a.stern.de": "INACTIVE",
+            "a.thoughtleadr.com": "INACTIVE",
+            "a.visualrevenue.com": "INACTIVE",
+            "a1.g.a.yimg.com": "INACTIVE",
+            "a297.g.a.yimg.com": "INACTIVE",
+            "a3.g.a.yimg.com": "INACTIVE",
+            "a32.g.a.yimg.com": "INACTIVE",
+            "a37.g.a.yimg.com": "INACTIVE",
+            "a372.g.a.yimg.com": "INACTIVE",
+            "a45.g.a.yimg.com": "INACTIVE",
+            "a7search.com": "INACTIVE",
+            "aa-gb.marketgid.com": "INACTIVE",
+            "aa-gb.mgid.com": "INACTIVE"
+        },
+        "1578457213": {
+            "ab-gb.mgid.com": "INACTIVE",
+            "ab-nb.marketgid.com": "INACTIVE",
+            "ab.vendemore.com": "INACTIVE",
+            "above-gw.liveadvert.com": "INACTIVE",
+            "absolutelyfreeeroticstories.com": "INACTIVE",
+            "abum.axelsfun.com": "INACTIVE",
+            "ac-gb.mgid.com": "INACTIVE",
+            "ac-nb.marketgid.com": "INACTIVE",
+            "ac.eu.angsrvr.com": "INACTIVE"
+        },
+        "1578457214": {
+            "ace-lb.advertising.com": "INACTIVE",
+            "ace-tag.advertising.com": "INACTIVE",
+            "ackjeeves.com": "INACTIVE",
+            "active.macromedia.com": "INACTIVE",
+            "activeannonce.com": "INACTIVE"
+        },
+        "1578457215": {
+            "ad.adlegend.com": "INACTIVE",
+            "ad.adserverplus.com": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.creafi.com": "INACTIVE",
+            "ad.db3nf.com": "INACTIVE",
+            "ad.dumedia.ru": "INACTIVE",
+            "ad.econet.hu": "INACTIVE",
+            "ad.es.chilinext.com": "INACTIVE",
+            "ad.ezcybersearch.com": "INACTIVE",
+            "ad.globe7.com": "INACTIVE",
+            "ad.inmatads.info": "INACTIVE",
+            "ad.it.chilinext.com": "INACTIVE",
+            "ad.jumbaexchange.com": "INACTIVE",
+            "ad.m-adx.com": "INACTIVE",
+            "ad.naked-celebs.com": "INACTIVE",
+            "ad.pyce.info": "INACTIVE"
         }
     }
 }
