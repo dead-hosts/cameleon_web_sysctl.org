@@ -1927,74 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578332125": {
-            "oascentral.hitfix.com": "INACTIVE",
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE",
-            "oascentral.recroom.com": "INACTIVE"
-        },
-        "1578332126": {
-            "oascentral.salemweb.net": "INACTIVE",
-            "oascentral.warcry.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE"
-        },
-        "1578332127": {
-            "omni.focus.de": "INACTIVE",
-            "op.standartnews.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE",
-            "openadstream-eu1.247realmedia.com": "INACTIVE"
-        },
-        "1578332128": {
-            "openx.diena.lv": "INACTIVE",
-            "openx.imoti.net": "INACTIVE",
-            "openx.nagrzyby.pl": "INACTIVE",
-            "opt.cdxnopt.com": "INACTIVE",
-            "optimized-by-adv.rubiconproject.com": "INACTIVE",
-            "origin2.adsdk.com": "INACTIVE"
-        },
-        "1578332129": {
-            "ox-d.ask.servedbyopenx.com": "INACTIVE",
-            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
-            "ox-d.boston.servedbyopenx.com": "INACTIVE",
-            "ox-d.buddytv.com": "INACTIVE",
-            "ox-d.curse.servedbyopenx.com": "INACTIVE",
-            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
-            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
-            "ox-d.gamer-network.net": "INACTIVE",
-            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
-            "ox-d.imgur.servedbyopenx.com": "INACTIVE"
-        },
-        "1578332967": {
-            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
-            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
-            "ox-d.mmaadnet.com": "INACTIVE",
-            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
-            "ox-d.philly.servedbyopenx.com": "INACTIVE",
-            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
-            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
-            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
-            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
-            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
-            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
-            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
-            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "p.ace.advertising.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE"
-        },
-        "1578332968": {
-            "p.securedownload01.com": "INACTIVE",
-            "pageurl-brx.btrll.com": "INACTIVE",
-            "pageurl.btrll.com": "INACTIVE",
-            "panther1.cpxinteractive.com": "INACTIVE"
-        },
-        "1578332969": {
-            "pay.tranent.nl": "INACTIVE",
-            "peelads.hustler.com": "INACTIVE"
-        },
         "1578332970": {
-            "ping1.unicast.com": "INACTIVE",
             "piwik.redtube.com": "INACTIVE",
             "pix.btrll.com": "INACTIVE",
             "pix.pulsemgr.com": "INACTIVE",
@@ -4312,6 +4245,72 @@
         },
         "1578469811": {
             "oascentral.escapistmagazine.com": "INACTIVE"
+        },
+        "1578470517": {
+            "oascentral.hitfix.com": "INACTIVE",
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE",
+            "oascentral.salemweb.net": "INACTIVE",
+            "oascentral.warcry.com": "INACTIVE"
+        },
+        "1578470518": {
+            "oasis.411affiliates.ca": "INACTIVE",
+            "omni.focus.de": "INACTIVE"
+        },
+        "1578470519": {
+            "op.standartnews.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE",
+            "openadstream-eu1.247realmedia.com": "INACTIVE",
+            "openx.diena.lv": "INACTIVE",
+            "openx.nagrzyby.pl": "INACTIVE",
+            "opt.cdxnopt.com": "INACTIVE",
+            "optimized-by-adv.rubiconproject.com": "INACTIVE"
+        },
+        "1578470520": {
+            "origin2.adsdk.com": "INACTIVE",
+            "ox-d.ask.servedbyopenx.com": "INACTIVE",
+            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
+            "ox-d.boston.servedbyopenx.com": "INACTIVE",
+            "ox-d.buddytv.com": "INACTIVE",
+            "ox-d.curse.servedbyopenx.com": "INACTIVE",
+            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.futurenet.servedbyopenx.com": "INACTIVE"
+        },
+        "1578470521": {
+            "ox-d.gamer-network.net": "INACTIVE",
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE",
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
+            "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
+            "ox-d.mmaadnet.com": "INACTIVE",
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE",
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
+            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
+            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "p.ace.advertising.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE",
+            "p.securedownload01.com": "INACTIVE"
+        },
+        "1578470522": {
+            "pageurl-brx.btrll.com": "INACTIVE",
+            "pageurl.btrll.com": "INACTIVE",
+            "panther1.cpxinteractive.com": "INACTIVE"
+        },
+        "1578470523": {
+            "pay.tranent.nl": "INACTIVE",
+            "peelads.hustler.com": "INACTIVE"
+        },
+        "1578470524": {
+            "ping1.unicast.com": "INACTIVE"
         }
     }
 }
