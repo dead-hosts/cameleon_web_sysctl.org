@@ -1927,50 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578460715": {
-            "ads.purefuck.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "ads.rte.ie": "INACTIVE",
-            "ads.runningwolf.com": "INACTIVE",
-            "ads.sanomalehtimedia.fi": "INACTIVE",
-            "ads.scn.valueclick.jp": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.seekingalpha.com": "INACTIVE"
-        },
-        "1578460716": {
-            "ads.skinected.com": "INACTIVE",
-            "ads.sports.fr": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
-            "ads.textplussolutions.com": "INACTIVE",
-            "ads.thebulgarianpost.com": "INACTIVE",
-            "ads.thegauntlet.com": "INACTIVE",
-            "ads.torrpedo.net": "INACTIVE",
-            "ads.trafficleader.com": "INACTIVE",
-            "ads.trafficpimps.com": "INACTIVE",
-            "ads.tvtv.bg": "INACTIVE",
-            "ads.tw.adsonar.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
-            "ads.v-links.net": "INACTIVE",
-            "ads.v3.com": "INACTIVE",
-            "ads.victoriaadvocate.com": "INACTIVE",
-            "ads.vimg.net": "INACTIVE",
-            "ads.web.aol.com": "INACTIVE",
-            "ads.web.compuserve.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
-            "ads.x-adservice.com": "INACTIVE"
-        },
-        "1578460717": {
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.xxxbunker.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads1.cricbuzz.com": "INACTIVE",
-            "ads1.nexdra.com": "INACTIVE"
-        },
-        "1578460718": {
-            "ads2.victoriaadvocate.com": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE"
-        },
         "1578461409": {
             "ads3.freebannertrade.com": "INACTIVE"
         },
@@ -4329,6 +4285,48 @@
             "ads.playnet.nl": "INACTIVE",
             "ads.pornerbros.com": "INACTIVE",
             "ads.pubsqrd.com": "INACTIVE"
+        },
+        "1578634432": {
+            "ads.purefuck.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "ads.rte.ie": "INACTIVE",
+            "ads.runningwolf.com": "INACTIVE",
+            "ads.sanomalehtimedia.fi": "INACTIVE",
+            "ads.scn.valueclick.jp": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.seekingalpha.com": "INACTIVE",
+            "ads.skinected.com": "INACTIVE",
+            "ads.sports.fr": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE",
+            "ads.textplussolutions.com": "INACTIVE",
+            "ads.thebulgarianpost.com": "INACTIVE",
+            "ads.thegauntlet.com": "INACTIVE",
+            "ads.torrpedo.net": "INACTIVE",
+            "ads.trafficleader.com": "INACTIVE",
+            "ads.trafficpimps.com": "INACTIVE",
+            "ads.tvtv.bg": "INACTIVE",
+            "ads.tw.adsonar.com": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE"
+        },
+        "1578634433": {
+            "ads.v-links.net": "INACTIVE",
+            "ads.v3.com": "INACTIVE",
+            "ads.victoriaadvocate.com": "INACTIVE",
+            "ads.vimg.net": "INACTIVE",
+            "ads.web.aol.com": "INACTIVE",
+            "ads.web.compuserve.com": "INACTIVE",
+            "ads.web.cs.com": "INACTIVE",
+            "ads.x-adservice.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads1.cricbuzz.com": "INACTIVE",
+            "ads1.nexdra.com": "INACTIVE"
+        },
+        "1578634435": {
+            "ads2.victoriaadvocate.com": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE"
         }
     }
 }
