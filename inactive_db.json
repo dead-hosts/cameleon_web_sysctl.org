@@ -1927,50 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578464218": {
-            "bonuspromooffer.com": "INACTIVE",
-            "box.anchorfree.net": "INACTIVE"
-        },
-        "1578464903": {
-            "brxserv-21.btrll.com": "INACTIVE",
-            "business.realtracker.com": "INACTIVE"
-        },
-        "1578464904": {
-            "c.enhance.com": "INACTIVE",
-            "c.goclick.com": "INACTIVE",
-            "c.mydirectweb.com": "INACTIVE",
-            "c.newsinc.com": "INACTIVE",
-            "c12.valary.com": "INACTIVE",
-            "c1dcon.ewizard.cc": "INACTIVE",
-            "c20.valary.com": "INACTIVE"
-        },
-        "1578464905": {
-            "c26.valary.com": "INACTIVE",
-            "c3.newwebb.com": "INACTIVE",
-            "cache.btrll.com": "INACTIVE"
-        },
-        "1578464906": {
-            "casper.sp1.convertro.com": "INACTIVE",
-            "cc12797.counter.hackers.lv": "INACTIVE",
-            "cc9905.counter.hackers.lv": "INACTIVE",
-            "cdn.accelerator.arsdev.net": "INACTIVE"
-        },
-        "1578464907": {
-            "cdn.adpdx.com": "INACTIVE",
-            "cdn.adstatic.com": "INACTIVE",
-            "cdn.adtradr.com": "INACTIVE",
-            "cdn.behavioralengine.com": "INACTIVE",
-            "cdn.complexmedianetwork.com": "INACTIVE",
-            "cdn.dabhit.com": "INACTIVE",
-            "cdn.directtrk.com": "INACTIVE",
-            "cdn.iqcontentplatform.de": "INACTIVE",
-            "cdn.mirageads.net": "INACTIVE",
-            "cdn.my-pc-cleaner.org": "INACTIVE",
-            "cdn.optimatic.com": "INACTIVE"
-        },
         "1578464908": {
-            "cdn.qbaka.net": "INACTIVE",
-            "cdn.taboola.com": "INACTIVE",
             "cdn.tracking.bannerflow.com": "INACTIVE",
             "cdn.yldbt.com": "INACTIVE",
             "cdn1.adexprt.com": "INACTIVE",
@@ -4322,6 +4279,47 @@
         "1578637895": {
             "bluray-hq-tube.cn": "INACTIVE",
             "bnmhg.com": "INACTIVE"
+        },
+        "1578638587": {
+            "bonuspromooffer.com": "INACTIVE"
+        },
+        "1578638588": {
+            "brxserv-21.btrll.com": "INACTIVE",
+            "business.realtracker.com": "INACTIVE"
+        },
+        "1578638589": {
+            "c.enhance.com": "INACTIVE",
+            "c.goclick.com": "INACTIVE",
+            "c.mydirectweb.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE",
+            "c12.valary.com": "INACTIVE",
+            "c1dcon.ewizard.cc": "INACTIVE",
+            "c20.valary.com": "INACTIVE",
+            "c26.valary.com": "INACTIVE",
+            "c3.newwebb.com": "INACTIVE"
+        },
+        "1578638590": {
+            "cache.btrll.com": "INACTIVE"
+        },
+        "1578638591": {
+            "casper.sp1.convertro.com": "INACTIVE",
+            "cc12797.counter.hackers.lv": "INACTIVE",
+            "cc9905.counter.hackers.lv": "INACTIVE",
+            "cdn.accelerator.arsdev.net": "INACTIVE",
+            "cdn.adpdx.com": "INACTIVE",
+            "cdn.adstatic.com": "INACTIVE",
+            "cdn.adtradr.com": "INACTIVE"
+        },
+        "1578638592": {
+            "cdn.behavioralengine.com": "INACTIVE",
+            "cdn.complexmedianetwork.com": "INACTIVE",
+            "cdn.dabhit.com": "INACTIVE",
+            "cdn.directtrk.com": "INACTIVE",
+            "cdn.iqcontentplatform.de": "INACTIVE",
+            "cdn.mirageads.net": "INACTIVE",
+            "cdn.my-pc-cleaner.org": "INACTIVE",
+            "cdn.optimatic.com": "INACTIVE",
+            "cdn.qbaka.net": "INACTIVE"
         }
     }
 }
