@@ -1927,43 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578649748": {
-            "www8.paypopup.com": "INACTIVE",
-            "www8.yesadvertising.com": "INACTIVE",
-            "www9.paypopup.com": "INACTIVE",
-            "www9.yesadvertising.com": "INACTIVE",
-            "x.gxgxy.net": "INACTIVE",
-            "x2.xclicks.net": "INACTIVE",
-            "x3.xclicks.net": "INACTIVE",
-            "x4.xclicks.net": "INACTIVE",
-            "x5.xclicks.net": "INACTIVE",
-            "x6.xclicks.net": "INACTIVE"
-        },
-        "1578649749": {
-            "xclusive.ly": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE",
-            "xml.trafficengine.net": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
-        "1578649969": {
-            "yahoo.ivwbox.de": "INACTIVE"
-        },
-        "1578649970": {
-            "yepdigital.adk2x.com": "INACTIVE",
-            "ym.bannerconnect.net": "INACTIVE",
-            "yoursitebar.com": "INACTIVE",
-            "yrtas.btrll.com": "INACTIVE",
-            "ystat.biz": "INACTIVE",
-            "yuppitraffic.info": "INACTIVE",
-            "z.amiblood.com": "INACTIVE"
-        },
-        "1578649971": {
-            "z.junksport.com": "INACTIVE",
-            "z.nightchan.com": "INACTIVE",
-            "zde-affinity.edgecaching.net": "INACTIVE",
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
         "1578802278": {
             "08.185.87.0.liveadvert.com": "INACTIVE",
             "08.185.87.00.liveadvert.com": "INACTIVE",
@@ -4309,6 +4272,41 @@
             "www6.yesadvertising.com": "INACTIVE",
             "www7.paypopup.com": "INACTIVE",
             "www7.yesadvertising.com": "INACTIVE"
+        },
+        "1578823613": {
+            "www8.paypopup.com": "INACTIVE",
+            "www8.yesadvertising.com": "INACTIVE",
+            "www9.paypopup.com": "INACTIVE",
+            "www9.yesadvertising.com": "INACTIVE",
+            "x.gxgxy.net": "INACTIVE",
+            "x2.xclicks.net": "INACTIVE",
+            "x3.xclicks.net": "INACTIVE",
+            "x4.xclicks.net": "INACTIVE",
+            "x5.xclicks.net": "INACTIVE",
+            "x6.xclicks.net": "INACTIVE",
+            "xclusive.ly": "INACTIVE"
+        },
+        "1578823614": {
+            "xml.quiveradnet.com": "INACTIVE",
+            "xml.trafficengine.net": "INACTIVE",
+            "xpop.co": "INACTIVE",
+            "yahoo.ivwbox.de": "INACTIVE"
+        },
+        "1578823615": {
+            "yepdigital.adk2x.com": "INACTIVE",
+            "ym.bannerconnect.net": "INACTIVE",
+            "yoursitebar.com": "INACTIVE",
+            "yrtas.btrll.com": "INACTIVE",
+            "ystat.biz": "INACTIVE",
+            "yuppitraffic.info": "INACTIVE",
+            "z.amiblood.com": "INACTIVE",
+            "z.junksport.com": "INACTIVE",
+            "z.nightchan.com": "INACTIVE"
+        },
+        "1578823616": {
+            "zde-affinity.edgecaching.net": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
         }
     }
 }
