@@ -1927,19 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1578943163": {
-            "www.deltahost.de": "INACTIVE",
-            "www.drugs-cheap.com": "INACTIVE",
-            "www.dsply.com": "INACTIVE"
-        },
         "1578943164": {
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.efficienttraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE",
-            "www.errordns.com": "INACTIVE",
-            "www.euroconcept.ro": "INACTIVE",
-            "www.exchange.bg": "INACTIVE",
-            "www.experteerads.com": "INACTIVE",
             "www.fastfind.org": "INACTIVE"
         },
         "1578943165": {
@@ -4349,6 +4337,20 @@
         },
         "1579071896": {
             "g.promosrv.com": "INACTIVE"
+        },
+        "1579085739": {
+            "www.deltahost.de": "INACTIVE",
+            "www.drugs-cheap.com": "INACTIVE",
+            "www.dsply.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.efficienttraffic.com": "INACTIVE"
+        },
+        "1579085740": {
+            "www.ellads.com": "INACTIVE",
+            "www.errordns.com": "INACTIVE",
+            "www.euroconcept.ro": "INACTIVE",
+            "www.exchange.bg": "INACTIVE",
+            "www.experteerads.com": "INACTIVE"
         }
     }
 }
