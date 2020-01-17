@@ -1927,71 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579035147": {
-            "se.sitestat.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE"
-        },
-        "1579036307": {
-            "search.xrenoder.com": "INACTIVE"
-        },
-        "1579036308": {
-            "searchbar.findthewebsiteyouneed.com": "INACTIVE",
-            "searchbar.linksummary.com": "INACTIVE",
-            "secure.ace-tag.advertising.com": "INACTIVE",
-            "secure.ace.advertising.com": "INACTIVE",
-            "secure.aconti.net": "INACTIVE"
-        },
-        "1579036309": {
-            "secure.ivirtualcard.com": "INACTIVE",
-            "secure.leadback.advertising.com": "INACTIVE",
-            "secure.uac.advertising.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
-            "segs.btrll.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE",
-            "served.by.addynamics.eu": "INACTIVE",
-            "servedby.advertising.com": "INACTIVE"
-        },
-        "1579036310": {
-            "servedby.orn-adserver.nl": "INACTIVE",
-            "servlets.kliks.nl": "INACTIVE",
-            "serw.clicksor.com": "INACTIVE"
-        },
-        "1579036311": {
-            "shim.btrll.com": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "siniature.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE"
-        },
-        "1579036312": {
-            "sky.estat.com": "INACTIVE",
-            "sl-retargeting.adsonar.com": "INACTIVE",
-            "snwmedia.adk2x.com": "INACTIVE",
-            "socpixel.bidsystem.com": "INACTIVE"
-        },
-        "1579036313": {
-            "softwaare.net": "INACTIVE",
-            "sp1.convertro.com": "INACTIVE",
-            "spd.atdmt.com": "INACTIVE",
-            "spe.atdmt.com": "INACTIVE",
-            "speednetwork14.adk2x.com": "INACTIVE",
-            "spns.seriousads.net": "INACTIVE",
-            "sponsor2.ucmore.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE"
-        },
-        "1579036314": {
-            "srv2.admedit.me": "INACTIVE",
-            "ssl-sl-retargeting.adsonar.com": "INACTIVE"
-        },
-        "1579036315": {
-            "st.magnify.net": "INACTIVE",
-            "st1.freeonlineusers.com": "INACTIVE",
-            "stat-tracker.net": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "static-cf.fmpub.net": "INACTIVE"
-        },
         "1579036316": {
-            "static.adtaily.com": "INACTIVE",
             "static.meteorsolutions.com": "INACTIVE",
             "static.springmetrics.com": "INACTIVE",
             "static.unister-adservices.com": "INACTIVE"
@@ -4313,6 +4249,72 @@
         "1579249034": {
             "scripts.conversionattribution.com": "INACTIVE",
             "scripts.xrenoder.com": "INACTIVE"
+        },
+        "1579249716": {
+            "se.sitestat.com": "INACTIVE",
+            "search.clicksor.com": "INACTIVE"
+        },
+        "1579249717": {
+            "search.xrenoder.com": "INACTIVE",
+            "searchbar.findthewebsiteyouneed.com": "INACTIVE",
+            "searchbar.linksummary.com": "INACTIVE",
+            "secure.ace-tag.advertising.com": "INACTIVE",
+            "secure.ace.advertising.com": "INACTIVE"
+        },
+        "1579249718": {
+            "secure.aconti.net": "INACTIVE",
+            "secure.adwebster.com": "INACTIVE",
+            "secure.ivirtualcard.com": "INACTIVE",
+            "secure.leadback.advertising.com": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "segs.btrll.com": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE",
+            "served.by.addynamics.eu": "INACTIVE",
+            "servedby.advertising.com": "INACTIVE"
+        },
+        "1579249719": {
+            "servedby.orn-adserver.nl": "INACTIVE",
+            "service2.predictad.com": "INACTIVE",
+            "servlets.kliks.nl": "INACTIVE",
+            "serw.clicksor.com": "INACTIVE"
+        },
+        "1579249720": {
+            "shim.btrll.com": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "show.textads.lv": "INACTIVE",
+            "show2.textads.lv": "INACTIVE",
+            "siniature.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE"
+        },
+        "1579249721": {
+            "sky.estat.com": "INACTIVE",
+            "sl-retargeting.adsonar.com": "INACTIVE",
+            "snwmedia.adk2x.com": "INACTIVE",
+            "socpixel.bidsystem.com": "INACTIVE"
+        },
+        "1579249722": {
+            "softwaare.net": "INACTIVE",
+            "sp1.convertro.com": "INACTIVE",
+            "spd.atdmt.com": "INACTIVE",
+            "spe.atdmt.com": "INACTIVE",
+            "speednetwork14.adk2x.com": "INACTIVE",
+            "spns.seriousads.net": "INACTIVE",
+            "sponsor2.ucmore.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE"
+        },
+        "1579249723": {
+            "srv2.admedit.me": "INACTIVE",
+            "ssl-sl-retargeting.adsonar.com": "INACTIVE",
+            "st.magnify.net": "INACTIVE"
+        },
+        "1579249724": {
+            "st1.freeonlineusers.com": "INACTIVE",
+            "stat-tracker.net": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "static-cf.fmpub.net": "INACTIVE",
+            "static.adtaily.com": "INACTIVE"
         }
     }
 }
