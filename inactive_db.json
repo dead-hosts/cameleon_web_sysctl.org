@@ -1927,75 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579033410": {
-            "mf.sitescout.com": "INACTIVE",
-            "mm.chitika.net": "INACTIVE",
-            "mmb.bingstart.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE"
-        },
-        "1579033411": {
-            "mobilede-dp.nuggad.net": "INACTIVE",
-            "mobilede.nuggad.net": "INACTIVE",
-            "monitoring.profi-webhosting.cz": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "morgpost.ivwbox.de": "INACTIVE",
-            "mottnow.adk2x.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE"
-        },
-        "1579033412": {
-            "ms.ligatus.com": "INACTIVE",
-            "mtr.tfponline.com": "INACTIVE"
-        },
-        "1579033413": {
-            "my-pc-cleaner.org": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE",
-            "n.targetbtracker.com": "INACTIVE"
-        },
-        "1579033414": {
-            "nedstat.nl": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE"
-        },
-        "1579033415": {
-            "netster.xmlsearch.findwhat.com": "INACTIVE",
-            "netzeitu.ivwbox.de": "INACTIVE",
-            "newsclic.ivwbox.de": "INACTIVE",
-            "newsletter.adsonar.com": "INACTIVE",
-            "newsvr.info": "INACTIVE",
-            "next-layers.com": "INACTIVE",
-            "nfl.sp1.convertro.com": "INACTIVE",
-            "nl.nedstatpro.net": "INACTIVE"
-        },
-        "1579033416": {
-            "nl.sitestat.com": "INACTIVE",
-            "ntracking.optimatic.com": "INACTIVE",
-            "nub9r.maisonx.com": "INACTIVE"
-        },
-        "1579033417": {
-            "o.sa.aol.com": "INACTIVE",
-            "oas.ad-vice.biz": "INACTIVE",
-            "oas.autotrader.co.uk": "INACTIVE",
-            "oas.mainetoday.com": "INACTIVE",
-            "oas.romandie-online.ch": "INACTIVE",
-            "oas.skyregie.com": "INACTIVE",
-            "oasc17.247realmedia.com": "INACTIVE",
-            "oascentral.artistdirect.com": "INACTIVE"
-        },
-        "1579033418": {
-            "oascentral.blackenterprise.com": "INACTIVE",
-            "oascentral.escapistmagazine.com": "INACTIVE",
-            "oascentral.hitfix.com": "INACTIVE",
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE",
-            "oascentral.recroom.com": "INACTIVE",
-            "oascentral.salemweb.net": "INACTIVE"
-        },
-        "1579033419": {
-            "oascentral.warcry.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE"
-        },
         "1579033420": {
-            "omni.focus.de": "INACTIVE",
             "op.standartnews.com": "INACTIVE",
             "openads.hiphopsite.com": "INACTIVE",
             "openadstream-eu1.247realmedia.com": "INACTIVE"
@@ -4309,6 +4241,78 @@
         "1579246948": {
             "metrics.radioshack.com": "INACTIVE",
             "metrics.recroom.com": "INACTIVE"
+        },
+        "1579247641": {
+            "mf.sitescout.com": "INACTIVE"
+        },
+        "1579247642": {
+            "mm.chitika.net": "INACTIVE",
+            "mmb.bingstart.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE",
+            "mobilede-dp.nuggad.net": "INACTIVE",
+            "mobilede.nuggad.net": "INACTIVE",
+            "monitoring.profi-webhosting.cz": "INACTIVE"
+        },
+        "1579247643": {
+            "moo.sitescout.com": "INACTIVE",
+            "morgpost.ivwbox.de": "INACTIVE",
+            "mottnow.adk2x.com": "INACTIVE",
+            "mp.pianomedia.eu": "INACTIVE",
+            "mrp.rubiconproject.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE"
+        },
+        "1579247644": {
+            "mtr.tfponline.com": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1579247645": {
+            "n.targetbtracker.com": "INACTIVE"
+        },
+        "1579247646": {
+            "nedstat.nl": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "netster.xmlsearch.findwhat.com": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE",
+            "newsclic.ivwbox.de": "INACTIVE",
+            "newsletter.adsonar.com": "INACTIVE"
+        },
+        "1579247647": {
+            "newsvr.info": "INACTIVE",
+            "next-layers.com": "INACTIVE",
+            "nfl.sp1.convertro.com": "INACTIVE",
+            "nl.nedstatpro.net": "INACTIVE",
+            "nl.sitestat.com": "INACTIVE"
+        },
+        "1579247648": {
+            "ntracking.optimatic.com": "INACTIVE",
+            "nub9r.maisonx.com": "INACTIVE",
+            "o.sa.aol.com": "INACTIVE"
+        },
+        "1579247649": {
+            "oas.ad-vice.biz": "INACTIVE",
+            "oas.autotrader.co.uk": "INACTIVE",
+            "oas.mainetoday.com": "INACTIVE",
+            "oas.romandie-online.ch": "INACTIVE",
+            "oas.skyregie.com": "INACTIVE",
+            "oasc17.247realmedia.com": "INACTIVE",
+            "oascentral.artistdirect.com": "INACTIVE",
+            "oascentral.blackenterprise.com": "INACTIVE",
+            "oascentral.buy.com": "INACTIVE"
+        },
+        "1579247650": {
+            "oascentral.escapistmagazine.com": "INACTIVE",
+            "oascentral.hitfix.com": "INACTIVE",
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE",
+            "oascentral.salemweb.net": "INACTIVE"
+        },
+        "1579247651": {
+            "oascentral.warcry.com": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE",
+            "omni.focus.de": "INACTIVE"
         }
     }
 }
