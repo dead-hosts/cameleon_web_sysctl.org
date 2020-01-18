@@ -1927,56 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579249027": {
-            "ranker.springboardplatform.com": "INACTIVE",
-            "rb.insightexpressai.com": "INACTIVE",
-            "realtime.deximedia.com": "INACTIVE",
-            "redir.adsonar.com": "INACTIVE"
-        },
-        "1579249028": {
-            "redirect.linksummary.com": "INACTIVE",
-            "redirect.loadmarketing.com": "INACTIVE",
-            "redirect.todayreward.net": "INACTIVE",
-            "redirect.tracking202.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
-        },
-        "1579249029": {
-            "rewards.yoursitebar.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE",
-            "rmd.atdmt.com": "INACTIVE"
-        },
-        "1579249030": {
-            "rq.adtrackdirect.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE"
-        },
-        "1579249031": {
-            "s.ad121m.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE",
-            "s.cxt.ms": "INACTIVE"
-        },
-        "1579249033": {
-            "safedownloadsrus157.com": "INACTIVE",
-            "sana.newsinc.com": "INACTIVE"
-        },
-        "1579249034": {
-            "scripts.conversionattribution.com": "INACTIVE",
-            "scripts.xrenoder.com": "INACTIVE"
-        },
-        "1579249716": {
-            "se.sitestat.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE"
-        },
-        "1579249717": {
-            "search.xrenoder.com": "INACTIVE",
-            "searchbar.findthewebsiteyouneed.com": "INACTIVE",
-            "searchbar.linksummary.com": "INACTIVE",
-            "secure.ace-tag.advertising.com": "INACTIVE",
-            "secure.ace.advertising.com": "INACTIVE"
-        },
         "1579249718": {
-            "secure.aconti.net": "INACTIVE",
             "secure.adwebster.com": "INACTIVE",
             "secure.ivirtualcard.com": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
@@ -4217,6 +4168,57 @@
             "rainbow-uk.mythings.com": "INACTIVE",
             "rainbow-us.mythings.com": "INACTIVE",
             "rainbow.mythings.com": "INACTIVE"
+        },
+        "1579340429": {
+            "ranker.springboardplatform.com": "INACTIVE",
+            "rb.insightexpressai.com": "INACTIVE"
+        },
+        "1579340430": {
+            "realtime.deximedia.com": "INACTIVE",
+            "redir.adsonar.com": "INACTIVE",
+            "redirect.linksummary.com": "INACTIVE",
+            "redirect.loadmarketing.com": "INACTIVE",
+            "redirect.todayreward.net": "INACTIVE",
+            "redirect.tracking202.com": "INACTIVE"
+        },
+        "1579340431": {
+            "report-ads-to.pubnation.com": "INACTIVE"
+        },
+        "1579340432": {
+            "rewards.yoursitebar.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE",
+            "rq.adtrackdirect.com": "INACTIVE"
+        },
+        "1579340433": {
+            "rtb.metrigo.com": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE",
+            "s.ad121m.com": "INACTIVE",
+            "s.ad131m.com": "INACTIVE"
+        },
+        "1579340434": {
+            "s.cxt.ms": "INACTIVE"
+        },
+        "1579340435": {
+            "safedownloadsrus157.com": "INACTIVE"
+        },
+        "1579340436": {
+            "sana.newsinc.com": "INACTIVE",
+            "scripts.conversionattribution.com": "INACTIVE"
+        },
+        "1579340437": {
+            "scripts.xrenoder.com": "INACTIVE",
+            "se.sitestat.com": "INACTIVE",
+            "search.clicksor.com": "INACTIVE",
+            "search.xrenoder.com": "INACTIVE",
+            "searchbar.findthewebsiteyouneed.com": "INACTIVE",
+            "searchbar.linksummary.com": "INACTIVE"
+        },
+        "1579340438": {
+            "secure.ace-tag.advertising.com": "INACTIVE",
+            "secure.ace.advertising.com": "INACTIVE",
+            "secure.aconti.net": "INACTIVE"
         }
     }
 }
