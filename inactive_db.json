@@ -1927,78 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579248335": {
-            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
-            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
-            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
-            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
-            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
-            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
-            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
-            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE"
-        },
-        "1579248336": {
-            "p.ace.advertising.com": "INACTIVE",
-            "p.adpdx.com": "INACTIVE",
-            "p.securedownload01.com": "INACTIVE",
-            "pageurl-brx.btrll.com": "INACTIVE",
-            "pageurl.btrll.com": "INACTIVE",
-            "panther1.cpxinteractive.com": "INACTIVE"
-        },
-        "1579248337": {
-            "pay.tranent.nl": "INACTIVE",
-            "peelads.hustler.com": "INACTIVE"
-        },
-        "1579248338": {
-            "ping1.unicast.com": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE",
-            "pix.btrll.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE",
-            "pixel.captora.com": "INACTIVE"
-        },
-        "1579248339": {
-            "pixel.redditmedia.com": "INACTIVE",
-            "pixels.mentad.com": "INACTIVE",
-            "pool.euroads.no": "INACTIVE"
-        },
-        "1579248340": {
-            "pr.atwola.com": "INACTIVE"
-        },
-        "1579248341": {
-            "privacy.virtumundo.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "pro.weborama.fr": "INACTIVE",
-            "project2.realtracker.com": "INACTIVE",
-            "promo.hdvbucks.com": "INACTIVE"
-        },
-        "1579248342": {
-            "proxy.softonicads.com": "INACTIVE"
-        },
-        "1579249025": {
-            "pustoaice.erotic-place.org": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "qds.tnsinternet.be": "INACTIVE"
-        },
-        "1579249026": {
-            "qs.ivwbox.de": "INACTIVE",
-            "quickstatistic.com": "INACTIVE",
-            "r.searchoodle.com": "INACTIVE",
-            "r1.ace.advertising.com": "INACTIVE",
-            "rainbow-de.mythings.com": "INACTIVE",
-            "rainbow-es.mythings.com": "INACTIVE",
-            "rainbow-fi.mythings.com": "INACTIVE",
-            "rainbow-mx.mythings.com": "INACTIVE",
-            "rainbow-nl.mythings.com": "INACTIVE",
-            "rainbow-no.mythings.com": "INACTIVE",
-            "rainbow-ru-ak.mythings.com": "INACTIVE",
-            "rainbow-ru.mythings.com": "INACTIVE",
-            "rainbow-sg.mythings.com": "INACTIVE",
-            "rainbow-uk.mythings.com": "INACTIVE",
-            "rainbow-us.mythings.com": "INACTIVE",
-            "rainbow.mythings.com": "INACTIVE"
-        },
         "1579249027": {
             "ranker.springboardplatform.com": "INACTIVE",
             "rb.insightexpressai.com": "INACTIVE",
@@ -4216,6 +4144,79 @@
             "ox-d.mediavine.servedbyopenx.com": "INACTIVE",
             "ox-d.nydailynews.servedbyopenx.com": "INACTIVE",
             "ox-d.philly.servedbyopenx.com": "INACTIVE"
+        },
+        "1579339533": {
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE",
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE",
+            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
+            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "p.ace.advertising.com": "INACTIVE",
+            "p.adpdx.com": "INACTIVE"
+        },
+        "1579339534": {
+            "p.pxl2015x1.com": "INACTIVE",
+            "p.securedownload01.com": "INACTIVE",
+            "pageurl-brx.btrll.com": "INACTIVE",
+            "pageurl.btrll.com": "INACTIVE",
+            "panther1.cpxinteractive.com": "INACTIVE"
+        },
+        "1579339535": {
+            "pay.tranent.nl": "INACTIVE",
+            "peelads.hustler.com": "INACTIVE"
+        },
+        "1579339536": {
+            "ping1.unicast.com": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "pix.btrll.com": "INACTIVE",
+            "pix.pulsemgr.com": "INACTIVE",
+            "pixel.captora.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1579339537": {
+            "pixels.mentad.com": "INACTIVE",
+            "pool.euroads.no": "INACTIVE"
+        },
+        "1579339538": {
+            "pr.atwola.com": "INACTIVE",
+            "privacy.virtumundo.com": "INACTIVE"
+        },
+        "1579339539": {
+            "prm.europacash.com": "INACTIVE",
+            "pro.weborama.fr": "INACTIVE",
+            "project2.realtracker.com": "INACTIVE",
+            "promo.hdvbucks.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE"
+        },
+        "1579339540": {
+            "pustoaice.erotic-place.org": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "qds.tnsinternet.be": "INACTIVE"
+        },
+        "1579339541": {
+            "qs.ivwbox.de": "INACTIVE",
+            "quickstatistic.com": "INACTIVE",
+            "r.searchoodle.com": "INACTIVE",
+            "r1.ace.advertising.com": "INACTIVE",
+            "rainbow-de.mythings.com": "INACTIVE",
+            "rainbow-es.mythings.com": "INACTIVE",
+            "rainbow-fi.mythings.com": "INACTIVE",
+            "rainbow-mx.mythings.com": "INACTIVE",
+            "rainbow-nl.mythings.com": "INACTIVE",
+            "rainbow-no.mythings.com": "INACTIVE",
+            "rainbow-ru-ak.mythings.com": "INACTIVE",
+            "rainbow-ru.mythings.com": "INACTIVE",
+            "rainbow-sg.mythings.com": "INACTIVE"
+        },
+        "1579339542": {
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rainbow-us.mythings.com": "INACTIVE",
+            "rainbow.mythings.com": "INACTIVE"
         }
     }
 }
