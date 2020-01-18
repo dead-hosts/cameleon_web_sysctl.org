@@ -1927,9 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579300246": {
-            "208.185.87.199.liveadvert.com": "INACTIVE"
-        },
         "1579316018": {
             "ads3.kompasads.com": "INACTIVE"
         },
@@ -4229,6 +4226,9 @@
         },
         "1579386785": {
             "540.filost.com": "INACTIVE"
+        },
+        "1579390217": {
+            "208.185.87.199.liveadvert.com": "INACTIVE"
         }
     }
 }
