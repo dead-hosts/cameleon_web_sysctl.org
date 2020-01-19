@@ -1927,39 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579338791": {
-            "nedstat.nl": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "netster.xmlsearch.findwhat.com": "INACTIVE",
-            "netzeitu.ivwbox.de": "INACTIVE"
-        },
-        "1579338792": {
-            "newsclic.ivwbox.de": "INACTIVE",
-            "newsletter.adsonar.com": "INACTIVE",
-            "newsvr.info": "INACTIVE",
-            "next-layers.com": "INACTIVE",
-            "nfl.sp1.convertro.com": "INACTIVE",
-            "nl.nedstatpro.net": "INACTIVE",
-            "nl.sitestat.com": "INACTIVE"
-        },
-        "1579338793": {
-            "ntracking.optimatic.com": "INACTIVE",
-            "nub9r.maisonx.com": "INACTIVE"
-        },
-        "1579338794": {
-            "o.sa.aol.com": "INACTIVE",
-            "oas.ad-vice.biz": "INACTIVE",
-            "oas.autotrader.co.uk": "INACTIVE",
-            "oas.mainetoday.com": "INACTIVE",
-            "oas.romandie-online.ch": "INACTIVE",
-            "oas.skyregie.com": "INACTIVE",
-            "oasc17.247realmedia.com": "INACTIVE",
-            "oascentral.artistdirect.com": "INACTIVE",
-            "oascentral.blackenterprise.com": "INACTIVE"
-        },
         "1579338795": {
-            "oascentral.escapistmagazine.com": "INACTIVE",
             "oascentral.hitfix.com": "INACTIVE",
             "oascentral.mochila.com": "INACTIVE",
             "oascentral.nephrologynews.com": "INACTIVE",
@@ -4204,6 +4172,39 @@
         },
         "1579445752": {
             "dash.qsrch.com": "INACTIVE"
+        },
+        "1579450320": {
+            "nedstat.nl": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netcomm.spinbox.net": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "netster.xmlsearch.findwhat.com": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE",
+            "newsclic.ivwbox.de": "INACTIVE",
+            "newsletter.adsonar.com": "INACTIVE",
+            "newsvr.info": "INACTIVE",
+            "next-layers.com": "INACTIVE"
+        },
+        "1579450321": {
+            "nfl.sp1.convertro.com": "INACTIVE",
+            "nl.nedstatpro.net": "INACTIVE",
+            "nl.sitestat.com": "INACTIVE"
+        },
+        "1579450322": {
+            "ntracking.optimatic.com": "INACTIVE",
+            "nub9r.maisonx.com": "INACTIVE",
+            "o.sa.aol.com": "INACTIVE",
+            "oas.ad-vice.biz": "INACTIVE",
+            "oas.autotrader.co.uk": "INACTIVE",
+            "oas.mainetoday.com": "INACTIVE",
+            "oas.romandie-online.ch": "INACTIVE",
+            "oas.skyregie.com": "INACTIVE"
+        },
+        "1579450323": {
+            "oasc17.247realmedia.com": "INACTIVE",
+            "oascentral.artistdirect.com": "INACTIVE",
+            "oascentral.blackenterprise.com": "INACTIVE",
+            "oascentral.escapistmagazine.com": "INACTIVE"
         }
     }
 }
