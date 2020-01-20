@@ -1927,9 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579401447": {
-            "ads4.bigasia.com": "INACTIVE"
-        },
         "1579403470": {
             "adsmart.de": "INACTIVE"
         },
@@ -1940,21 +1937,6 @@
             "gtcc1.acecounter.com": "INACTIVE"
         },
         "1579415600": {
-            "ads2.victoriaadvocate.com": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
-            "ads3.freebannertrade.com": "INACTIVE",
-            "ads3497.hotwords.com.br": "INACTIVE",
-            "ads3806.hotwords.com.br": "INACTIVE",
-            "ads56-us-east.stickyadstv.com": "INACTIVE",
-            "adsense.clicking.com.tw": "INACTIVE",
-            "adserv.basedvd.com": "INACTIVE",
-            "adserv.brandaffinity.net": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserv.it-analysis.com": "INACTIVE",
-            "adserv.lowyat.net": "INACTIVE",
-            "adserv.roundrockmedia.com": "INACTIVE",
-            "adserv.searchenhancement.com": "INACTIVE",
-            "adserve-east.technologygeeks.com": "INACTIVE",
             "adserve.adster.com": "INACTIVE",
             "adserve.cpmba.se": "INACTIVE",
             "adserver.affiliatemg.com": "INACTIVE",
@@ -2534,9 +2516,6 @@
             "my-pc-cleaner.org": "INACTIVE",
             "mycounter.tinycounter.com": "INACTIVE",
             "n.targetbtracker.com": "INACTIVE"
-        },
-        "1579438807": {
-            "ads5.bigasia.com": "INACTIVE"
         },
         "1579444522": {
             "cdn1.clkmon.com": "INACTIVE"
@@ -4199,6 +4178,30 @@
             "ads.zamunda.net": "INACTIVE",
             "ads1.cricbuzz.com": "INACTIVE",
             "ads1.nexdra.com": "INACTIVE"
+        },
+        "1579528374": {
+            "ads2.victoriaadvocate.com": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE"
+        },
+        "1579528375": {
+            "ads3.freebannertrade.com": "INACTIVE",
+            "ads3497.hotwords.com.br": "INACTIVE"
+        },
+        "1579528376": {
+            "ads3806.hotwords.com.br": "INACTIVE",
+            "ads56-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1579528377": {
+            "adsense.clicking.com.tw": "INACTIVE",
+            "adserv.basedvd.com": "INACTIVE",
+            "adserv.brandaffinity.net": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserv.it-analysis.com": "INACTIVE",
+            "adserv.lowyat.net": "INACTIVE",
+            "adserv.roundrockmedia.com": "INACTIVE",
+            "adserv.search-exe.com": "INACTIVE",
+            "adserv.searchenhancement.com": "INACTIVE",
+            "adserve-east.technologygeeks.com": "INACTIVE"
         }
     }
 }
