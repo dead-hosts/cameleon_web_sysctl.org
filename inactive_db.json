@@ -1927,12 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579418123": {
-            "metrics.geek.com": "INACTIVE"
-        },
-        "1579418126": {
-            "mrsupergames.aavalue.com": "INACTIVE"
-        },
         "1579419215": {
             "oascentral.yakimaherald.com": "INACTIVE"
         },
@@ -1948,61 +1942,10 @@
         "1579422342": {
             "thinkdigitaladro.hit.gemius.pl": "INACTIVE"
         },
-        "1579423730": {
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE",
-            "login.adoptim.com": "INACTIVE",
-            "logv15.xiti.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "lstats.qip.ru": "INACTIVE",
-            "lz.mainentrypoint.com": "INACTIVE",
-            "m1.nedstatpro.net": "INACTIVE",
-            "magazines.sp1.convertro.com": "INACTIVE",
-            "main.clicksor.com": "INACTIVE"
-        },
         "1579423731": {
             "www.cnstats.com": "INACTIVE"
         },
-        "1579425058": {
-            "malwareremovalbot.repairandsecure.com": "INACTIVE",
-            "mature-pussy.us": "INACTIVE",
-            "mci12.clicksor.com": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE",
-            "media.adlegend.com": "INACTIVE",
-            "media.adxpansion.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "mediatex.in": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
-            "metric.marketwire.com": "INACTIVE",
-            "metrics.delias.com": "INACTIVE",
-            "metrics.dentonrc.com": "INACTIVE",
-            "metrics.hhgregg.com": "INACTIVE",
-            "metrics.mercola.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "metrics.pcmag.com": "INACTIVE",
-            "metrics.radioshack.com": "INACTIVE",
-            "metrics.recroom.com": "INACTIVE",
-            "mf.sitescout.com": "INACTIVE",
-            "mm.chitika.net": "INACTIVE",
-            "mmb.bingstart.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE",
-            "mobilede-dp.nuggad.net": "INACTIVE",
-            "mobilede.nuggad.net": "INACTIVE",
-            "monitoring.profi-webhosting.cz": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "morgpost.ivwbox.de": "INACTIVE",
-            "mottnow.adk2x.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE",
-            "mrp.rubiconproject.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "mtr.tfponline.com": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE",
-            "n.targetbtracker.com": "INACTIVE"
-        },
         "1579450320": {
-            "nedstat.nl": "INACTIVE",
             "net.softonicads.com": "INACTIVE",
             "netcomm.spinbox.net": "INACTIVE",
             "netsr.softonicads.com": "INACTIVE",
@@ -4321,6 +4264,77 @@
             "logc16.xiti.com": "INACTIVE",
             "logc175.xiti.com": "INACTIVE",
             "logc19.xiti.com": "INACTIVE"
+        },
+        "1579544661": {
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE"
+        },
+        "1579544662": {
+            "logc7.xiti.com": "INACTIVE",
+            "login.adoptim.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE"
+        },
+        "1579544663": {
+            "lstats.qip.ru": "INACTIVE",
+            "lz.mainentrypoint.com": "INACTIVE",
+            "m1.nedstatpro.net": "INACTIVE",
+            "magazines.sp1.convertro.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE"
+        },
+        "1579544664": {
+            "malwareremovalbot.repairandsecure.com": "INACTIVE",
+            "mature-pussy.us": "INACTIVE",
+            "mci12.clicksor.com": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE"
+        },
+        "1579544665": {
+            "media.adlegend.com": "INACTIVE",
+            "media.adxpansion.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE",
+            "mediatex.in": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE"
+        },
+        "1579544666": {
+            "metric.marketwire.com": "INACTIVE",
+            "metrics.delias.com": "INACTIVE",
+            "metrics.dentonrc.com": "INACTIVE"
+        },
+        "1579544667": {
+            "metrics.hhgregg.com": "INACTIVE",
+            "metrics.mercola.com": "INACTIVE",
+            "metrics.nola.com": "INACTIVE",
+            "metrics.pcmag.com": "INACTIVE",
+            "metrics.radioshack.com": "INACTIVE",
+            "metrics.recroom.com": "INACTIVE"
+        },
+        "1579544668": {
+            "mf.sitescout.com": "INACTIVE"
+        },
+        "1579544669": {
+            "mm.chitika.net": "INACTIVE",
+            "mmb.bingstart.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE",
+            "mobilede-dp.nuggad.net": "INACTIVE",
+            "mobilede.nuggad.net": "INACTIVE",
+            "monitoring.profi-webhosting.cz": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "morgpost.ivwbox.de": "INACTIVE",
+            "mottnow.adk2x.com": "INACTIVE"
+        },
+        "1579544670": {
+            "mp.pianomedia.eu": "INACTIVE",
+            "mrp.rubiconproject.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE"
+        },
+        "1579544671": {
+            "mtr.tfponline.com": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1579544672": {
+            "n.targetbtracker.com": "INACTIVE",
+            "nedstat.nl": "INACTIVE"
         }
     }
 }
