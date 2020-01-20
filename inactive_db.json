@@ -1927,9 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579414330": {
-            "filter.bluemediappc.com": "INACTIVE"
-        },
         "1579414336": {
             "gtcc1.acecounter.com": "INACTIVE"
         },
@@ -1939,66 +1936,13 @@
         "1579418126": {
             "mrsupergames.aavalue.com": "INACTIVE"
         },
-        "1579419209": {
-            "disco.flashbannernow.com": "INACTIVE",
-            "dlx.getupdate.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
-            "dofollinz.net": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE",
-            "doollli.erotic-place.org": "INACTIVE",
-            "download-123.cn": "INACTIVE",
-            "download-everything.com": "INACTIVE",
-            "download.007guard.com": "INACTIVE",
-            "download.malwareremovingtool.com": "INACTIVE",
-            "download.pcsolutionshelp.com": "INACTIVE",
-            "download.privacy-kit.com": "INACTIVE",
-            "download.ucmore.com": "INACTIVE",
-            "download.virusremover2008.com": "INACTIVE",
-            "drunkporn.us": "INACTIVE",
-            "dvcd.info": "INACTIVE",
-            "dws.reporting.dnitv.com": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "dyn.ak1.cc": "INACTIVE",
-            "dynamic.cannedbanners.com": "INACTIVE",
-            "dynamix.trafficrevmaster.com": "INACTIVE",
-            "earth.goclick.com": "INACTIVE",
-            "ebony.sicfreehost.com": "INACTIVE",
-            "edge.aperture.displaymarketplace.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE"
-        },
         "1579419215": {
             "oascentral.yakimaherald.com": "INACTIVE"
         },
         "1579420140": {
             "pixel.keywee.co": "INACTIVE"
         },
-        "1579420950": {
-            "egypt-shop.cn": "INACTIVE",
-            "em.pc-on-internet.com": "INACTIVE",
-            "email.advertising.com": "INACTIVE",
-            "eng.findadvertise.com": "INACTIVE",
-            "enjoyspringtime.com": "INACTIVE",
-            "er20090515.com": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "es.sitestat.com": "INACTIVE",
-            "eu.npario-inc.net": "INACTIVE",
-            "exchange.bg": "INACTIVE",
-            "exgfsbucks.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE",
-            "f8350e7c1.se": "INACTIVE",
-            "fast.twc.demdex.net": "INACTIVE",
-            "faz.ivwbox.de": "INACTIVE",
-            "fe.lea.spray.se": "INACTIVE",
-            "feed.afy11.net": "INACTIVE",
-            "feed.peakclick.com": "INACTIVE",
-            "fi.sitestat.com": "INACTIVE",
-            "files.native.ad": "INACTIVE"
-        },
         "1579420951": {
-            "files4.securedownload01.com": "INACTIVE",
-            "files5.securedownload01.com": "INACTIVE",
-            "finatime.ivwbox.de": "INACTIVE",
-            "findadvertise.engine.adglare.net": "INACTIVE",
             "findmore.name": "INACTIVE",
             "flx367.lporirxe.com": "INACTIVE",
             "fr.sitestat.com": "INACTIVE",
@@ -4274,6 +4218,74 @@
         },
         "1579538718": {
             "dirtub.cn": "INACTIVE"
+        },
+        "1579540098": {
+            "disco.flashbannernow.com": "INACTIVE",
+            "dlx.getupdate.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE",
+            "dofollinz.net": "INACTIVE"
+        },
+        "1579540099": {
+            "domains.googlesyndication.com": "INACTIVE",
+            "doollli.erotic-place.org": "INACTIVE",
+            "download-123.cn": "INACTIVE",
+            "download-everything.com": "INACTIVE",
+            "download.007guard.com": "INACTIVE",
+            "download.malwareremovingtool.com": "INACTIVE",
+            "download.pcsolutionshelp.com": "INACTIVE",
+            "download.privacy-kit.com": "INACTIVE",
+            "download.ucmore.com": "INACTIVE",
+            "download.virusremover2008.com": "INACTIVE"
+        },
+        "1579540100": {
+            "drunkporn.us": "INACTIVE",
+            "dvcd.info": "INACTIVE",
+            "dws.reporting.dnitv.com": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "dyn.ak1.cc": "INACTIVE",
+            "dynamic.cannedbanners.com": "INACTIVE",
+            "dynamix.trafficrevmaster.com": "INACTIVE"
+        },
+        "1579540101": {
+            "earth.goclick.com": "INACTIVE",
+            "ebony.sicfreehost.com": "INACTIVE",
+            "edge.aperture.displaymarketplace.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE"
+        },
+        "1579540102": {
+            "egypt-shop.cn": "INACTIVE",
+            "em.pc-on-internet.com": "INACTIVE",
+            "email.advertising.com": "INACTIVE"
+        },
+        "1579540103": {
+            "eng.findadvertise.com": "INACTIVE",
+            "enjoyspringtime.com": "INACTIVE",
+            "er20090515.com": "INACTIVE",
+            "es.nedstat.net": "INACTIVE"
+        },
+        "1579540104": {
+            "es.sitestat.com": "INACTIVE",
+            "eu.npario-inc.net": "INACTIVE",
+            "exchange.bg": "INACTIVE",
+            "exgfsbucks.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE"
+        },
+        "1579540105": {
+            "f8350e7c1.se": "INACTIVE",
+            "fast.twc.demdex.net": "INACTIVE",
+            "faz.ivwbox.de": "INACTIVE",
+            "fe.lea.spray.se": "INACTIVE",
+            "feed.afy11.net": "INACTIVE",
+            "feed.peakclick.com": "INACTIVE"
+        },
+        "1579540106": {
+            "fi.sitestat.com": "INACTIVE",
+            "files.native.ad": "INACTIVE",
+            "files4.securedownload01.com": "INACTIVE",
+            "files5.securedownload01.com": "INACTIVE",
+            "filter.bluemediappc.com": "INACTIVE",
+            "finatime.ivwbox.de": "INACTIVE",
+            "findadvertise.engine.adglare.net": "INACTIVE"
         }
     }
 }
