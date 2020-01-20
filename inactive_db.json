@@ -1927,9 +1927,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579420951": {
-            "results.cafefind.net": "INACTIVE"
-        },
         "1579421647": {
             "sss828.welovecpa.com": "INACTIVE"
         },
@@ -1939,69 +1936,7 @@
         "1579423731": {
             "www.cnstats.com": "INACTIVE"
         },
-        "1579451534": {
-            "pixels.mentad.com": "INACTIVE",
-            "pool.euroads.no": "INACTIVE"
-        },
-        "1579452913": {
-            "pr.atwola.com": "INACTIVE",
-            "privacy.virtumundo.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "pro.weborama.fr": "INACTIVE",
-            "project2.realtracker.com": "INACTIVE"
-        },
-        "1579452914": {
-            "promo.hdvbucks.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE"
-        },
-        "1579452915": {
-            "pustoaice.erotic-place.org": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "qds.tnsinternet.be": "INACTIVE",
-            "qs.ivwbox.de": "INACTIVE",
-            "quickstatistic.com": "INACTIVE"
-        },
-        "1579452916": {
-            "r.searchoodle.com": "INACTIVE",
-            "r1.ace.advertising.com": "INACTIVE",
-            "rainbow-de.mythings.com": "INACTIVE",
-            "rainbow-es.mythings.com": "INACTIVE",
-            "rainbow-fi.mythings.com": "INACTIVE",
-            "rainbow-mx.mythings.com": "INACTIVE",
-            "rainbow-nl.mythings.com": "INACTIVE",
-            "rainbow-no.mythings.com": "INACTIVE",
-            "rainbow-ru-ak.mythings.com": "INACTIVE",
-            "rainbow-ru.mythings.com": "INACTIVE",
-            "rainbow-sg.mythings.com": "INACTIVE",
-            "rainbow-uk.mythings.com": "INACTIVE",
-            "rainbow-us.mythings.com": "INACTIVE",
-            "rainbow.mythings.com": "INACTIVE",
-            "ranker.springboardplatform.com": "INACTIVE",
-            "rb.insightexpressai.com": "INACTIVE"
-        },
-        "1579452917": {
-            "realtime.deximedia.com": "INACTIVE",
-            "redir.adsonar.com": "INACTIVE",
-            "redirect.linksummary.com": "INACTIVE",
-            "redirect.loadmarketing.com": "INACTIVE",
-            "redirect.todayreward.net": "INACTIVE",
-            "redirect.tracking202.com": "INACTIVE"
-        },
-        "1579452918": {
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "rewards.yoursitebar.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE"
-        },
-        "1579452919": {
-            "rmd.atdmt.com": "INACTIVE",
-            "rq.adtrackdirect.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE"
-        },
         "1579452920": {
-            "rtl.ivwbox.de": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE",
-            "s.ad121m.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE",
             "s.cxt.ms": "INACTIVE"
         },
         "1579454296": {
@@ -4329,6 +4264,77 @@
             "pix.pulsemgr.com": "INACTIVE",
             "pixel.captora.com": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1579547547": {
+            "pixels.mentad.com": "INACTIVE"
+        },
+        "1579547548": {
+            "pool.euroads.no": "INACTIVE"
+        },
+        "1579547549": {
+            "pr.atwola.com": "INACTIVE"
+        },
+        "1579547550": {
+            "privacy.virtumundo.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "pro.weborama.fr": "INACTIVE",
+            "project2.realtracker.com": "INACTIVE",
+            "promo.hdvbucks.com": "INACTIVE"
+        },
+        "1579547551": {
+            "proxy.softonicads.com": "INACTIVE"
+        },
+        "1579547552": {
+            "pustoaice.erotic-place.org": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "qds.tnsinternet.be": "INACTIVE",
+            "qs.ivwbox.de": "INACTIVE",
+            "quickstatistic.com": "INACTIVE",
+            "r.searchoodle.com": "INACTIVE"
+        },
+        "1579547553": {
+            "r1.ace.advertising.com": "INACTIVE",
+            "rainbow-de.mythings.com": "INACTIVE",
+            "rainbow-es.mythings.com": "INACTIVE",
+            "rainbow-fi.mythings.com": "INACTIVE",
+            "rainbow-mx.mythings.com": "INACTIVE",
+            "rainbow-nl.mythings.com": "INACTIVE",
+            "rainbow-no.mythings.com": "INACTIVE",
+            "rainbow-ru-ak.mythings.com": "INACTIVE",
+            "rainbow-ru.mythings.com": "INACTIVE",
+            "rainbow-sg.mythings.com": "INACTIVE",
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rainbow-us.mythings.com": "INACTIVE",
+            "rainbow.mythings.com": "INACTIVE",
+            "ranker.springboardplatform.com": "INACTIVE",
+            "rb.insightexpressai.com": "INACTIVE"
+        },
+        "1579547554": {
+            "realtime.deximedia.com": "INACTIVE",
+            "redir.adsonar.com": "INACTIVE",
+            "redirect.linksummary.com": "INACTIVE",
+            "redirect.loadmarketing.com": "INACTIVE",
+            "redirect.todayreward.net": "INACTIVE",
+            "redirect.tracking202.com": "INACTIVE"
+        },
+        "1579547555": {
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "results.cafefind.net": "INACTIVE"
+        },
+        "1579547556": {
+            "rewards.yoursitebar.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE"
+        },
+        "1579547557": {
+            "rq.adtrackdirect.com": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE"
+        },
+        "1579547558": {
+            "s.ad121m.com": "INACTIVE",
+            "s.ad131m.com": "INACTIVE"
         }
     }
 }
