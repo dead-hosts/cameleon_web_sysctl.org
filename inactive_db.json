@@ -1927,12 +1927,7 @@
         }
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
-        "1579520477": {
-            "ad.vuiads.net": "INACTIVE",
-            "ad.walla.co.il": "INACTIVE"
-        },
         "1579520478": {
-            "ad.xtendmedia.com": "INACTIVE",
             "ad0.ezcybersearch.com": "INACTIVE",
             "ad00.ezcybersearch.com": "INACTIVE",
             "ad01.ezcybersearch.com": "INACTIVE",
@@ -4369,6 +4364,15 @@
             "ad.naked-celebs.com": "INACTIVE",
             "ad.pyce.info": "INACTIVE",
             "ad.u.nuggad.net": "INACTIVE"
+        },
+        "1580213466": {
+            "ad.digitallook.com": "INACTIVE"
+        },
+        "1580213467": {
+            "ad.nobreak.com": "INACTIVE",
+            "ad.vuiads.net": "INACTIVE",
+            "ad.walla.co.il": "INACTIVE",
+            "ad.xtendmedia.com": "INACTIVE"
         }
     }
 }
