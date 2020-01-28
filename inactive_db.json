@@ -1928,8 +1928,6 @@
     },
     "/home/travis/build/dead-hosts/cameleon_web_sysctl.org/domains.list": {
         "1579520478": {
-            "ad0.ezcybersearch.com": "INACTIVE",
-            "ad00.ezcybersearch.com": "INACTIVE",
             "ad01.ezcybersearch.com": "INACTIVE",
             "ad03.ezcybersearch.com": "INACTIVE",
             "ad04.ezcybersearch.com": "INACTIVE",
@@ -4373,6 +4371,10 @@
             "ad.vuiads.net": "INACTIVE",
             "ad.walla.co.il": "INACTIVE",
             "ad.xtendmedia.com": "INACTIVE"
+        },
+        "1580217224": {
+            "ad0.ezcybersearch.com": "INACTIVE",
+            "ad00.ezcybersearch.com": "INACTIVE"
         }
     }
 }
