@@ -867,7 +867,7 @@
     "51234.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "555y.com": {
         "epoch": 1637884800.0,
@@ -1245,8 +1245,8 @@
         "state": "future"
     },
     "aadcom.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "aaddzz.com": {
