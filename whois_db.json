@@ -22,7 +22,7 @@
     "0190-dialer.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "032439.com": {
         "epoch": 1609113600.0,
@@ -452,7 +452,7 @@
     "2001positions.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "2005-search.com": {
         "epoch": 1608336000.0,
@@ -1140,8 +1140,8 @@
         "state": "future"
     },
     "99x.com": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "9fingers.com": {
