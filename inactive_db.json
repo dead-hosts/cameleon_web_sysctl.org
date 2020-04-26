@@ -17011,6 +17011,27 @@
             "last_retested_at_epoch": 1587927964.407632,
             "last_retested_at_iso": "2020-04-26T19:06:04.407632",
             "status": "INACTIVE"
+        },
+        "ad.vuiads.net": {
+            "included_at_epoch": 1587932705.445383,
+            "included_at_iso": "2020-04-26T20:25:05.445383",
+            "last_retested_at_epoch": 1587932705.445383,
+            "last_retested_at_iso": "2020-04-26T20:25:05.445383",
+            "status": "INACTIVE"
+        },
+        "ad.walla.co.il": {
+            "included_at_epoch": 1587932705.412182,
+            "included_at_iso": "2020-04-26T20:25:05.412182",
+            "last_retested_at_epoch": 1587932705.412182,
+            "last_retested_at_iso": "2020-04-26T20:25:05.412182",
+            "status": "INACTIVE"
+        },
+        "ad.xtendmedia.com": {
+            "included_at_epoch": 1587932705.499061,
+            "included_at_iso": "2020-04-26T20:25:05.499061",
+            "last_retested_at_epoch": 1587932705.499061,
+            "last_retested_at_iso": "2020-04-26T20:25:05.499061",
+            "status": "INACTIVE"
         }
     }
 }
