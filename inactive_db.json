@@ -16886,11 +16886,32 @@
             "last_retested_at_iso": "2020-04-26T16:12:10.385738",
             "status": "INACTIVE"
         },
+        "ad.be.doubleclick.be": {
+            "included_at_epoch": 1587958363.87761,
+            "included_at_iso": "2020-04-27T03:32:43.877610",
+            "last_retested_at_epoch": 1587958363.87761,
+            "last_retested_at_iso": "2020-04-27T03:32:43.877610",
+            "status": "INACTIVE"
+        },
         "ad.blackystars.com": {
             "included_at_epoch": 1586664864.0,
             "included_at_iso": "2020-04-12T04:14:24",
             "last_retested_at_epoch": 1587917530.476953,
             "last_retested_at_iso": "2020-04-26T16:12:10.476953",
+            "status": "INACTIVE"
+        },
+        "ad.ca.doubleclick.be": {
+            "included_at_epoch": 1587958363.930575,
+            "included_at_iso": "2020-04-27T03:32:43.930575",
+            "last_retested_at_epoch": 1587958363.930575,
+            "last_retested_at_iso": "2020-04-27T03:32:43.930575",
+            "status": "INACTIVE"
+        },
+        "ad.ch.doubleclick.be": {
+            "included_at_epoch": 1587958363.972608,
+            "included_at_iso": "2020-04-27T03:32:43.972608",
+            "last_retested_at_epoch": 1587958363.972608,
+            "last_retested_at_iso": "2020-04-27T03:32:43.972608",
             "status": "INACTIVE"
         },
         "ad.creafi.com": {
@@ -16905,6 +16926,20 @@
             "included_at_iso": "2020-04-11T08:39:24",
             "last_retested_at_epoch": 1587917530.59369,
             "last_retested_at_iso": "2020-04-26T16:12:10.593690",
+            "status": "INACTIVE"
+        },
+        "ad.de.doubleclick.be": {
+            "included_at_epoch": 1587958364.022692,
+            "included_at_iso": "2020-04-27T03:32:44.022692",
+            "last_retested_at_epoch": 1587958364.022692,
+            "last_retested_at_iso": "2020-04-27T03:32:44.022692",
+            "status": "INACTIVE"
+        },
+        "ad.doubleclick.be": {
+            "included_at_epoch": 1587958364.074368,
+            "included_at_iso": "2020-04-27T03:32:44.074368",
+            "last_retested_at_epoch": 1587958364.074368,
+            "last_retested_at_iso": "2020-04-27T03:32:44.074368",
             "status": "INACTIVE"
         },
         "ad.dumedia.ru": {
