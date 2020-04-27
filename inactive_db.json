@@ -16487,6 +16487,13 @@
             "last_retested_at_iso": "2020-04-27T16:54:21.598531",
             "status": "INACTIVE"
         },
+        "404.99fh.com": {
+            "included_at_epoch": 1588027493.421384,
+            "included_at_iso": "2020-04-27T22:44:53.421384",
+            "last_retested_at_epoch": 1588027493.421384,
+            "last_retested_at_iso": "2020-04-27T22:44:53.421384",
+            "status": "INACTIVE"
+        },
         "404.cjb.net": {
             "included_at_epoch": 1587190621.0,
             "included_at_iso": "2020-04-18T06:17:01",
@@ -16632,6 +16639,13 @@
             "included_at_iso": "2020-04-18T07:29:36",
             "last_retested_at_epoch": 1588006464.319709,
             "last_retested_at_iso": "2020-04-27T16:54:24.319709",
+            "status": "INACTIVE"
+        },
+        "a.sou7.com": {
+            "included_at_epoch": 1588027495.482051,
+            "included_at_iso": "2020-04-27T22:44:55.482051",
+            "last_retested_at_epoch": 1588027495.482051,
+            "last_retested_at_iso": "2020-04-27T22:44:55.482051",
             "status": "INACTIVE"
         },
         "a.stern.de": {
