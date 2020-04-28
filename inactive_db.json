@@ -14555,6 +14555,13 @@
             "last_retested_at_iso": "2020-04-28T18:10:46.266299",
             "status": "INACTIVE"
         },
+        "1901.nordstrom.com": {
+            "included_at_epoch": 1588105953.362881,
+            "included_at_iso": "2020-04-28T20:32:33.362881",
+            "last_retested_at_epoch": 1588105953.362881,
+            "last_retested_at_iso": "2020-04-28T20:32:33.362881",
+            "status": "INACTIVE"
+        },
         "1bluemountain.com": {
             "included_at_epoch": 1587190614.0,
             "included_at_iso": "2020-04-18T06:16:54",
@@ -16966,29 +16973,29 @@
         "ad.inmatads.info": {
             "included_at_epoch": 1586204169.0,
             "included_at_iso": "2020-04-06T20:16:09",
-            "last_retested_at_epoch": 1588010659.151838,
-            "last_retested_at_iso": "2020-04-27T18:04:19.151838",
+            "last_retested_at_epoch": 1588105959.982509,
+            "last_retested_at_iso": "2020-04-28T20:32:39.982509",
             "status": "INACTIVE"
         },
         "ad.it.chilinext.com": {
             "included_at_epoch": 1586207980.0,
             "included_at_iso": "2020-04-06T21:19:40",
-            "last_retested_at_epoch": 1588010659.196058,
-            "last_retested_at_iso": "2020-04-27T18:04:19.196058",
+            "last_retested_at_epoch": 1588105960.033766,
+            "last_retested_at_iso": "2020-04-28T20:32:40.033766",
             "status": "INACTIVE"
         },
         "ad.jumbaexchange.com": {
             "included_at_epoch": 1585865034.0,
             "included_at_iso": "2020-04-02T22:03:54",
-            "last_retested_at_epoch": 1588014626.776479,
-            "last_retested_at_iso": "2020-04-27T19:10:26.776479",
+            "last_retested_at_epoch": 1588105960.09078,
+            "last_retested_at_iso": "2020-04-28T20:32:40.090780",
             "status": "INACTIVE"
         },
         "ad.m-adx.com": {
             "included_at_epoch": 1585865035.0,
             "included_at_iso": "2020-04-02T22:03:55",
-            "last_retested_at_epoch": 1588014626.833018,
-            "last_retested_at_iso": "2020-04-27T19:10:26.833018",
+            "last_retested_at_epoch": 1588105960.158047,
+            "last_retested_at_iso": "2020-04-28T20:32:40.158047",
             "status": "INACTIVE"
         },
         "ad.naked-celebs.com": {
