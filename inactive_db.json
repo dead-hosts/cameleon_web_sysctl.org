@@ -16949,6 +16949,13 @@
             "last_retested_at_iso": "2020-04-27T03:32:44.022692",
             "status": "INACTIVE"
         },
+        "ad.directanetworks.com": {
+            "included_at_epoch": 1588039054.327863,
+            "included_at_iso": "2020-04-28T01:57:34.327863",
+            "last_retested_at_epoch": 1588039054.327863,
+            "last_retested_at_iso": "2020-04-28T01:57:34.327863",
+            "status": "INACTIVE"
+        },
         "ad.doubleclick.be": {
             "included_at_epoch": 1587958364.074368,
             "included_at_iso": "2020-04-27T03:32:44.074368",
