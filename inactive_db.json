@@ -16494,13 +16494,6 @@
             "last_retested_at_iso": "2020-04-28T18:10:57.156061",
             "status": "INACTIVE"
         },
-        "404.99fh.com": {
-            "included_at_epoch": 1588027493.421384,
-            "included_at_iso": "2020-04-27T22:44:53.421384",
-            "last_retested_at_epoch": 1588027493.421384,
-            "last_retested_at_iso": "2020-04-27T22:44:53.421384",
-            "status": "INACTIVE"
-        },
         "404.cjb.net": {
             "included_at_epoch": 1587190621.0,
             "included_at_iso": "2020-04-18T06:17:01",
@@ -16646,13 +16639,6 @@
             "included_at_iso": "2020-04-18T07:29:36",
             "last_retested_at_epoch": 1588097459.945019,
             "last_retested_at_iso": "2020-04-28T18:10:59.945019",
-            "status": "INACTIVE"
-        },
-        "a.sou7.com": {
-            "included_at_epoch": 1588027495.482051,
-            "included_at_iso": "2020-04-27T22:44:55.482051",
-            "last_retested_at_epoch": 1588027495.482051,
-            "last_retested_at_iso": "2020-04-27T22:44:55.482051",
             "status": "INACTIVE"
         },
         "a.stern.de": {
@@ -17015,8 +17001,8 @@
         "ad.pyce.info": {
             "included_at_epoch": 1587921685.625533,
             "included_at_iso": "2020-04-26T17:21:25.625533",
-            "last_retested_at_epoch": 1588014626.980916,
-            "last_retested_at_iso": "2020-04-27T19:10:26.980916",
+            "last_retested_at_epoch": 1588114422.269499,
+            "last_retested_at_iso": "2020-04-28T22:53:42.269499",
             "status": "INACTIVE"
         },
         "ad.reklama.nu": {
