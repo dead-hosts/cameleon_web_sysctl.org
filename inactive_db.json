@@ -14537,8 +14537,8 @@
         "123appz.com": {
             "included_at_epoch": 1587946788.845369,
             "included_at_iso": "2020-04-27T00:19:48.845369",
-            "last_retested_at_epoch": 1587946788.845369,
-            "last_retested_at_iso": "2020-04-27T00:19:48.845369",
+            "last_retested_at_epoch": 1588035410.708646,
+            "last_retested_at_iso": "2020-04-28T00:56:50.708646",
             "status": "INACTIVE"
         },
         "131922.131.links4trade.com": {
@@ -17019,11 +17019,18 @@
             "last_retested_at_iso": "2020-04-27T19:10:26.833018",
             "status": "INACTIVE"
         },
+        "ad.naked-celebs.com": {
+            "included_at_epoch": 1588035417.154789,
+            "included_at_iso": "2020-04-28T00:56:57.154789",
+            "last_retested_at_epoch": 1588035417.154789,
+            "last_retested_at_iso": "2020-04-28T00:56:57.154789",
+            "status": "INACTIVE"
+        },
         "ad.onlineadserv.com": {
             "included_at_epoch": 1587942807.392583,
             "included_at_iso": "2020-04-26T23:13:27.392583",
-            "last_retested_at_epoch": 1587942807.392583,
-            "last_retested_at_iso": "2020-04-26T23:13:27.392583",
+            "last_retested_at_epoch": 1588035417.203206,
+            "last_retested_at_iso": "2020-04-28T00:56:57.203206",
             "status": "INACTIVE"
         },
         "ad.pyce.info": {
