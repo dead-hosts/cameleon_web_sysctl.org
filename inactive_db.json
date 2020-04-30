@@ -14548,6 +14548,13 @@
             "last_retested_at_iso": "2020-04-30T11:42:53.698110",
             "status": "INACTIVE"
         },
+        "162.6.87.194.dynamic.dol.ru": {
+            "included_at_epoch": 1588287762.507228,
+            "included_at_iso": "2020-04-30T23:02:42.507228",
+            "last_retested_at_epoch": 1588287762.507228,
+            "last_retested_at_iso": "2020-04-30T23:02:42.507228",
+            "status": "INACTIVE"
+        },
         "165a7.v.fwmrm.net": {
             "included_at_epoch": 1587190613.0,
             "included_at_iso": "2020-04-18T06:16:53",
@@ -16971,17 +16978,17 @@
             "status": "INACTIVE"
         },
         "ad.jumbaexchange.com": {
-            "included_at_epoch": 1585865034.0,
-            "included_at_iso": "2020-04-02T22:03:54",
-            "last_retested_at_epoch": 1588254501.663546,
-            "last_retested_at_iso": "2020-04-30T13:48:21.663546",
+            "included_at_epoch": 1588287768.798869,
+            "included_at_iso": "2020-04-30T23:02:48.798869",
+            "last_retested_at_epoch": 1588287768.798869,
+            "last_retested_at_iso": "2020-04-30T23:02:48.798869",
             "status": "INACTIVE"
         },
         "ad.m-adx.com": {
-            "included_at_epoch": 1585865035.0,
-            "included_at_iso": "2020-04-02T22:03:55",
-            "last_retested_at_epoch": 1588254501.725513,
-            "last_retested_at_iso": "2020-04-30T13:48:21.725513",
+            "included_at_epoch": 1588287768.85859,
+            "included_at_iso": "2020-04-30T23:02:48.858590",
+            "last_retested_at_epoch": 1588287768.85859,
+            "last_retested_at_iso": "2020-04-30T23:02:48.858590",
             "status": "INACTIVE"
         },
         "ad.naked-celebs.com": {
