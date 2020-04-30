@@ -16634,6 +16634,13 @@
             "last_retested_at_iso": "2020-04-30T11:43:07.493371",
             "status": "INACTIVE"
         },
+        "a.softconsultgroup.com": {
+            "included_at_epoch": 1588272164.543064,
+            "included_at_iso": "2020-04-30T18:42:44.543064",
+            "last_retested_at_epoch": 1588272164.543064,
+            "last_retested_at_iso": "2020-04-30T18:42:44.543064",
+            "status": "INACTIVE"
+        },
         "a.stern.de": {
             "included_at_epoch": 1587194976.0,
             "included_at_iso": "2020-04-18T07:29:36",
