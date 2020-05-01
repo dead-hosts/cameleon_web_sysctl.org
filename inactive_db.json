@@ -16578,13 +16578,6 @@
             "last_retested_at_iso": "2020-05-01T12:03:40.272719",
             "status": "INACTIVE"
         },
-        "7oo.meibu.com": {
-            "included_at_epoch": 1588254498.211512,
-            "included_at_iso": "2020-04-30T13:48:18.211512",
-            "last_retested_at_epoch": 1588254498.211512,
-            "last_retested_at_iso": "2020-04-30T13:48:18.211512",
-            "status": "INACTIVE"
-        },
         "7security.info": {
             "included_at_epoch": 1587194975.0,
             "included_at_iso": "2020-04-18T07:29:35",
@@ -16959,22 +16952,22 @@
         "ad.globe7.com": {
             "included_at_epoch": 1586422890.0,
             "included_at_iso": "2020-04-09T09:01:30",
-            "last_retested_at_epoch": 1588254501.478967,
-            "last_retested_at_iso": "2020-04-30T13:48:21.478967",
+            "last_retested_at_epoch": 1588342203.32967,
+            "last_retested_at_iso": "2020-05-01T14:10:03.329670",
             "status": "INACTIVE"
         },
         "ad.inmatads.info": {
             "included_at_epoch": 1586204169.0,
             "included_at_iso": "2020-04-06T20:16:09",
-            "last_retested_at_epoch": 1588254501.564405,
-            "last_retested_at_iso": "2020-04-30T13:48:21.564405",
+            "last_retested_at_epoch": 1588342203.415518,
+            "last_retested_at_iso": "2020-05-01T14:10:03.415518",
             "status": "INACTIVE"
         },
         "ad.it.chilinext.com": {
             "included_at_epoch": 1586207980.0,
             "included_at_iso": "2020-04-06T21:19:40",
-            "last_retested_at_epoch": 1588254501.612779,
-            "last_retested_at_iso": "2020-04-30T13:48:21.612779",
+            "last_retested_at_epoch": 1588342203.460313,
+            "last_retested_at_iso": "2020-05-01T14:10:03.460313",
             "status": "INACTIVE"
         },
         "ad.jumbaexchange.com": {
@@ -16994,8 +16987,8 @@
         "ad.naked-celebs.com": {
             "included_at_epoch": 1588035417.154789,
             "included_at_iso": "2020-04-28T00:56:57.154789",
-            "last_retested_at_epoch": 1588254501.790352,
-            "last_retested_at_iso": "2020-04-30T13:48:21.790352",
+            "last_retested_at_epoch": 1588342203.573303,
+            "last_retested_at_iso": "2020-05-01T14:10:03.573303",
             "status": "INACTIVE"
         },
         "ad.onlineadserv.com": {
