@@ -19749,6 +19749,13 @@
             "last_retested_at_iso": "2020-05-03T15:08:36.305083",
             "status": "INACTIVE"
         },
+        "ads.pittsburghlive.com": {
+            "included_at_epoch": 1588552222.298871,
+            "included_at_iso": "2020-05-04T00:30:22.298871",
+            "last_retested_at_epoch": 1588552222.298871,
+            "last_retested_at_iso": "2020-05-04T00:30:22.298871",
+            "status": "INACTIVE"
+        },
         "ads.planet49.com": {
             "included_at_epoch": 1588353677.504232,
             "included_at_iso": "2020-05-01T17:21:17.504232",
