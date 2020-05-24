@@ -16970,11 +16970,60 @@
             "last_retested_at_iso": "2020-05-24T10:31:27.643334",
             "status": "INACTIVE"
         },
+        "ad.pyce.info": {
+            "included_at_epoch": 1590361774.751324,
+            "included_at_iso": "2020-05-24T23:09:34.751324",
+            "last_retested_at_epoch": 1590361774.751324,
+            "last_retested_at_iso": "2020-05-24T23:09:34.751324",
+            "status": "INACTIVE"
+        },
+        "ad.reklama.nu": {
+            "included_at_epoch": 1590361774.816984,
+            "included_at_iso": "2020-05-24T23:09:34.816984",
+            "last_retested_at_epoch": 1590361774.816984,
+            "last_retested_at_iso": "2020-05-24T23:09:34.816984",
+            "status": "INACTIVE"
+        },
         "ad.reklamport.com": {
             "included_at_epoch": 1589712987.05403,
             "included_at_iso": "2020-05-17T10:56:27.054030",
             "last_retested_at_epoch": 1590316287.850316,
             "last_retested_at_iso": "2020-05-24T10:31:27.850316",
+            "status": "INACTIVE"
+        },
+        "ad.tenderteen.com": {
+            "included_at_epoch": 1590361774.934345,
+            "included_at_iso": "2020-05-24T23:09:34.934345",
+            "last_retested_at_epoch": 1590361774.934345,
+            "last_retested_at_iso": "2020-05-24T23:09:34.934345",
+            "status": "INACTIVE"
+        },
+        "ad.u.nuggad.net": {
+            "included_at_epoch": 1590361775.02195,
+            "included_at_iso": "2020-05-24T23:09:35.021950",
+            "last_retested_at_epoch": 1590361775.02195,
+            "last_retested_at_iso": "2020-05-24T23:09:35.021950",
+            "status": "INACTIVE"
+        },
+        "ad.vuiads.net": {
+            "included_at_epoch": 1590361775.088854,
+            "included_at_iso": "2020-05-24T23:09:35.088854",
+            "last_retested_at_epoch": 1590361775.088854,
+            "last_retested_at_iso": "2020-05-24T23:09:35.088854",
+            "status": "INACTIVE"
+        },
+        "ad.walla.co.il": {
+            "included_at_epoch": 1590361775.139718,
+            "included_at_iso": "2020-05-24T23:09:35.139718",
+            "last_retested_at_epoch": 1590361775.139718,
+            "last_retested_at_iso": "2020-05-24T23:09:35.139718",
+            "status": "INACTIVE"
+        },
+        "ad.xtendmedia.com": {
+            "included_at_epoch": 1590361775.206925,
+            "included_at_iso": "2020-05-24T23:09:35.206925",
+            "last_retested_at_epoch": 1590361775.206925,
+            "last_retested_at_iso": "2020-05-24T23:09:35.206925",
             "status": "INACTIVE"
         },
         "ad.zompmedia.com": {
