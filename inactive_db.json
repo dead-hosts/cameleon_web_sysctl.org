@@ -20652,6 +20652,13 @@
             "last_retested_at_iso": "2020-05-24T12:20:18.189551",
             "status": "INACTIVE"
         },
+        "cpatrack.leadn.com": {
+            "included_at_epoch": 1590373928.352714,
+            "included_at_iso": "2020-05-25T02:32:08.352714",
+            "last_retested_at_epoch": 1590373928.352714,
+            "last_retested_at_iso": "2020-05-25T02:32:08.352714",
+            "status": "INACTIVE"
+        },
         "cpc.trafiz.net": {
             "included_at_epoch": 1588371267.627091,
             "included_at_iso": "2020-05-01T22:14:27.627091",
@@ -21000,6 +21007,13 @@
             "included_at_iso": "2020-05-01T22:53:45.369997",
             "last_retested_at_epoch": 1590323543.953644,
             "last_retested_at_iso": "2020-05-24T12:32:23.953644",
+            "status": "INACTIVE"
+        },
+        "dev.gohip.com": {
+            "included_at_epoch": 1590373931.996553,
+            "included_at_iso": "2020-05-25T02:32:11.996553",
+            "last_retested_at_epoch": 1590373931.996553,
+            "last_retested_at_iso": "2020-05-25T02:32:11.996553",
             "status": "INACTIVE"
         },
         "dev.media.adxpansion.com": {
