@@ -14535,10 +14535,10 @@
             "status": "INACTIVE"
         },
         "123appz.com": {
-            "included_at_epoch": 1587946788.845369,
-            "included_at_iso": "2020-04-27T00:19:48.845369",
-            "last_retested_at_epoch": 1590315474.842757,
-            "last_retested_at_iso": "2020-05-24T10:17:54.842757",
+            "included_at_epoch": 1590367497.430629,
+            "included_at_iso": "2020-05-25T00:44:57.430629",
+            "last_retested_at_epoch": 1590367497.430629,
+            "last_retested_at_iso": "2020-05-25T00:44:57.430629",
             "status": "INACTIVE"
         },
         "131922.131.links4trade.com": {
@@ -18321,11 +18321,25 @@
             "last_retested_at_iso": "2020-05-24T11:19:49.248701",
             "status": "INACTIVE"
         },
+        "ads5.kompasads.com": {
+            "included_at_epoch": 1590367500.040033,
+            "included_at_iso": "2020-05-25T00:45:00.040033",
+            "last_retested_at_epoch": 1590367500.040033,
+            "last_retested_at_iso": "2020-05-25T00:45:00.040033",
+            "status": "INACTIVE"
+        },
         "ads56-us-east.stickyadstv.com": {
             "included_at_epoch": 1588356991.262787,
             "included_at_iso": "2020-05-01T18:16:31.262787",
             "last_retested_at_epoch": 1590319189.733666,
             "last_retested_at_iso": "2020-05-24T11:19:49.733666",
+            "status": "INACTIVE"
+        },
+        "ads6.kompasads.com": {
+            "included_at_epoch": 1590367500.227381,
+            "included_at_iso": "2020-05-25T00:45:00.227381",
+            "last_retested_at_epoch": 1590367500.227381,
+            "last_retested_at_iso": "2020-05-25T00:45:00.227381",
             "status": "INACTIVE"
         },
         "adsense.clicking.com.tw": {
