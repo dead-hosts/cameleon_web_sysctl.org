@@ -23081,6 +23081,13 @@
             "last_retested_at_iso": "2020-05-24T13:14:15.297256",
             "status": "INACTIVE"
         },
+        "my.iconadserver.com": {
+            "included_at_epoch": 1590377625.523455,
+            "included_at_iso": "2020-05-25T03:33:45.523455",
+            "last_retested_at_epoch": 1590377625.523455,
+            "last_retested_at_iso": "2020-05-25T03:33:45.523455",
+            "status": "INACTIVE"
+        },
         "mycounter.tinycounter.com": {
             "included_at_epoch": 1588380001.915168,
             "included_at_iso": "2020-05-02T00:40:01.915168",
@@ -23135,6 +23142,13 @@
             "included_at_iso": "2020-05-02T00:40:03.337274",
             "last_retested_at_epoch": 1590326057.354277,
             "last_retested_at_iso": "2020-05-24T13:14:17.354277",
+            "status": "INACTIVE"
+        },
+        "neorsoft.xost.ru": {
+            "included_at_epoch": 1590377627.088677,
+            "included_at_iso": "2020-05-25T03:33:47.088677",
+            "last_retested_at_epoch": 1590377627.088677,
+            "last_retested_at_iso": "2020-05-25T03:33:47.088677",
             "status": "INACTIVE"
         },
         "net.softonicads.com": {
