@@ -20722,6 +20722,13 @@
             "last_retested_at_iso": "2020-05-25T15:40:04.405026",
             "status": "INACTIVE"
         },
+        "counter.paradise.net.nz": {
+            "included_at_epoch": 1590462157.5455,
+            "included_at_iso": "2020-05-26T03:02:37.545500",
+            "last_retested_at_epoch": 1590462157.5455,
+            "last_retested_at_iso": "2020-05-26T03:02:37.545500",
+            "status": "INACTIVE"
+        },
         "counter.sexsuche.tv": {
             "included_at_epoch": 1588371266.190019,
             "included_at_iso": "2020-05-01T22:14:26.190019",
@@ -20734,13 +20741,6 @@
             "included_at_iso": "2020-05-01T22:14:26.314243",
             "last_retested_at_epoch": 1590421204.764803,
             "last_retested_at_iso": "2020-05-25T15:40:04.764803",
-            "status": "INACTIVE"
-        },
-        "cpatrack.leadn.com": {
-            "included_at_epoch": 1590373928.352714,
-            "included_at_iso": "2020-05-25T02:32:08.352714",
-            "last_retested_at_epoch": 1590373928.352714,
-            "last_retested_at_iso": "2020-05-25T02:32:08.352714",
             "status": "INACTIVE"
         },
         "cpc.trafiz.net": {
@@ -21091,13 +21091,6 @@
             "included_at_iso": "2020-05-01T22:53:45.369997",
             "last_retested_at_epoch": 1590422844.612676,
             "last_retested_at_iso": "2020-05-25T16:07:24.612676",
-            "status": "INACTIVE"
-        },
-        "dev.gohip.com": {
-            "included_at_epoch": 1590373931.996553,
-            "included_at_iso": "2020-05-25T02:32:11.996553",
-            "last_retested_at_epoch": 1590373931.996553,
-            "last_retested_at_iso": "2020-05-25T02:32:11.996553",
             "status": "INACTIVE"
         },
         "dev.media.adxpansion.com": {
