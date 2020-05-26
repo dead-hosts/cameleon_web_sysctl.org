@@ -19273,13 +19273,6 @@
             "last_retested_at_iso": "2020-05-25T14:13:06.967999",
             "status": "INACTIVE"
         },
-        "apps.clickcash.com": {
-            "included_at_epoch": 1590370925.272093,
-            "included_at_iso": "2020-05-25T01:42:05.272093",
-            "last_retested_at_epoch": 1590370925.272093,
-            "last_retested_at_iso": "2020-05-25T01:42:05.272093",
-            "status": "INACTIVE"
-        },
         "ar1.atwola.com": {
             "included_at_epoch": 1588363162.968632,
             "included_at_iso": "2020-05-01T19:59:22.968632",
@@ -19775,6 +19768,13 @@
             "included_at_iso": "2020-05-01T20:40:08.396396",
             "last_retested_at_epoch": 1590417597.203881,
             "last_retested_at_iso": "2020-05-25T14:39:57.203881",
+            "status": "INACTIVE"
+        },
+        "banners.sandralatina.com": {
+            "included_at_epoch": 1590459121.463672,
+            "included_at_iso": "2020-05-26T02:12:01.463672",
+            "last_retested_at_epoch": 1590459121.463672,
+            "last_retested_at_iso": "2020-05-26T02:12:01.463672",
             "status": "INACTIVE"
         },
         "banners.sexsearch.com": {
