@@ -16980,8 +16980,8 @@
         "ad.onlineadserv.com": {
             "included_at_epoch": 1590363600.618058,
             "included_at_iso": "2020-05-24T23:40:00.618058",
-            "last_retested_at_epoch": 1590363600.618058,
-            "last_retested_at_iso": "2020-05-24T23:40:00.618058",
+            "last_retested_at_epoch": 1590452002.5646,
+            "last_retested_at_iso": "2020-05-26T00:13:22.564600",
             "status": "INACTIVE"
         },
         "ad.pyce.info": {
@@ -17292,6 +17292,13 @@
             "last_retested_at_iso": "2020-05-25T12:16:18.596095",
             "status": "INACTIVE"
         },
+        "adg.bzgint.com": {
+            "included_at_epoch": 1590452006.096033,
+            "included_at_iso": "2020-05-26T00:13:26.096033",
+            "last_retested_at_epoch": 1590452006.096033,
+            "last_retested_at_iso": "2020-05-26T00:13:26.096033",
+            "status": "INACTIVE"
+        },
         "adimage.asia1.com.sg": {
             "included_at_epoch": 1588349996.378372,
             "included_at_iso": "2020-05-01T16:19:56.378372",
@@ -17402,6 +17409,13 @@
             "included_at_iso": "2020-05-01T16:19:58.040279",
             "last_retested_at_epoch": 1590410651.006467,
             "last_retested_at_iso": "2020-05-25T12:44:11.006467",
+            "status": "INACTIVE"
+        },
+        "adprovider.de": {
+            "included_at_epoch": 1590452007.680441,
+            "included_at_iso": "2020-05-26T00:13:27.680441",
+            "last_retested_at_epoch": 1590452007.680441,
+            "last_retested_at_iso": "2020-05-26T00:13:27.680441",
             "status": "INACTIVE"
         },
         "adrevenue.findwhat.com": {
