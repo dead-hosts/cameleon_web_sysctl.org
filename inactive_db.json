@@ -21065,6 +21065,13 @@
             "last_retested_at_iso": "2020-05-25T16:07:25.767911",
             "status": "INACTIVE"
         },
+        "djbanners.deadjournal.com": {
+            "included_at_epoch": 1590503802.293774,
+            "included_at_iso": "2020-05-26T14:36:42.293774",
+            "last_retested_at_epoch": 1590503802.293774,
+            "last_retested_at_iso": "2020-05-26T14:36:42.293774",
+            "status": "INACTIVE"
+        },
         "dlx.getupdate.com": {
             "included_at_epoch": 1588373626.762909,
             "included_at_iso": "2020-05-01T22:53:46.762909",
@@ -21259,6 +21266,13 @@
             "included_at_iso": "2020-05-01T22:53:50.860105",
             "last_retested_at_epoch": 1590422850.671668,
             "last_retested_at_iso": "2020-05-25T16:07:30.671668",
+            "status": "INACTIVE"
+        },
+        "edskes.com.site-id.nl": {
+            "included_at_epoch": 1590503805.406637,
+            "included_at_iso": "2020-05-26T14:36:45.406637",
+            "last_retested_at_epoch": 1590503805.406637,
+            "last_retested_at_iso": "2020-05-26T14:36:45.406637",
             "status": "INACTIVE"
         },
         "egypt-shop.cn": {
