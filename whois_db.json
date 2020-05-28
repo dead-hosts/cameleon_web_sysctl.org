@@ -1407,7 +1407,7 @@
     "absolutelyfreemovies.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "absolutelyric.com": {
         "epoch": 1592524800.0,
@@ -1625,8 +1625,8 @@
         "state": "future"
     },
     "acuityplatform.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1653609600.0,
+        "expiration_date": "27-may-2022",
         "state": "future"
     },
     "acustat.com": {
