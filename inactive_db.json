@@ -17887,6 +17887,13 @@
             "last_retested_at_iso": "2020-05-30T01:09:01.397723",
             "status": "INACTIVE"
         },
+        "ads.liteweb.net": {
+            "included_at_epoch": 1590841051.268395,
+            "included_at_iso": "2020-05-30T12:17:31.268395",
+            "last_retested_at_epoch": 1590841051.268395,
+            "last_retested_at_iso": "2020-05-30T12:17:31.268395",
+            "status": "INACTIVE"
+        },
         "ads.lycos-europe.com": {
             "included_at_epoch": 1590800941.472995,
             "included_at_iso": "2020-05-30T01:09:01.472995",
@@ -18300,11 +18307,46 @@
             "last_retested_at_iso": "2020-05-30T01:09:05.440540",
             "status": "INACTIVE"
         },
+        "ads0.liteweb.net": {
+            "included_at_epoch": 1590841052.485893,
+            "included_at_iso": "2020-05-30T12:17:32.485893",
+            "last_retested_at_epoch": 1590841052.485893,
+            "last_retested_at_iso": "2020-05-30T12:17:32.485893",
+            "status": "INACTIVE"
+        },
         "ads00.liteweb.net": {
             "included_at_epoch": 1590800945.52876,
             "included_at_iso": "2020-05-30T01:09:05.528760",
             "last_retested_at_epoch": 1590800945.52876,
             "last_retested_at_iso": "2020-05-30T01:09:05.528760",
+            "status": "INACTIVE"
+        },
+        "ads01.liteweb.net": {
+            "included_at_epoch": 1590841052.55411,
+            "included_at_iso": "2020-05-30T12:17:32.554110",
+            "last_retested_at_epoch": 1590841052.55411,
+            "last_retested_at_iso": "2020-05-30T12:17:32.554110",
+            "status": "INACTIVE"
+        },
+        "ads02.liteweb.net": {
+            "included_at_epoch": 1590841052.609599,
+            "included_at_iso": "2020-05-30T12:17:32.609599",
+            "last_retested_at_epoch": 1590841052.609599,
+            "last_retested_at_iso": "2020-05-30T12:17:32.609599",
+            "status": "INACTIVE"
+        },
+        "ads03.liteweb.net": {
+            "included_at_epoch": 1590841052.671626,
+            "included_at_iso": "2020-05-30T12:17:32.671626",
+            "last_retested_at_epoch": 1590841052.671626,
+            "last_retested_at_iso": "2020-05-30T12:17:32.671626",
+            "status": "INACTIVE"
+        },
+        "ads04.liteweb.net": {
+            "included_at_epoch": 1590841052.735146,
+            "included_at_iso": "2020-05-30T12:17:32.735146",
+            "last_retested_at_epoch": 1590841052.735146,
+            "last_retested_at_iso": "2020-05-30T12:17:32.735146",
             "status": "INACTIVE"
         },
         "ads1.cricbuzz.com": {
