@@ -22948,6 +22948,13 @@
             "last_retested_at_iso": "2020-05-30T03:55:44.749844",
             "status": "INACTIVE"
         },
+        "demoq.use-trade.com": {
+            "included_at_epoch": 1590855203.712642,
+            "included_at_iso": "2020-05-30T16:13:23.712642",
+            "last_retested_at_epoch": 1590855203.712642,
+            "last_retested_at_iso": "2020-05-30T16:13:23.712642",
+            "status": "INACTIVE"
+        },
         "demorgen.tnsinternet.be": {
             "included_at_epoch": 1590810944.887766,
             "included_at_iso": "2020-05-30T03:55:44.887766",
@@ -23408,6 +23415,13 @@
             "included_at_iso": "2020-05-30T04:10:15.296045",
             "last_retested_at_epoch": 1590811815.296045,
             "last_retested_at_iso": "2020-05-30T04:10:15.296045",
+            "status": "INACTIVE"
+        },
+        "eztracks.aavalue.com": {
+            "included_at_epoch": 1590855210.230756,
+            "included_at_iso": "2020-05-30T16:13:30.230756",
+            "last_retested_at_epoch": 1590855210.230756,
+            "last_retested_at_iso": "2020-05-30T16:13:30.230756",
             "status": "INACTIVE"
         },
         "f8350e7c1.se": {
