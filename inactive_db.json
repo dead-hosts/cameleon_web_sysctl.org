@@ -21135,6 +21135,13 @@
             "last_retested_at_iso": "2020-05-30T03:02:23.058064",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1590852988.327928,
+            "included_at_iso": "2020-05-30T15:36:28.327928",
+            "last_retested_at_epoch": 1590852988.327928,
+            "last_retested_at_iso": "2020-05-30T15:36:28.327928",
+            "status": "INACTIVE"
+        },
         "ar1.atwola.com": {
             "included_at_epoch": 1590807743.315308,
             "included_at_iso": "2020-05-30T03:02:23.315308",
