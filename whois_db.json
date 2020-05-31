@@ -2675,9 +2675,9 @@
         "state": "future"
     },
     "adsnic.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "adsoftware.com": {
         "epoch": 1610582400.0,
@@ -3242,7 +3242,7 @@
     "advertbar.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "advertfast.com": {
         "epoch": 1609804800.0,
