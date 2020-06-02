@@ -3240,9 +3240,9 @@
         "state": "past"
     },
     "advertbar.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "advertfast.com": {
         "epoch": 1609804800.0,
@@ -3370,8 +3370,8 @@
         "state": "future"
     },
     "adware-2009.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "adware-remover.net": {
