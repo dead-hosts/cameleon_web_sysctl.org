@@ -20225,18 +20225,102 @@
             "last_retested_at_iso": "2020-06-08T16:20:56.256263",
             "status": "INACTIVE"
         },
+        "ads05.liteweb.net": {
+            "included_at_epoch": 1591633978.540309,
+            "included_at_iso": "2020-06-08T16:32:58.540309",
+            "last_retested_at_epoch": 1591633978.540309,
+            "last_retested_at_iso": "2020-06-08T16:32:58.540309",
+            "status": "INACTIVE"
+        },
+        "ads06.liteweb.net": {
+            "included_at_epoch": 1591633978.622033,
+            "included_at_iso": "2020-06-08T16:32:58.622033",
+            "last_retested_at_epoch": 1591633978.622033,
+            "last_retested_at_iso": "2020-06-08T16:32:58.622033",
+            "status": "INACTIVE"
+        },
+        "ads07.liteweb.net": {
+            "included_at_epoch": 1591633978.682844,
+            "included_at_iso": "2020-06-08T16:32:58.682844",
+            "last_retested_at_epoch": 1591633978.682844,
+            "last_retested_at_iso": "2020-06-08T16:32:58.682844",
+            "status": "INACTIVE"
+        },
+        "ads09.liteweb.net": {
+            "included_at_epoch": 1591633978.769276,
+            "included_at_iso": "2020-06-08T16:32:58.769276",
+            "last_retested_at_epoch": 1591633978.769276,
+            "last_retested_at_iso": "2020-06-08T16:32:58.769276",
+            "status": "INACTIVE"
+        },
         "ads1.cricbuzz.com": {
             "included_at_epoch": 1590802389.028003,
             "included_at_iso": "2020-05-30T01:33:09.028003",
-            "last_retested_at_epoch": 1591456474.571669,
-            "last_retested_at_iso": "2020-06-06T15:14:34.571669",
+            "last_retested_at_epoch": 1591633978.840575,
+            "last_retested_at_iso": "2020-06-08T16:32:58.840575",
+            "status": "INACTIVE"
+        },
+        "ads1.legalworld.bg": {
+            "included_at_epoch": 1591633978.922176,
+            "included_at_iso": "2020-06-08T16:32:58.922176",
+            "last_retested_at_epoch": 1591633978.922176,
+            "last_retested_at_iso": "2020-06-08T16:32:58.922176",
             "status": "INACTIVE"
         },
         "ads1.nexdra.com": {
             "included_at_epoch": 1590802389.154869,
             "included_at_iso": "2020-05-30T01:33:09.154869",
-            "last_retested_at_epoch": 1591456474.730206,
-            "last_retested_at_iso": "2020-06-06T15:14:34.730206",
+            "last_retested_at_epoch": 1591633978.995992,
+            "last_retested_at_iso": "2020-06-08T16:32:58.995992",
+            "status": "INACTIVE"
+        },
+        "ads10.liteweb.net": {
+            "included_at_epoch": 1591633979.083958,
+            "included_at_iso": "2020-06-08T16:32:59.083958",
+            "last_retested_at_epoch": 1591633979.083958,
+            "last_retested_at_iso": "2020-06-08T16:32:59.083958",
+            "status": "INACTIVE"
+        },
+        "ads100.liteweb.net": {
+            "included_at_epoch": 1591633979.154885,
+            "included_at_iso": "2020-06-08T16:32:59.154885",
+            "last_retested_at_epoch": 1591633979.154885,
+            "last_retested_at_iso": "2020-06-08T16:32:59.154885",
+            "status": "INACTIVE"
+        },
+        "ads101.liteweb.net": {
+            "included_at_epoch": 1591633979.225557,
+            "included_at_iso": "2020-06-08T16:32:59.225557",
+            "last_retested_at_epoch": 1591633979.225557,
+            "last_retested_at_iso": "2020-06-08T16:32:59.225557",
+            "status": "INACTIVE"
+        },
+        "ads102.liteweb.net": {
+            "included_at_epoch": 1591633979.287651,
+            "included_at_iso": "2020-06-08T16:32:59.287651",
+            "last_retested_at_epoch": 1591633979.287651,
+            "last_retested_at_iso": "2020-06-08T16:32:59.287651",
+            "status": "INACTIVE"
+        },
+        "ads104.liteweb.net": {
+            "included_at_epoch": 1591633979.365068,
+            "included_at_iso": "2020-06-08T16:32:59.365068",
+            "last_retested_at_epoch": 1591633979.365068,
+            "last_retested_at_iso": "2020-06-08T16:32:59.365068",
+            "status": "INACTIVE"
+        },
+        "ads106.liteweb.net": {
+            "included_at_epoch": 1591633979.441572,
+            "included_at_iso": "2020-06-08T16:32:59.441572",
+            "last_retested_at_epoch": 1591633979.441572,
+            "last_retested_at_iso": "2020-06-08T16:32:59.441572",
+            "status": "INACTIVE"
+        },
+        "ads107.liteweb.net": {
+            "included_at_epoch": 1591633979.511777,
+            "included_at_iso": "2020-06-08T16:32:59.511777",
+            "last_retested_at_epoch": 1591633979.511777,
+            "last_retested_at_iso": "2020-06-08T16:32:59.511777",
             "status": "INACTIVE"
         },
         "ads2.victoriaadvocate.com": {
