@@ -30599,6 +30599,13 @@
             "last_retested_at_iso": "2020-06-16T21:47:22.033544",
             "status": "INACTIVE"
         },
+        "www.dimkus.com": {
+            "included_at_epoch": 1592409132.176688,
+            "included_at_iso": "2020-06-17T15:52:12.176688",
+            "last_retested_at_epoch": 1592409132.176688,
+            "last_retested_at_iso": "2020-06-17T15:52:12.176688",
+            "status": "INACTIVE"
+        },
         "www.disable-uac.com": {
             "included_at_epoch": 1590818349.456253,
             "included_at_iso": "2020-05-30T05:59:09.456253",
