@@ -23837,6 +23837,20 @@
             "last_retested_at_iso": "2020-06-16T18:45:54.577910",
             "status": "INACTIVE"
         },
+        "bosdns1.exapps.com": {
+            "included_at_epoch": 1592397974.907052,
+            "included_at_iso": "2020-06-17T12:46:14.907052",
+            "last_retested_at_epoch": 1592397974.907052,
+            "last_retested_at_iso": "2020-06-17T12:46:14.907052",
+            "status": "INACTIVE"
+        },
+        "box.mylinkbox.com": {
+            "included_at_epoch": 1592397975.078694,
+            "included_at_iso": "2020-06-17T12:46:15.078694",
+            "last_retested_at_epoch": 1592397975.078694,
+            "last_retested_at_iso": "2020-06-17T12:46:15.078694",
+            "status": "INACTIVE"
+        },
         "brianabanks.sexybabesx.com": {
             "included_at_epoch": 1591650764.925164,
             "included_at_iso": "2020-06-08T21:12:44.925164",
@@ -23893,6 +23907,13 @@
             "last_retested_at_iso": "2020-06-16T18:45:56.477554",
             "status": "INACTIVE"
         },
+        "by.optimost.com": {
+            "included_at_epoch": 1592397976.175185,
+            "included_at_iso": "2020-06-17T12:46:16.175185",
+            "last_retested_at_epoch": 1592397976.175185,
+            "last_retested_at_iso": "2020-06-17T12:46:16.175185",
+            "status": "INACTIVE"
+        },
         "c.enhance.com": {
             "included_at_epoch": 1590808791.241891,
             "included_at_iso": "2020-05-30T03:19:51.241891",
@@ -23940,6 +23961,13 @@
             "included_at_iso": "2020-05-28T16:09:34.606761",
             "last_retested_at_epoch": 1592334604.788027,
             "last_retested_at_iso": "2020-06-16T19:10:04.788027",
+            "status": "INACTIVE"
+        },
+        "c.thinktarget.com": {
+            "included_at_epoch": 1592397976.647586,
+            "included_at_iso": "2020-06-17T12:46:16.647586",
+            "last_retested_at_epoch": 1592397976.647586,
+            "last_retested_at_iso": "2020-06-17T12:46:16.647586",
             "status": "INACTIVE"
         },
         "c12.valary.com": {
