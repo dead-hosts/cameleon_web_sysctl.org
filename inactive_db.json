@@ -30816,6 +30816,13 @@
             "last_retested_at_iso": "2020-06-16T22:05:39.128822",
             "status": "INACTIVE"
         },
+        "www.impregnable.net": {
+            "included_at_epoch": 1592414655.901662,
+            "included_at_iso": "2020-06-17T17:24:15.901662",
+            "last_retested_at_epoch": 1592414655.901662,
+            "last_retested_at_iso": "2020-06-17T17:24:15.901662",
+            "status": "INACTIVE"
+        },
         "www.infiads.com": {
             "included_at_epoch": 1590819075.382682,
             "included_at_iso": "2020-05-30T06:11:15.382682",
@@ -30898,6 +30905,13 @@
             "included_at_iso": "2020-05-30T06:11:16.906810",
             "last_retested_at_epoch": 1592345140.921856,
             "last_retested_at_iso": "2020-06-16T22:05:40.921856",
+            "status": "INACTIVE"
+        },
+        "www.libereco.net": {
+            "included_at_epoch": 1592414656.956513,
+            "included_at_iso": "2020-06-17T17:24:16.956513",
+            "last_retested_at_epoch": 1592414656.956513,
+            "last_retested_at_iso": "2020-06-17T17:24:16.956513",
             "status": "INACTIVE"
         },
         "www.lustler.com": {
