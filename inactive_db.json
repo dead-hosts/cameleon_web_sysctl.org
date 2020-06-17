@@ -27743,6 +27743,13 @@
             "last_retested_at_iso": "2020-06-16T20:26:04.752455",
             "status": "INACTIVE"
         },
+        "one.cam4ads.com": {
+            "included_at_epoch": 1592404196.09752,
+            "included_at_iso": "2020-06-17T14:29:56.097520",
+            "last_retested_at_epoch": 1592404196.09752,
+            "last_retested_at_iso": "2020-06-17T14:29:56.097520",
+            "status": "INACTIVE"
+        },
         "oneund.ru": {
             "included_at_epoch": 1591463773.27534,
             "included_at_iso": "2020-06-06T17:16:13.275340",
@@ -28233,11 +28240,25 @@
             "last_retested_at_iso": "2020-06-16T20:43:29.867016",
             "status": "INACTIVE"
         },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1592404203.530813,
+            "included_at_iso": "2020-06-17T14:30:03.530813",
+            "last_retested_at_epoch": 1592404203.530813,
+            "last_retested_at_iso": "2020-06-17T14:30:03.530813",
+            "status": "INACTIVE"
+        },
         "promo.hdvbucks.com": {
             "included_at_epoch": 1590815148.4714,
             "included_at_iso": "2020-05-30T05:05:48.471400",
             "last_retested_at_epoch": 1592340210.11399,
             "last_retested_at_iso": "2020-06-16T20:43:30.113990",
+            "status": "INACTIVE"
+        },
+        "prompt.zangocash.com": {
+            "included_at_epoch": 1592404203.895491,
+            "included_at_iso": "2020-06-17T14:30:03.895491",
+            "last_retested_at_epoch": 1592404203.895491,
+            "last_retested_at_iso": "2020-06-17T14:30:03.895491",
             "status": "INACTIVE"
         },
         "proxy.softonicads.com": {
