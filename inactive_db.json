@@ -26441,6 +26441,13 @@
             "last_retested_at_iso": "2020-06-16T19:45:01.923469",
             "status": "INACTIVE"
         },
+        "insightxe-ssl.pittsburghlive.com": {
+            "included_at_epoch": 1592401818.866872,
+            "included_at_iso": "2020-06-17T13:50:18.866872",
+            "last_retested_at_epoch": 1592401818.866872,
+            "last_retested_at_iso": "2020-06-17T13:50:18.866872",
+            "status": "INACTIVE"
+        },
         "instant-access.sex-explorer.com": {
             "included_at_epoch": 1590812548.879553,
             "included_at_iso": "2020-05-30T04:22:28.879553",
@@ -27440,6 +27447,13 @@
             "included_at_iso": "2020-05-30T04:46:53.825773",
             "last_retested_at_epoch": 1592339156.83738,
             "last_retested_at_iso": "2020-06-16T20:25:56.837380",
+            "status": "INACTIVE"
+        },
+        "netcomm.spinbox.net": {
+            "included_at_epoch": 1592401833.346126,
+            "included_at_iso": "2020-06-17T13:50:33.346126",
+            "last_retested_at_epoch": 1592401833.346126,
+            "last_retested_at_iso": "2020-06-17T13:50:33.346126",
             "status": "INACTIVE"
         },
         "netspiderads.indiatimes.com": {
