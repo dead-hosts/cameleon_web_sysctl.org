@@ -24068,6 +24068,13 @@
             "last_retested_at_iso": "2020-06-16T19:10:08.088193",
             "status": "INACTIVE"
         },
+        "cdn.adquantix.com": {
+            "included_at_epoch": 1592399682.048847,
+            "included_at_iso": "2020-06-17T13:14:42.048847",
+            "last_retested_at_epoch": 1592399682.048847,
+            "last_retested_at_iso": "2020-06-17T13:14:42.048847",
+            "status": "INACTIVE"
+        },
         "cdn.adstatic.com": {
             "included_at_epoch": 1590809801.586224,
             "included_at_iso": "2020-05-30T03:36:41.586224",
@@ -24803,6 +24810,13 @@
             "last_retested_at_iso": "2020-06-16T19:27:18.052896",
             "status": "INACTIVE"
         },
+        "custom1.hurricanedigitalmedia.com": {
+            "included_at_epoch": 1592399691.534028,
+            "included_at_iso": "2020-06-17T13:14:51.534028",
+            "last_retested_at_epoch": 1592399691.534028,
+            "last_retested_at_iso": "2020-06-17T13:14:51.534028",
+            "status": "INACTIVE"
+        },
         "cv.apprupt.com": {
             "included_at_epoch": 1592335638.407381,
             "included_at_iso": "2020-06-16T19:27:18.407381",
@@ -24922,6 +24936,13 @@
             "last_retested_at_iso": "2020-06-16T19:27:20.818270",
             "status": "INACTIVE"
         },
+        "dce.nextstat.com": {
+            "included_at_epoch": 1592399693.052232,
+            "included_at_iso": "2020-06-17T13:14:53.052232",
+            "last_retested_at_epoch": 1592399693.052232,
+            "last_retested_at_iso": "2020-06-17T13:14:53.052232",
+            "status": "INACTIVE"
+        },
         "de.nedstat.net": {
             "included_at_epoch": 1590810943.639847,
             "included_at_iso": "2020-05-30T03:55:43.639847",
@@ -24997,6 +25018,13 @@
             "included_at_iso": "2020-05-30T03:55:44.488370",
             "last_retested_at_epoch": 1592335642.269519,
             "last_retested_at_iso": "2020-06-16T19:27:22.269519",
+            "status": "INACTIVE"
+        },
+        "delivery.way2traffic.com": {
+            "included_at_epoch": 1592399693.779845,
+            "included_at_iso": "2020-06-17T13:14:53.779845",
+            "last_retested_at_epoch": 1592399693.779845,
+            "last_retested_at_iso": "2020-06-17T13:14:53.779845",
             "status": "INACTIVE"
         },
         "delivery1.topad.mobi": {
