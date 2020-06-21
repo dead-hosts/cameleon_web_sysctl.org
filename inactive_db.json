@@ -20232,6 +20232,13 @@
             "last_retested_at_iso": "2020-06-21T15:05:58.525770",
             "status": "INACTIVE"
         },
+        "ads3.kompasads.com": {
+            "included_at_epoch": 1592783636.223877,
+            "included_at_iso": "2020-06-21T23:53:56.223877",
+            "last_retested_at_epoch": 1592783636.223877,
+            "last_retested_at_iso": "2020-06-21T23:53:56.223877",
+            "status": "INACTIVE"
+        },
         "ads3497.hotwords.com.br": {
             "included_at_epoch": 1590802392.046042,
             "included_at_iso": "2020-05-30T01:33:12.046042",
@@ -20251,6 +20258,13 @@
             "included_at_iso": "2020-06-21T15:05:59.614184",
             "last_retested_at_epoch": 1592751959.614184,
             "last_retested_at_iso": "2020-06-21T15:05:59.614184",
+            "status": "INACTIVE"
+        },
+        "ads4.kompasads.com": {
+            "included_at_epoch": 1592783636.553602,
+            "included_at_iso": "2020-06-21T23:53:56.553602",
+            "last_retested_at_epoch": 1592783636.553602,
+            "last_retested_at_iso": "2020-06-21T23:53:56.553602",
             "status": "INACTIVE"
         },
         "ads5.bigasia.com": {
@@ -20615,6 +20629,13 @@
             "included_at_iso": "2020-05-30T02:43:36.245282",
             "last_retested_at_epoch": 1592752988.800284,
             "last_retested_at_iso": "2020-06-21T15:23:08.800284",
+            "status": "INACTIVE"
+        },
+        "advert.travlang.com": {
+            "included_at_epoch": 1592783642.040602,
+            "included_at_iso": "2020-06-21T23:54:02.040602",
+            "last_retested_at_epoch": 1592783642.040602,
+            "last_retested_at_iso": "2020-06-21T23:54:02.040602",
             "status": "INACTIVE"
         },
         "adverta.us": {
