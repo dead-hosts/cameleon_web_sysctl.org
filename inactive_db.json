@@ -26098,6 +26098,13 @@
             "last_retested_at_iso": "2020-06-21T17:25:13.166858",
             "status": "INACTIVE"
         },
+        "p.ebdr2.com": {
+            "included_at_epoch": 1592842639.630225,
+            "included_at_iso": "2020-06-22T16:17:19.630225",
+            "last_retested_at_epoch": 1592842639.630225,
+            "last_retested_at_iso": "2020-06-22T16:17:19.630225",
+            "status": "INACTIVE"
+        },
         "p.securedownload01.com": {
             "included_at_epoch": 1590814025.697538,
             "included_at_iso": "2020-05-30T04:47:05.697538",
@@ -26215,6 +26222,13 @@
             "included_at_iso": "2020-05-30T05:05:44.819382",
             "last_retested_at_epoch": 1592760317.083717,
             "last_retested_at_iso": "2020-06-21T17:25:17.083717",
+            "status": "INACTIVE"
+        },
+        "pixel.crosspixel.net": {
+            "included_at_epoch": 1592842642.232562,
+            "included_at_iso": "2020-06-22T16:17:22.232562",
+            "last_retested_at_epoch": 1592842642.232562,
+            "last_retested_at_iso": "2020-06-22T16:17:22.232562",
             "status": "INACTIVE"
         },
         "pixel.redditmedia.com": {
