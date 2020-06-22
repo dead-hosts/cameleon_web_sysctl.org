@@ -26077,6 +26077,13 @@
             "last_retested_at_iso": "2020-06-21T17:25:14.304571",
             "status": "INACTIVE"
         },
+        "partner.zangocash.com": {
+            "included_at_epoch": 1592790964.073914,
+            "included_at_iso": "2020-06-22T01:56:04.073914",
+            "last_retested_at_epoch": 1592790964.073914,
+            "last_retested_at_iso": "2020-06-22T01:56:04.073914",
+            "status": "INACTIVE"
+        },
         "pay.tranent.nl": {
             "included_at_epoch": 1590814027.129595,
             "included_at_iso": "2020-05-30T04:47:07.129595",
@@ -26271,6 +26278,13 @@
             "included_at_iso": "2020-05-30T05:05:48.944404",
             "last_retested_at_epoch": 1592761342.633355,
             "last_retested_at_iso": "2020-06-21T17:42:22.633355",
+            "status": "INACTIVE"
+        },
+        "public.zangocash.com": {
+            "included_at_epoch": 1592790969.509441,
+            "included_at_iso": "2020-06-22T01:56:09.509441",
+            "last_retested_at_epoch": 1592790969.509441,
+            "last_retested_at_iso": "2020-06-22T01:56:09.509441",
             "status": "INACTIVE"
         },
         "pubs.lemonde.fr": {
