@@ -16984,13 +16984,6 @@
             "last_retested_at_iso": "2020-06-21T22:55:16.165055",
             "status": "INACTIVE"
         },
-        "ad.onlineadserv.com": {
-            "included_at_epoch": 1590363600.618058,
-            "included_at_iso": "2020-05-24T23:40:00.618058",
-            "last_retested_at_epoch": 1592780116.242533,
-            "last_retested_at_iso": "2020-06-21T22:55:16.242533",
-            "status": "INACTIVE"
-        },
         "ad.onmedia.bg": {
             "included_at_epoch": 1590794747.796701,
             "included_at_iso": "2020-05-29T23:25:47.796701",
@@ -21602,6 +21595,13 @@
             "included_at_iso": "2020-05-30T03:02:28.787371",
             "last_retested_at_epoch": 1592754025.956954,
             "last_retested_at_iso": "2020-06-21T15:40:25.956954",
+            "status": "INACTIVE"
+        },
+        "banners.amfibi.com": {
+            "included_at_epoch": 1592785345.17518,
+            "included_at_iso": "2020-06-22T00:22:25.175180",
+            "last_retested_at_epoch": 1592785345.17518,
+            "last_retested_at_iso": "2020-06-22T00:22:25.175180",
             "status": "INACTIVE"
         },
         "banners.animeerotico.com": {
