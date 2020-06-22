@@ -27939,6 +27939,13 @@
             "last_retested_at_iso": "2020-06-21T18:29:07.515443",
             "status": "INACTIVE"
         },
+        "traffic.adxprts.com": {
+            "included_at_epoch": 1592793741.988873,
+            "included_at_iso": "2020-06-22T02:42:21.988873",
+            "last_retested_at_epoch": 1592793741.988873,
+            "last_retested_at_iso": "2020-06-22T02:42:21.988873",
+            "status": "INACTIVE"
+        },
         "trafficedge.adk2x.com": {
             "included_at_epoch": 1590816616.423466,
             "included_at_iso": "2020-05-30T05:30:16.423466",
@@ -28441,6 +28448,13 @@
             "included_at_iso": "2020-05-30T05:42:33.354212",
             "last_retested_at_epoch": 1592765179.280914,
             "last_retested_at_iso": "2020-06-21T18:46:19.280914",
+            "status": "INACTIVE"
+        },
+        "www.adwareprofessional.com": {
+            "included_at_epoch": 1592793753.218839,
+            "included_at_iso": "2020-06-22T02:42:33.218839",
+            "last_retested_at_epoch": 1592793753.218839,
+            "last_retested_at_iso": "2020-06-22T02:42:33.218839",
             "status": "INACTIVE"
         },
         "www.affiliatefuel.com": {
