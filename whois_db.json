@@ -2122,12 +2122,12 @@
     "adial.co.uk": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adinfinity.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
-        "state": "past"
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
     },
     "adintelligence.net": {
         "epoch": 1615161600.0,
@@ -2292,7 +2292,7 @@
     "adnetserver.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnext.fr": {
         "epoch": 1616112000.0,
