@@ -23473,6 +23473,13 @@
             "last_retested_at_iso": "2020-06-29T15:54:16.419043",
             "status": "INACTIVE"
         },
+        "ads3.kompasads.com": {
+            "included_at_epoch": 1593519419.127429,
+            "included_at_iso": "2020-06-30T12:16:59.127429",
+            "last_retested_at_epoch": 1593519419.127429,
+            "last_retested_at_iso": "2020-06-30T12:16:59.127429",
+            "status": "INACTIVE"
+        },
         "ads30.hpg.com.br": {
             "included_at_epoch": 1593446056.528838,
             "included_at_iso": "2020-06-29T15:54:16.528838",
@@ -24143,6 +24150,13 @@
             "included_at_iso": "2020-06-27T15:22:53.061737",
             "last_retested_at_epoch": 1593446064.555153,
             "last_retested_at_iso": "2020-06-29T15:54:24.555153",
+            "status": "INACTIVE"
+        },
+        "adserver.hg-computer.de": {
+            "included_at_epoch": 1593519420.658449,
+            "included_at_iso": "2020-06-30T12:17:00.658449",
+            "last_retested_at_epoch": 1593519420.658449,
+            "last_retested_at_iso": "2020-06-30T12:17:00.658449",
             "status": "INACTIVE"
         },
         "adserver.humanux.com": {
