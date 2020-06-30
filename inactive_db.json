@@ -27519,6 +27519,13 @@
             "last_retested_at_iso": "2020-06-29T17:31:22.615033",
             "status": "INACTIVE"
         },
+        "djbanners.deadjournal.com": {
+            "included_at_epoch": 1593524946.259289,
+            "included_at_iso": "2020-06-30T13:49:06.259289",
+            "last_retested_at_epoch": 1593524946.259289,
+            "last_retested_at_iso": "2020-06-30T13:49:06.259289",
+            "status": "INACTIVE"
+        },
         "dmeserv.newsinc.com": {
             "included_at_epoch": 1593275532.243871,
             "included_at_iso": "2020-06-27T16:32:12.243871",
@@ -27960,6 +27967,13 @@
             "last_retested_at_iso": "2020-06-29T17:48:35.379168",
             "status": "INACTIVE"
         },
+        "faq.carpediem.fr": {
+            "included_at_epoch": 1593524951.479541,
+            "included_at_iso": "2020-06-30T13:49:11.479541",
+            "last_retested_at_epoch": 1593524951.479541,
+            "last_retested_at_iso": "2020-06-30T13:49:11.479541",
+            "status": "INACTIVE"
+        },
         "fast.twc.demdex.net": {
             "included_at_epoch": 1593276566.196115,
             "included_at_iso": "2020-06-27T16:49:26.196115",
@@ -28077,6 +28091,13 @@
             "included_at_iso": "2020-06-14T16:43:26.031326",
             "last_retested_at_epoch": 1593452918.338732,
             "last_retested_at_iso": "2020-06-29T17:48:38.338732",
+            "status": "INACTIVE"
+        },
+        "fr.64.clickintext.net": {
+            "included_at_epoch": 1593524953.180673,
+            "included_at_iso": "2020-06-30T13:49:13.180673",
+            "last_retested_at_epoch": 1593524953.180673,
+            "last_retested_at_iso": "2020-06-30T13:49:13.180673",
             "status": "INACTIVE"
         },
         "fr.sitestat.com": {
