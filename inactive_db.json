@@ -31761,6 +31761,13 @@
             "last_retested_at_iso": "2020-06-29T19:07:59.269786",
             "status": "INACTIVE"
         },
+        "statistics.s5.com": {
+            "included_at_epoch": 1593535626.258358,
+            "included_at_iso": "2020-06-30T16:47:06.258358",
+            "last_retested_at_epoch": 1593535626.258358,
+            "last_retested_at_iso": "2020-06-30T16:47:06.258358",
+            "status": "INACTIVE"
+        },
         "stats.ars4real.com": {
             "included_at_epoch": 1593281155.519485,
             "included_at_iso": "2020-06-27T18:05:55.519485",
@@ -32088,6 +32095,13 @@
             "included_at_iso": "2020-06-16T21:29:52.097449",
             "last_retested_at_epoch": 1593457690.412636,
             "last_retested_at_iso": "2020-06-29T19:08:10.412636",
+            "status": "INACTIVE"
+        },
+        "top.dating.lt": {
+            "included_at_epoch": 1593535634.676014,
+            "included_at_iso": "2020-06-30T16:47:14.676014",
+            "last_retested_at_epoch": 1593535634.676014,
+            "last_retested_at_iso": "2020-06-30T16:47:14.676014",
             "status": "INACTIVE"
         },
         "top.easy.lv": {
