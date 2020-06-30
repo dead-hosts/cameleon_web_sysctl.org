@@ -25517,6 +25517,13 @@
             "last_retested_at_iso": "2020-06-30T16:24:31.936828",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1593561537.822722,
+            "included_at_iso": "2020-06-30T23:58:57.822722",
+            "last_retested_at_epoch": 1593561537.822722,
+            "last_retested_at_iso": "2020-06-30T23:58:57.822722",
+            "status": "INACTIVE"
+        },
         "ar1.atwola.com": {
             "included_at_epoch": 1593273434.75017,
             "included_at_iso": "2020-06-27T15:57:14.750170",
@@ -25921,6 +25928,13 @@
             "included_at_iso": "2020-06-27T15:57:20.577942",
             "last_retested_at_epoch": 1593537237.811382,
             "last_retested_at_iso": "2020-06-30T17:13:57.811382",
+            "status": "INACTIVE"
+        },
+        "banners.amfibi.com": {
+            "included_at_epoch": 1593561540.612438,
+            "included_at_iso": "2020-06-30T23:59:00.612438",
+            "last_retested_at_epoch": 1593561540.612438,
+            "last_retested_at_iso": "2020-06-30T23:59:00.612438",
             "status": "INACTIVE"
         },
         "banners.animeerotico.com": {
