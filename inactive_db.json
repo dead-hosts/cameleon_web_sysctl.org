@@ -21086,6 +21086,13 @@
             "last_retested_at_iso": "2020-06-30T15:29:43.859720",
             "status": "INACTIVE"
         },
+        "adman.medius.net": {
+            "included_at_epoch": 1593559109.488892,
+            "included_at_iso": "2020-06-30T23:18:29.488892",
+            "last_retested_at_epoch": 1593559109.488892,
+            "last_retested_at_iso": "2020-06-30T23:18:29.488892",
+            "status": "INACTIVE"
+        },
         "admanager.tvysoftware.com": {
             "included_at_epoch": 1593270326.190786,
             "included_at_iso": "2020-06-27T15:05:26.190786",
@@ -21126,6 +21133,13 @@
             "included_at_iso": "2020-06-27T15:05:26.660322",
             "last_retested_at_epoch": 1593530984.281856,
             "last_retested_at_iso": "2020-06-30T15:29:44.281856",
+            "status": "INACTIVE"
+        },
+        "admin.waverevenue.com": {
+            "included_at_epoch": 1593559109.831076,
+            "included_at_iso": "2020-06-30T23:18:29.831076",
+            "last_retested_at_epoch": 1593559109.831076,
+            "last_retested_at_iso": "2020-06-30T23:18:29.831076",
             "status": "INACTIVE"
         },
         "adplexmedia.adk2x.com": {
