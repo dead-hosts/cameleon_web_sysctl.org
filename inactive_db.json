@@ -27694,6 +27694,13 @@
             "last_retested_at_iso": "2020-06-30T17:42:51.688717",
             "status": "INACTIVE"
         },
+        "ds.eyeblaster.com": {
+            "included_at_epoch": 1593563618.525617,
+            "included_at_iso": "2020-07-01T00:33:38.525617",
+            "last_retested_at_epoch": 1593563618.525617,
+            "last_retested_at_iso": "2020-07-01T00:33:38.525617",
+            "status": "INACTIVE"
+        },
         "dvcd.info": {
             "included_at_epoch": 1593275534.789901,
             "included_at_iso": "2020-06-27T16:32:14.789901",
@@ -27764,11 +27771,53 @@
             "last_retested_at_iso": "2020-06-30T17:42:52.626696",
             "status": "INACTIVE"
         },
+        "eas1.emediate.eu": {
+            "included_at_epoch": 1593563619.381569,
+            "included_at_iso": "2020-07-01T00:33:39.381569",
+            "last_retested_at_epoch": 1593563619.381569,
+            "last_retested_at_iso": "2020-07-01T00:33:39.381569",
+            "status": "INACTIVE"
+        },
+        "eas2.emediate.eu": {
+            "included_at_epoch": 1593563619.450491,
+            "included_at_iso": "2020-07-01T00:33:39.450491",
+            "last_retested_at_epoch": 1593563619.450491,
+            "last_retested_at_iso": "2020-07-01T00:33:39.450491",
+            "status": "INACTIVE"
+        },
+        "eas3.emediate.eu": {
+            "included_at_epoch": 1593563619.520549,
+            "included_at_iso": "2020-07-01T00:33:39.520549",
+            "last_retested_at_epoch": 1593563619.520549,
+            "last_retested_at_iso": "2020-07-01T00:33:39.520549",
+            "status": "INACTIVE"
+        },
         "eas3.emediate.se": {
             "included_at_epoch": 1593275536.434337,
             "included_at_iso": "2020-06-27T16:32:16.434337",
             "last_retested_at_epoch": 1593538972.914435,
             "last_retested_at_iso": "2020-06-30T17:42:52.914435",
+            "status": "INACTIVE"
+        },
+        "eas4.emediate.eu": {
+            "included_at_epoch": 1593563619.658427,
+            "included_at_iso": "2020-07-01T00:33:39.658427",
+            "last_retested_at_epoch": 1593563619.658427,
+            "last_retested_at_iso": "2020-07-01T00:33:39.658427",
+            "status": "INACTIVE"
+        },
+        "eas5.emediate.eu": {
+            "included_at_epoch": 1593563619.588846,
+            "included_at_iso": "2020-07-01T00:33:39.588846",
+            "last_retested_at_epoch": 1593563619.588846,
+            "last_retested_at_iso": "2020-07-01T00:33:39.588846",
+            "status": "INACTIVE"
+        },
+        "eas8.emediate.eu": {
+            "included_at_epoch": 1593563619.734114,
+            "included_at_iso": "2020-07-01T00:33:39.734114",
+            "last_retested_at_epoch": 1593563619.734114,
+            "last_retested_at_iso": "2020-07-01T00:33:39.734114",
             "status": "INACTIVE"
         },
         "ebony.sicfreehost.com": {
@@ -27825,6 +27874,13 @@
             "included_at_iso": "2020-06-27T16:49:22.890106",
             "last_retested_at_epoch": 1593538973.705578,
             "last_retested_at_iso": "2020-06-30T17:42:53.705578",
+            "status": "INACTIVE"
+        },
+        "engine.adclick.lv": {
+            "included_at_epoch": 1593563621.361821,
+            "included_at_iso": "2020-07-01T00:33:41.361821",
+            "last_retested_at_epoch": 1593563621.361821,
+            "last_retested_at_iso": "2020-07-01T00:33:41.361821",
             "status": "INACTIVE"
         },
         "enjoyspringtime.com": {
@@ -28077,6 +28133,13 @@
             "included_at_iso": "2020-06-30T13:49:13.180673",
             "last_retested_at_epoch": 1593524953.180673,
             "last_retested_at_iso": "2020-06-30T13:49:13.180673",
+            "status": "INACTIVE"
+        },
+        "fr.cim.clickintext.net": {
+            "included_at_epoch": 1593563625.057758,
+            "included_at_iso": "2020-07-01T00:33:45.057758",
+            "last_retested_at_epoch": 1593563625.057758,
+            "last_retested_at_iso": "2020-07-01T00:33:45.057758",
             "status": "INACTIVE"
         },
         "fr.sitestat.com": {
