@@ -30515,6 +30515,13 @@
             "last_retested_at_iso": "2020-06-30T18:50:13.048293",
             "status": "INACTIVE"
         },
+        "pics.kolmic.com": {
+            "included_at_epoch": 1593566402.143137,
+            "included_at_iso": "2020-07-01T01:20:02.143137",
+            "last_retested_at_epoch": 1593566402.143137,
+            "last_retested_at_iso": "2020-07-01T01:20:02.143137",
+            "status": "INACTIVE"
+        },
         "ping1.unicast.com": {
             "included_at_epoch": 1593279073.830494,
             "included_at_iso": "2020-06-27T17:31:13.830494",
@@ -30669,11 +30676,25 @@
             "last_retested_at_iso": "2020-06-30T19:04:44.795626",
             "status": "INACTIVE"
         },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1593566405.254329,
+            "included_at_iso": "2020-07-01T01:20:05.254329",
+            "last_retested_at_epoch": 1593566405.254329,
+            "last_retested_at_iso": "2020-07-01T01:20:05.254329",
+            "status": "INACTIVE"
+        },
         "promo.hdvbucks.com": {
             "included_at_epoch": 1593280107.226999,
             "included_at_iso": "2020-06-27T17:48:27.226999",
             "last_retested_at_epoch": 1593543884.86789,
             "last_retested_at_iso": "2020-06-30T19:04:44.867890",
+            "status": "INACTIVE"
+        },
+        "prompt.zangocash.com": {
+            "included_at_epoch": 1593566405.618556,
+            "included_at_iso": "2020-07-01T01:20:05.618556",
+            "last_retested_at_epoch": 1593566405.618556,
+            "last_retested_at_iso": "2020-07-01T01:20:05.618556",
             "status": "INACTIVE"
         },
         "proxy.softonicads.com": {
