@@ -20953,6 +20953,13 @@
             "last_retested_at_iso": "2020-07-02T15:42:27.350944",
             "status": "INACTIVE"
         },
+        "adchannel.adintelligence.net": {
+            "included_at_epoch": 1593776796.553623,
+            "included_at_iso": "2020-07-03T11:46:36.553623",
+            "last_retested_at_epoch": 1593776796.553623,
+            "last_retested_at_iso": "2020-07-03T11:46:36.553623",
+            "status": "INACTIVE"
+        },
         "adclient.163.com": {
             "included_at_epoch": 1593443830.995328,
             "included_at_iso": "2020-06-29T15:17:10.995328",
@@ -21219,6 +21226,13 @@
             "last_retested_at_iso": "2020-07-02T15:42:33.038923",
             "status": "INACTIVE"
         },
+        "ads.ahds.ac.uk": {
+            "included_at_epoch": 1593776799.76536,
+            "included_at_iso": "2020-07-03T11:46:39.765360",
+            "last_retested_at_epoch": 1593776799.76536,
+            "last_retested_at_iso": "2020-07-03T11:46:39.765360",
+            "status": "INACTIVE"
+        },
         "ads.allotraffic.com": {
             "included_at_epoch": 1591455027.850966,
             "included_at_iso": "2020-06-06T14:50:27.850966",
@@ -21308,6 +21322,13 @@
             "included_at_iso": "2020-06-27T15:05:29.550052",
             "last_retested_at_epoch": 1593704554.111514,
             "last_retested_at_iso": "2020-07-02T15:42:34.111514",
+            "status": "INACTIVE"
+        },
+        "ads.bta.bg": {
+            "included_at_epoch": 1593776800.031828,
+            "included_at_iso": "2020-07-03T11:46:40.031828",
+            "last_retested_at_epoch": 1593776800.031828,
+            "last_retested_at_iso": "2020-07-03T11:46:40.031828",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -21679,6 +21700,20 @@
             "included_at_iso": "2020-06-27T15:05:32.869419",
             "last_retested_at_epoch": 1593704558.87018,
             "last_retested_at_iso": "2020-07-02T15:42:38.870180",
+            "status": "INACTIVE"
+        },
+        "ads.liteweb.net": {
+            "included_at_epoch": 1593776801.049606,
+            "included_at_iso": "2020-07-03T11:46:41.049606",
+            "last_retested_at_epoch": 1593776801.049606,
+            "last_retested_at_iso": "2020-07-03T11:46:41.049606",
+            "status": "INACTIVE"
+        },
+        "ads.luno.net": {
+            "included_at_epoch": 1593776801.136848,
+            "included_at_iso": "2020-07-03T11:46:41.136848",
+            "last_retested_at_epoch": 1593776801.136848,
+            "last_retested_at_iso": "2020-07-03T11:46:41.136848",
             "status": "INACTIVE"
         },
         "ads.lycos-europe.com": {
