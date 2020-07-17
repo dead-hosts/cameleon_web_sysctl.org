@@ -57,7 +57,7 @@
     "0aaa.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "0catch.com": {
         "epoch": 1607040000.0,
@@ -725,9 +725,9 @@
         "state": "future"
     },
     "404search.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "40best.com": {
         "epoch": 1597536000.0,
