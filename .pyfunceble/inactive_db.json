@@ -21464,6 +21464,13 @@
             "last_retested_at_iso": "2020-07-18T23:07:06.971490",
             "status": "INACTIVE"
         },
+        "ads.epatra.com": {
+            "included_at_epoch": 1595157792.788942,
+            "included_at_iso": "2020-07-19T11:23:12.788942",
+            "last_retested_at_epoch": 1595157792.788942,
+            "last_retested_at_iso": "2020-07-19T11:23:12.788942",
+            "status": "INACTIVE"
+        },
         "ads.expedia.com": {
             "included_at_epoch": 1593270330.91978,
             "included_at_iso": "2020-06-27T15:05:30.919780",
