@@ -33056,6 +33056,13 @@
             "last_retested_at_iso": "2020-07-19T03:29:17.299191",
             "status": "INACTIVE"
         },
+        "tags.rtbidder.net": {
+            "included_at_epoch": 1595170456.290582,
+            "included_at_iso": "2020-07-19T14:54:16.290582",
+            "last_retested_at_epoch": 1595170456.290582,
+            "last_retested_at_iso": "2020-07-19T14:54:16.290582",
+            "status": "INACTIVE"
+        },
         "talkcity.realtracker.com": {
             "included_at_epoch": 1593281161.492901,
             "included_at_iso": "2020-06-27T18:06:01.492901",
