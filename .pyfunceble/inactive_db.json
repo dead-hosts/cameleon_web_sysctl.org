@@ -28492,6 +28492,13 @@
             "last_retested_at_iso": "2020-07-19T01:51:57.987146",
             "status": "INACTIVE"
         },
+        "dlx.getupdate.com": {
+            "included_at_epoch": 1595166030.428587,
+            "included_at_iso": "2020-07-19T13:40:30.428587",
+            "last_retested_at_epoch": 1595166030.428587,
+            "last_retested_at_iso": "2020-07-19T13:40:30.428587",
+            "status": "INACTIVE"
+        },
         "dmeserv.newsinc.com": {
             "included_at_epoch": 1593275532.243871,
             "included_at_iso": "2020-06-27T16:32:12.243871",
