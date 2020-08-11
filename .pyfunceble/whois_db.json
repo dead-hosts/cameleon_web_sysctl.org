@@ -3965,8 +3965,8 @@
         "state": "future"
     },
     "all-rise.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "all-ru.net": {
@@ -4042,7 +4042,7 @@
     "allinternal.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "alllotto.com": {
         "epoch": 1848528000.0,
@@ -4235,9 +4235,9 @@
         "state": "future"
     },
     "alterproject.org": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "altmatchmaker.com": {
         "epoch": 1619222400.0,
@@ -4875,9 +4875,9 @@
         "state": "future"
     },
     "aplus.net": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "apornmovie.com": {
         "epoch": 1612396800.0,
