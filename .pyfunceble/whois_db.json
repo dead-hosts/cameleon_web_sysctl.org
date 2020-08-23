@@ -8312,7 +8312,7 @@
     "intermediaceli.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "internetsecurity.com": {
         "epoch": 1613433600.0,
@@ -8580,9 +8580,9 @@
         "state": "future"
     },
     "litas.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "lo2.me": {
         "epoch": 1604016000.0,
