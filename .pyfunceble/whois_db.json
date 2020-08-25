@@ -47,7 +47,7 @@
     "077.us": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "0900.com": {
         "epoch": 1731888000.0,
@@ -557,7 +557,7 @@
     "29bca6cb72a665c8.se": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "2asian.com": {
         "epoch": 1603411200.0,
