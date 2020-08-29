@@ -18931,10 +18931,10 @@
             "status": "INACTIVE"
         },
         "ad2.rambler.ru": {
-            "included_at_epoch": 1596294934.921344,
-            "included_at_iso": "2020-08-01T15:15:34.921344",
-            "last_retested_at_epoch": 1598543071.635043,
-            "last_retested_at_iso": "2020-08-27T15:44:31.635043",
+            "included_at_epoch": 1598715056.720184,
+            "included_at_iso": "2020-08-29T15:30:56.720184",
+            "last_retested_at_epoch": 1598715056.720184,
+            "last_retested_at_iso": "2020-08-29T15:30:56.720184",
             "status": "INACTIVE"
         },
         "ad2.vuiads.net": {
@@ -21364,6 +21364,13 @@
             "included_at_iso": "2020-08-23T16:18:12.713188",
             "last_retested_at_epoch": 1598544769.341942,
             "last_retested_at_iso": "2020-08-27T16:12:49.341942",
+            "status": "INACTIVE"
+        },
+        "ads.bta.bg": {
+            "included_at_epoch": 1598715059.109042,
+            "included_at_iso": "2020-08-29T15:30:59.109042",
+            "last_retested_at_epoch": 1598715059.109042,
+            "last_retested_at_iso": "2020-08-29T15:30:59.109042",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
