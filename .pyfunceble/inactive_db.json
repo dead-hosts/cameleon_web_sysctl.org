@@ -21920,10 +21920,10 @@
             "status": "INACTIVE"
         },
         "ads.playboy.bg": {
-            "included_at_epoch": 1596295988.613438,
-            "included_at_iso": "2020-08-01T15:33:08.613438",
-            "last_retested_at_epoch": 1598544776.422625,
-            "last_retested_at_iso": "2020-08-27T16:12:56.422625",
+            "included_at_epoch": 1598716087.92498,
+            "included_at_iso": "2020-08-29T15:48:07.924980",
+            "last_retested_at_epoch": 1598716087.92498,
+            "last_retested_at_iso": "2020-08-29T15:48:07.924980",
             "status": "INACTIVE"
         },
         "ads.playnet.nl": {
@@ -23429,6 +23429,13 @@
             "included_at_iso": "2020-08-25T16:50:06.600839",
             "last_retested_at_epoch": 1598546990.833043,
             "last_retested_at_iso": "2020-08-27T16:49:50.833043",
+            "status": "INACTIVE"
+        },
+        "ads2.nextmedia.bg": {
+            "included_at_epoch": 1598716089.02167,
+            "included_at_iso": "2020-08-29T15:48:09.021670",
+            "last_retested_at_epoch": 1598716089.02167,
+            "last_retested_at_iso": "2020-08-29T15:48:09.021670",
             "status": "INACTIVE"
         },
         "ads2.victoriaadvocate.com": {
