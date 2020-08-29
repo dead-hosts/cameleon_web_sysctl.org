@@ -27155,13 +27155,6 @@
             "last_retested_at_iso": "2020-08-27T18:07:40.334251",
             "status": "INACTIVE"
         },
-        "cdn1.clkads.com": {
-            "included_at_epoch": 1596300173.412905,
-            "included_at_iso": "2020-08-01T16:42:53.412905",
-            "last_retested_at_epoch": 1598551660.615253,
-            "last_retested_at_iso": "2020-08-27T18:07:40.615253",
-            "status": "INACTIVE"
-        },
         "cdn1.clkmon.com": {
             "included_at_epoch": 1598204377.550453,
             "included_at_iso": "2020-08-23T17:39:37.550453",
@@ -27349,13 +27342,6 @@
             "included_at_iso": "2020-08-23T17:39:41.009299",
             "last_retested_at_epoch": 1598551664.315538,
             "last_retested_at_iso": "2020-08-27T18:07:44.315538",
-            "status": "INACTIVE"
-        },
-        "click.cheapstuff.com": {
-            "included_at_epoch": 1596300177.139262,
-            "included_at_iso": "2020-08-01T16:42:57.139262",
-            "last_retested_at_epoch": 1598551664.395127,
-            "last_retested_at_iso": "2020-08-27T18:07:44.395127",
             "status": "INACTIVE"
         },
         "click.dealshark.com": {
