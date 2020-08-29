@@ -11306,7 +11306,8 @@
     "yesup.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "yllix.com": {
         "epoch": 1648598400.0,
