@@ -7544,6 +7544,7 @@
     "fasttrack.nu": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "server": "whois.iis.nu",
         "state": "past"
     },
     "fastwebcounter.com": {
@@ -8382,9 +8383,10 @@
         "state": "future"
     },
     "jadcenter.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "jizzads.com": {
         "epoch": 1621555200.0,
@@ -8459,6 +8461,7 @@
     "keygen.us": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "server": "whois.nic.us",
         "state": "past"
     },
     "keywebtracker.com": {
