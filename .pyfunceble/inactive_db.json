@@ -28324,13 +28324,6 @@
             "last_retested_at_iso": "2020-08-27T18:25:55.530645",
             "status": "INACTIVE"
         },
-        "dynamic.fmpub.net": {
-            "included_at_epoch": 1596301225.831364,
-            "included_at_iso": "2020-08-01T17:00:25.831364",
-            "last_retested_at_epoch": 1598552755.602354,
-            "last_retested_at_iso": "2020-08-27T18:25:55.602354",
-            "status": "INACTIVE"
-        },
         "dynamix.trafficrevmaster.com": {
             "included_at_epoch": 1598205882.4841,
             "included_at_iso": "2020-08-23T18:04:42.484100",
@@ -28672,13 +28665,6 @@
             "included_at_iso": "2020-08-09T18:16:04.978963",
             "last_retested_at_epoch": 1598553807.904243,
             "last_retested_at_iso": "2020-08-27T18:43:27.904243",
-            "status": "INACTIVE"
-        },
-        "fips.uimserv.net": {
-            "included_at_epoch": 1596301234.672031,
-            "included_at_iso": "2020-08-01T17:00:34.672031",
-            "last_retested_at_epoch": 1598553807.974573,
-            "last_retested_at_iso": "2020-08-27T18:43:27.974573",
             "status": "INACTIVE"
         },
         "flx367.lporirxe.com": {
@@ -29106,13 +29092,6 @@
             "included_at_iso": "2020-08-23T18:22:09.616942",
             "last_retested_at_epoch": 1598553821.221188,
             "last_retested_at_iso": "2020-08-27T18:43:41.221188",
-            "status": "INACTIVE"
-        },
-        "hqdrugs.com": {
-            "included_at_epoch": 1596302269.206439,
-            "included_at_iso": "2020-08-01T17:17:49.206439",
-            "last_retested_at_epoch": 1598553821.440677,
-            "last_retested_at_iso": "2020-08-27T18:43:41.440677",
             "status": "INACTIVE"
         },
         "hutchmedia.t.domdex.com": {
@@ -33894,6 +33873,13 @@
             "included_at_iso": "2020-08-23T20:08:28.591180",
             "last_retested_at_epoch": 1598561400.046515,
             "last_retested_at_iso": "2020-08-27T20:50:00.046515",
+            "status": "INACTIVE"
+        },
+        "www.dimkus.com": {
+            "included_at_epoch": 1598722383.278237,
+            "included_at_iso": "2020-08-29T17:33:03.278237",
+            "last_retested_at_epoch": 1598722383.278237,
+            "last_retested_at_iso": "2020-08-29T17:33:03.278237",
             "status": "INACTIVE"
         },
         "www.disable-uac.com": {
