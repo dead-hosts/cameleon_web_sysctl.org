@@ -26693,13 +26693,6 @@
             "last_retested_at_iso": "2020-08-27T17:37:00.987345",
             "status": "INACTIVE"
         },
-        "beacon.tunecore.com": {
-            "included_at_epoch": 1596299130.391995,
-            "included_at_iso": "2020-08-01T16:25:30.391995",
-            "last_retested_at_epoch": 1598549821.085349,
-            "last_retested_at_iso": "2020-08-27T17:37:01.085349",
-            "status": "INACTIVE"
-        },
         "becounted.baja.com": {
             "included_at_epoch": 1598203098.019145,
             "included_at_iso": "2020-08-23T17:18:18.019145",
@@ -27027,13 +27020,6 @@
             "included_at_iso": "2020-08-23T17:18:34.182456",
             "last_retested_at_epoch": 1598551657.724139,
             "last_retested_at_iso": "2020-08-27T18:07:37.724139",
-            "status": "INACTIVE"
-        },
-        "cc.simplereach.com": {
-            "included_at_epoch": 1596299146.498164,
-            "included_at_iso": "2020-08-01T16:25:46.498164",
-            "last_retested_at_epoch": 1598551657.654885,
-            "last_retested_at_iso": "2020-08-27T18:07:37.654885",
             "status": "INACTIVE"
         },
         "cc12797.counter.hackers.lv": {

@@ -9392,6 +9392,7 @@
     "php4you.biz": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "pimpout.com": {
@@ -9577,6 +9578,7 @@
     "prosearchs.in": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "protect-x.com": {
@@ -9885,8 +9887,9 @@
         "state": "future"
     },
     "rivasearchpage.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ro2.biz": {
