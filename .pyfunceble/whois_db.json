@@ -6382,7 +6382,8 @@
     "cliter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clixpy.com": {
         "epoch": 1614902400.0,
@@ -6772,6 +6773,7 @@
     "d9ae99824.se": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "server": "whois.iis.se",
         "state": "past"
     },
     "daditraff.cn": {

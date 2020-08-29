@@ -24824,13 +24824,6 @@
             "last_retested_at_iso": "2020-08-27T17:07:16.003295",
             "status": "INACTIVE"
         },
-        "aduvid.com": {
-            "included_at_epoch": 1596297056.275379,
-            "included_at_iso": "2020-08-01T15:50:56.275379",
-            "last_retested_at_epoch": 1598548036.076182,
-            "last_retested_at_iso": "2020-08-27T17:07:16.076182",
-            "status": "INACTIVE"
-        },
         "adv.0tub.com": {
             "included_at_epoch": 1598201680.4445,
             "included_at_iso": "2020-08-23T16:54:40.444500",
@@ -27720,6 +27713,13 @@
             "included_at_iso": "2020-08-23T17:39:48.976648",
             "last_retested_at_epoch": 1598552741.131984,
             "last_retested_at_iso": "2020-08-27T18:25:41.131984",
+            "status": "INACTIVE"
+        },
+        "counter.webservis.gen.tr": {
+            "included_at_epoch": 1598718176.592296,
+            "included_at_iso": "2020-08-29T16:22:56.592296",
+            "last_retested_at_epoch": 1598718176.592296,
+            "last_retested_at_iso": "2020-08-29T16:22:56.592296",
             "status": "INACTIVE"
         },
         "cpatrack.leadn.com": {
