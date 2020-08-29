@@ -22123,10 +22123,10 @@
             "status": "INACTIVE"
         },
         "ads.tradeads.eu": {
-            "included_at_epoch": 1596295991.168451,
-            "included_at_iso": "2020-08-01T15:33:11.168451",
-            "last_retested_at_epoch": 1598544778.966095,
-            "last_retested_at_iso": "2020-08-27T16:12:58.966095",
+            "included_at_epoch": 1598717130.068162,
+            "included_at_iso": "2020-08-29T16:05:30.068162",
+            "last_retested_at_epoch": 1598717130.068162,
+            "last_retested_at_iso": "2020-08-29T16:05:30.068162",
             "status": "INACTIVE"
         },
         "ads.trafficleader.com": {
@@ -26357,6 +26357,13 @@
             "last_retested_at_iso": "2020-08-27T17:36:54.659143",
             "status": "INACTIVE"
         },
+        "banner.0catch.com": {
+            "included_at_epoch": 1598717134.274165,
+            "included_at_iso": "2020-08-29T16:05:34.274165",
+            "last_retested_at_epoch": 1598717134.274165,
+            "last_retested_at_iso": "2020-08-29T16:05:34.274165",
+            "status": "INACTIVE"
+        },
         "banner.adtrgt.com": {
             "included_at_epoch": 1598203092.215367,
             "included_at_iso": "2020-08-23T17:18:12.215367",
@@ -26467,6 +26474,13 @@
             "included_at_iso": "2020-08-23T17:18:13.789561",
             "last_retested_at_epoch": 1598549816.820277,
             "last_retested_at_iso": "2020-08-27T17:36:56.820277",
+            "status": "INACTIVE"
+        },
+        "bannerimages.0catch.com": {
+            "included_at_epoch": 1598717134.667566,
+            "included_at_iso": "2020-08-29T16:05:34.667566",
+            "last_retested_at_epoch": 1598717134.667566,
+            "last_retested_at_iso": "2020-08-29T16:05:34.667566",
             "status": "INACTIVE"
         },
         "banners.777-xxx.com": {
