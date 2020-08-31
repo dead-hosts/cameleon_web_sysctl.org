@@ -27064,6 +27064,13 @@
             "last_retested_at_iso": "2020-08-27T18:07:37.724139",
             "status": "INACTIVE"
         },
+        "cc.simplereach.com": {
+            "included_at_epoch": 1598892400.687588,
+            "included_at_iso": "2020-08-31T16:46:40.687588",
+            "last_retested_at_epoch": 1598892400.687588,
+            "last_retested_at_iso": "2020-08-31T16:46:40.687588",
+            "status": "INACTIVE"
+        },
         "cc12797.counter.hackers.lv": {
             "included_at_epoch": 1598203114.325375,
             "included_at_iso": "2020-08-23T17:18:34.325375",
@@ -27195,6 +27202,13 @@
             "included_at_iso": "2020-08-23T17:39:37.226236",
             "last_retested_at_epoch": 1598551660.334251,
             "last_retested_at_iso": "2020-08-27T18:07:40.334251",
+            "status": "INACTIVE"
+        },
+        "cdn1.clkads.com": {
+            "included_at_epoch": 1598892401.928407,
+            "included_at_iso": "2020-08-31T16:46:41.928407",
+            "last_retested_at_epoch": 1598892401.928407,
+            "last_retested_at_iso": "2020-08-31T16:46:41.928407",
             "status": "INACTIVE"
         },
         "cdn1.clkmon.com": {
@@ -27358,6 +27372,13 @@
             "last_retested_at_iso": "2020-08-27T18:07:43.543593",
             "status": "INACTIVE"
         },
+        "ck.ads.affinity.com": {
+            "included_at_epoch": 1598892402.861913,
+            "included_at_iso": "2020-08-31T16:46:42.861913",
+            "last_retested_at_epoch": 1598892402.861913,
+            "last_retested_at_iso": "2020-08-31T16:46:42.861913",
+            "status": "INACTIVE"
+        },
         "cldcon.ewizard.cc": {
             "included_at_epoch": 1598204380.755527,
             "included_at_iso": "2020-08-23T17:39:40.755527",
@@ -27379,6 +27400,13 @@
             "last_retested_at_iso": "2020-08-27T18:07:44.315538",
             "status": "INACTIVE"
         },
+        "click.cheapstuff.com": {
+            "included_at_epoch": 1598892403.077888,
+            "included_at_iso": "2020-08-31T16:46:43.077888",
+            "last_retested_at_epoch": 1598892403.077888,
+            "last_retested_at_iso": "2020-08-31T16:46:43.077888",
+            "status": "INACTIVE"
+        },
         "click.dealshark.com": {
             "included_at_epoch": 1598204381.153139,
             "included_at_iso": "2020-08-23T17:39:41.153139",
@@ -27391,6 +27419,13 @@
             "included_at_iso": "2020-08-23T17:39:41.230124",
             "last_retested_at_epoch": 1598551664.465987,
             "last_retested_at_iso": "2020-08-27T18:07:44.465987",
+            "status": "INACTIVE"
+        },
+        "click.holland-billing.com": {
+            "included_at_epoch": 1598892403.156022,
+            "included_at_iso": "2020-08-31T16:46:43.156022",
+            "last_retested_at_epoch": 1598892403.156022,
+            "last_retested_at_iso": "2020-08-31T16:46:43.156022",
             "status": "INACTIVE"
         },
         "click.mp3.com": {
@@ -30781,13 +30816,6 @@
             "last_retested_at_iso": "2020-08-27T19:42:57.862236",
             "status": "INACTIVE"
         },
-        "oneund.ru": {
-            "included_at_epoch": 1596471479.752668,
-            "included_at_iso": "2020-08-03T16:17:59.752668",
-            "last_retested_at_epoch": 1598557378.257022,
-            "last_retested_at_iso": "2020-08-27T19:42:58.257022",
-            "status": "INACTIVE"
-        },
         "onlineadserv.com": {
             "included_at_epoch": 1598207993.516508,
             "included_at_iso": "2020-08-23T18:39:53.516508",
@@ -31206,13 +31234,6 @@
             "included_at_iso": "2020-08-23T18:57:02.965255",
             "last_retested_at_epoch": 1598557386.866399,
             "last_retested_at_iso": "2020-08-27T19:43:06.866399",
-            "status": "INACTIVE"
-        },
-        "pix.silverpush.co": {
-            "included_at_epoch": 1596471488.742571,
-            "included_at_iso": "2020-08-03T16:18:08.742571",
-            "last_retested_at_epoch": 1598557386.941931,
-            "last_retested_at_iso": "2020-08-27T19:43:06.941931",
             "status": "INACTIVE"
         },
         "pixel.adadvisor.net": {
