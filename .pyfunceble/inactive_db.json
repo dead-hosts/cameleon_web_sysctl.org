@@ -22213,6 +22213,13 @@
             "last_retested_at_iso": "2020-08-27T16:13:00.013006",
             "status": "INACTIVE"
         },
+        "ads.webads360.com": {
+            "included_at_epoch": 1598890149.02482,
+            "included_at_iso": "2020-08-31T16:09:09.024820",
+            "last_retested_at_epoch": 1598890149.02482,
+            "last_retested_at_iso": "2020-08-31T16:09:09.024820",
+            "status": "INACTIVE"
+        },
         "ads.win.rs": {
             "included_at_epoch": 1597508887.919391,
             "included_at_iso": "2020-08-15T16:28:07.919391",
@@ -28793,13 +28800,6 @@
             "last_retested_at_iso": "2020-08-27T18:43:34.123767",
             "status": "INACTIVE"
         },
-        "go.oneund.ru": {
-            "included_at_epoch": 1596468671.696818,
-            "included_at_iso": "2020-08-03T15:31:11.696818",
-            "last_retested_at_epoch": 1598553814.267529,
-            "last_retested_at_iso": "2020-08-27T18:43:34.267529",
-            "status": "INACTIVE"
-        },
         "go.play3w.com": {
             "included_at_epoch": 1597695346.299418,
             "included_at_iso": "2020-08-17T20:15:46.299418",
@@ -29827,13 +29827,6 @@
             "included_at_iso": "2020-08-23T18:22:26.353382",
             "last_retested_at_epoch": 1598554874.791722,
             "last_retested_at_iso": "2020-08-27T19:01:14.791722",
-            "status": "INACTIVE"
-        },
-        "logc400.xiti.com": {
-            "included_at_epoch": 1596469720.344358,
-            "included_at_iso": "2020-08-03T15:48:40.344358",
-            "last_retested_at_epoch": 1598554875.018209,
-            "last_retested_at_iso": "2020-08-27T19:01:15.018209",
             "status": "INACTIVE"
         },
         "logc7.xiti.com": {
