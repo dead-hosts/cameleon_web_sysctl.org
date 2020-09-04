@@ -21682,10 +21682,10 @@
             "status": "INACTIVE"
         },
         "ads.i-am-bored.com": {
-            "included_at_epoch": 1596814938.285459,
-            "included_at_iso": "2020-08-07T15:42:18.285459",
-            "last_retested_at_epoch": 1598544773.094661,
-            "last_retested_at_iso": "2020-08-27T16:12:53.094661",
+            "included_at_epoch": 1599235709.631094,
+            "included_at_iso": "2020-09-04T16:08:29.631094",
+            "last_retested_at_epoch": 1599235709.631094,
+            "last_retested_at_iso": "2020-09-04T16:08:29.631094",
             "status": "INACTIVE"
         },
         "ads.iac-online.de": {
@@ -22081,10 +22081,10 @@
             "status": "INACTIVE"
         },
         "ads.sopeng.com": {
-            "included_at_epoch": 1596814943.130242,
-            "included_at_iso": "2020-08-07T15:42:23.130242",
-            "last_retested_at_epoch": 1598544778.050086,
-            "last_retested_at_iso": "2020-08-27T16:12:58.050086",
+            "included_at_epoch": 1599235709.712566,
+            "included_at_iso": "2020-09-04T16:08:29.712566",
+            "last_retested_at_epoch": 1599235709.712566,
+            "last_retested_at_iso": "2020-09-04T16:08:29.712566",
             "status": "INACTIVE"
         },
         "ads.sports.fr": {
@@ -22102,17 +22102,17 @@
             "status": "INACTIVE"
         },
         "ads.tdbank.com": {
-            "included_at_epoch": 1596814943.463592,
-            "included_at_iso": "2020-08-07T15:42:23.463592",
-            "last_retested_at_epoch": 1598544778.383868,
-            "last_retested_at_iso": "2020-08-27T16:12:58.383868",
+            "included_at_epoch": 1599235709.783783,
+            "included_at_iso": "2020-09-04T16:08:29.783783",
+            "last_retested_at_epoch": 1599235709.783783,
+            "last_retested_at_iso": "2020-09-04T16:08:29.783783",
             "status": "INACTIVE"
         },
         "ads.tdcanadatrust.com": {
-            "included_at_epoch": 1596814943.530447,
-            "included_at_iso": "2020-08-07T15:42:23.530447",
-            "last_retested_at_epoch": 1598544778.459215,
-            "last_retested_at_iso": "2020-08-27T16:12:58.459215",
+            "included_at_epoch": 1599235709.855828,
+            "included_at_iso": "2020-09-04T16:08:29.855828",
+            "last_retested_at_epoch": 1599235709.855828,
+            "last_retested_at_iso": "2020-09-04T16:08:29.855828",
             "status": "INACTIVE"
         },
         "ads.telegraph.co.uk": {
@@ -25762,6 +25762,13 @@
             "last_retested_at_iso": "2020-08-27T17:07:27.207999",
             "status": "INACTIVE"
         },
+        "affiliate.trk4.com": {
+            "included_at_epoch": 1599235713.10095,
+            "included_at_iso": "2020-09-04T16:08:33.100950",
+            "last_retested_at_epoch": 1599235713.10095,
+            "last_retested_at_iso": "2020-09-04T16:08:33.100950",
+            "status": "INACTIVE"
+        },
         "affiliates.internationaljock.com": {
             "included_at_epoch": 1598201691.018234,
             "included_at_iso": "2020-08-23T16:54:51.018234",
@@ -26411,6 +26418,13 @@
             "included_at_iso": "2020-08-23T16:55:05.089541",
             "last_retested_at_epoch": 1598549811.965498,
             "last_retested_at_iso": "2020-08-27T17:36:51.965498",
+            "status": "INACTIVE"
+        },
+        "atlaseducation.aavalue.com": {
+            "included_at_epoch": 1599235716.194149,
+            "included_at_iso": "2020-09-04T16:08:36.194149",
+            "last_retested_at_epoch": 1599235716.194149,
+            "last_retested_at_iso": "2020-09-04T16:08:36.194149",
             "status": "INACTIVE"
         },
         "attribution.webmarketing123.com": {
