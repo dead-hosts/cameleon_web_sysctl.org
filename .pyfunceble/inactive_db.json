@@ -22073,6 +22073,13 @@
             "last_retested_at_iso": "2020-08-27T16:12:57.905468",
             "status": "INACTIVE"
         },
+        "ads.sooran.ir": {
+            "included_at_epoch": 1599233607.738848,
+            "included_at_iso": "2020-09-04T15:33:27.738848",
+            "last_retested_at_epoch": 1599233607.738848,
+            "last_retested_at_iso": "2020-09-04T15:33:27.738848",
+            "status": "INACTIVE"
+        },
         "ads.sopeng.com": {
             "included_at_epoch": 1596814943.130242,
             "included_at_iso": "2020-08-07T15:42:23.130242",
@@ -22134,6 +22141,13 @@
             "included_at_iso": "2020-08-23T16:18:21.336356",
             "last_retested_at_epoch": 1598544778.767287,
             "last_retested_at_iso": "2020-08-27T16:12:58.767287",
+            "status": "INACTIVE"
+        },
+        "ads.today.com": {
+            "included_at_epoch": 1599233607.952184,
+            "included_at_iso": "2020-09-04T15:33:27.952184",
+            "last_retested_at_epoch": 1599233607.952184,
+            "last_retested_at_iso": "2020-09-04T15:33:27.952184",
             "status": "INACTIVE"
         },
         "ads.torrpedo.net": {
