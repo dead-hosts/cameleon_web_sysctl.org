@@ -26056,13 +26056,6 @@
             "last_retested_at_iso": "2020-08-27T17:36:44.759555",
             "status": "INACTIVE"
         },
-        "analyticsv2.dol.gr": {
-            "included_at_epoch": 1596818218.923298,
-            "included_at_iso": "2020-08-07T16:36:58.923298",
-            "last_retested_at_epoch": 1598549804.974988,
-            "last_retested_at_iso": "2020-08-27T17:36:44.974988",
-            "status": "INACTIVE"
-        },
         "anat.tacoda.net": {
             "included_at_epoch": 1598201698.579103,
             "included_at_iso": "2020-08-23T16:54:58.579103",
@@ -26243,13 +26236,6 @@
             "included_at_iso": "2020-08-23T16:55:02.583145",
             "last_retested_at_epoch": 1598549809.338651,
             "last_retested_at_iso": "2020-08-27T17:36:49.338651",
-            "status": "INACTIVE"
-        },
-        "apps.advertlets.com": {
-            "included_at_epoch": 1596818223.469686,
-            "included_at_iso": "2020-08-07T16:37:03.469686",
-            "last_retested_at_epoch": 1598549809.520831,
-            "last_retested_at_iso": "2020-08-27T17:36:49.520831",
             "status": "INACTIVE"
         },
         "ar1.atwola.com": {
@@ -30226,6 +30212,20 @@
             "included_at_iso": "2020-08-23T18:39:30.076583",
             "last_retested_at_epoch": 1598554876.069558,
             "last_retested_at_iso": "2020-08-27T19:01:16.069558",
+            "status": "INACTIVE"
+        },
+        "lottofanatic.aavalue.com": {
+            "included_at_epoch": 1599238844.788545,
+            "included_at_iso": "2020-09-04T17:00:44.788545",
+            "last_retested_at_epoch": 1599238844.788545,
+            "last_retested_at_iso": "2020-09-04T17:00:44.788545",
+            "status": "INACTIVE"
+        },
+        "lovefreegames.aavalue.com": {
+            "included_at_epoch": 1599238844.862341,
+            "included_at_iso": "2020-09-04T17:00:44.862341",
+            "last_retested_at_epoch": 1599238844.862341,
+            "last_retested_at_iso": "2020-09-04T17:00:44.862341",
             "status": "INACTIVE"
         },
         "lp.videos-free-downloaders.com": {
