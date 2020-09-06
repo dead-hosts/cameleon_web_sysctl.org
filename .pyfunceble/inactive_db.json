@@ -30858,6 +30858,20 @@
             "last_retested_at_iso": "2020-08-27T19:01:32.242929",
             "status": "INACTIVE"
         },
+        "netspiderads.indiatimes.com": {
+            "included_at_epoch": 1599413014.385826,
+            "included_at_iso": "2020-09-06T17:23:34.385826",
+            "last_retested_at_epoch": 1599413014.385826,
+            "last_retested_at_iso": "2020-09-06T17:23:34.385826",
+            "status": "INACTIVE"
+        },
+        "netspiderads2.indiatimes.com": {
+            "included_at_epoch": 1599413014.459455,
+            "included_at_iso": "2020-09-06T17:23:34.459455",
+            "last_retested_at_epoch": 1599413014.459455,
+            "last_retested_at_iso": "2020-09-06T17:23:34.459455",
+            "status": "INACTIVE"
+        },
         "netsr.softonicads.com": {
             "included_at_epoch": 1598207985.745835,
             "included_at_iso": "2020-08-23T18:39:45.745835",
@@ -31362,6 +31376,13 @@
             "last_retested_at_iso": "2020-08-27T19:43:01.953147",
             "status": "INACTIVE"
         },
+        "ox-d.openxadexchange.com": {
+            "included_at_epoch": 1599413019.671104,
+            "included_at_iso": "2020-09-06T17:23:39.671104",
+            "last_retested_at_epoch": 1599413019.671104,
+            "last_retested_at_iso": "2020-09-06T17:23:39.671104",
+            "status": "INACTIVE"
+        },
         "ox-d.philly.servedbyopenx.com": {
             "included_at_epoch": 1598207997.191779,
             "included_at_iso": "2020-08-23T18:39:57.191779",
@@ -31649,6 +31670,13 @@
             "last_retested_at_iso": "2020-08-27T19:43:09.452153",
             "status": "INACTIVE"
         },
+        "pqwaker.altervista.org": {
+            "included_at_epoch": 1599413023.622271,
+            "included_at_iso": "2020-09-06T17:23:43.622271",
+            "last_retested_at_epoch": 1599413023.622271,
+            "last_retested_at_iso": "2020-09-06T17:23:43.622271",
+            "status": "INACTIVE"
+        },
         "pr.atwola.com": {
             "included_at_epoch": 1598209026.026945,
             "included_at_iso": "2020-08-23T18:57:06.026945",
@@ -31929,6 +31957,13 @@
             "last_retested_at_iso": "2020-08-27T19:43:16.568247",
             "status": "INACTIVE"
         },
+        "record.commissionking.com": {
+            "included_at_epoch": 1599413026.64771,
+            "included_at_iso": "2020-09-06T17:23:46.647710",
+            "last_retested_at_epoch": 1599413026.64771,
+            "last_retested_at_iso": "2020-09-06T17:23:46.647710",
+            "status": "INACTIVE"
+        },
         "redir.adsonar.com": {
             "included_at_epoch": 1598209032.888029,
             "included_at_iso": "2020-08-23T18:57:12.888029",
@@ -32195,6 +32230,20 @@
             "last_retested_at_iso": "2020-08-27T20:08:16.031867",
             "status": "INACTIVE"
         },
+        "sa1.ipon.lt": {
+            "included_at_epoch": 1599413031.029034,
+            "included_at_iso": "2020-09-06T17:23:51.029034",
+            "last_retested_at_epoch": 1599413031.029034,
+            "last_retested_at_iso": "2020-09-06T17:23:51.029034",
+            "status": "INACTIVE"
+        },
+        "sa2.ipon.lt": {
+            "included_at_epoch": 1599413031.111338,
+            "included_at_iso": "2020-09-06T17:23:51.111338",
+            "last_retested_at_epoch": 1599413031.111338,
+            "last_retested_at_iso": "2020-09-06T17:23:51.111338",
+            "status": "INACTIVE"
+        },
         "safedownloadsrus157.com": {
             "included_at_epoch": 1598209040.985814,
             "included_at_iso": "2020-08-23T18:57:20.985814",
@@ -32298,6 +32347,13 @@
             "included_at_iso": "2020-08-23T18:57:23.366113",
             "last_retested_at_epoch": 1598558899.157338,
             "last_retested_at_iso": "2020-08-27T20:08:19.157338",
+            "status": "INACTIVE"
+        },
+        "search.eclickz.com": {
+            "included_at_epoch": 1599413032.323953,
+            "included_at_iso": "2020-09-06T17:23:52.323953",
+            "last_retested_at_epoch": 1599413032.323953,
+            "last_retested_at_iso": "2020-09-06T17:23:52.323953",
             "status": "INACTIVE"
         },
         "searchbar.findthewebsiteyouneed.com": {
