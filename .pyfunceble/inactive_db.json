@@ -28905,6 +28905,13 @@
             "last_retested_at_iso": "2020-09-06T16:41:25.262506",
             "status": "INACTIVE"
         },
+        "feeds.wise-click.com": {
+            "included_at_epoch": 1599411968.400874,
+            "included_at_iso": "2020-09-06T17:06:08.400874",
+            "last_retested_at_epoch": 1599411968.400874,
+            "last_retested_at_iso": "2020-09-06T17:06:08.400874",
+            "status": "INACTIVE"
+        },
         "ff1.telemetryverification.net": {
             "included_at_epoch": 1599065064.692434,
             "included_at_iso": "2020-09-02T16:44:24.692434",
@@ -28952,6 +28959,13 @@
             "included_at_iso": "2020-08-23T18:04:50.750889",
             "last_retested_at_epoch": 1598553807.546486,
             "last_retested_at_iso": "2020-08-27T18:43:27.546486",
+            "status": "INACTIVE"
+        },
+        "filter.eclickz.com": {
+            "included_at_epoch": 1599411968.668304,
+            "included_at_iso": "2020-09-06T17:06:08.668304",
+            "last_retested_at_epoch": 1599411968.668304,
+            "last_retested_at_iso": "2020-09-06T17:06:08.668304",
             "status": "INACTIVE"
         },
         "finatime.ivwbox.de": {
@@ -29479,6 +29493,13 @@
             "last_retested_at_iso": "2020-08-27T18:43:43.032190",
             "status": "INACTIVE"
         },
+        "ibannerx.com": {
+            "included_at_epoch": 1599411975.207352,
+            "included_at_iso": "2020-09-06T17:06:15.207352",
+            "last_retested_at_epoch": 1599411975.207352,
+            "last_retested_at_iso": "2020-09-06T17:06:15.207352",
+            "status": "INACTIVE"
+        },
         "id.kbmg.cz": {
             "included_at_epoch": 1598206931.666747,
             "included_at_iso": "2020-08-23T18:22:11.666747",
@@ -29918,6 +29939,13 @@
             "included_at_iso": "2020-08-23T18:22:19.953236",
             "last_retested_at_epoch": 1598554868.187174,
             "last_retested_at_iso": "2020-08-27T19:01:08.187174",
+            "status": "INACTIVE"
+        },
+        "js.bunchofads.com": {
+            "included_at_epoch": 1599411978.509301,
+            "included_at_iso": "2020-09-06T17:06:18.509301",
+            "last_retested_at_epoch": 1599411978.509301,
+            "last_retested_at_iso": "2020-09-06T17:06:18.509301",
             "status": "INACTIVE"
         },
         "js.cybermonitor.com": {
@@ -30438,6 +30466,13 @@
             "last_retested_at_iso": "2020-08-27T19:01:20.286873",
             "status": "INACTIVE"
         },
+        "media.commissionking.com": {
+            "included_at_epoch": 1599411983.385349,
+            "included_at_iso": "2020-09-06T17:06:23.385349",
+            "last_retested_at_epoch": 1599411983.385349,
+            "last_retested_at_iso": "2020-09-06T17:06:23.385349",
+            "status": "INACTIVE"
+        },
         "media.intelia.it": {
             "included_at_epoch": 1598207974.323541,
             "included_at_iso": "2020-08-23T18:39:34.323541",
@@ -30515,6 +30550,13 @@
             "last_retested_at_iso": "2020-08-27T19:01:23.225505",
             "status": "INACTIVE"
         },
+        "metrics.howstuffworks.com": {
+            "included_at_epoch": 1599411984.955335,
+            "included_at_iso": "2020-09-06T17:06:24.955335",
+            "last_retested_at_epoch": 1599411984.955335,
+            "last_retested_at_iso": "2020-09-06T17:06:24.955335",
+            "status": "INACTIVE"
+        },
         "metrics.nola.com": {
             "included_at_epoch": 1598207977.417752,
             "included_at_iso": "2020-08-23T18:39:37.417752",
@@ -30562,6 +30604,20 @@
             "included_at_iso": "2020-08-23T18:39:38.324985",
             "last_retested_at_epoch": 1598554884.761409,
             "last_retested_at_iso": "2020-08-27T19:01:24.761409",
+            "status": "INACTIVE"
+        },
+        "metrics.windowsitpro.com": {
+            "included_at_epoch": 1599411985.965335,
+            "included_at_iso": "2020-09-06T17:06:25.965335",
+            "last_retested_at_epoch": 1599411985.965335,
+            "last_retested_at_iso": "2020-09-06T17:06:25.965335",
+            "status": "INACTIVE"
+        },
+        "metrics.winsupersite.com": {
+            "included_at_epoch": 1599411986.036757,
+            "included_at_iso": "2020-09-06T17:06:26.036757",
+            "last_retested_at_epoch": 1599411986.036757,
+            "last_retested_at_iso": "2020-09-06T17:06:26.036757",
             "status": "INACTIVE"
         },
         "mf.sitescout.com": {
