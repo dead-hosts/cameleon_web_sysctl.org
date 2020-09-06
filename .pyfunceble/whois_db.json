@@ -10208,10 +10208,10 @@
         "state": "future"
     },
     "showbehind.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "silveragesoftware.com": {
         "epoch": 1608508800.0,
@@ -10336,10 +10336,10 @@
         "state": "future"
     },
     "springclick.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "spy-kill.com": {
         "epoch": 1607731200.0,
@@ -10755,8 +10755,9 @@
         "state": "future"
     },
     "tracksitetraffic1.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trackyourstats.com": {
@@ -11185,8 +11186,9 @@
         "state": "future"
     },
     "wm-goldenclick.ru": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "wms-tools.com": {
