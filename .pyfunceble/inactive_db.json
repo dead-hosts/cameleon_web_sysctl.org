@@ -18202,13 +18202,6 @@
             "last_retested_at_iso": "2020-08-27T16:12:51.835658",
             "status": "INACTIVE"
         },
-        "ads.footballmedia.com": {
-            "included_at_epoch": 1597161855.090109,
-            "included_at_iso": "2020-08-11T16:04:15.090109",
-            "last_retested_at_epoch": 1598544771.928463,
-            "last_retested_at_iso": "2020-08-27T16:12:51.928463",
-            "status": "INACTIVE"
-        },
         "ads.fora.tv": {
             "included_at_epoch": 1598199495.120793,
             "included_at_iso": "2020-08-23T16:18:15.120793",
@@ -18347,13 +18340,6 @@
             "included_at_iso": "2020-08-23T16:18:16.680438",
             "last_retested_at_epoch": 1598544773.673147,
             "last_retested_at_iso": "2020-08-27T16:12:53.673147",
-            "status": "INACTIVE"
-        },
-        "ads.isat-tech.com": {
-            "included_at_epoch": 1597161856.799987,
-            "included_at_iso": "2020-08-11T16:04:16.799987",
-            "last_retested_at_epoch": 1598544773.743965,
-            "last_retested_at_iso": "2020-08-27T16:12:53.743965",
             "status": "INACTIVE"
         },
         "ads.itmcash.com": {
@@ -18501,13 +18487,6 @@
             "included_at_iso": "2020-08-23T16:18:18.542329",
             "last_retested_at_epoch": 1598544775.667281,
             "last_retested_at_iso": "2020-08-27T16:12:55.667281",
-            "status": "INACTIVE"
-        },
-        "ads.onlineguiden.com": {
-            "included_at_epoch": 1597161858.787531,
-            "included_at_iso": "2020-08-11T16:04:18.787531",
-            "last_retested_at_epoch": 1598544775.754439,
-            "last_retested_at_iso": "2020-08-27T16:12:55.754439",
             "status": "INACTIVE"
         },
         "ads.onmedia.bg": {
@@ -24558,6 +24537,13 @@
             "last_retested_at_iso": "2020-08-27T18:25:41.001008",
             "status": "INACTIVE"
         },
+        "counter.top.dating.lt": {
+            "included_at_epoch": 1599582354.328099,
+            "included_at_iso": "2020-09-08T16:25:54.328099",
+            "last_retested_at_epoch": 1599582354.328099,
+            "last_retested_at_iso": "2020-09-08T16:25:54.328099",
+            "status": "INACTIVE"
+        },
         "counter.topphoto.ru": {
             "included_at_epoch": 1598204388.976648,
             "included_at_iso": "2020-08-23T17:39:48.976648",
@@ -24654,6 +24640,13 @@
             "included_at_iso": "2020-08-23T17:39:51.456658",
             "last_retested_at_epoch": 1598552743.709492,
             "last_retested_at_iso": "2020-08-27T18:25:43.709492",
+            "status": "INACTIVE"
+        },
+        "creatives.ancoraplatform.com": {
+            "included_at_epoch": 1599582355.503646,
+            "included_at_iso": "2020-09-08T16:25:55.503646",
+            "last_retested_at_epoch": 1599582355.503646,
+            "last_retested_at_iso": "2020-09-08T16:25:55.503646",
             "status": "INACTIVE"
         },
         "creatives.as4x.tmcs.net": {
@@ -25132,6 +25125,13 @@
             "last_retested_at_iso": "2020-08-27T18:25:53.583532",
             "status": "INACTIVE"
         },
+        "download.pcsolutionshelp.com": {
+            "included_at_epoch": 1599582358.476243,
+            "included_at_iso": "2020-09-08T16:25:58.476243",
+            "last_retested_at_epoch": 1599582358.476243,
+            "last_retested_at_iso": "2020-09-08T16:25:58.476243",
+            "status": "INACTIVE"
+        },
         "download.play3w.com": {
             "included_at_epoch": 1597693096.735771,
             "included_at_iso": "2020-08-17T19:38:16.735771",
@@ -25606,6 +25606,13 @@
             "included_at_iso": "2020-08-23T18:04:50.976938",
             "last_retested_at_epoch": 1598553807.758631,
             "last_retested_at_iso": "2020-08-27T18:43:27.758631",
+            "status": "INACTIVE"
+        },
+        "findmore.name": {
+            "included_at_epoch": 1599582362.147694,
+            "included_at_iso": "2020-09-08T16:26:02.147694",
+            "last_retested_at_epoch": 1599582362.147694,
+            "last_retested_at_iso": "2020-09-08T16:26:02.147694",
             "status": "INACTIVE"
         },
         "fips.uimserv.net": {
