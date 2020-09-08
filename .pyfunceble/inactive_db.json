@@ -21380,13 +21380,6 @@
             "last_retested_at_iso": "2020-08-27T17:07:10.229466",
             "status": "INACTIVE"
         },
-        "adserver.ads-cpm.com": {
-            "included_at_epoch": 1597163635.697191,
-            "included_at_iso": "2020-08-11T16:33:55.697191",
-            "last_retested_at_epoch": 1598548030.418224,
-            "last_retested_at_iso": "2020-08-27T17:07:10.418224",
-            "status": "INACTIVE"
-        },
         "adserver.affiliatemg.com": {
             "included_at_epoch": 1598200555.144061,
             "included_at_iso": "2020-08-23T16:35:55.144061",
@@ -28287,6 +28280,13 @@
             "included_at_iso": "2020-08-23T18:57:05.037893",
             "last_retested_at_epoch": 1598557389.047638,
             "last_retested_at_iso": "2020-08-27T19:43:09.047638",
+            "status": "INACTIVE"
+        },
+        "popunder.adsrevenue.net": {
+            "included_at_epoch": 1599584457.528846,
+            "included_at_iso": "2020-09-08T17:00:57.528846",
+            "last_retested_at_epoch": 1599584457.528846,
+            "last_retested_at_iso": "2020-09-08T17:00:57.528846",
             "status": "INACTIVE"
         },
         "pqwaker.altervista.org": {
