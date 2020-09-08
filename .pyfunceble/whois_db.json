@@ -116,8 +116,9 @@
         "state": "future"
     },
     "100-100.ru": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "1000stars.ru": {
@@ -424,7 +425,8 @@
     "1tubexxx.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1under.ru": {
         "epoch": 1599868800.0,
@@ -988,8 +990,9 @@
         "state": "future"
     },
     "787787.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "7adpower.com": {
