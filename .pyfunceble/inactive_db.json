@@ -23116,13 +23116,6 @@
             "last_retested_at_iso": "2020-08-31T16:28:32.096891",
             "status": "INACTIVE"
         },
-        "b.whataboutadog.com": {
-            "included_at_epoch": 1597166422.429305,
-            "included_at_iso": "2020-08-11T17:20:22.429305",
-            "last_retested_at_epoch": 1598549813.968557,
-            "last_retested_at_iso": "2020-08-27T17:36:53.968557",
-            "status": "INACTIVE"
-        },
         "babanetwork.adk2x.com": {
             "included_at_epoch": 1598201707.146333,
             "included_at_iso": "2020-08-23T16:55:07.146333",
@@ -23205,13 +23198,6 @@
             "included_at_iso": "2020-08-23T17:18:12.662591",
             "last_retested_at_epoch": 1598549815.700965,
             "last_retested_at_iso": "2020-08-27T17:36:55.700965",
-            "status": "INACTIVE"
-        },
-        "banner.ringofon.com": {
-            "included_at_epoch": 1597166424.28358,
-            "included_at_iso": "2020-08-11T17:20:24.283580",
-            "last_retested_at_epoch": 1598549815.845337,
-            "last_retested_at_iso": "2020-08-27T17:36:55.845337",
             "status": "INACTIVE"
         },
         "banner.vegasred.com": {
@@ -23618,13 +23604,6 @@
             "included_at_iso": "2020-08-23T17:18:19.714575",
             "last_retested_at_epoch": 1598549823.001559,
             "last_retested_at_iso": "2020-08-27T17:37:03.001559",
-            "status": "INACTIVE"
-        },
-        "bigfatsearch.biz": {
-            "included_at_epoch": 1597166431.709454,
-            "included_at_iso": "2020-08-11T17:20:31.709454",
-            "last_retested_at_epoch": 1598549823.170617,
-            "last_retested_at_iso": "2020-08-27T17:37:03.170617",
             "status": "INACTIVE"
         },
         "bilbo.counted.com": {
@@ -30774,6 +30753,13 @@
             "last_retested_at_iso": "2020-08-27T20:49:55.332917",
             "status": "INACTIVE"
         },
+        "www.axill.com": {
+            "included_at_epoch": 1599586549.75318,
+            "included_at_iso": "2020-09-08T17:35:49.753180",
+            "last_retested_at_epoch": 1599586549.75318,
+            "last_retested_at_iso": "2020-09-08T17:35:49.753180",
+            "status": "INACTIVE"
+        },
         "www.axill.in": {
             "included_at_epoch": 1597355415.950558,
             "included_at_iso": "2020-08-13T21:50:15.950558",
@@ -30893,6 +30879,13 @@
             "last_retested_at_iso": "2020-08-27T20:49:59.442502",
             "status": "INACTIVE"
         },
+        "www.crm-metrix.fr": {
+            "included_at_epoch": 1599586552.150629,
+            "included_at_iso": "2020-09-08T17:35:52.150629",
+            "last_retested_at_epoch": 1599586552.150629,
+            "last_retested_at_iso": "2020-09-08T17:35:52.150629",
+            "status": "INACTIVE"
+        },
         "www.deltahost.de": {
             "included_at_epoch": 1598213308.59118,
             "included_at_iso": "2020-08-23T20:08:28.591180",
@@ -30982,6 +30975,13 @@
             "included_at_iso": "2020-08-23T20:08:30.346744",
             "last_retested_at_epoch": 1598561401.902059,
             "last_retested_at_iso": "2020-08-27T20:50:01.902059",
+            "status": "INACTIVE"
+        },
+        "www.experteerads.com": {
+            "included_at_epoch": 1599586553.510555,
+            "included_at_iso": "2020-09-08T17:35:53.510555",
+            "last_retested_at_epoch": 1599586553.510555,
+            "last_retested_at_iso": "2020-09-08T17:35:53.510555",
             "status": "INACTIVE"
         },
         "www.fastfind.org": {
@@ -31278,6 +31278,13 @@
             "last_retested_at_iso": "2020-08-27T21:20:19.854359",
             "status": "INACTIVE"
         },
+        "www.mlinktracker.com": {
+            "included_at_epoch": 1599586557.121112,
+            "included_at_iso": "2020-09-08T17:35:57.121112",
+            "last_retested_at_epoch": 1599586557.121112,
+            "last_retested_at_iso": "2020-09-08T17:35:57.121112",
+            "status": "INACTIVE"
+        },
         "www.mochiads.com": {
             "included_at_epoch": 1598213318.143081,
             "included_at_iso": "2020-08-23T20:08:38.143081",
@@ -31472,6 +31479,13 @@
             "included_at_iso": "2020-08-11T20:39:07.733019",
             "last_retested_at_epoch": 1598563224.631555,
             "last_retested_at_iso": "2020-08-27T21:20:24.631555",
+            "status": "INACTIVE"
+        },
+        "www.ptp123.com": {
+            "included_at_epoch": 1599586559.31364,
+            "included_at_iso": "2020-09-08T17:35:59.313640",
+            "last_retested_at_epoch": 1599586559.31364,
+            "last_retested_at_iso": "2020-09-08T17:35:59.313640",
             "status": "INACTIVE"
         },
         "www.realtracker.com": {
