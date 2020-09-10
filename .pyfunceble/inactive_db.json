@@ -16963,13 +16963,6 @@
             "last_retested_at_iso": "2020-09-02T15:13:30.947928",
             "status": "INACTIVE"
         },
-        "ad.caradisiac-publicite.com": {
-            "included_at_epoch": 1597331155.635847,
-            "included_at_iso": "2020-08-13T15:05:55.635847",
-            "last_retested_at_epoch": 1598541048.032645,
-            "last_retested_at_iso": "2020-08-27T15:10:48.032645",
-            "status": "INACTIVE"
-        },
         "ad.creafi.com": {
             "included_at_epoch": 1599059611.036753,
             "included_at_iso": "2020-09-02T15:13:31.036753",
@@ -21611,6 +21604,13 @@
             "last_retested_at_iso": "2020-08-27T16:12:51.835658",
             "status": "INACTIVE"
         },
+        "ads.footballmedia.com": {
+            "included_at_epoch": 1599752075.426945,
+            "included_at_iso": "2020-09-10T15:34:35.426945",
+            "last_retested_at_epoch": 1599752075.426945,
+            "last_retested_at_iso": "2020-09-10T15:34:35.426945",
+            "status": "INACTIVE"
+        },
         "ads.fora.tv": {
             "included_at_epoch": 1598199495.120793,
             "included_at_iso": "2020-08-23T16:18:15.120793",
@@ -21749,6 +21749,13 @@
             "included_at_iso": "2020-08-23T16:18:16.680438",
             "last_retested_at_epoch": 1598544773.673147,
             "last_retested_at_iso": "2020-08-27T16:12:53.673147",
+            "status": "INACTIVE"
+        },
+        "ads.isat-tech.com": {
+            "included_at_epoch": 1599752075.832131,
+            "included_at_iso": "2020-09-10T15:34:35.832131",
+            "last_retested_at_epoch": 1599752075.832131,
+            "last_retested_at_iso": "2020-09-10T15:34:35.832131",
             "status": "INACTIVE"
         },
         "ads.itmcash.com": {
@@ -21896,6 +21903,13 @@
             "included_at_iso": "2020-08-23T16:18:18.542329",
             "last_retested_at_epoch": 1598544775.667281,
             "last_retested_at_iso": "2020-08-27T16:12:55.667281",
+            "status": "INACTIVE"
+        },
+        "ads.onlineguiden.com": {
+            "included_at_epoch": 1599752076.338782,
+            "included_at_iso": "2020-09-10T15:34:36.338782",
+            "last_retested_at_epoch": 1599752076.338782,
+            "last_retested_at_iso": "2020-09-10T15:34:36.338782",
             "status": "INACTIVE"
         },
         "ads.onmedia.bg": {
