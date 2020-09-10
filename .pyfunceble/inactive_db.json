@@ -29045,6 +29045,13 @@
             "last_retested_at_iso": "2020-08-27T18:43:28.392090",
             "status": "INACTIVE"
         },
+        "foundguide.com": {
+            "included_at_epoch": 1599756309.353054,
+            "included_at_iso": "2020-09-10T16:45:09.353054",
+            "last_retested_at_epoch": 1599756309.353054,
+            "last_retested_at_iso": "2020-09-10T16:45:09.353054",
+            "status": "INACTIVE"
+        },
         "fr.sitestat.com": {
             "included_at_epoch": 1598205892.14278,
             "included_at_iso": "2020-08-23T18:04:52.142780",
@@ -29848,6 +29855,13 @@
             "included_at_iso": "2020-08-23T18:22:17.847645",
             "last_retested_at_epoch": 1598554865.994326,
             "last_retested_at_iso": "2020-08-27T19:01:05.994326",
+            "status": "INACTIVE"
+        },
+        "itunesdownloadstore.com": {
+            "included_at_epoch": 1599756318.50679,
+            "included_at_iso": "2020-09-10T16:45:18.506790",
+            "last_retested_at_epoch": 1599756318.50679,
+            "last_retested_at_iso": "2020-09-10T16:45:18.506790",
             "status": "INACTIVE"
         },
         "iwantporn.info": {
