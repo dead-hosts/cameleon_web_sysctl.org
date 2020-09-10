@@ -33007,6 +33007,13 @@
             "last_retested_at_iso": "2020-08-27T20:08:33.732844",
             "status": "INACTIVE"
         },
+        "static.exosrv.com": {
+            "included_at_epoch": 1599758436.949331,
+            "included_at_iso": "2020-09-10T17:20:36.949331",
+            "last_retested_at_epoch": 1599758436.949331,
+            "last_retested_at_iso": "2020-09-10T17:20:36.949331",
+            "status": "INACTIVE"
+        },
         "static.hqdrugs.com": {
             "included_at_epoch": 1598210073.196476,
             "included_at_iso": "2020-08-23T19:14:33.196476",
@@ -33208,6 +33215,13 @@
             "included_at_iso": "2020-08-23T19:14:38.997576",
             "last_retested_at_epoch": 1598560337.651897,
             "last_retested_at_iso": "2020-08-27T20:32:17.651897",
+            "status": "INACTIVE"
+        },
+        "t.bbtrack.net": {
+            "included_at_epoch": 1599758440.169918,
+            "included_at_iso": "2020-09-10T17:20:40.169918",
+            "last_retested_at_epoch": 1599758440.169918,
+            "last_retested_at_iso": "2020-09-10T17:20:40.169918",
             "status": "INACTIVE"
         },
         "t.cqq5id8n.com": {
@@ -33551,6 +33565,13 @@
             "included_at_iso": "2020-08-23T19:45:50.165751",
             "last_retested_at_epoch": 1598560348.171273,
             "last_retested_at_iso": "2020-08-27T20:32:28.171273",
+            "status": "INACTIVE"
+        },
+        "tracking.conversionads.com": {
+            "included_at_epoch": 1599758446.181848,
+            "included_at_iso": "2020-09-10T17:20:46.181848",
+            "last_retested_at_epoch": 1599758446.181848,
+            "last_retested_at_iso": "2020-09-10T17:20:46.181848",
             "status": "INACTIVE"
         },
         "tracking.fathomseo.com": {
