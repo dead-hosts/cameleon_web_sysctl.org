@@ -22115,6 +22115,13 @@
             "last_retested_at_iso": "2020-08-27T16:12:58.147296",
             "status": "INACTIVE"
         },
+        "ads.springclick.com": {
+            "included_at_epoch": 1599753126.628191,
+            "included_at_iso": "2020-09-10T15:52:06.628191",
+            "last_retested_at_epoch": 1599753126.628191,
+            "last_retested_at_iso": "2020-09-10T15:52:06.628191",
+            "status": "INACTIVE"
+        },
         "ads.suite6ixty6ix.com": {
             "included_at_epoch": 1598199500.867733,
             "included_at_iso": "2020-08-23T16:18:20.867733",
@@ -25067,6 +25074,13 @@
             "included_at_iso": "2020-08-23T16:54:40.835460",
             "last_retested_at_epoch": 1598548036.523084,
             "last_retested_at_iso": "2020-08-27T17:07:16.523084",
+            "status": "INACTIVE"
+        },
+        "adv.medicine.bg": {
+            "included_at_epoch": 1599753130.733321,
+            "included_at_iso": "2020-09-10T15:52:10.733321",
+            "last_retested_at_epoch": 1599753130.733321,
+            "last_retested_at_iso": "2020-09-10T15:52:10.733321",
             "status": "INACTIVE"
         },
         "adv.protraffic.com": {
