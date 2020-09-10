@@ -21919,25 +21919,11 @@
             "last_retested_at_iso": "2020-08-27T16:12:55.826945",
             "status": "INACTIVE"
         },
-        "ads.optamail.com": {
-            "included_at_epoch": 1597334490.969898,
-            "included_at_iso": "2020-08-13T16:01:30.969898",
-            "last_retested_at_epoch": 1598544775.894356,
-            "last_retested_at_iso": "2020-08-27T16:12:55.894356",
-            "status": "INACTIVE"
-        },
         "ads.pagina12.com.ar": {
             "included_at_epoch": 1598199498.822792,
             "included_at_iso": "2020-08-23T16:18:18.822792",
             "last_retested_at_epoch": 1598544775.979734,
             "last_retested_at_iso": "2020-08-27T16:12:55.979734",
-            "status": "INACTIVE"
-        },
-        "ads.phillyadclub.com": {
-            "included_at_epoch": 1597334491.171438,
-            "included_at_iso": "2020-08-13T16:01:31.171438",
-            "last_retested_at_epoch": 1598544776.119299,
-            "last_retested_at_iso": "2020-08-27T16:12:56.119299",
             "status": "INACTIVE"
         },
         "ads.pittsburghlive.com": {
@@ -27421,6 +27407,13 @@
             "last_retested_at_iso": "2020-08-27T18:07:40.004640",
             "status": "INACTIVE"
         },
+        "cdn.siteanalytics.evolvemediametrics.com": {
+            "included_at_epoch": 1599755265.469046,
+            "included_at_iso": "2020-09-10T16:27:45.469046",
+            "last_retested_at_epoch": 1599755265.469046,
+            "last_retested_at_iso": "2020-09-10T16:27:45.469046",
+            "status": "INACTIVE"
+        },
         "cdn.tracking.bannerflow.com": {
             "included_at_epoch": 1598204377.226236,
             "included_at_iso": "2020-08-23T17:39:37.226236",
@@ -27657,6 +27650,13 @@
             "included_at_iso": "2020-08-23T17:39:41.400728",
             "last_retested_at_epoch": 1598551664.774145,
             "last_retested_at_iso": "2020-08-27T18:07:44.774145",
+            "status": "INACTIVE"
+        },
+        "click.mygeek.com": {
+            "included_at_epoch": 1599755266.889378,
+            "included_at_iso": "2020-09-10T16:27:46.889378",
+            "last_retested_at_epoch": 1599755266.889378,
+            "last_retested_at_iso": "2020-09-10T16:27:46.889378",
             "status": "INACTIVE"
         },
         "click.zeroclickdirect.com": {
