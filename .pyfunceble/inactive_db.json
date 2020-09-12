@@ -35282,6 +35282,13 @@
             "last_retested_at_iso": "2020-08-27T21:36:07.805717",
             "status": "INACTIVE"
         },
+        "www.xrenoder.com": {
+            "included_at_epoch": 1599933269.75042,
+            "included_at_iso": "2020-09-12T17:54:29.750420",
+            "last_retested_at_epoch": 1599933269.75042,
+            "last_retested_at_iso": "2020-09-12T17:54:29.750420",
+            "status": "INACTIVE"
+        },
         "www.xxx-hitz.org": {
             "included_at_epoch": 1598215133.837298,
             "included_at_iso": "2020-08-23T20:38:53.837298",
@@ -35868,6 +35875,13 @@
             "included_at_iso": "2020-08-23T21:00:57.514845",
             "last_retested_at_epoch": 1598564178.834322,
             "last_retested_at_iso": "2020-08-27T21:36:18.834322",
+            "status": "INACTIVE"
+        },
+        "zealotnetworks-d.openx.net": {
+            "included_at_epoch": 1599933273.156329,
+            "included_at_iso": "2020-09-12T17:54:33.156329",
+            "last_retested_at_epoch": 1599933273.156329,
+            "last_retested_at_iso": "2020-09-12T17:54:33.156329",
             "status": "INACTIVE"
         },
         "zeitonl.ivwbox.de": {
