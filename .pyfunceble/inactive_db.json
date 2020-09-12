@@ -16599,13 +16599,6 @@
             "last_retested_at_iso": "2020-09-10T15:17:17.174022",
             "status": "INACTIVE"
         },
-        "9345478333.cn": {
-            "included_at_epoch": 1597504425.728883,
-            "included_at_iso": "2020-08-15T15:13:45.728883",
-            "last_retested_at_epoch": 1598541041.674924,
-            "last_retested_at_iso": "2020-08-27T15:10:41.674924",
-            "status": "INACTIVE"
-        },
         "a.adcloud.net": {
             "included_at_epoch": 1599751037.350889,
             "included_at_iso": "2020-09-10T15:17:17.350889",
@@ -16744,13 +16737,6 @@
             "included_at_iso": "2020-09-10T15:17:18.715792",
             "last_retested_at_epoch": 1599751038.715792,
             "last_retested_at_iso": "2020-09-10T15:17:18.715792",
-            "status": "INACTIVE"
-        },
-        "aa-d.openx.net": {
-            "included_at_epoch": 1597504427.801095,
-            "included_at_iso": "2020-08-15T15:13:47.801095",
-            "last_retested_at_epoch": 1598541043.669565,
-            "last_retested_at_iso": "2020-08-27T15:10:43.669565",
             "status": "INACTIVE"
         },
         "aa-gb.marketgid.com": {
@@ -21933,11 +21919,25 @@
             "last_retested_at_iso": "2020-08-27T16:12:55.826945",
             "status": "INACTIVE"
         },
+        "ads.optamail.com": {
+            "included_at_epoch": 1599924915.53566,
+            "included_at_iso": "2020-09-12T15:35:15.535660",
+            "last_retested_at_epoch": 1599924915.53566,
+            "last_retested_at_iso": "2020-09-12T15:35:15.535660",
+            "status": "INACTIVE"
+        },
         "ads.pagina12.com.ar": {
             "included_at_epoch": 1598199498.822792,
             "included_at_iso": "2020-08-23T16:18:18.822792",
             "last_retested_at_epoch": 1598544775.979734,
             "last_retested_at_iso": "2020-08-27T16:12:55.979734",
+            "status": "INACTIVE"
+        },
+        "ads.phillyadclub.com": {
+            "included_at_epoch": 1599924915.663645,
+            "included_at_iso": "2020-09-12T15:35:15.663645",
+            "last_retested_at_epoch": 1599924915.663645,
+            "last_retested_at_iso": "2020-09-12T15:35:15.663645",
             "status": "INACTIVE"
         },
         "ads.pittsburghlive.com": {
