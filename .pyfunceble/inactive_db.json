@@ -21674,6 +21674,13 @@
             "last_retested_at_iso": "2020-08-27T16:12:52.538603",
             "status": "INACTIVE"
         },
+        "ads.gad-network.com": {
+            "included_at_epoch": 1600097773.338977,
+            "included_at_iso": "2020-09-14T15:36:13.338977",
+            "last_retested_at_epoch": 1600097773.338977,
+            "last_retested_at_iso": "2020-09-14T15:36:13.338977",
+            "status": "INACTIVE"
+        },
         "ads.germanfriendfinder.com": {
             "included_at_epoch": 1598199495.737829,
             "included_at_iso": "2020-08-23T16:18:15.737829",
@@ -22078,6 +22085,13 @@
             "included_at_iso": "2020-08-23T16:18:20.325455",
             "last_retested_at_epoch": 1598544777.628083,
             "last_retested_at_iso": "2020-08-27T16:12:57.628083",
+            "status": "INACTIVE"
+        },
+        "ads.sidekick.condenast.com": {
+            "included_at_epoch": 1600097774.45984,
+            "included_at_iso": "2020-09-14T15:36:14.459840",
+            "last_retested_at_epoch": 1600097774.45984,
+            "last_retested_at_iso": "2020-09-14T15:36:14.459840",
             "status": "INACTIVE"
         },
         "ads.skinected.com": {
