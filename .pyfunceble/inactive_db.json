@@ -21268,13 +21268,6 @@
             "last_retested_at_iso": "2020-08-27T16:12:47.576265",
             "status": "INACTIVE"
         },
-        "ads.adhese.be": {
-            "included_at_epoch": 1597680676.4641,
-            "included_at_iso": "2020-08-17T16:11:16.464100",
-            "last_retested_at_epoch": 1598544767.730762,
-            "last_retested_at_iso": "2020-08-27T16:12:47.730762",
-            "status": "INACTIVE"
-        },
         "ads.adhub.co.nz": {
             "included_at_epoch": 1598199491.298094,
             "included_at_iso": "2020-08-23T16:18:11.298094",
@@ -21485,25 +21478,11 @@
             "last_retested_at_iso": "2020-08-27T16:12:50.119566",
             "status": "INACTIVE"
         },
-        "ads.cosmosmagazine.com": {
-            "included_at_epoch": 1597680678.970334,
-            "included_at_iso": "2020-08-17T16:11:18.970334",
-            "last_retested_at_epoch": 1598544770.24651,
-            "last_retested_at_iso": "2020-08-27T16:12:50.246510",
-            "status": "INACTIVE"
-        },
         "ads.creafi-online-media.com": {
             "included_at_epoch": 1598544770.341605,
             "included_at_iso": "2020-08-27T16:12:50.341605",
             "last_retested_at_epoch": 1598544770.341605,
             "last_retested_at_iso": "2020-08-27T16:12:50.341605",
-            "status": "INACTIVE"
-        },
-        "ads.crossworxs.eu": {
-            "included_at_epoch": 1597680679.136383,
-            "included_at_iso": "2020-08-17T16:11:19.136383",
-            "last_retested_at_epoch": 1598544770.421558,
-            "last_retested_at_iso": "2020-08-27T16:12:50.421558",
             "status": "INACTIVE"
         },
         "ads.cyberprog.net": {
@@ -21665,13 +21644,6 @@
             "included_at_iso": "2020-08-23T16:18:15.455868",
             "last_retested_at_epoch": 1598544772.287419,
             "last_retested_at_iso": "2020-08-27T16:12:52.287419",
-            "status": "INACTIVE"
-        },
-        "ads.futurenetworkusa.com": {
-            "included_at_epoch": 1597680681.114437,
-            "included_at_iso": "2020-08-17T16:11:21.114437",
-            "last_retested_at_epoch": 1598544772.538603,
-            "last_retested_at_iso": "2020-08-27T16:12:52.538603",
             "status": "INACTIVE"
         },
         "ads.gad-network.com": {
@@ -27645,6 +27617,13 @@
             "last_retested_at_iso": "2020-08-27T18:07:42.645021",
             "status": "INACTIVE"
         },
+        "checkmystats.com.au": {
+            "included_at_epoch": 1600100890.122496,
+            "included_at_iso": "2020-09-14T16:28:10.122496",
+            "last_retested_at_epoch": 1600100890.122496,
+            "last_retested_at_iso": "2020-09-14T16:28:10.122496",
+            "status": "INACTIVE"
+        },
         "checkstat.net": {
             "included_at_epoch": 1598204379.600578,
             "included_at_iso": "2020-08-23T17:39:39.600578",
@@ -28513,6 +28492,13 @@
             "last_retested_at_iso": "2020-08-27T18:25:50.330747",
             "status": "INACTIVE"
         },
+        "detectspywares.info": {
+            "included_at_epoch": 1600100896.594314,
+            "included_at_iso": "2020-09-14T16:28:16.594314",
+            "last_retested_at_epoch": 1600100896.594314,
+            "last_retested_at_iso": "2020-09-14T16:28:16.594314",
+            "status": "INACTIVE"
+        },
         "dev.media.adxpansion.com": {
             "included_at_epoch": 1598205877.534228,
             "included_at_iso": "2020-08-23T18:04:37.534228",
@@ -28847,6 +28833,13 @@
             "included_at_iso": "2020-09-12T16:44:16.156716",
             "last_retested_at_epoch": 1599929056.156716,
             "last_retested_at_iso": "2020-09-12T16:44:16.156716",
+            "status": "INACTIVE"
+        },
+        "em.gad-network.com": {
+            "included_at_epoch": 1600100899.200198,
+            "included_at_iso": "2020-09-14T16:28:19.200198",
+            "last_retested_at_epoch": 1600100899.200198,
+            "last_retested_at_iso": "2020-09-14T16:28:19.200198",
             "status": "INACTIVE"
         },
         "email.advertising.com": {
