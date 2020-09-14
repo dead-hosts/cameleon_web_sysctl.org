@@ -3705,8 +3705,9 @@
         "state": "future"
     },
     "agentstudio.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1757808000.0,
+        "expiration_date": "14-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agoogle.com": {
@@ -3840,13 +3841,15 @@
         "state": "future"
     },
     "airoflot.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "airomexico.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "airtan.com": {

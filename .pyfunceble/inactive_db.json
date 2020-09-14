@@ -22290,6 +22290,13 @@
             "last_retested_at_iso": "2020-08-31T16:09:09.024820",
             "status": "INACTIVE"
         },
+        "ads.win.rs": {
+            "included_at_epoch": 1600098802.205846,
+            "included_at_iso": "2020-09-14T15:53:22.205846",
+            "last_retested_at_epoch": 1600098802.205846,
+            "last_retested_at_iso": "2020-09-14T15:53:22.205846",
+            "status": "INACTIVE"
+        },
         "ads.x-adservice.com": {
             "included_at_epoch": 1598200531.194483,
             "included_at_iso": "2020-08-23T16:35:31.194483",
@@ -25725,6 +25732,13 @@
             "included_at_iso": "2020-08-31T16:28:27.112192",
             "last_retested_at_epoch": 1598891307.112192,
             "last_retested_at_iso": "2020-08-31T16:28:27.112192",
+            "status": "INACTIVE"
+        },
+        "advertpro.sitepoint.com": {
+            "included_at_epoch": 1600098807.060795,
+            "included_at_iso": "2020-09-14T15:53:27.060795",
+            "last_retested_at_epoch": 1600098807.060795,
+            "last_retested_at_iso": "2020-09-14T15:53:27.060795",
             "status": "INACTIVE"
         },
         "adverts.carltononline.com": {
