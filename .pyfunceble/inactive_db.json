@@ -21821,13 +21821,6 @@
             "last_retested_at_iso": "2020-08-27T16:12:54.163634",
             "status": "INACTIVE"
         },
-        "ads.linksponsor.com": {
-            "included_at_epoch": 1597852369.833144,
-            "included_at_iso": "2020-08-19T15:52:49.833144",
-            "last_retested_at_epoch": 1598544774.287995,
-            "last_retested_at_iso": "2020-08-27T16:12:54.287995",
-            "status": "INACTIVE"
-        },
         "ads.linuxjournal.com": {
             "included_at_epoch": 1598199497.340362,
             "included_at_iso": "2020-08-23T16:18:17.340362",
@@ -26763,6 +26756,13 @@
             "last_retested_at_iso": "2020-08-27T17:36:56.384724",
             "status": "INACTIVE"
         },
+        "bannerexchange.cjb.net": {
+            "included_at_epoch": 1600272702.732263,
+            "included_at_iso": "2020-09-16T16:11:42.732263",
+            "last_retested_at_epoch": 1600272702.732263,
+            "last_retested_at_iso": "2020-09-16T16:11:42.732263",
+            "status": "INACTIVE"
+        },
         "bannerfarm.ace.advertising.com": {
             "included_at_epoch": 1598203093.789561,
             "included_at_iso": "2020-08-23T17:18:13.789561",
@@ -26782,6 +26782,13 @@
             "included_at_iso": "2020-08-23T17:18:14.022577",
             "last_retested_at_epoch": 1598549817.061506,
             "last_retested_at_iso": "2020-08-27T17:36:57.061506",
+            "status": "INACTIVE"
+        },
+        "banners.adclick.lt": {
+            "included_at_epoch": 1600272702.860153,
+            "included_at_iso": "2020-09-16T16:11:42.860153",
+            "last_retested_at_epoch": 1600272702.860153,
+            "last_retested_at_iso": "2020-09-16T16:11:42.860153",
             "status": "INACTIVE"
         },
         "banners.animeerotico.com": {
@@ -26887,6 +26894,13 @@
             "included_at_iso": "2020-08-23T17:18:15.488261",
             "last_retested_at_epoch": 1598549818.585912,
             "last_retested_at_iso": "2020-08-27T17:36:58.585912",
+            "status": "INACTIVE"
+        },
+        "banners.pinnaclesports.com": {
+            "included_at_epoch": 1600272703.372785,
+            "included_at_iso": "2020-09-16T16:11:43.372785",
+            "last_retested_at_epoch": 1600272703.372785,
+            "last_retested_at_iso": "2020-09-16T16:11:43.372785",
             "status": "INACTIVE"
         },
         "banners.pollasde30cm.com": {
@@ -27139,6 +27153,13 @@
             "included_at_iso": "2020-08-23T17:18:21.311720",
             "last_retested_at_epoch": 1598549824.662829,
             "last_retested_at_iso": "2020-08-27T17:37:04.662829",
+            "status": "INACTIVE"
+        },
+        "bobby.searchmiracle.com": {
+            "included_at_epoch": 1600272710.761601,
+            "included_at_iso": "2020-09-16T16:11:50.761601",
+            "last_retested_at_epoch": 1600272710.761601,
+            "last_retested_at_iso": "2020-09-16T16:11:50.761601",
             "status": "INACTIVE"
         },
         "bonuspromooffer.com": {
