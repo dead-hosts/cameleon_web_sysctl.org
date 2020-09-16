@@ -35,8 +35,9 @@
         "state": "future"
     },
     "05p.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "070.us": {
@@ -944,7 +945,8 @@
     "6o9.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "700xxx.com": {
         "epoch": 1602892800.0,
