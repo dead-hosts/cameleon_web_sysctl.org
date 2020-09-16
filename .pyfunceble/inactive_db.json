@@ -25832,13 +25832,6 @@
             "last_retested_at_iso": "2020-08-27T17:07:26.088349",
             "status": "INACTIVE"
         },
-        "adxite-ads.com": {
-            "included_at_epoch": 1597855187.192726,
-            "included_at_iso": "2020-08-19T16:39:47.192726",
-            "last_retested_at_epoch": 1598548046.203878,
-            "last_retested_at_iso": "2020-08-27T17:07:26.203878",
-            "status": "INACTIVE"
-        },
         "af-gb.marketgid.com": {
             "included_at_epoch": 1598201690.004814,
             "included_at_iso": "2020-08-23T16:54:50.004814",
@@ -30942,6 +30935,13 @@
             "last_retested_at_iso": "2020-08-27T19:01:30.033174",
             "status": "INACTIVE"
         },
+        "myfukbuddy.com": {
+            "included_at_epoch": 1600275824.447089,
+            "included_at_iso": "2020-09-16T17:03:44.447089",
+            "last_retested_at_epoch": 1600275824.447089,
+            "last_retested_at_iso": "2020-09-16T17:03:44.447089",
+            "status": "INACTIVE"
+        },
         "n.targetbtracker.com": {
             "included_at_epoch": 1598207983.939808,
             "included_at_iso": "2020-08-23T18:39:43.939808",
@@ -31614,6 +31614,13 @@
             "last_retested_at_iso": "2020-08-27T19:43:03.192186",
             "status": "INACTIVE"
         },
+        "p.ebdr2.com": {
+            "included_at_epoch": 1600275830.247369,
+            "included_at_iso": "2020-09-16T17:03:50.247369",
+            "last_retested_at_epoch": 1600275830.247369,
+            "last_retested_at_iso": "2020-09-16T17:03:50.247369",
+            "status": "INACTIVE"
+        },
         "p.securedownload01.com": {
             "included_at_epoch": 1598207998.534108,
             "included_at_iso": "2020-08-23T18:39:58.534108",
@@ -31761,6 +31768,20 @@
             "last_retested_at_iso": "2020-08-27T19:43:07.875880",
             "status": "INACTIVE"
         },
+        "playon.play3w.com": {
+            "included_at_epoch": 1600275832.776034,
+            "included_at_iso": "2020-09-16T17:03:52.776034",
+            "last_retested_at_epoch": 1600275832.776034,
+            "last_retested_at_iso": "2020-09-16T17:03:52.776034",
+            "status": "INACTIVE"
+        },
+        "pool.adhese.be": {
+            "included_at_epoch": 1600275833.084565,
+            "included_at_iso": "2020-09-16T17:03:53.084565",
+            "last_retested_at_epoch": 1600275833.084565,
+            "last_retested_at_iso": "2020-09-16T17:03:53.084565",
+            "status": "INACTIVE"
+        },
         "pool.euroads.no": {
             "included_at_epoch": 1598209024.888773,
             "included_at_iso": "2020-08-23T18:57:04.888773",
@@ -31878,6 +31899,13 @@
             "included_at_iso": "2020-08-23T18:57:07.943248",
             "last_retested_at_epoch": 1598557391.953375,
             "last_retested_at_iso": "2020-08-27T19:43:11.953375",
+            "status": "INACTIVE"
+        },
+        "pscdns.biz": {
+            "included_at_epoch": 1600275834.570506,
+            "included_at_iso": "2020-09-16T17:03:54.570506",
+            "last_retested_at_epoch": 1600275834.570506,
+            "last_retested_at_iso": "2020-09-16T17:03:54.570506",
             "status": "INACTIVE"
         },
         "pubs.lemonde.fr": {
@@ -32305,6 +32333,13 @@
             "included_at_iso": "2020-08-23T18:57:18.326833",
             "last_retested_at_epoch": 1598558893.758149,
             "last_retested_at_iso": "2020-08-27T20:08:13.758149",
+            "status": "INACTIVE"
+        },
+        "s.mobclix.com": {
+            "included_at_epoch": 1600275838.633753,
+            "included_at_iso": "2020-09-16T17:03:58.633753",
+            "last_retested_at_epoch": 1600275838.633753,
+            "last_retested_at_iso": "2020-09-16T17:03:58.633753",
             "status": "INACTIVE"
         },
         "s.tyxo.com": {
