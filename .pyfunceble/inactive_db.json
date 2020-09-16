@@ -29318,6 +29318,13 @@
             "last_retested_at_iso": "2020-08-31T17:05:14.557030",
             "status": "INACTIVE"
         },
+        "go.play3w.com": {
+            "included_at_epoch": 1600274788.389312,
+            "included_at_iso": "2020-09-16T16:46:28.389312",
+            "last_retested_at_epoch": 1600274788.389312,
+            "last_retested_at_iso": "2020-09-16T16:46:28.389312",
+            "status": "INACTIVE"
+        },
         "godaddy.sp1.convertro.com": {
             "included_at_epoch": 1598206923.523705,
             "included_at_iso": "2020-08-23T18:22:03.523705",
@@ -29423,6 +29430,13 @@
             "last_retested_at_iso": "2020-08-27T18:43:38.143011",
             "status": "INACTIVE"
         },
+        "helpdesk.marketbill.com": {
+            "included_at_epoch": 1600274790.192642,
+            "included_at_iso": "2020-09-16T16:46:30.192642",
+            "last_retested_at_epoch": 1600274790.192642,
+            "last_retested_at_iso": "2020-09-16T16:46:30.192642",
+            "status": "INACTIVE"
+        },
         "heute.ivwbox.de": {
             "included_at_epoch": 1598206927.07957,
             "included_at_iso": "2020-08-23T18:22:07.079570",
@@ -29519,6 +29533,27 @@
             "included_at_iso": "2020-08-23T18:22:09.265891",
             "last_retested_at_epoch": 1598553820.824025,
             "last_retested_at_iso": "2020-08-27T18:43:40.824025",
+            "status": "INACTIVE"
+        },
+        "host2.adhese.be": {
+            "included_at_epoch": 1600274791.271956,
+            "included_at_iso": "2020-09-16T16:46:31.271956",
+            "last_retested_at_epoch": 1600274791.271956,
+            "last_retested_at_iso": "2020-09-16T16:46:31.271956",
+            "status": "INACTIVE"
+        },
+        "host3.adhese.be": {
+            "included_at_epoch": 1600274791.200193,
+            "included_at_iso": "2020-09-16T16:46:31.200193",
+            "last_retested_at_epoch": 1600274791.200193,
+            "last_retested_at_iso": "2020-09-16T16:46:31.200193",
+            "status": "INACTIVE"
+        },
+        "host4.adhese.be": {
+            "included_at_epoch": 1600274791.344263,
+            "included_at_iso": "2020-09-16T16:46:31.344263",
+            "last_retested_at_epoch": 1600274791.344263,
+            "last_retested_at_iso": "2020-09-16T16:46:31.344263",
             "status": "INACTIVE"
         },
         "hot2015rewards.com": {
@@ -29820,6 +29855,13 @@
             "included_at_iso": "2020-08-31T17:23:35.797065",
             "last_retested_at_epoch": 1598894615.797065,
             "last_retested_at_iso": "2020-08-31T17:23:35.797065",
+            "status": "INACTIVE"
+        },
+        "imgcdn.nrelate.com": {
+            "included_at_epoch": 1600274793.45324,
+            "included_at_iso": "2020-09-16T16:46:33.453240",
+            "last_retested_at_epoch": 1600274793.45324,
+            "last_retested_at_iso": "2020-09-16T16:46:33.453240",
             "status": "INACTIVE"
         },
         "imp.euroads.no": {
