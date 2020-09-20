@@ -24180,6 +24180,13 @@
             "last_retested_at_iso": "2020-08-27T16:49:56.175357",
             "status": "INACTIVE"
         },
+        "ads28.hpg.com.br": {
+            "included_at_epoch": 1600617395.248121,
+            "included_at_iso": "2020-09-20T15:56:35.248121",
+            "last_retested_at_epoch": 1600617395.248121,
+            "last_retested_at_iso": "2020-09-20T15:56:35.248121",
+            "status": "INACTIVE"
+        },
         "ads29.hpg.com.br": {
             "included_at_epoch": 1598374211.712424,
             "included_at_iso": "2020-08-25T16:50:11.712424",
@@ -24871,6 +24878,13 @@
             "included_at_iso": "2020-08-23T16:35:54.395515",
             "last_retested_at_epoch": 1598548029.756854,
             "last_retested_at_iso": "2020-08-27T17:07:09.756854",
+            "status": "INACTIVE"
+        },
+        "adserv.usps.com": {
+            "included_at_epoch": 1600617396.218754,
+            "included_at_iso": "2020-09-20T15:56:36.218754",
+            "last_retested_at_epoch": 1600617396.218754,
+            "last_retested_at_iso": "2020-09-20T15:56:36.218754",
             "status": "INACTIVE"
         },
         "adserv1.bigwebtools.com": {
@@ -25825,6 +25839,13 @@
             "last_retested_at_iso": "2020-08-27T17:07:26.088349",
             "status": "INACTIVE"
         },
+        "adxite-ads.com": {
+            "included_at_epoch": 1600617399.391509,
+            "included_at_iso": "2020-09-20T15:56:39.391509",
+            "last_retested_at_epoch": 1600617399.391509,
+            "last_retested_at_iso": "2020-09-20T15:56:39.391509",
+            "status": "INACTIVE"
+        },
         "af-gb.marketgid.com": {
             "included_at_epoch": 1598201690.004814,
             "included_at_iso": "2020-08-23T16:54:50.004814",
@@ -26040,6 +26061,13 @@
             "included_at_iso": "2020-08-23T16:54:55.791656",
             "last_retested_at_epoch": 1598549802.109326,
             "last_retested_at_iso": "2020-08-27T17:36:42.109326",
+            "status": "INACTIVE"
+        },
+        "alteon00.matchlogic.com": {
+            "included_at_epoch": 1600617400.650244,
+            "included_at_iso": "2020-09-20T15:56:40.650244",
+            "last_retested_at_epoch": 1600617400.650244,
+            "last_retested_at_iso": "2020-09-20T15:56:40.650244",
             "status": "INACTIVE"
         },
         "altfarm.mediaplex.com": {
